@@ -1,0 +1,15 @@
+{
+  "raw_input_sha256": "1328f92601a84d81dbf8e1404fa0eeabc36cdf17a7626d9746aa62794827d02e",
+  "protocol_sha256": "fff2fa5b48a4f66f28766b9ca6c10aac5d238ac89803e13e91a6285b3afb8b7c",
+  "probability_sha256": "a68d2ff15683a317ec05632c0a30e370254ea20e9db3cdcb3236db6229177e06",
+  "v4_reference_sha256": "cedcfc765c45723cbd6c05d5f23ccd87c5f2953217abbe3b45f47a7fd6c8e327",
+  "weight_file": "tabicl-classifier-v2-20260212.ckpt",
+  "weight_sha256": "bdc7dbd5e4ff21f8f0456fcf90c6b7cdf72dbea960f2d05b19bec19f9b3d4ed0",
+  "versions": {
+    "numpy": "2.1.3",
+    "pandas": "2.2.3",
+    "torch": "2.11.0",
+    "tabicl": "2.2.0",
+    "scikit-learn": "1.6.1"
+  }
+}

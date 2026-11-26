@@ -1,0 +1,12 @@
+{
+  "endpoint": "balanced_accuracy",
+  "secondary": ["accuracy", "log_loss", "recall_by_class"],
+  "outer_unit": "one complete recording date at a time, chronology sorted",
+  "model": "frozen TabICLv2, 4 estimators, CPU, seed 20261126, same as V4",
+  "source_columns": ["Duration", "F01", "Fpeak", "Q25", "Q50", "Q75"],
+  "extra_columns": ["log2(Fpeak/F01)", "log2(Q50/F01)", "(Q75-Q25)/Q50", "abs(Fpeak/F01 - max(1,round(Fpeak/F01)))", "(Q75+Q25-2*Q50)/(Q75-Q25)", "(Fpeak-Q50)/(Q75-Q25)"],
+  "primary": "mean of raw and augmented probability vectors; classify by argmax(p / training-fold class frequencies)",
+  "decision_rule": "threshold affects decisions only; probability metrics always score unadjusted probabilities",
+  "ablations": ["raw_empirical","raw_balanced","augmented_empirical","augmented_balanced","blend_empirical","blend_balanced"],
+  "inference": "no tuning; paired date bootstrap, fixed OOF predictions, 5000 draws; differences versus original and equal-decision raw baselines"
+}

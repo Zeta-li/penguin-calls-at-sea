@@ -1,0 +1,7 @@
+held_date,rows,view,max_abs_probability_difference,mean_abs_probability_difference,argmax_changes,prior_adjusted_argmax_changes,rtol,atol,all_within_tolerance
+2022-06-28,25,raw,2.1755695343e-06,1.31339760401e-07,0,0,2e-06,1e-07,False
+2022-06-28,25,augmented,7.15255737305e-07,9.06549360025e-08,0,0,2e-06,1e-07,False
+2022-06-28,25,blend,1.10268592834e-06,1.00051208089e-07,0,0,2e-06,1e-07,False
+2022-06-09,17,raw,9.53674316406e-07,2.35654283642e-07,0,0,2e-06,1e-07,False
+2022-06-09,17,augmented,5.36441802979e-07,1.1433582614e-07,0,0,2e-06,1e-07,False
+2022-06-09,17,blend,6.70552253723e-07,1.57041986491e-07,0,0,2e-06,1e-07,False
