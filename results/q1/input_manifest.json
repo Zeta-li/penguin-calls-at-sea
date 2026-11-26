@@ -1,0 +1,23 @@
+{
+  "source": "https://zenodo.org/records/21376649/files/Data01_AfricanPenguins_seasurface_calls_acoustics.csv",
+  "sha256": "1328f92601a84d81dbf8e1404fa0eeabc36cdf17a7626d9746aa62794827d02e",
+  "recordings": 108,
+  "dates": 16,
+  "features": [
+    "Duration",
+    "F01",
+    "Fpeak",
+    "Q25",
+    "Q50",
+    "Q75"
+  ],
+  "row_id": "1-based data record, excluding the CSV header",
+  "python": "3.12.4",
+  "packages": {
+    "numpy": "1.26.4",
+    "scipy": "1.13.1",
+    "pandas": "2.2.2",
+    "scikit-learn": "1.4.2",
+    "matplotlib": "3.8.4"
+  }
+}

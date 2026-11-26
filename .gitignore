@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv*/
+.cache/
+.model-cache/
+.env
+.pytest_cache/
+.mplconfig/
+*.ckpt
+*.safetensors
+*.whl
+data/
+scratch/

@@ -1,0 +1,13 @@
+model,actual,flat,mod,tv
+ridge,flat,25,12,7
+ridge,mod,20,15,5
+ridge,tv,11,12,1
+lda,flat,22,11,11
+lda,mod,19,14,7
+lda,tv,12,11,1
+tree,flat,20,16,8
+tree,mod,16,16,8
+tree,tv,12,10,2
+svm,flat,26,18,0
+svm,mod,37,3,0
+svm,tv,15,9,0
