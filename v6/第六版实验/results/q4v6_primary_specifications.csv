@@ -1,0 +1,673 @@
+criterion,scenario,mechanism,model,call,endpoint,clipped_m,status,index100
+mean,Baseline,shared,pava,flat,contact_net_vocal,150,right_boundary,0.386472876925
+mean,Baseline,shared,pava,flat,recruitment_approach,66.0721666461,crossing,0.0390077758554
+mean,Baseline,shared,pava,mod,contact_net_vocal,150,right_boundary,0.306974299219
+mean,Baseline,shared,pava,mod,recruitment_approach,150,right_boundary,0.103942063524
+mean,Baseline,shared,pava,tv,contact_net_vocal,150,right_boundary,0.41261595349
+mean,Baseline,shared,pava,tv,recruitment_approach,150,right_boundary,0.0965560240844
+mean,Baseline,shared,spline,flat,contact_net_vocal,150,right_boundary,0.386472876925
+mean,Baseline,shared,spline,flat,recruitment_approach,66.0721666461,crossing,0.0390077758554
+mean,Baseline,shared,spline,mod,contact_net_vocal,150,right_boundary,0.306974299219
+mean,Baseline,shared,spline,mod,recruitment_approach,150,right_boundary,0.103942063524
+mean,Baseline,shared,spline,tv,contact_net_vocal,150,right_boundary,0.41261595349
+mean,Baseline,shared,spline,tv,recruitment_approach,150,right_boundary,0.0965560240844
+mean,Baseline,shared,parametric,flat,contact_net_vocal,150,right_boundary,0.386472876925
+mean,Baseline,shared,parametric,flat,recruitment_approach,66.0721666461,crossing,0.0390077758554
+mean,Baseline,shared,parametric,mod,contact_net_vocal,150,right_boundary,0.306974299219
+mean,Baseline,shared,parametric,mod,recruitment_approach,150,right_boundary,0.103942063524
+mean,Baseline,shared,parametric,tv,contact_net_vocal,150,right_boundary,0.41261595349
+mean,Baseline,shared,parametric,tv,recruitment_approach,150,right_boundary,0.0965560240844
+mean,Baseline,shared,spline_sigmoid_equal,flat,contact_net_vocal,150,right_boundary,0.386472876925
+mean,Baseline,shared,spline_sigmoid_equal,flat,recruitment_approach,66.0721666461,crossing,0.0390077758554
+mean,Baseline,shared,spline_sigmoid_equal,mod,contact_net_vocal,150,right_boundary,0.306974299219
+mean,Baseline,shared,spline_sigmoid_equal,mod,recruitment_approach,150,right_boundary,0.103942063524
+mean,Baseline,shared,spline_sigmoid_equal,tv,contact_net_vocal,150,right_boundary,0.41261595349
+mean,Baseline,shared,spline_sigmoid_equal,tv,recruitment_approach,150,right_boundary,0.0965560240844
+mean,Baseline,both,pava,flat,contact_net_vocal,150,right_boundary,0.386472876925
+mean,Baseline,both,pava,flat,recruitment_approach,66.0721666461,crossing,0.0390077758554
+mean,Baseline,both,pava,mod,contact_net_vocal,150,right_boundary,0.306974299219
+mean,Baseline,both,pava,mod,recruitment_approach,150,right_boundary,0.103942063524
+mean,Baseline,both,pava,tv,contact_net_vocal,150,right_boundary,0.41261595349
+mean,Baseline,both,pava,tv,recruitment_approach,150,right_boundary,0.0965560240844
+mean,Baseline,both,spline,flat,contact_net_vocal,150,right_boundary,0.386472876925
+mean,Baseline,both,spline,flat,recruitment_approach,66.0721666461,crossing,0.0390077758554
+mean,Baseline,both,spline,mod,contact_net_vocal,150,right_boundary,0.306974299219
+mean,Baseline,both,spline,mod,recruitment_approach,150,right_boundary,0.103942063524
+mean,Baseline,both,spline,tv,contact_net_vocal,150,right_boundary,0.41261595349
+mean,Baseline,both,spline,tv,recruitment_approach,150,right_boundary,0.0965560240844
+mean,Baseline,both,parametric,flat,contact_net_vocal,150,right_boundary,0.386472876925
+mean,Baseline,both,parametric,flat,recruitment_approach,66.0721666461,crossing,0.0390077758554
+mean,Baseline,both,parametric,mod,contact_net_vocal,150,right_boundary,0.306974299219
+mean,Baseline,both,parametric,mod,recruitment_approach,150,right_boundary,0.103942063524
+mean,Baseline,both,parametric,tv,contact_net_vocal,150,right_boundary,0.41261595349
+mean,Baseline,both,parametric,tv,recruitment_approach,150,right_boundary,0.0965560240844
+mean,Baseline,both,spline_sigmoid_equal,flat,contact_net_vocal,150,right_boundary,0.386472876925
+mean,Baseline,both,spline_sigmoid_equal,flat,recruitment_approach,66.0721666461,crossing,0.0390077758554
+mean,Baseline,both,spline_sigmoid_equal,mod,contact_net_vocal,150,right_boundary,0.306974299219
+mean,Baseline,both,spline_sigmoid_equal,mod,recruitment_approach,150,right_boundary,0.103942063524
+mean,Baseline,both,spline_sigmoid_equal,tv,contact_net_vocal,150,right_boundary,0.41261595349
+mean,Baseline,both,spline_sigmoid_equal,tv,recruitment_approach,150,right_boundary,0.0965560240844
+mean,Threshold 0.60,shared,pava,flat,contact_net_vocal,150,right_boundary,0.0662354153617
+mean,Threshold 0.60,shared,pava,flat,recruitment_approach,44.3793382175,crossing,0.00668532357735
+mean,Threshold 0.60,shared,pava,mod,contact_net_vocal,150,right_boundary,0.207300958991
+mean,Threshold 0.60,shared,pava,mod,recruitment_approach,113.757882999,crossing,0.0701924868069
+mean,Threshold 0.60,shared,pava,tv,contact_net_vocal,150,right_boundary,0.350279935095
+mean,Threshold 0.60,shared,pava,tv,recruitment_approach,138.432522321,crossing,0.0819688079513
+mean,Threshold 0.60,shared,spline,flat,contact_net_vocal,150,right_boundary,0.0805346763214
+mean,Threshold 0.60,shared,spline,flat,recruitment_approach,42.3960576742,crossing,0.0081285875157
+mean,Threshold 0.60,shared,spline,mod,contact_net_vocal,150,right_boundary,0.198516428234
+mean,Threshold 0.60,shared,spline,mod,recruitment_approach,113.357119406,crossing,0.0672180285011
+mean,Threshold 0.60,shared,spline,tv,contact_net_vocal,150,right_boundary,0.305756534051
+mean,Threshold 0.60,shared,spline,tv,recruitment_approach,121.418555061,crossing,0.0715499122514
+mean,Threshold 0.60,shared,parametric,flat,contact_net_vocal,150,right_boundary,0.0702354349881
+mean,Threshold 0.60,shared,parametric,flat,recruitment_approach,47.0384450135,crossing,0.00708905661613
+mean,Threshold 0.60,shared,parametric,mod,contact_net_vocal,150,right_boundary,0.231335121677
+mean,Threshold 0.60,shared,parametric,mod,recruitment_approach,119.207931554,crossing,0.0783304985915
+mean,Threshold 0.60,shared,parametric,tv,contact_net_vocal,150,right_boundary,0.373980020956
+mean,Threshold 0.60,shared,parametric,tv,recruitment_approach,144.593399523,crossing,0.0875148515347
+mean,Threshold 0.60,shared,spline_sigmoid_equal,flat,contact_net_vocal,150,right_boundary,0.0748453920776
+mean,Threshold 0.60,shared,spline_sigmoid_equal,flat,recruitment_approach,44.8482678392,crossing,0.00755435232919
+mean,Threshold 0.60,shared,spline_sigmoid_equal,mod,contact_net_vocal,150,right_boundary,0.215624935221
+mean,Threshold 0.60,shared,spline_sigmoid_equal,mod,recruitment_approach,116.572553103,crossing,0.0730110005009
+mean,Threshold 0.60,shared,spline_sigmoid_equal,tv,contact_net_vocal,150,right_boundary,0.346403882468
+mean,Threshold 0.60,shared,spline_sigmoid_equal,tv,recruitment_approach,134.101536483,crossing,0.0810617750854
+mean,Threshold 0.60,both,pava,flat,contact_net_vocal,150,right_boundary,0.0662354153617
+mean,Threshold 0.60,both,pava,flat,recruitment_approach,44.3793382175,crossing,0.00668532357735
+mean,Threshold 0.60,both,pava,mod,contact_net_vocal,150,right_boundary,0.207300958991
+mean,Threshold 0.60,both,pava,mod,recruitment_approach,113.757882999,crossing,0.0701924868069
+mean,Threshold 0.60,both,pava,tv,contact_net_vocal,150,right_boundary,0.350279935095
+mean,Threshold 0.60,both,pava,tv,recruitment_approach,138.432522321,crossing,0.0819688079513
+mean,Threshold 0.60,both,spline,flat,contact_net_vocal,150,right_boundary,0.0805346763214
+mean,Threshold 0.60,both,spline,flat,recruitment_approach,42.3960576742,crossing,0.0081285875157
+mean,Threshold 0.60,both,spline,mod,contact_net_vocal,150,right_boundary,0.198516428234
+mean,Threshold 0.60,both,spline,mod,recruitment_approach,113.357119406,crossing,0.0672180285011
+mean,Threshold 0.60,both,spline,tv,contact_net_vocal,150,right_boundary,0.305756534051
+mean,Threshold 0.60,both,spline,tv,recruitment_approach,121.418555061,crossing,0.0715499122514
+mean,Threshold 0.60,both,parametric,flat,contact_net_vocal,150,right_boundary,0.0702354349881
+mean,Threshold 0.60,both,parametric,flat,recruitment_approach,47.0384450135,crossing,0.00708905661613
+mean,Threshold 0.60,both,parametric,mod,contact_net_vocal,150,right_boundary,0.231335121677
+mean,Threshold 0.60,both,parametric,mod,recruitment_approach,119.207931554,crossing,0.0783304985915
+mean,Threshold 0.60,both,parametric,tv,contact_net_vocal,150,right_boundary,0.373980020956
+mean,Threshold 0.60,both,parametric,tv,recruitment_approach,144.593399523,crossing,0.0875148515347
+mean,Threshold 0.60,both,spline_sigmoid_equal,flat,contact_net_vocal,150,right_boundary,0.0748453920776
+mean,Threshold 0.60,both,spline_sigmoid_equal,flat,recruitment_approach,44.8482678392,crossing,0.00755435232919
+mean,Threshold 0.60,both,spline_sigmoid_equal,mod,contact_net_vocal,150,right_boundary,0.215624935221
+mean,Threshold 0.60,both,spline_sigmoid_equal,mod,recruitment_approach,116.572553103,crossing,0.0730110005009
+mean,Threshold 0.60,both,spline_sigmoid_equal,tv,contact_net_vocal,150,right_boundary,0.346403882468
+mean,Threshold 0.60,both,spline_sigmoid_equal,tv,recruitment_approach,134.101536483,crossing,0.0810617750854
+mean,Threshold 0.70,shared,pava,flat,contact_net_vocal,63.5066317455,crossing,0.00929921709845
+mean,Threshold 0.70,shared,pava,flat,recruitment_approach,29.255145224,crossing,0.000938595689024
+mean,Threshold 0.70,shared,pava,mod,contact_net_vocal,104.600253179,crossing,0.0609852686251
+mean,Threshold 0.70,shared,pava,mod,recruitment_approach,81.7418900653,crossing,0.0206497243631
+mean,Threshold 0.70,shared,pava,tv,contact_net_vocal,143.335888742,crossing,0.16551503784
+mean,Threshold 0.70,shared,pava,tv,recruitment_approach,85.1029020749,crossing,0.038732079661
+mean,Threshold 0.70,shared,spline,flat,contact_net_vocal,59.0081967218,crossing,0.0117580942606
+mean,Threshold 0.70,shared,spline,flat,recruitment_approach,26.078421184,crossing,0.00118677695845
+mean,Threshold 0.70,shared,spline,mod,contact_net_vocal,102.692542883,crossing,0.0549808583517
+mean,Threshold 0.70,shared,spline,mod,recruitment_approach,73.4556985376,crossing,0.0186166199774
+mean,Threshold 0.70,shared,spline,tv,contact_net_vocal,126.008690844,crossing,0.104940420369
+mean,Threshold 0.70,shared,spline,tv,recruitment_approach,74.552202271,crossing,0.0245570479543
+mean,Threshold 0.70,shared,parametric,flat,contact_net_vocal,63.9004173021,crossing,0.00996783154648
+mean,Threshold 0.70,shared,parametric,flat,recruitment_approach,31.2957239725,crossing,0.00100608079362
+mean,Threshold 0.70,shared,parametric,mod,contact_net_vocal,111.846729912,crossing,0.0820139396133
+mean,Threshold 0.70,shared,parametric,mod,recruitment_approach,84.7599578432,crossing,0.0277700711193
+mean,Threshold 0.70,shared,parametric,tv,contact_net_vocal,150,right_boundary,0.221043314908
+mean,Threshold 0.70,shared,parametric,tv,recruitment_approach,101.876353629,crossing,0.0517262201267
+mean,Threshold 0.70,shared,spline_sigmoid_equal,flat,contact_net_vocal,61.8046476085,crossing,0.0107566290337
+mean,Threshold 0.70,shared,spline_sigmoid_equal,flat,recruitment_approach,28.5535331437,crossing,0.0010856963046
+mean,Threshold 0.70,shared,spline_sigmoid_equal,mod,contact_net_vocal,107.76049824,crossing,0.0674073504521
+mean,Threshold 0.70,shared,spline_sigmoid_equal,mod,recruitment_approach,79.2397124277,crossing,0.0228242531068
+mean,Threshold 0.70,shared,spline_sigmoid_equal,tv,contact_net_vocal,141.423352289,crossing,0.158485422955
+mean,Threshold 0.70,shared,spline_sigmoid_equal,tv,recruitment_approach,86.4602299753,crossing,0.0370870834886
+mean,Threshold 0.70,both,pava,flat,contact_net_vocal,63.5066317455,crossing,0.00929921709845
+mean,Threshold 0.70,both,pava,flat,recruitment_approach,29.255145224,crossing,0.000938595689024
+mean,Threshold 0.70,both,pava,mod,contact_net_vocal,104.600253179,crossing,0.0609852686251
+mean,Threshold 0.70,both,pava,mod,recruitment_approach,81.7418900653,crossing,0.0206497243631
+mean,Threshold 0.70,both,pava,tv,contact_net_vocal,143.335888742,crossing,0.16551503784
+mean,Threshold 0.70,both,pava,tv,recruitment_approach,85.1029020749,crossing,0.038732079661
+mean,Threshold 0.70,both,spline,flat,contact_net_vocal,59.0081967218,crossing,0.0117580942606
+mean,Threshold 0.70,both,spline,flat,recruitment_approach,26.078421184,crossing,0.00118677695845
+mean,Threshold 0.70,both,spline,mod,contact_net_vocal,102.692542883,crossing,0.0549808583517
+mean,Threshold 0.70,both,spline,mod,recruitment_approach,73.4556985376,crossing,0.0186166199774
+mean,Threshold 0.70,both,spline,tv,contact_net_vocal,126.008690844,crossing,0.104940420369
+mean,Threshold 0.70,both,spline,tv,recruitment_approach,74.552202271,crossing,0.0245570479543
+mean,Threshold 0.70,both,parametric,flat,contact_net_vocal,63.9004173021,crossing,0.00996783154648
+mean,Threshold 0.70,both,parametric,flat,recruitment_approach,31.2957239725,crossing,0.00100608079362
+mean,Threshold 0.70,both,parametric,mod,contact_net_vocal,111.846729912,crossing,0.0820139396133
+mean,Threshold 0.70,both,parametric,mod,recruitment_approach,84.7599578432,crossing,0.0277700711193
+mean,Threshold 0.70,both,parametric,tv,contact_net_vocal,150,right_boundary,0.221043314908
+mean,Threshold 0.70,both,parametric,tv,recruitment_approach,101.876353629,crossing,0.0517262201267
+mean,Threshold 0.70,both,spline_sigmoid_equal,flat,contact_net_vocal,61.8046476085,crossing,0.0107566290337
+mean,Threshold 0.70,both,spline_sigmoid_equal,flat,recruitment_approach,28.5535331437,crossing,0.0010856963046
+mean,Threshold 0.70,both,spline_sigmoid_equal,mod,contact_net_vocal,107.76049824,crossing,0.0674073504521
+mean,Threshold 0.70,both,spline_sigmoid_equal,mod,recruitment_approach,79.2397124277,crossing,0.0228242531068
+mean,Threshold 0.70,both,spline_sigmoid_equal,tv,contact_net_vocal,141.423352289,crossing,0.158485422955
+mean,Threshold 0.70,both,spline_sigmoid_equal,tv,recruitment_approach,86.4602299753,crossing,0.0370870834886
+mean,Fidelity loss 5%,shared,pava,flat,contact_net_vocal,150,right_boundary,0.271764670876
+mean,Fidelity loss 5%,shared,pava,flat,recruitment_approach,57.8630091684,crossing,0.027429959513
+mean,Fidelity loss 5%,shared,pava,mod,contact_net_vocal,150,right_boundary,0.288130203639
+mean,Fidelity loss 5%,shared,pava,mod,recruitment_approach,150,right_boundary,0.0975614180273
+mean,Fidelity loss 5%,shared,pava,tv,contact_net_vocal,150,right_boundary,0.40176976833
+mean,Fidelity loss 5%,shared,pava,tv,recruitment_approach,150,right_boundary,0.0940179144776
+mean,Fidelity loss 5%,shared,spline,flat,contact_net_vocal,150,right_boundary,0.282689592035
+mean,Fidelity loss 5%,shared,spline,flat,recruitment_approach,56.736441345,crossing,0.0285326420071
+mean,Fidelity loss 5%,shared,spline,mod,contact_net_vocal,150,right_boundary,0.286034246996
+mean,Fidelity loss 5%,shared,spline,mod,recruitment_approach,150,right_boundary,0.0968517232448
+mean,Fidelity loss 5%,shared,spline,tv,contact_net_vocal,150,right_boundary,0.393230999148
+mean,Fidelity loss 5%,shared,spline,tv,recruitment_approach,150,right_boundary,0.0920197619683
+mean,Fidelity loss 5%,shared,parametric,flat,contact_net_vocal,150,right_boundary,0.274538749761
+mean,Fidelity loss 5%,shared,parametric,flat,recruitment_approach,58.5772197992,crossing,0.0277099549637
+mean,Fidelity loss 5%,shared,parametric,mod,contact_net_vocal,150,right_boundary,0.293344807584
+mean,Fidelity loss 5%,shared,parametric,mod,recruitment_approach,150,right_boundary,0.0993270925345
+mean,Fidelity loss 5%,shared,parametric,tv,contact_net_vocal,150,right_boundary,0.405890729866
+mean,Fidelity loss 5%,shared,parametric,tv,recruitment_approach,150,right_boundary,0.0949822583375
+mean,Fidelity loss 5%,shared,spline_sigmoid_equal,flat,contact_net_vocal,150,right_boundary,0.27811269384
+mean,Fidelity loss 5%,shared,spline_sigmoid_equal,flat,recruitment_approach,57.7214036732,crossing,0.0280706830196
+mean,Fidelity loss 5%,shared,spline_sigmoid_equal,mod,contact_net_vocal,150,right_boundary,0.290016323184
+mean,Fidelity loss 5%,shared,spline_sigmoid_equal,mod,recruitment_approach,150,right_boundary,0.0982000615818
+mean,Fidelity loss 5%,shared,spline_sigmoid_equal,tv,contact_net_vocal,150,right_boundary,0.401073398313
+mean,Fidelity loss 5%,shared,spline_sigmoid_equal,tv,recruitment_approach,150,right_boundary,0.0938549573267
+mean,Fidelity loss 5%,both,pava,flat,contact_net_vocal,150,right_boundary,0.261573495718
+mean,Fidelity loss 5%,both,pava,flat,recruitment_approach,50.1168015676,crossing,0.0246869635617
+mean,Fidelity loss 5%,both,pava,mod,contact_net_vocal,150,right_boundary,0.277325321003
+mean,Fidelity loss 5%,both,pava,mod,recruitment_approach,150,right_boundary,0.0878052762246
+mean,Fidelity loss 5%,both,pava,tv,contact_net_vocal,150,right_boundary,0.386703402018
+mean,Fidelity loss 5%,both,pava,tv,recruitment_approach,150,right_boundary,0.0846161230298
+mean,Fidelity loss 5%,both,spline,flat,contact_net_vocal,150,right_boundary,0.272088732334
+mean,Fidelity loss 5%,both,spline,flat,recruitment_approach,49.3496159339,crossing,0.0256793778064
+mean,Fidelity loss 5%,both,spline,mod,contact_net_vocal,150,right_boundary,0.275307962734
+mean,Fidelity loss 5%,both,spline,mod,recruitment_approach,150,right_boundary,0.0871665509203
+mean,Fidelity loss 5%,both,spline,tv,contact_net_vocal,150,right_boundary,0.37848483668
+mean,Fidelity loss 5%,both,spline,tv,recruitment_approach,150,right_boundary,0.0828177857715
+mean,Fidelity loss 5%,both,parametric,flat,contact_net_vocal,150,right_boundary,0.264243546645
+mean,Fidelity loss 5%,both,parametric,flat,recruitment_approach,51.0265534306,crossing,0.0249389594674
+mean,Fidelity loss 5%,both,parametric,mod,contact_net_vocal,150,right_boundary,0.2823443773
+mean,Fidelity loss 5%,both,parametric,mod,recruitment_approach,150,right_boundary,0.0893943832811
+mean,Fidelity loss 5%,both,parametric,tv,contact_net_vocal,150,right_boundary,0.390669827496
+mean,Fidelity loss 5%,both,parametric,tv,recruitment_approach,150,right_boundary,0.0854840325037
+mean,Fidelity loss 5%,both,spline_sigmoid_equal,flat,contact_net_vocal,150,right_boundary,0.267683467821
+mean,Fidelity loss 5%,both,spline_sigmoid_equal,flat,recruitment_approach,50.2571130412,crossing,0.0252636147176
+mean,Fidelity loss 5%,both,spline_sigmoid_equal,mod,contact_net_vocal,150,right_boundary,0.279140711065
+mean,Fidelity loss 5%,both,spline_sigmoid_equal,mod,recruitment_approach,150,right_boundary,0.0883800554236
+mean,Fidelity loss 5%,both,spline_sigmoid_equal,tv,contact_net_vocal,150,right_boundary,0.386033145876
+mean,Fidelity loss 5%,both,spline_sigmoid_equal,tv,recruitment_approach,150,right_boundary,0.084469461594
+mean,Fidelity loss 10%,shared,pava,flat,contact_net_vocal,150,right_boundary,0.185839926739
+mean,Fidelity loss 10%,shared,pava,flat,recruitment_approach,50.9502210686,crossing,0.0187573375521
+mean,Fidelity loss 10%,shared,pava,mod,contact_net_vocal,150,right_boundary,0.258474253729
+mean,Fidelity loss 10%,shared,pava,mod,recruitment_approach,138.766965139,crossing,0.0875198587267
+mean,Fidelity loss 10%,shared,pava,tv,contact_net_vocal,150,right_boundary,0.381996440096
+mean,Fidelity loss 10%,shared,pava,tv,recruitment_approach,150,right_boundary,0.0893907692083
+mean,Fidelity loss 10%,shared,spline,flat,contact_net_vocal,150,right_boundary,0.197085492079
+mean,Fidelity loss 10%,shared,spline,flat,recruitment_approach,49.4772998088,crossing,0.0198923835497
+mean,Fidelity loss 10%,shared,spline,mod,contact_net_vocal,150,right_boundary,0.253888500475
+mean,Fidelity loss 10%,shared,spline,mod,recruitment_approach,142.055313011,crossing,0.0859671142224
+mean,Fidelity loss 10%,shared,spline,tv,contact_net_vocal,150,right_boundary,0.360987879482
+mean,Fidelity loss 10%,shared,spline,tv,recruitment_approach,148.897556296,crossing,0.0844745679138
+mean,Fidelity loss 10%,shared,parametric,flat,contact_net_vocal,150,right_boundary,0.188402270938
+mean,Fidelity loss 10%,shared,parametric,flat,recruitment_approach,52.68446079,crossing,0.0190159620356
+mean,Fidelity loss 10%,shared,parametric,mod,contact_net_vocal,150,right_boundary,0.270436352469
+mean,Fidelity loss 10%,shared,parametric,mod,recruitment_approach,142.223171383,crossing,0.0915702474083
+mean,Fidelity loss 10%,shared,parametric,tv,contact_net_vocal,150,right_boundary,0.392924094232
+mean,Fidelity loss 10%,shared,parametric,tv,recruitment_approach,150,right_boundary,0.0919479433237
+mean,Fidelity loss 10%,shared,spline_sigmoid_equal,flat,contact_net_vocal,150,right_boundary,0.192064424525
+mean,Fidelity loss 10%,shared,spline_sigmoid_equal,flat,recruitment_approach,51.1905988122,crossing,0.019385593321
+mean,Fidelity loss 10%,shared,spline_sigmoid_equal,mod,contact_net_vocal,150,right_boundary,0.262706337809
+mean,Fidelity loss 10%,shared,spline_sigmoid_equal,mod,recruitment_approach,142.147678494,crossing,0.0889528501965
+mean,Fidelity loss 10%,shared,spline_sigmoid_equal,tv,contact_net_vocal,150,right_boundary,0.380206072692
+mean,Fidelity loss 10%,shared,spline_sigmoid_equal,tv,recruitment_approach,150,right_boundary,0.0889718063526
+mean,Fidelity loss 10%,both,pava,flat,contact_net_vocal,150,right_boundary,0.171901932234
+mean,Fidelity loss 10%,both,pava,flat,recruitment_approach,38.8173007248,crossing,0.0150058700417
+mean,Fidelity loss 10%,both,pava,mod,contact_net_vocal,150,right_boundary,0.2390886847
+mean,Fidelity loss 10%,both,pava,mod,recruitment_approach,125.056046239,crossing,0.0700158869814
+mean,Fidelity loss 10%,both,pava,tv,contact_net_vocal,150,right_boundary,0.353346707089
+mean,Fidelity loss 10%,both,pava,tv,recruitment_approach,141.718868351,crossing,0.0715126153666
+mean,Fidelity loss 10%,both,spline,flat,contact_net_vocal,150,right_boundary,0.182304080173
+mean,Fidelity loss 10%,both,spline,flat,recruitment_approach,37.7259844536,crossing,0.0159139068398
+mean,Fidelity loss 10%,both,spline,mod,contact_net_vocal,150,right_boundary,0.234846862939
+mean,Fidelity loss 10%,both,spline,mod,recruitment_approach,125.17018931,crossing,0.0687736913779
+mean,Fidelity loss 10%,both,spline,tv,contact_net_vocal,150,right_boundary,0.333913788521
+mean,Fidelity loss 10%,both,spline,tv,recruitment_approach,129.870088528,crossing,0.0675796543311
+mean,Fidelity loss 10%,both,parametric,flat,contact_net_vocal,150,right_boundary,0.174272100618
+mean,Fidelity loss 10%,both,parametric,flat,recruitment_approach,39.9648641878,crossing,0.0152127696285
+mean,Fidelity loss 10%,both,parametric,mod,contact_net_vocal,150,right_boundary,0.250153626034
+mean,Fidelity loss 10%,both,parametric,mod,recruitment_approach,128.320973469,crossing,0.0732561979267
+mean,Fidelity loss 10%,both,parametric,tv,contact_net_vocal,150,right_boundary,0.363454787164
+mean,Fidelity loss 10%,both,parametric,tv,recruitment_approach,147.891582649,crossing,0.073558354659
+mean,Fidelity loss 10%,both,spline_sigmoid_equal,flat,contact_net_vocal,150,right_boundary,0.177659592686
+mean,Fidelity loss 10%,both,spline_sigmoid_equal,flat,recruitment_approach,38.9303356318,crossing,0.0155084746568
+mean,Fidelity loss 10%,both,spline_sigmoid_equal,mod,contact_net_vocal,150,right_boundary,0.243003362473
+mean,Fidelity loss 10%,both,spline_sigmoid_equal,mod,recruitment_approach,126.892874974,crossing,0.0711622801572
+mean,Fidelity loss 10%,both,spline_sigmoid_equal,tv,contact_net_vocal,150,right_boundary,0.35169061724
+mean,Fidelity loss 10%,both,spline_sigmoid_equal,tv,recruitment_approach,139.741589008,crossing,0.071177445082
+mean,Fidelity loss 20%,shared,pava,flat,contact_net_vocal,150,right_boundary,0.0822384797524
+mean,Fidelity loss 20%,shared,pava,flat,recruitment_approach,38.4426163552,crossing,0.00830055710607
+mean,Fidelity loss 20%,shared,pava,mod,contact_net_vocal,150,right_boundary,0.166550383417
+mean,Fidelity loss 20%,shared,pava,mod,recruitment_approach,104.958736462,crossing,0.0563942668068
+mean,Fidelity loss 20%,shared,pava,tv,contact_net_vocal,150,right_boundary,0.296636243811
+mean,Fidelity loss 20%,shared,pava,tv,recruitment_approach,131.016747681,crossing,0.069415678331
+mean,Fidelity loss 20%,shared,spline,flat,contact_net_vocal,150,right_boundary,0.0863644602977
+mean,Fidelity loss 20%,shared,spline,flat,recruitment_approach,36.1980336096,crossing,0.0087170037286
+mean,Fidelity loss 20%,shared,spline,mod,contact_net_vocal,150,right_boundary,0.159099952227
+mean,Fidelity loss 20%,shared,spline,mod,recruitment_approach,103.550312384,crossing,0.0538715370736
+mean,Fidelity loss 20%,shared,spline,tv,contact_net_vocal,150,right_boundary,0.248569185858
+mean,Fidelity loss 20%,shared,spline,tv,recruitment_approach,109.102736579,crossing,0.0581675334977
+mean,Fidelity loss 20%,shared,parametric,flat,contact_net_vocal,150,right_boundary,0.0827387654734
+mean,Fidelity loss 20%,shared,parametric,flat,recruitment_approach,40.994468304,crossing,0.00835105232692
+mean,Fidelity loss 20%,shared,parametric,mod,contact_net_vocal,150,right_boundary,0.188686216717
+mean,Fidelity loss 20%,shared,parametric,mod,recruitment_approach,110.7982915,crossing,0.0638895007627
+mean,Fidelity loss 20%,shared,parametric,tv,contact_net_vocal,150,right_boundary,0.328630904307
+mean,Fidelity loss 20%,shared,parametric,tv,recruitment_approach,133.417382822,crossing,0.0769027305968
+mean,Fidelity loss 20%,shared,spline_sigmoid_equal,flat,contact_net_vocal,150,right_boundary,0.084078181296
+mean,Fidelity loss 20%,shared,spline_sigmoid_equal,flat,recruitment_approach,38.6563721233,crossing,0.00848624326865
+mean,Fidelity loss 20%,shared,spline_sigmoid_equal,mod,contact_net_vocal,150,right_boundary,0.17389986999
+mean,Fidelity loss 20%,shared,spline_sigmoid_equal,mod,recruitment_approach,107.470913187,crossing,0.0588828165071
+mean,Fidelity loss 20%,shared,spline_sigmoid_equal,tv,contact_net_vocal,150,right_boundary,0.291937687437
+mean,Fidelity loss 20%,shared,spline_sigmoid_equal,tv,recruitment_approach,121.77668934,crossing,0.0683161718322
+mean,Fidelity loss 20%,both,pava,flat,contact_net_vocal,150,right_boundary,0.0699027077895
+mean,Fidelity loss 20%,both,pava,flat,recruitment_approach,20.5254146932,crossing,0.00498033426364
+mean,Fidelity loss 20%,both,pava,mod,contact_net_vocal,150,right_boundary,0.141567825904
+mean,Fidelity loss 20%,both,pava,mod,recruitment_approach,82.8689663015,crossing,0.0338365600841
+mean,Fidelity loss 20%,both,pava,tv,contact_net_vocal,150,right_boundary,0.252140807239
+mean,Fidelity loss 20%,both,pava,tv,recruitment_approach,81.5666981189,crossing,0.0416494069986
+mean,Fidelity loss 20%,both,spline,flat,contact_net_vocal,150,right_boundary,0.073409791253
+mean,Fidelity loss 20%,both,spline,flat,recruitment_approach,20,no_segment_at_lower_bound,0.00523020223716
+mean,Fidelity loss 20%,both,spline,mod,contact_net_vocal,150,right_boundary,0.135234959393
+mean,Fidelity loss 20%,both,spline,mod,recruitment_approach,76.9377712103,crossing,0.0323229222442
+mean,Fidelity loss 20%,both,spline,tv,contact_net_vocal,150,right_boundary,0.211283807979
+mean,Fidelity loss 20%,both,spline,tv,recruitment_approach,75.155383071,crossing,0.0349005200986
+mean,Fidelity loss 20%,both,parametric,flat,contact_net_vocal,150,right_boundary,0.0703279506524
+mean,Fidelity loss 20%,both,parametric,flat,recruitment_approach,20.5317395328,crossing,0.00501063139615
+mean,Fidelity loss 20%,both,parametric,mod,contact_net_vocal,150,right_boundary,0.16038328421
+mean,Fidelity loss 20%,both,parametric,mod,recruitment_approach,85.4740909373,crossing,0.0383337004576
+mean,Fidelity loss 20%,both,parametric,tv,contact_net_vocal,150,right_boundary,0.279336268661
+mean,Fidelity loss 20%,both,parametric,tv,recruitment_approach,91.2200961338,crossing,0.0461416383581
+mean,Fidelity loss 20%,both,spline_sigmoid_equal,flat,contact_net_vocal,150,right_boundary,0.0714664541016
+mean,Fidelity loss 20%,both,spline_sigmoid_equal,flat,recruitment_approach,20,no_segment_at_lower_bound,0.00509174596119
+mean,Fidelity loss 20%,both,spline_sigmoid_equal,mod,contact_net_vocal,150,right_boundary,0.147814889492
+mean,Fidelity loss 20%,both,spline_sigmoid_equal,mod,recruitment_approach,81.3193669818,crossing,0.0353296899042
+mean,Fidelity loss 20%,both,spline_sigmoid_equal,tv,contact_net_vocal,150,right_boundary,0.248147034322
+mean,Fidelity loss 20%,both,spline_sigmoid_equal,tv,recruitment_approach,82.5622162515,crossing,0.0409897030993
+mean,Combined stress,shared,pava,flat,contact_net_vocal,23.7264256217,crossing,0.00158689024852
+mean,Combined stress,shared,pava,flat,recruitment_approach,20,no_segment_at_lower_bound,0.000160169219672
+mean,Combined stress,shared,pava,mod,contact_net_vocal,24.1312167599,crossing,0.00601120508808
+mean,Combined stress,shared,pava,mod,recruitment_approach,20,no_segment_at_lower_bound,0.00203540512254
+mean,Combined stress,shared,pava,tv,contact_net_vocal,20,no_segment_at_lower_bound,0.0173078132588
+mean,Combined stress,shared,pava,tv,recruitment_approach,20,no_segment_at_lower_bound,0.00405019151521
+mean,Combined stress,shared,spline,flat,contact_net_vocal,20,no_segment_at_lower_bound,0.00173623784773
+mean,Combined stress,shared,spline,flat,recruitment_approach,20,no_segment_at_lower_bound,0.000175243285725
+mean,Combined stress,shared,spline,mod,contact_net_vocal,32.9296547842,crossing,0.00544965107254
+mean,Combined stress,shared,spline,mod,recruitment_approach,20,no_segment_at_lower_bound,0.00184526189784
+mean,Combined stress,shared,spline,tv,contact_net_vocal,20,no_segment_at_lower_bound,0.0103245019402
+mean,Combined stress,shared,spline,tv,recruitment_approach,20,no_segment_at_lower_bound,0.00241603081405
+mean,Combined stress,shared,parametric,flat,contact_net_vocal,25.6317157378,crossing,0.00161567653055
+mean,Combined stress,shared,parametric,flat,recruitment_approach,20,no_segment_at_lower_bound,0.000163074698695
+mean,Combined stress,shared,parametric,mod,contact_net_vocal,44.2068605167,crossing,0.00808449746048
+mean,Combined stress,shared,parametric,mod,recruitment_approach,20.8191593595,crossing,0.00273742574128
+mean,Combined stress,shared,parametric,tv,contact_net_vocal,20,no_segment_at_lower_bound,0.0260822478359
+mean,Combined stress,shared,parametric,tv,recruitment_approach,20,no_segment_at_lower_bound,0.00610349194915
+mean,Combined stress,shared,spline_sigmoid_equal,flat,contact_net_vocal,21.9190026859,crossing,0.00166370915218
+mean,Combined stress,shared,spline_sigmoid_equal,flat,recruitment_approach,20,no_segment_at_lower_bound,0.00016792276398
+mean,Combined stress,shared,spline_sigmoid_equal,mod,contact_net_vocal,37.6465348242,crossing,0.00662517999021
+mean,Combined stress,shared,spline_sigmoid_equal,mod,recruitment_approach,20.100321952,crossing,0.00224329815607
+mean,Combined stress,shared,spline_sigmoid_equal,tv,contact_net_vocal,20,no_segment_at_lower_bound,0.0163913874273
+mean,Combined stress,shared,spline_sigmoid_equal,tv,recruitment_approach,20,no_segment_at_lower_bound,0.00383573922873
+mean,Combined stress,both,pava,flat,contact_net_vocal,21.6075557245,crossing,0.00134885671124
+mean,Combined stress,both,pava,flat,recruitment_approach,20,no_segment_at_lower_bound,9.61015318029e-05
+mean,Combined stress,both,pava,mod,contact_net_vocal,20,no_segment_at_lower_bound,0.00510952432486
+mean,Combined stress,both,pava,mod,recruitment_approach,20,no_segment_at_lower_bound,0.00122124307352
+mean,Combined stress,both,pava,tv,contact_net_vocal,20,no_segment_at_lower_bound,0.01471164127
+mean,Combined stress,both,pava,tv,recruitment_approach,20,no_segment_at_lower_bound,0.00243011490913
+mean,Combined stress,both,spline,flat,contact_net_vocal,20,no_segment_at_lower_bound,0.00147580217057
+mean,Combined stress,both,spline,flat,recruitment_approach,20,no_segment_at_lower_bound,0.000105145971435
+mean,Combined stress,both,spline,mod,contact_net_vocal,27.8014212725,crossing,0.00463220341166
+mean,Combined stress,both,spline,mod,recruitment_approach,20,no_segment_at_lower_bound,0.0011071571387
+mean,Combined stress,both,spline,tv,contact_net_vocal,20,no_segment_at_lower_bound,0.00877582664919
+mean,Combined stress,both,spline,tv,recruitment_approach,20,no_segment_at_lower_bound,0.00144961848843
+mean,Combined stress,both,parametric,flat,contact_net_vocal,22.3970760329,crossing,0.00137332505097
+mean,Combined stress,both,parametric,flat,recruitment_approach,20,no_segment_at_lower_bound,9.78448192173e-05
+mean,Combined stress,both,parametric,mod,contact_net_vocal,36.6706654246,crossing,0.00687182284141
+mean,Combined stress,both,parametric,mod,recruitment_approach,20,no_segment_at_lower_bound,0.00164245544477
+mean,Combined stress,both,parametric,tv,contact_net_vocal,20,no_segment_at_lower_bound,0.0221699106605
+mean,Combined stress,both,parametric,tv,recruitment_approach,20,no_segment_at_lower_bound,0.00366209516949
+mean,Combined stress,both,spline_sigmoid_equal,flat,contact_net_vocal,20,no_segment_at_lower_bound,0.00141415277935
+mean,Combined stress,both,spline_sigmoid_equal,flat,recruitment_approach,20,no_segment_at_lower_bound,0.000100753658388
+mean,Combined stress,both,spline_sigmoid_equal,mod,contact_net_vocal,31.2194070134,crossing,0.00563140299168
+mean,Combined stress,both,spline_sigmoid_equal,mod,recruitment_approach,20,no_segment_at_lower_bound,0.00134597889364
+mean,Combined stress,both,spline_sigmoid_equal,tv,contact_net_vocal,20,no_segment_at_lower_bound,0.0139326793132
+mean,Combined stress,both,spline_sigmoid_equal,tv,recruitment_approach,20,no_segment_at_lower_bound,0.00230144353724
+all,Baseline,shared,pava,flat,contact_net_vocal,150,right_boundary,0.386472876925
+all,Baseline,shared,pava,flat,recruitment_approach,66.0721666461,crossing,0.0390077758554
+all,Baseline,shared,pava,mod,contact_net_vocal,150,right_boundary,0.306974299219
+all,Baseline,shared,pava,mod,recruitment_approach,150,right_boundary,0.103942063524
+all,Baseline,shared,pava,tv,contact_net_vocal,150,right_boundary,0.41261595349
+all,Baseline,shared,pava,tv,recruitment_approach,150,right_boundary,0.0965560240844
+all,Baseline,shared,spline,flat,contact_net_vocal,150,right_boundary,0.386472876925
+all,Baseline,shared,spline,flat,recruitment_approach,66.0721666461,crossing,0.0390077758554
+all,Baseline,shared,spline,mod,contact_net_vocal,150,right_boundary,0.306974299219
+all,Baseline,shared,spline,mod,recruitment_approach,150,right_boundary,0.103942063524
+all,Baseline,shared,spline,tv,contact_net_vocal,150,right_boundary,0.41261595349
+all,Baseline,shared,spline,tv,recruitment_approach,150,right_boundary,0.0965560240844
+all,Baseline,shared,parametric,flat,contact_net_vocal,150,right_boundary,0.386472876925
+all,Baseline,shared,parametric,flat,recruitment_approach,66.0721666461,crossing,0.0390077758554
+all,Baseline,shared,parametric,mod,contact_net_vocal,150,right_boundary,0.306974299219
+all,Baseline,shared,parametric,mod,recruitment_approach,150,right_boundary,0.103942063524
+all,Baseline,shared,parametric,tv,contact_net_vocal,150,right_boundary,0.41261595349
+all,Baseline,shared,parametric,tv,recruitment_approach,150,right_boundary,0.0965560240844
+all,Baseline,shared,spline_sigmoid_equal,flat,contact_net_vocal,150,right_boundary,0.386472876925
+all,Baseline,shared,spline_sigmoid_equal,flat,recruitment_approach,66.0721666461,crossing,0.0390077758554
+all,Baseline,shared,spline_sigmoid_equal,mod,contact_net_vocal,150,right_boundary,0.306974299219
+all,Baseline,shared,spline_sigmoid_equal,mod,recruitment_approach,150,right_boundary,0.103942063524
+all,Baseline,shared,spline_sigmoid_equal,tv,contact_net_vocal,150,right_boundary,0.41261595349
+all,Baseline,shared,spline_sigmoid_equal,tv,recruitment_approach,150,right_boundary,0.0965560240844
+all,Baseline,both,pava,flat,contact_net_vocal,150,right_boundary,0.386472876925
+all,Baseline,both,pava,flat,recruitment_approach,66.0721666461,crossing,0.0390077758554
+all,Baseline,both,pava,mod,contact_net_vocal,150,right_boundary,0.306974299219
+all,Baseline,both,pava,mod,recruitment_approach,150,right_boundary,0.103942063524
+all,Baseline,both,pava,tv,contact_net_vocal,150,right_boundary,0.41261595349
+all,Baseline,both,pava,tv,recruitment_approach,150,right_boundary,0.0965560240844
+all,Baseline,both,spline,flat,contact_net_vocal,150,right_boundary,0.386472876925
+all,Baseline,both,spline,flat,recruitment_approach,66.0721666461,crossing,0.0390077758554
+all,Baseline,both,spline,mod,contact_net_vocal,150,right_boundary,0.306974299219
+all,Baseline,both,spline,mod,recruitment_approach,150,right_boundary,0.103942063524
+all,Baseline,both,spline,tv,contact_net_vocal,150,right_boundary,0.41261595349
+all,Baseline,both,spline,tv,recruitment_approach,150,right_boundary,0.0965560240844
+all,Baseline,both,parametric,flat,contact_net_vocal,150,right_boundary,0.386472876925
+all,Baseline,both,parametric,flat,recruitment_approach,66.0721666461,crossing,0.0390077758554
+all,Baseline,both,parametric,mod,contact_net_vocal,150,right_boundary,0.306974299219
+all,Baseline,both,parametric,mod,recruitment_approach,150,right_boundary,0.103942063524
+all,Baseline,both,parametric,tv,contact_net_vocal,150,right_boundary,0.41261595349
+all,Baseline,both,parametric,tv,recruitment_approach,150,right_boundary,0.0965560240844
+all,Baseline,both,spline_sigmoid_equal,flat,contact_net_vocal,150,right_boundary,0.386472876925
+all,Baseline,both,spline_sigmoid_equal,flat,recruitment_approach,66.0721666461,crossing,0.0390077758554
+all,Baseline,both,spline_sigmoid_equal,mod,contact_net_vocal,150,right_boundary,0.306974299219
+all,Baseline,both,spline_sigmoid_equal,mod,recruitment_approach,150,right_boundary,0.103942063524
+all,Baseline,both,spline_sigmoid_equal,tv,contact_net_vocal,150,right_boundary,0.41261595349
+all,Baseline,both,spline_sigmoid_equal,tv,recruitment_approach,150,right_boundary,0.0965560240844
+all,Threshold 0.60,shared,pava,flat,contact_net_vocal,150,right_boundary,0.0526621667623
+all,Threshold 0.60,shared,pava,flat,recruitment_approach,20,no_segment_at_lower_bound,0.00531533807357
+all,Threshold 0.60,shared,pava,mod,contact_net_vocal,103.204651283,crossing,0.0518306833987
+all,Threshold 0.60,shared,pava,mod,recruitment_approach,68.5190792272,crossing,0.0175499649319
+all,Threshold 0.60,shared,pava,tv,contact_net_vocal,150,right_boundary,0.0840600287475
+all,Threshold 0.60,shared,pava,tv,recruitment_approach,33.7042902189,crossing,0.0196708394128
+all,Threshold 0.60,shared,spline,flat,contact_net_vocal,150,right_boundary,0.0532788999291
+all,Threshold 0.60,shared,spline,flat,recruitment_approach,20,no_segment_at_lower_bound,0.00537758665703
+all,Threshold 0.60,shared,spline,mod,contact_net_vocal,114.142021353,crossing,0.0555330887462
+all,Threshold 0.60,shared,spline,mod,recruitment_approach,54.8112742605,crossing,0.0188036062068
+all,Threshold 0.60,shared,spline,tv,contact_net_vocal,150,right_boundary,0.0733197241398
+all,Threshold 0.60,shared,spline,tv,recruitment_approach,40.5109946161,crossing,0.0171575068536
+all,Threshold 0.60,shared,parametric,flat,contact_net_vocal,150,right_boundary,0.052915512807
+all,Threshold 0.60,shared,parametric,flat,recruitment_approach,20,no_segment_at_lower_bound,0.00534090899022
+all,Threshold 0.60,shared,parametric,mod,contact_net_vocal,106.12076894,crossing,0.0526467410357
+all,Threshold 0.60,shared,parametric,mod,recruitment_approach,58.631000436,crossing,0.017826283552
+all,Threshold 0.60,shared,parametric,tv,contact_net_vocal,150,right_boundary,0.107938132643
+all,Threshold 0.60,shared,parametric,tv,recruitment_approach,61.5487032925,crossing,0.0252585408948
+all,Threshold 0.60,shared,spline_sigmoid_equal,flat,contact_net_vocal,150,right_boundary,0.0530761812172
+all,Threshold 0.60,shared,spline_sigmoid_equal,flat,recruitment_approach,20,no_segment_at_lower_bound,0.00535712569702
+all,Threshold 0.60,shared,spline_sigmoid_equal,mod,contact_net_vocal,109.725988601,crossing,0.0540107352892
+all,Threshold 0.60,shared,spline_sigmoid_equal,mod,recruitment_approach,56.882088356,crossing,0.0182881345203
+all,Threshold 0.60,shared,spline_sigmoid_equal,tv,contact_net_vocal,150,right_boundary,0.0864525856046
+all,Threshold 0.60,shared,spline_sigmoid_equal,tv,recruitment_approach,48.7690347421,crossing,0.0202307202792
+all,Threshold 0.60,both,pava,flat,contact_net_vocal,150,right_boundary,0.0526621667623
+all,Threshold 0.60,both,pava,flat,recruitment_approach,20,no_segment_at_lower_bound,0.00531533807357
+all,Threshold 0.60,both,pava,mod,contact_net_vocal,103.204651283,crossing,0.0518306833987
+all,Threshold 0.60,both,pava,mod,recruitment_approach,68.5190792272,crossing,0.0175499649319
+all,Threshold 0.60,both,pava,tv,contact_net_vocal,150,right_boundary,0.0840600287475
+all,Threshold 0.60,both,pava,tv,recruitment_approach,33.7042902189,crossing,0.0196708394128
+all,Threshold 0.60,both,spline,flat,contact_net_vocal,150,right_boundary,0.0532788999291
+all,Threshold 0.60,both,spline,flat,recruitment_approach,20,no_segment_at_lower_bound,0.00537758665703
+all,Threshold 0.60,both,spline,mod,contact_net_vocal,114.142021353,crossing,0.0555330887462
+all,Threshold 0.60,both,spline,mod,recruitment_approach,54.8112742605,crossing,0.0188036062068
+all,Threshold 0.60,both,spline,tv,contact_net_vocal,150,right_boundary,0.0733197241398
+all,Threshold 0.60,both,spline,tv,recruitment_approach,40.5109946161,crossing,0.0171575068536
+all,Threshold 0.60,both,parametric,flat,contact_net_vocal,150,right_boundary,0.052915512807
+all,Threshold 0.60,both,parametric,flat,recruitment_approach,20,no_segment_at_lower_bound,0.00534090899022
+all,Threshold 0.60,both,parametric,mod,contact_net_vocal,106.12076894,crossing,0.0526467410357
+all,Threshold 0.60,both,parametric,mod,recruitment_approach,58.631000436,crossing,0.017826283552
+all,Threshold 0.60,both,parametric,tv,contact_net_vocal,150,right_boundary,0.107938132643
+all,Threshold 0.60,both,parametric,tv,recruitment_approach,61.5487032925,crossing,0.0252585408948
+all,Threshold 0.60,both,spline_sigmoid_equal,flat,contact_net_vocal,150,right_boundary,0.0530761812172
+all,Threshold 0.60,both,spline_sigmoid_equal,flat,recruitment_approach,20,no_segment_at_lower_bound,0.00535712569702
+all,Threshold 0.60,both,spline_sigmoid_equal,mod,contact_net_vocal,109.725988601,crossing,0.0540107352892
+all,Threshold 0.60,both,spline_sigmoid_equal,mod,recruitment_approach,56.882088356,crossing,0.0182881345203
+all,Threshold 0.60,both,spline_sigmoid_equal,tv,contact_net_vocal,150,right_boundary,0.0864525856046
+all,Threshold 0.60,both,spline_sigmoid_equal,tv,recruitment_approach,48.7690347421,crossing,0.0202307202792
+all,Threshold 0.70,shared,pava,flat,contact_net_vocal,20,no_segment_at_lower_bound,0.00713367121511
+all,Threshold 0.70,shared,pava,flat,recruitment_approach,20,no_segment_at_lower_bound,0.000720021156462
+all,Threshold 0.70,shared,pava,mod,contact_net_vocal,24.8538138708,crossing,0.00725771491778
+all,Threshold 0.70,shared,pava,mod,recruitment_approach,20,no_segment_at_lower_bound,0.00245747564842
+all,Threshold 0.70,shared,pava,tv,contact_net_vocal,20,no_segment_at_lower_bound,0.012211418633
+all,Threshold 0.70,shared,pava,tv,recruitment_approach,20,no_segment_at_lower_bound,0.00285758711378
+all,Threshold 0.70,shared,spline,flat,contact_net_vocal,20,no_segment_at_lower_bound,0.00722876089361
+all,Threshold 0.70,shared,spline,flat,recruitment_approach,20,no_segment_at_lower_bound,0.000729618820584
+all,Threshold 0.70,shared,spline,mod,contact_net_vocal,30.6245785283,crossing,0.00787441884651
+all,Threshold 0.70,shared,spline,mod,recruitment_approach,21.8171943781,crossing,0.00266629273538
+all,Threshold 0.70,shared,spline,tv,contact_net_vocal,20,no_segment_at_lower_bound,0.0103616609561
+all,Threshold 0.70,shared,spline,tv,recruitment_approach,20,no_segment_at_lower_bound,0.00242472637418
+all,Threshold 0.70,shared,parametric,flat,contact_net_vocal,20,no_segment_at_lower_bound,0.00717269604423
+all,Threshold 0.70,shared,parametric,flat,recruitment_approach,20,no_segment_at_lower_bound,0.000723960040347
+all,Threshold 0.70,shared,parametric,mod,contact_net_vocal,38.2729220912,crossing,0.00739231833015
+all,Threshold 0.70,shared,parametric,mod,recruitment_approach,26.5204614727,crossing,0.00250305261194
+all,Threshold 0.70,shared,parametric,tv,contact_net_vocal,20,no_segment_at_lower_bound,0.0167187349074
+all,Threshold 0.70,shared,parametric,tv,recruitment_approach,20,no_segment_at_lower_bound,0.00391234162598
+all,Threshold 0.70,shared,spline_sigmoid_equal,flat,contact_net_vocal,20,no_segment_at_lower_bound,0.00719747159424
+all,Threshold 0.70,shared,spline_sigmoid_equal,flat,recruitment_approach,20,no_segment_at_lower_bound,0.0007264607051
+all,Threshold 0.70,shared,spline_sigmoid_equal,mod,contact_net_vocal,34.4420794358,crossing,0.00761896572809
+all,Threshold 0.70,shared,spline_sigmoid_equal,mod,recruitment_approach,23.9284446208,crossing,0.00257979583864
+all,Threshold 0.70,shared,spline_sigmoid_equal,tv,contact_net_vocal,20,no_segment_at_lower_bound,0.0126376448013
+all,Threshold 0.70,shared,spline_sigmoid_equal,tv,recruitment_approach,20,no_segment_at_lower_bound,0.00295732805646
+all,Threshold 0.70,both,pava,flat,contact_net_vocal,20,no_segment_at_lower_bound,0.00713367121511
+all,Threshold 0.70,both,pava,flat,recruitment_approach,20,no_segment_at_lower_bound,0.000720021156462
+all,Threshold 0.70,both,pava,mod,contact_net_vocal,24.8538138708,crossing,0.00725771491778
+all,Threshold 0.70,both,pava,mod,recruitment_approach,20,no_segment_at_lower_bound,0.00245747564842
+all,Threshold 0.70,both,pava,tv,contact_net_vocal,20,no_segment_at_lower_bound,0.012211418633
+all,Threshold 0.70,both,pava,tv,recruitment_approach,20,no_segment_at_lower_bound,0.00285758711378
+all,Threshold 0.70,both,spline,flat,contact_net_vocal,20,no_segment_at_lower_bound,0.00722876089361
+all,Threshold 0.70,both,spline,flat,recruitment_approach,20,no_segment_at_lower_bound,0.000729618820584
+all,Threshold 0.70,both,spline,mod,contact_net_vocal,30.6245785283,crossing,0.00787441884651
+all,Threshold 0.70,both,spline,mod,recruitment_approach,21.8171943781,crossing,0.00266629273538
+all,Threshold 0.70,both,spline,tv,contact_net_vocal,20,no_segment_at_lower_bound,0.0103616609561
+all,Threshold 0.70,both,spline,tv,recruitment_approach,20,no_segment_at_lower_bound,0.00242472637418
+all,Threshold 0.70,both,parametric,flat,contact_net_vocal,20,no_segment_at_lower_bound,0.00717269604423
+all,Threshold 0.70,both,parametric,flat,recruitment_approach,20,no_segment_at_lower_bound,0.000723960040347
+all,Threshold 0.70,both,parametric,mod,contact_net_vocal,38.2729220912,crossing,0.00739231833015
+all,Threshold 0.70,both,parametric,mod,recruitment_approach,26.5204614727,crossing,0.00250305261194
+all,Threshold 0.70,both,parametric,tv,contact_net_vocal,20,no_segment_at_lower_bound,0.0167187349074
+all,Threshold 0.70,both,parametric,tv,recruitment_approach,20,no_segment_at_lower_bound,0.00391234162598
+all,Threshold 0.70,both,spline_sigmoid_equal,flat,contact_net_vocal,20,no_segment_at_lower_bound,0.00719747159424
+all,Threshold 0.70,both,spline_sigmoid_equal,flat,recruitment_approach,20,no_segment_at_lower_bound,0.0007264607051
+all,Threshold 0.70,both,spline_sigmoid_equal,mod,contact_net_vocal,34.4420794358,crossing,0.00761896572809
+all,Threshold 0.70,both,spline_sigmoid_equal,mod,recruitment_approach,23.9284446208,crossing,0.00257979583864
+all,Threshold 0.70,both,spline_sigmoid_equal,tv,contact_net_vocal,20,no_segment_at_lower_bound,0.0126376448013
+all,Threshold 0.70,both,spline_sigmoid_equal,tv,recruitment_approach,20,no_segment_at_lower_bound,0.00295732805646
+all,Fidelity loss 5%,shared,pava,flat,contact_net_vocal,150,right_boundary,0.299059136879
+all,Fidelity loss 5%,shared,pava,flat,recruitment_approach,37.7887221209,crossing,0.0301848654211
+all,Fidelity loss 5%,shared,pava,mod,contact_net_vocal,150,right_boundary,0.215391760818
+all,Fidelity loss 5%,shared,pava,mod,recruitment_approach,150,right_boundary,0.0729320472183
+all,Fidelity loss 5%,shared,pava,tv,contact_net_vocal,150,right_boundary,0.30026126757
+all,Fidelity loss 5%,shared,pava,tv,recruitment_approach,150,right_boundary,0.0702639680746
+all,Fidelity loss 5%,shared,spline,flat,contact_net_vocal,150,right_boundary,0.285537386333
+all,Fidelity loss 5%,shared,spline,flat,recruitment_approach,36.4660662208,crossing,0.0288200777582
+all,Fidelity loss 5%,shared,spline,mod,contact_net_vocal,150,right_boundary,0.217876531135
+all,Fidelity loss 5%,shared,spline,mod,recruitment_approach,150,right_boundary,0.0737733950274
+all,Fidelity loss 5%,shared,spline,tv,contact_net_vocal,150,right_boundary,0.291896618188
+all,Fidelity loss 5%,shared,spline,tv,recruitment_approach,150,right_boundary,0.0683065612406
+all,Fidelity loss 5%,shared,parametric,flat,contact_net_vocal,150,right_boundary,0.291610324237
+all,Fidelity loss 5%,shared,parametric,flat,recruitment_approach,37.7161245306,crossing,0.0294330361692
+all,Fidelity loss 5%,shared,parametric,mod,contact_net_vocal,150,right_boundary,0.215884560638
+all,Fidelity loss 5%,shared,parametric,mod,recruitment_approach,150,right_boundary,0.0730989101455
+all,Fidelity loss 5%,shared,parametric,tv,contact_net_vocal,150,right_boundary,0.318579515537
+all,Fidelity loss 5%,shared,parametric,tv,recruitment_approach,150,right_boundary,0.0745506108399
+all,Fidelity loss 5%,shared,spline_sigmoid_equal,flat,contact_net_vocal,150,right_boundary,0.288515553608
+all,Fidelity loss 5%,shared,spline_sigmoid_equal,flat,recruitment_approach,37.0819258837,crossing,0.0291206724143
+all,Fidelity loss 5%,shared,spline_sigmoid_equal,mod,contact_net_vocal,150,right_boundary,0.216786497238
+all,Fidelity loss 5%,shared,spline_sigmoid_equal,mod,recruitment_approach,150,right_boundary,0.0734043075408
+all,Fidelity loss 5%,shared,spline_sigmoid_equal,tv,contact_net_vocal,150,right_boundary,0.302191010913
+all,Fidelity loss 5%,shared,spline_sigmoid_equal,tv,recruitment_approach,150,right_boundary,0.0707155462143
+all,Fidelity loss 5%,both,pava,flat,contact_net_vocal,150,right_boundary,0.287844419246
+all,Fidelity loss 5%,both,pava,flat,recruitment_approach,33.9797572187,crossing,0.027166378879
+all,Fidelity loss 5%,both,pava,mod,contact_net_vocal,150,right_boundary,0.207314569788
+all,Fidelity loss 5%,both,pava,mod,recruitment_approach,150,right_boundary,0.0656388424965
+all,Fidelity loss 5%,both,pava,tv,contact_net_vocal,150,right_boundary,0.289001470036
+all,Fidelity loss 5%,both,pava,tv,recruitment_approach,143.873221687,crossing,0.0632375712671
+all,Fidelity loss 5%,both,spline,flat,contact_net_vocal,150,right_boundary,0.274829734346
+all,Fidelity loss 5%,both,spline,flat,recruitment_approach,31.4816394974,crossing,0.0259380699823
+all,Fidelity loss 5%,both,spline,mod,contact_net_vocal,150,right_boundary,0.209706161217
+all,Fidelity loss 5%,both,spline,mod,recruitment_approach,150,right_boundary,0.0663960555247
+all,Fidelity loss 5%,both,spline,tv,contact_net_vocal,150,right_boundary,0.280950495006
+all,Fidelity loss 5%,both,spline,tv,recruitment_approach,146.79193242,crossing,0.0614759051165
+all,Fidelity loss 5%,both,parametric,flat,contact_net_vocal,150,right_boundary,0.280674937079
+all,Fidelity loss 5%,both,parametric,flat,recruitment_approach,33.0435912546,crossing,0.0264897325523
+all,Fidelity loss 5%,both,parametric,mod,contact_net_vocal,150,right_boundary,0.207788889614
+all,Fidelity loss 5%,both,parametric,mod,recruitment_approach,150,right_boundary,0.065789019131
+all,Fidelity loss 5%,both,parametric,tv,contact_net_vocal,150,right_boundary,0.306632783704
+all,Fidelity loss 5%,both,parametric,tv,recruitment_approach,143.487761533,crossing,0.0670955497559
+all,Fidelity loss 5%,both,spline_sigmoid_equal,flat,contact_net_vocal,150,right_boundary,0.277696220348
+all,Fidelity loss 5%,both,spline_sigmoid_equal,flat,recruitment_approach,32.2567154758,crossing,0.0262086051728
+all,Fidelity loss 5%,both,spline_sigmoid_equal,mod,contact_net_vocal,150,right_boundary,0.208657003592
+all,Fidelity loss 5%,both,spline_sigmoid_equal,mod,recruitment_approach,150,right_boundary,0.0660638767867
+all,Fidelity loss 5%,both,spline_sigmoid_equal,tv,contact_net_vocal,150,right_boundary,0.290858848004
+all,Fidelity loss 5%,both,spline_sigmoid_equal,tv,recruitment_approach,144.60431649,crossing,0.0636439915929
+all,Fidelity loss 10%,shared,pava,flat,contact_net_vocal,150,right_boundary,0.231322954726
+all,Fidelity loss 10%,shared,pava,flat,recruitment_approach,28.4321821892,crossing,0.0233480653026
+all,Fidelity loss 10%,shared,pava,mod,contact_net_vocal,150,right_boundary,0.147228236724
+all,Fidelity loss 10%,shared,pava,mod,recruitment_approach,99.589726962,crossing,0.0498517523225
+all,Fidelity loss 10%,shared,pava,tv,contact_net_vocal,150,right_boundary,0.208681128938
+all,Fidelity loss 10%,shared,pava,tv,recruitment_approach,97.0510635221,crossing,0.0488333520341
+all,Fidelity loss 10%,shared,spline,flat,contact_net_vocal,150,right_boundary,0.210652480533
+all,Fidelity loss 10%,shared,spline,flat,recruitment_approach,24.3494535024,crossing,0.0212617371997
+all,Fidelity loss 10%,shared,spline,mod,contact_net_vocal,150,right_boundary,0.14946298598
+all,Fidelity loss 10%,shared,spline,mod,recruitment_approach,101.636595615,crossing,0.0506084425396
+all,Fidelity loss 10%,shared,spline,tv,contact_net_vocal,150,right_boundary,0.199980586804
+all,Fidelity loss 10%,shared,spline,tv,recruitment_approach,91.561613833,crossing,0.0467973431286
+all,Fidelity loss 10%,shared,parametric,flat,contact_net_vocal,150,right_boundary,0.219852862214
+all,Fidelity loss 10%,shared,parametric,flat,recruitment_approach,26.627273877,crossing,0.0221903571568
+all,Fidelity loss 10%,shared,parametric,mod,contact_net_vocal,150,right_boundary,0.147631287029
+all,Fidelity loss 10%,shared,parametric,mod,recruitment_approach,99.9663943487,crossing,0.0499882258987
+all,Fidelity loss 10%,shared,parametric,tv,contact_net_vocal,150,right_boundary,0.230826660701
+all,Fidelity loss 10%,shared,parametric,tv,recruitment_approach,106.591506758,crossing,0.054015615299
+all,Fidelity loss 10%,shared,spline_sigmoid_equal,flat,contact_net_vocal,150,right_boundary,0.215150247368
+all,Fidelity loss 10%,shared,spline_sigmoid_equal,flat,recruitment_approach,25.4703054752,crossing,0.0217157092403
+all,Fidelity loss 10%,shared,spline_sigmoid_equal,mod,contact_net_vocal,150,right_boundary,0.148430182088
+all,Fidelity loss 10%,shared,spline_sigmoid_equal,mod,recruitment_approach,100.714448557,crossing,0.050258733238
+all,Fidelity loss 10%,shared,spline_sigmoid_equal,tv,contact_net_vocal,150,right_boundary,0.210845916417
+all,Fidelity loss 10%,shared,spline_sigmoid_equal,tv,recruitment_approach,98.6270470524,crossing,0.0493399327183
+all,Fidelity loss 10%,both,pava,flat,contact_net_vocal,150,right_boundary,0.213973733122
+all,Fidelity loss 10%,both,pava,flat,recruitment_approach,22.803371816,crossing,0.0186784522421
+all,Fidelity loss 10%,both,pava,mod,contact_net_vocal,150,right_boundary,0.13618611897
+all,Fidelity loss 10%,both,pava,mod,recruitment_approach,81.8233937866,crossing,0.039881401858
+all,Fidelity loss 10%,both,pava,tv,contact_net_vocal,150,right_boundary,0.193030044267
+all,Fidelity loss 10%,both,pava,tv,recruitment_approach,74.8481714202,crossing,0.0390666816273
+all,Fidelity loss 10%,both,spline,flat,contact_net_vocal,150,right_boundary,0.194853544493
+all,Fidelity loss 10%,both,spline,flat,recruitment_approach,20,no_segment_at_lower_bound,0.0170093897598
+all,Fidelity loss 10%,both,spline,mod,contact_net_vocal,150,right_boundary,0.138253262031
+all,Fidelity loss 10%,both,spline,mod,recruitment_approach,78.6889470844,crossing,0.0404867540316
+all,Fidelity loss 10%,both,spline,tv,contact_net_vocal,150,right_boundary,0.184982042793
+all,Fidelity loss 10%,both,spline,tv,recruitment_approach,69.9078223972,crossing,0.0374378745029
+all,Fidelity loss 10%,both,parametric,flat,contact_net_vocal,150,right_boundary,0.203363897548
+all,Fidelity loss 10%,both,parametric,flat,recruitment_approach,21.0652105064,crossing,0.0177522857255
+all,Fidelity loss 10%,both,parametric,mod,contact_net_vocal,150,right_boundary,0.136558940502
+all,Fidelity loss 10%,both,parametric,mod,recruitment_approach,78.5192754846,crossing,0.039990580719
+all,Fidelity loss 10%,both,parametric,tv,contact_net_vocal,150,right_boundary,0.213514661148
+all,Fidelity loss 10%,both,parametric,tv,recruitment_approach,87.7831737362,crossing,0.0432124922392
+all,Fidelity loss 10%,both,spline_sigmoid_equal,flat,contact_net_vocal,150,right_boundary,0.199013978816
+all,Fidelity loss 10%,both,spline_sigmoid_equal,flat,recruitment_approach,20.0934580587,crossing,0.0173725673922
+all,Fidelity loss 10%,both,spline_sigmoid_equal,mod,contact_net_vocal,150,right_boundary,0.137297918431
+all,Fidelity loss 10%,both,spline_sigmoid_equal,mod,recruitment_approach,78.598377298,crossing,0.0402069865904
+all,Fidelity loss 10%,both,spline_sigmoid_equal,tv,contact_net_vocal,150,right_boundary,0.195032472686
+all,Fidelity loss 10%,both,spline_sigmoid_equal,tv,recruitment_approach,78.0136959591,crossing,0.0394719461746
+all,Fidelity loss 20%,shared,pava,flat,contact_net_vocal,150,right_boundary,0.138281149733
+all,Fidelity loss 20%,shared,pava,flat,recruitment_approach,20,no_segment_at_lower_bound,0.0139570987147
+all,Fidelity loss 20%,shared,pava,mod,contact_net_vocal,150,right_boundary,0.0653411476421
+all,Fidelity loss 20%,shared,pava,mod,recruitment_approach,64.5204073421,crossing,0.0221246330269
+all,Fidelity loss 20%,shared,pava,tv,contact_net_vocal,150,right_boundary,0.0913752420009
+all,Fidelity loss 20%,shared,pava,tv,recruitment_approach,27.5763120715,crossing,0.0213826682966
+all,Fidelity loss 20%,shared,spline,flat,contact_net_vocal,150,right_boundary,0.114307315553
+all,Fidelity loss 20%,shared,spline,flat,recruitment_approach,20,no_segment_at_lower_bound,0.0115373533563
+all,Fidelity loss 20%,shared,spline,mod,contact_net_vocal,150,right_boundary,0.0656652229582
+all,Fidelity loss 20%,shared,spline,mod,recruitment_approach,49.2266291161,crossing,0.0222343655263
+all,Fidelity loss 20%,shared,spline,tv,contact_net_vocal,150,right_boundary,0.0880255717777
+all,Fidelity loss 20%,shared,spline,tv,recruitment_approach,34.5540119262,crossing,0.020598813877
+all,Fidelity loss 20%,shared,parametric,flat,contact_net_vocal,150,right_boundary,0.124753301121
+all,Fidelity loss 20%,shared,parametric,flat,recruitment_approach,20,no_segment_at_lower_bound,0.0125916955572
+all,Fidelity loss 20%,shared,parametric,mod,contact_net_vocal,150,right_boundary,0.0653222581217
+all,Fidelity loss 20%,shared,parametric,mod,recruitment_approach,53.473858232,crossing,0.0221182370005
+all,Fidelity loss 20%,shared,parametric,tv,contact_net_vocal,150,right_boundary,0.103698071652
+all,Fidelity loss 20%,shared,parametric,tv,recruitment_approach,48.3393543517,crossing,0.0242663266392
+all,Fidelity loss 20%,shared,spline_sigmoid_equal,flat,contact_net_vocal,150,right_boundary,0.119372821399
+all,Fidelity loss 20%,shared,spline_sigmoid_equal,flat,recruitment_approach,20,no_segment_at_lower_bound,0.0120486288647
+all,Fidelity loss 20%,shared,spline_sigmoid_equal,mod,contact_net_vocal,150,right_boundary,0.0654159089284
+all,Fidelity loss 20%,shared,spline_sigmoid_equal,mod,recruitment_approach,51.4892119992,crossing,0.0221499473363
+all,Fidelity loss 20%,shared,spline_sigmoid_equal,tv,contact_net_vocal,150,right_boundary,0.0924167004017
+all,Fidelity loss 20%,shared,spline_sigmoid_equal,tv,recruitment_approach,39.8650751875,crossing,0.0216263793833
+all,Fidelity loss 20%,both,pava,flat,contact_net_vocal,150,right_boundary,0.117538977273
+all,Fidelity loss 20%,both,pava,flat,recruitment_approach,20,no_segment_at_lower_bound,0.00837425922884
+all,Fidelity loss 20%,both,pava,mod,contact_net_vocal,150,right_boundary,0.0555399754958
+all,Fidelity loss 20%,both,pava,mod,recruitment_approach,27.8942044287,crossing,0.0132747798162
+all,Fidelity loss 20%,both,pava,tv,contact_net_vocal,150,right_boundary,0.0776689557007
+all,Fidelity loss 20%,both,pava,tv,recruitment_approach,20,no_segment_at_lower_bound,0.0128296009779
+all,Fidelity loss 20%,both,spline,flat,contact_net_vocal,150,right_boundary,0.0971612182201
+all,Fidelity loss 20%,both,spline,flat,recruitment_approach,20,no_segment_at_lower_bound,0.0069224120138
+all,Fidelity loss 20%,both,spline,mod,contact_net_vocal,150,right_boundary,0.0558154395145
+all,Fidelity loss 20%,both,spline,mod,recruitment_approach,32.3140184847,crossing,0.0133406193158
+all,Fidelity loss 20%,both,spline,tv,contact_net_vocal,150,right_boundary,0.074821736011
+all,Fidelity loss 20%,both,spline,tv,recruitment_approach,20,no_segment_at_lower_bound,0.0123592883262
+all,Fidelity loss 20%,both,parametric,flat,contact_net_vocal,150,right_boundary,0.106040305953
+all,Fidelity loss 20%,both,parametric,flat,recruitment_approach,20,no_segment_at_lower_bound,0.00755501733429
+all,Fidelity loss 20%,both,parametric,mod,contact_net_vocal,150,right_boundary,0.0555239194034
+all,Fidelity loss 20%,both,parametric,mod,recruitment_approach,37.3005174651,crossing,0.0132709422003
+all,Fidelity loss 20%,both,parametric,tv,contact_net_vocal,150,right_boundary,0.0881433609044
+all,Fidelity loss 20%,both,parametric,tv,recruitment_approach,20,no_segment_at_lower_bound,0.0145597959835
+all,Fidelity loss 20%,both,spline_sigmoid_equal,flat,contact_net_vocal,150,right_boundary,0.101466898189
+all,Fidelity loss 20%,both,spline_sigmoid_equal,flat,recruitment_approach,20,no_segment_at_lower_bound,0.00722917731883
+all,Fidelity loss 20%,both,spline_sigmoid_equal,mod,contact_net_vocal,150,right_boundary,0.0556035225891
+all,Fidelity loss 20%,both,spline_sigmoid_equal,mod,recruitment_approach,34.806538741,crossing,0.0132899684018
+all,Fidelity loss 20%,both,spline_sigmoid_equal,tv,contact_net_vocal,150,right_boundary,0.0785541953414
+all,Fidelity loss 20%,both,spline_sigmoid_equal,tv,recruitment_approach,20,no_segment_at_lower_bound,0.01297582763
+all,Combined stress,shared,pava,flat,contact_net_vocal,20,no_segment_at_lower_bound,0.00253973590616
+all,Combined stress,shared,pava,flat,recruitment_approach,20,no_segment_at_lower_bound,0.000256342565997
+all,Combined stress,shared,pava,mod,contact_net_vocal,20,no_segment_at_lower_bound,0.00125705298484
+all,Combined stress,shared,pava,mod,recruitment_approach,20,no_segment_at_lower_bound,0.00042564045764
+all,Combined stress,shared,pava,tv,contact_net_vocal,20,no_segment_at_lower_bound,0.00182787152227
+all,Combined stress,shared,pava,tv,recruitment_approach,20,no_segment_at_lower_bound,0.000427739173037
+all,Combined stress,shared,spline,flat,contact_net_vocal,20,no_segment_at_lower_bound,0.00210656296235
+all,Combined stress,shared,spline,flat,recruitment_approach,20,no_segment_at_lower_bound,0.000212621223291
+all,Combined stress,shared,spline,mod,contact_net_vocal,20,no_segment_at_lower_bound,0.00128107132591
+all,Combined stress,shared,spline,mod,recruitment_approach,20,no_segment_at_lower_bound,0.000433773112195
+all,Combined stress,shared,spline,tv,contact_net_vocal,20,no_segment_at_lower_bound,0.00171103683924
+all,Combined stress,shared,spline,tv,recruitment_approach,20,no_segment_at_lower_bound,0.000400398755456
+all,Combined stress,shared,parametric,flat,contact_net_vocal,20,no_segment_at_lower_bound,0.00229466418178
+all,Combined stress,shared,parametric,flat,recruitment_approach,20,no_segment_at_lower_bound,0.000231606799366
+all,Combined stress,shared,parametric,mod,contact_net_vocal,20,no_segment_at_lower_bound,0.00126064585262
+all,Combined stress,shared,parametric,mod,recruitment_approach,20,no_segment_at_lower_bound,0.000426857009292
+all,Combined stress,shared,parametric,tv,contact_net_vocal,20,no_segment_at_lower_bound,0.00220263377193
+all,Combined stress,shared,parametric,tv,recruitment_approach,20,no_segment_at_lower_bound,0.000515437073465
+all,Combined stress,shared,spline_sigmoid_equal,flat,contact_net_vocal,20,no_segment_at_lower_bound,0.00219760990507
+all,Combined stress,shared,spline_sigmoid_equal,flat,recruitment_approach,20,no_segment_at_lower_bound,0.000221810842914
+all,Combined stress,shared,spline_sigmoid_equal,mod,contact_net_vocal,20,no_segment_at_lower_bound,0.00126899776308
+all,Combined stress,shared,spline_sigmoid_equal,mod,recruitment_approach,20,no_segment_at_lower_bound,0.000429684981567
+all,Combined stress,shared,spline_sigmoid_equal,tv,contact_net_vocal,20,no_segment_at_lower_bound,0.00186015709673
+all,Combined stress,shared,spline_sigmoid_equal,tv,recruitment_approach,20,no_segment_at_lower_bound,0.000435294301914
+all,Combined stress,both,pava,flat,contact_net_vocal,20,no_segment_at_lower_bound,0.00215877552023
+all,Combined stress,both,pava,flat,recruitment_approach,20,no_segment_at_lower_bound,0.000153805539598
+all,Combined stress,both,pava,mod,contact_net_vocal,20,no_segment_at_lower_bound,0.00106849503712
+all,Combined stress,both,pava,mod,recruitment_approach,20,no_segment_at_lower_bound,0.000255384274584
+all,Combined stress,both,pava,tv,contact_net_vocal,20,no_segment_at_lower_bound,0.00155369079393
+all,Combined stress,both,pava,tv,recruitment_approach,20,no_segment_at_lower_bound,0.000256643503822
+all,Combined stress,both,spline,flat,contact_net_vocal,20,no_segment_at_lower_bound,0.001790578518
+all,Combined stress,both,spline,flat,recruitment_approach,20,no_segment_at_lower_bound,0.000127572733975
+all,Combined stress,both,spline,mod,contact_net_vocal,20,no_segment_at_lower_bound,0.00108891062702
+all,Combined stress,both,spline,mod,recruitment_approach,20,no_segment_at_lower_bound,0.000260263867317
+all,Combined stress,both,spline,tv,contact_net_vocal,20,no_segment_at_lower_bound,0.00145438131335
+all,Combined stress,both,spline,tv,recruitment_approach,20,no_segment_at_lower_bound,0.000240239253274
+all,Combined stress,both,parametric,flat,contact_net_vocal,20,no_segment_at_lower_bound,0.00195046455451
+all,Combined stress,both,parametric,flat,recruitment_approach,20,no_segment_at_lower_bound,0.000138964079619
+all,Combined stress,both,parametric,mod,contact_net_vocal,20,no_segment_at_lower_bound,0.00107154897473
+all,Combined stress,both,parametric,mod,recruitment_approach,20,no_segment_at_lower_bound,0.000256114205575
+all,Combined stress,both,parametric,tv,contact_net_vocal,20,no_segment_at_lower_bound,0.00187223870614
+all,Combined stress,both,parametric,tv,recruitment_approach,20,no_segment_at_lower_bound,0.000309262244079
+all,Combined stress,both,spline_sigmoid_equal,flat,contact_net_vocal,20,no_segment_at_lower_bound,0.00186796841931
+all,Combined stress,both,spline_sigmoid_equal,flat,recruitment_approach,20,no_segment_at_lower_bound,0.000133086505749
+all,Combined stress,both,spline_sigmoid_equal,mod,contact_net_vocal,20,no_segment_at_lower_bound,0.00107864809862
+all,Combined stress,both,spline_sigmoid_equal,mod,recruitment_approach,20,no_segment_at_lower_bound,0.00025781098894
+all,Combined stress,both,spline_sigmoid_equal,tv,contact_net_vocal,20,no_segment_at_lower_bound,0.00158113353222
+all,Combined stress,both,spline_sigmoid_equal,tv,recruitment_approach,20,no_segment_at_lower_bound,0.000261176581148

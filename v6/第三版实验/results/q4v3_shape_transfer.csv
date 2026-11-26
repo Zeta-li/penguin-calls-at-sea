@@ -1,0 +1,64 @@
+model,scenario,call,radius_m,status,later_segment,p100
+pava,Baseline,flat,103.28424353,crossing,False,0.61911261625
+pava,Baseline,mod,150,right_boundary,False,0.567259120982
+pava,Baseline,tv,150,right_boundary,False,0.612751806317
+pava,Threshold 0.60,flat,77.5260999696,crossing,False,0.203750157551
+pava,Threshold 0.60,mod,137.407308873,crossing,False,0.436302151961
+pava,Threshold 0.60,tv,150,right_boundary,False,0.538426633488
+pava,Threshold 0.70,flat,53.3651984218,crossing,False,0.130158549064
+pava,Threshold 0.70,mod,101.30869731,crossing,False,0.219001652302
+pava,Threshold 0.70,tv,134.566827213,crossing,False,0.317296831416
+pava,Fidelity loss 5%,flat,96.7707590125,crossing,False,0.470263962845
+pava,Fidelity loss 5%,mod,150,right_boundary,False,0.54304087127
+pava,Fidelity loss 5%,tv,150,right_boundary,False,0.599821407576
+pava,Fidelity loss 10%,flat,90.0294515007,crossing,False,0.358909216707
+pava,Fidelity loss 10%,mod,150,right_boundary,False,0.503841419061
+pava,Fidelity loss 10%,tv,150,right_boundary,False,0.576231361481
+pava,Fidelity loss 20%,flat,75.8961082724,crossing,False,0.224747049844
+pava,Fidelity loss 20%,mod,134.955177345,crossing,False,0.375003468839
+pava,Fidelity loss 20%,tv,150,right_boundary,False,0.474214919905
+pava,Combined stress,flat,20.0389450516,crossing,False,0.120202165384
+pava,Combined stress,mod,24.6335027204,crossing,False,0.12805635738
+pava,Combined stress,tv,20,no_segment_at_lower_bound,False,0.13899271582
+spline,Baseline,flat,119.347656713,crossing,False,0.61911261625
+spline,Baseline,mod,150,right_boundary,False,0.567259120982
+spline,Baseline,tv,150,right_boundary,False,0.612751806317
+spline,Threshold 0.60,flat,81.3776266266,crossing,False,0.222054447643
+spline,Threshold 0.60,mod,138.562940904,crossing,False,0.417026540148
+spline,Threshold 0.60,tv,150,right_boundary,False,0.48628391524
+spline,Threshold 0.70,flat,49.9159423388,crossing,False,0.13330118597
+spline,Threshold 0.70,mod,97.1101330805,crossing,False,0.204236552235
+spline,Threshold 0.70,tv,109.396302305,crossing,False,0.245558673175
+spline,Fidelity loss 5%,flat,110.160671284,crossing,False,0.484192139622
+spline,Fidelity loss 5%,mod,150,right_boundary,False,0.538656736075
+spline,Fidelity loss 5%,tv,150,right_boundary,False,0.589850905605
+spline,Fidelity loss 10%,flat,100.357964408,crossing,False,0.373177953588
+spline,Fidelity loss 10%,mod,150,right_boundary,False,0.494022510347
+spline,Fidelity loss 10%,tv,150,right_boundary,False,0.551655401703
+spline,Fidelity loss 20%,flat,78.79700252,crossing,False,0.2298821148
+spline,Fidelity loss 20%,mod,135.03409261,crossing,False,0.358027756237
+spline,Fidelity loss 20%,tv,150,right_boundary,False,0.417676139838
+spline,Combined stress,flat,20,no_segment_at_lower_bound,False,0.120390385962
+spline,Combined stress,mod,32.9827538347,crossing,False,0.126646075734
+spline,Combined stress,tv,20,no_segment_at_lower_bound,False,0.130687034741
+parametric,Baseline,flat,105.465377845,crossing,False,0.61911261625
+parametric,Baseline,mod,150,right_boundary,False,0.567259120982
+parametric,Baseline,tv,150,right_boundary,False,0.612751806317
+parametric,Threshold 0.60,flat,78.1543291384,crossing,False,0.20629539874
+parametric,Threshold 0.60,mod,138.894198646,crossing,False,0.469863523149
+parametric,Threshold 0.60,tv,150,right_boundary,False,0.566892954427
+parametric,Threshold 0.70,flat,55.1832402972,crossing,False,0.130581209262
+parametric,Threshold 0.70,mod,107.868841763,crossing,False,0.253297081018
+parametric,Threshold 0.70,tv,140.060223731,crossing,False,0.384449197413
+parametric,Fidelity loss 5%,flat,98.7045265598,crossing,False,0.471935103649
+parametric,Fidelity loss 5%,mod,150,right_boundary,False,0.549954886767
+parametric,Fidelity loss 5%,tv,150,right_boundary,False,0.604767422225
+parametric,Fidelity loss 10%,flat,91.6368136901,crossing,False,0.360380773319
+parametric,Fidelity loss 10%,mod,150,right_boundary,False,0.52014494493
+parametric,Fidelity loss 10%,tv,150,right_boundary,False,0.58935765584
+parametric,Fidelity loss 20%,flat,76.3387331076,crossing,False,0.224902531568
+parametric,Fidelity loss 20%,mod,136.263056552,crossing,False,0.407650663691
+parametric,Fidelity loss 20%,tv,150,right_boundary,False,0.512759901951
+parametric,Combined stress,flat,20.4337459799,crossing,False,0.120217388242
+parametric,Combined stress,mod,48.2028491181,crossing,False,0.131583274802
+parametric,Combined stress,tv,20,no_segment_at_lower_bound,False,0.149665916137

@@ -1,0 +1,6 @@
+fold,held_date,method,candidate,decision_rule,inner_balanced_accuracy,inner_log_loss,n_train,n_test
+1,2022,classical_nested,trees_common_10,balanced,0.512250712251,1.15465388007,27,81
+1,2022,common_six_only,trees_common_10,balanced,0.512250712251,1.15465388007,27,81
+1,2022,ordinary_decision_only,kernel_common_0.65,ordinary,0.378917378917,1.1305211483,27,81
+1,2022,kernel_only,kernel_acoustic_0.35,balanced,0.509401709402,1.1222022284,27,81
+1,2022,trees_only,trees_common_10,balanced,0.512250712251,1.15465388007,27,81

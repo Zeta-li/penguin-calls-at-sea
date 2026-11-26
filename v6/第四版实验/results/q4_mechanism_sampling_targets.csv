@@ -1,0 +1,37 @@
+scenario,call,endpoint,peak_separation_distance_m,index_difference_both_minus_shared
+Combined stress,flat,contact_net_vocal,20,-0.011623719599
+Combined stress,flat,recruitment_approach,20,-0.0078653075573
+Combined stress,flat,context_composite,20,-0.010634929107
+Combined stress,mod,contact_net_vocal,20,-0.010111309451
+Combined stress,mod,recruitment_approach,20,-0.019737029528
+Combined stress,mod,context_composite,20,-0.014885676312
+Combined stress,tv,contact_net_vocal,20,-0.0057538866166
+Combined stress,tv,recruitment_approach,20,-0.0084218014216
+Combined stress,tv,context_composite,20,-0.0069379297354
+Fidelity loss 10%,flat,contact_net_vocal,20,-0.032908323129
+Fidelity loss 10%,flat,recruitment_approach,20,-0.022267750044
+Fidelity loss 10%,flat,context_composite,20,-0.030371972474
+Fidelity loss 10%,mod,contact_net_vocal,20,-0.0299372769
+Fidelity loss 10%,mod,recruitment_approach,20,-0.058436834619
+Fidelity loss 10%,mod,context_composite,20,-0.044629579485
+Fidelity loss 10%,tv,contact_net_vocal,20,-0.03510051706
+Fidelity loss 10%,tv,recruitment_approach,20,-0.051375636013
+Fidelity loss 10%,tv,context_composite,20,-0.042878665825
+Fidelity loss 20%,flat,contact_net_vocal,20,-0.061648218364
+Fidelity loss 20%,flat,recruitment_approach,20,-0.041714891148
+Fidelity loss 20%,flat,context_composite,20,-0.056404013046
+Fidelity loss 20%,mod,contact_net_vocal,20,-0.055892448055
+Fidelity loss 20%,mod,recruitment_approach,20,-0.10910069591
+Fidelity loss 20%,mod,context_composite,20,-0.082283792628
+Fidelity loss 20%,tv,contact_net_vocal,20,-0.060660249038
+Fidelity loss 20%,tv,recruitment_approach,20,-0.088786694216
+Fidelity loss 20%,tv,context_composite,20,-0.073143002913
+Fidelity loss 5%,flat,contact_net_vocal,25,-0.016645999752
+Fidelity loss 5%,flat,recruitment_approach,20,-0.011243901309
+Fidelity loss 5%,flat,context_composite,20,-0.015402468101
+Fidelity loss 5%,mod,contact_net_vocal,20,-0.015125503575
+Fidelity loss 5%,mod,recruitment_approach,20,-0.029524614208
+Fidelity loss 5%,mod,context_composite,20,-0.022689220748
+Fidelity loss 5%,tv,contact_net_vocal,20,-0.018000985059
+Fidelity loss 5%,tv,recruitment_approach,20,-0.026347533703
+Fidelity loss 5%,tv,context_composite,20,-0.022132281323

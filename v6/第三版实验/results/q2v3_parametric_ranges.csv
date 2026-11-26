@@ -1,0 +1,10 @@
+call,threshold,radius_m,status
+flat,0.5,85.8451971983,crossing
+flat,0.6,61.4276076566,crossing
+flat,0.7,39.102398475,crossing
+mod,0.5,149.905187914,crossing
+mod,0.6,117.865565149,crossing
+mod,0.7,83.9527663975,crossing
+tv,0.5,182.778906869,crossing
+tv,0.6,150.298748575,crossing
+tv,0.7,104.242806795,crossing

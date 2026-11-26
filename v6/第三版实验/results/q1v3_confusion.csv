@@ -1,0 +1,10 @@
+model,actual,flat,mod,tv
+reference,flat,28,13,3
+reference,mod,23,14,3
+reference,tv,12,11,1
+TabICLv2,flat,25,9,10
+TabICLv2,mod,15,18,7
+TabICLv2,tv,8,8,8
+Mitra-v2,flat,23,12,9
+Mitra-v2,mod,13,21,6
+Mitra-v2,tv,8,11,5

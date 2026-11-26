@@ -1,0 +1,13 @@
+Type,CallType,Context,trials,responses,response_rate
+call,flat,after,12,8,0.6666666667
+call,flat,commuting,25,11,0.44
+call,flat,searching,11,10,0.9090909091
+call,mod,after,9,6,0.6666666667
+call,mod,commuting,15,6,0.4
+call,mod,searching,9,9,1
+call,tv,after,15,5,0.3333333333
+call,tv,commuting,25,18,0.72
+call,tv,searching,18,17,0.9444444444
+control,control,after,36,7,0.1944444444
+control,control,commuting,65,6,0.09230769231
+control,control,searching,38,5,0.1315789474

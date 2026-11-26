@@ -1,0 +1,7 @@
+stimulus,trials,heads_up,net_increase,confirmed_approach,any_post_call,cross_exact,cross_interval,cross_right_censored,uncorroborated_approach_time
+all,278,68,81,23,85,70,11,197,5
+natural,139,55,76,23,78,66,10,63,5
+control,139,13,5,0,7,4,1,134,0
+flat,48,21,26,4,26,22,4,22,1
+mod,33,15,16,8,16,14,2,17,0
+tv,58,19,34,11,36,30,4,24,4

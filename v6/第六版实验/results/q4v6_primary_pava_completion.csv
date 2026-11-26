@@ -1,0 +1,169 @@
+criterion,scenario,mechanism,call,endpoint,completion_lower_m,lower_status,pava_measured_m,measured_status,completion_upper_m,upper_status
+mean,Baseline,shared,flat,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+mean,Baseline,shared,flat,recruitment_approach,66.0721666461,crossing,66.0721666461,crossing,66.0721666461,crossing
+mean,Baseline,shared,mod,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+mean,Baseline,shared,mod,recruitment_approach,150,right_boundary,150,right_boundary,150,right_boundary
+mean,Baseline,shared,tv,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+mean,Baseline,shared,tv,recruitment_approach,150,right_boundary,150,right_boundary,150,right_boundary
+mean,Baseline,both,flat,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+mean,Baseline,both,flat,recruitment_approach,66.0721666461,crossing,66.0721666461,crossing,66.0721666461,crossing
+mean,Baseline,both,mod,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+mean,Baseline,both,mod,recruitment_approach,150,right_boundary,150,right_boundary,150,right_boundary
+mean,Baseline,both,tv,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+mean,Baseline,both,tv,recruitment_approach,150,right_boundary,150,right_boundary,150,right_boundary
+mean,Threshold 0.60,shared,flat,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+mean,Threshold 0.60,shared,flat,recruitment_approach,34.0325322,crossing,44.3793382175,crossing,51.0823162265,crossing
+mean,Threshold 0.60,shared,mod,contact_net_vocal,97.8449258831,crossing,150,right_boundary,150,right_boundary
+mean,Threshold 0.60,shared,mod,recruitment_approach,81.7137917441,crossing,113.757882999,crossing,140.668493889,crossing
+mean,Threshold 0.60,shared,tv,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+mean,Threshold 0.60,shared,tv,recruitment_approach,68.162037322,crossing,138.432522321,crossing,150,right_boundary
+mean,Threshold 0.60,both,flat,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+mean,Threshold 0.60,both,flat,recruitment_approach,34.0325322,crossing,44.3793382175,crossing,51.0823162265,crossing
+mean,Threshold 0.60,both,mod,contact_net_vocal,97.8449258831,crossing,150,right_boundary,150,right_boundary
+mean,Threshold 0.60,both,mod,recruitment_approach,81.7137917441,crossing,113.757882999,crossing,140.668493889,crossing
+mean,Threshold 0.60,both,tv,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+mean,Threshold 0.60,both,tv,recruitment_approach,68.162037322,crossing,138.432522321,crossing,150,right_boundary
+mean,Threshold 0.70,shared,flat,contact_net_vocal,36.523937642,crossing,63.5066317455,crossing,86.0383410687,crossing
+mean,Threshold 0.70,shared,flat,recruitment_approach,24.3570799881,crossing,29.255145224,crossing,30.5864242934,crossing
+mean,Threshold 0.70,shared,mod,contact_net_vocal,77.2041492655,crossing,104.600253179,crossing,138.156241201,crossing
+mean,Threshold 0.70,shared,mod,recruitment_approach,70.8236924649,crossing,81.7418900653,crossing,99.1234462254,crossing
+mean,Threshold 0.70,shared,tv,contact_net_vocal,65.9187333372,crossing,143.335888742,crossing,150,right_boundary
+mean,Threshold 0.70,shared,tv,recruitment_approach,25.1968147705,crossing,85.1029020749,crossing,136.661109808,crossing
+mean,Threshold 0.70,both,flat,contact_net_vocal,36.523937642,crossing,63.5066317455,crossing,86.0383410687,crossing
+mean,Threshold 0.70,both,flat,recruitment_approach,24.3570799881,crossing,29.255145224,crossing,30.5864242934,crossing
+mean,Threshold 0.70,both,mod,contact_net_vocal,77.2041492655,crossing,104.600253179,crossing,138.156241201,crossing
+mean,Threshold 0.70,both,mod,recruitment_approach,70.8236924649,crossing,81.7418900653,crossing,99.1234462254,crossing
+mean,Threshold 0.70,both,tv,contact_net_vocal,65.9187333372,crossing,143.335888742,crossing,150,right_boundary
+mean,Threshold 0.70,both,tv,recruitment_approach,25.1968147705,crossing,85.1029020749,crossing,136.661109808,crossing
+mean,Fidelity loss 5%,shared,flat,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+mean,Fidelity loss 5%,shared,flat,recruitment_approach,42.8976843332,crossing,57.8630091684,crossing,62.4343471404,crossing
+mean,Fidelity loss 5%,shared,mod,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+mean,Fidelity loss 5%,shared,mod,recruitment_approach,150,right_boundary,150,right_boundary,150,right_boundary
+mean,Fidelity loss 5%,shared,tv,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+mean,Fidelity loss 5%,shared,tv,recruitment_approach,150,right_boundary,150,right_boundary,150,right_boundary
+mean,Fidelity loss 5%,both,flat,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+mean,Fidelity loss 5%,both,flat,recruitment_approach,40.0018376072,crossing,50.1168015676,crossing,52.5368713996,crossing
+mean,Fidelity loss 5%,both,mod,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+mean,Fidelity loss 5%,both,mod,recruitment_approach,150,right_boundary,150,right_boundary,150,right_boundary
+mean,Fidelity loss 5%,both,tv,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+mean,Fidelity loss 5%,both,tv,recruitment_approach,143.363807537,crossing,150,right_boundary,150,right_boundary
+mean,Fidelity loss 10%,shared,flat,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+mean,Fidelity loss 10%,shared,flat,recruitment_approach,37.7510249938,crossing,50.9502210686,crossing,57.2357554044,crossing
+mean,Fidelity loss 10%,shared,mod,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+mean,Fidelity loss 10%,shared,mod,recruitment_approach,98.4925349658,crossing,138.766965139,crossing,150,right_boundary
+mean,Fidelity loss 10%,shared,tv,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+mean,Fidelity loss 10%,shared,tv,recruitment_approach,85.641408185,crossing,150,right_boundary,150,right_boundary
+mean,Fidelity loss 10%,both,flat,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+mean,Fidelity loss 10%,both,flat,recruitment_approach,33.564744532,crossing,38.8173007248,crossing,40.4190500234,crossing
+mean,Fidelity loss 10%,both,mod,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+mean,Fidelity loss 10%,both,mod,recruitment_approach,87.7551882131,crossing,125.056046239,crossing,145.747818234,crossing
+mean,Fidelity loss 10%,both,tv,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+mean,Fidelity loss 10%,both,tv,recruitment_approach,73.214481717,crossing,141.718868351,crossing,150,right_boundary
+mean,Fidelity loss 20%,shared,flat,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+mean,Fidelity loss 20%,shared,flat,recruitment_approach,31.597583116,crossing,38.4426163552,crossing,42.6795449676,crossing
+mean,Fidelity loss 20%,shared,mod,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+mean,Fidelity loss 20%,shared,mod,recruitment_approach,79.2965469184,crossing,104.958736462,crossing,133.938647919,crossing
+mean,Fidelity loss 20%,shared,tv,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+mean,Fidelity loss 20%,shared,tv,recruitment_approach,66.3040735277,crossing,131.016747681,crossing,150,right_boundary
+mean,Fidelity loss 20%,both,flat,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+mean,Fidelity loss 20%,both,flat,recruitment_approach,20,no_segment_at_lower_bound,20.5254146932,crossing,20.6780894351,crossing
+mean,Fidelity loss 20%,both,mod,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+mean,Fidelity loss 20%,both,mod,recruitment_approach,72.0669437456,crossing,82.8689663015,crossing,95.2016172571,crossing
+mean,Fidelity loss 20%,both,tv,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+mean,Fidelity loss 20%,both,tv,recruitment_approach,35.7475556709,crossing,81.5666981189,crossing,103.405446166,crossing
+mean,Combined stress,shared,flat,contact_net_vocal,20.3183823537,crossing,23.7264256217,crossing,24.8697617269,crossing
+mean,Combined stress,shared,flat,recruitment_approach,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound
+mean,Combined stress,shared,mod,contact_net_vocal,24.1312167599,crossing,24.1312167599,crossing,24.1312167599,crossing
+mean,Combined stress,shared,mod,recruitment_approach,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound
+mean,Combined stress,shared,tv,contact_net_vocal,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound
+mean,Combined stress,shared,tv,recruitment_approach,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound
+mean,Combined stress,both,flat,contact_net_vocal,20,no_segment_at_lower_bound,21.6075557245,crossing,22.3971325232,crossing
+mean,Combined stress,both,flat,recruitment_approach,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound
+mean,Combined stress,both,mod,contact_net_vocal,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound
+mean,Combined stress,both,mod,recruitment_approach,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound
+mean,Combined stress,both,tv,contact_net_vocal,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound
+mean,Combined stress,both,tv,recruitment_approach,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound
+all,Baseline,shared,flat,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+all,Baseline,shared,flat,recruitment_approach,66.0721666461,crossing,66.0721666461,crossing,66.0721666461,crossing
+all,Baseline,shared,mod,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+all,Baseline,shared,mod,recruitment_approach,150,right_boundary,150,right_boundary,150,right_boundary
+all,Baseline,shared,tv,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+all,Baseline,shared,tv,recruitment_approach,150,right_boundary,150,right_boundary,150,right_boundary
+all,Baseline,both,flat,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+all,Baseline,both,flat,recruitment_approach,66.0721666461,crossing,66.0721666461,crossing,66.0721666461,crossing
+all,Baseline,both,mod,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+all,Baseline,both,mod,recruitment_approach,150,right_boundary,150,right_boundary,150,right_boundary
+all,Baseline,both,tv,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+all,Baseline,both,tv,recruitment_approach,150,right_boundary,150,right_boundary,150,right_boundary
+all,Threshold 0.60,shared,flat,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+all,Threshold 0.60,shared,flat,recruitment_approach,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound,20.5960681431,crossing
+all,Threshold 0.60,shared,mod,contact_net_vocal,81.1152449324,crossing,103.204651283,crossing,150,right_boundary
+all,Threshold 0.60,shared,mod,recruitment_approach,66.3474628193,crossing,68.5190792272,crossing,75.3623227044,crossing
+all,Threshold 0.60,shared,tv,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+all,Threshold 0.60,shared,tv,recruitment_approach,20,no_segment_at_lower_bound,33.7042902189,crossing,79.8154101433,crossing
+all,Threshold 0.60,both,flat,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+all,Threshold 0.60,both,flat,recruitment_approach,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound,20.5960681431,crossing
+all,Threshold 0.60,both,mod,contact_net_vocal,81.1152449324,crossing,103.204651283,crossing,150,right_boundary
+all,Threshold 0.60,both,mod,recruitment_approach,66.3474628193,crossing,68.5190792272,crossing,75.3623227044,crossing
+all,Threshold 0.60,both,tv,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+all,Threshold 0.60,both,tv,recruitment_approach,20,no_segment_at_lower_bound,33.7042902189,crossing,79.8154101433,crossing
+all,Threshold 0.70,shared,flat,contact_net_vocal,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound,20.4594774884,crossing
+all,Threshold 0.70,shared,flat,recruitment_approach,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound
+all,Threshold 0.70,shared,mod,contact_net_vocal,24.8538138708,crossing,24.8538138708,crossing,24.8538138708,crossing
+all,Threshold 0.70,shared,mod,recruitment_approach,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound
+all,Threshold 0.70,shared,tv,contact_net_vocal,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound
+all,Threshold 0.70,shared,tv,recruitment_approach,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound
+all,Threshold 0.70,both,flat,contact_net_vocal,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound,20.4594774884,crossing
+all,Threshold 0.70,both,flat,recruitment_approach,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound
+all,Threshold 0.70,both,mod,contact_net_vocal,24.8538138708,crossing,24.8538138708,crossing,24.8538138708,crossing
+all,Threshold 0.70,both,mod,recruitment_approach,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound
+all,Threshold 0.70,both,tv,contact_net_vocal,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound
+all,Threshold 0.70,both,tv,recruitment_approach,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound
+all,Fidelity loss 5%,shared,flat,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+all,Fidelity loss 5%,shared,flat,recruitment_approach,34.45242676,crossing,37.7887221209,crossing,41.3328792687,crossing
+all,Fidelity loss 5%,shared,mod,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+all,Fidelity loss 5%,shared,mod,recruitment_approach,150,right_boundary,150,right_boundary,150,right_boundary
+all,Fidelity loss 5%,shared,tv,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+all,Fidelity loss 5%,shared,tv,recruitment_approach,150,right_boundary,150,right_boundary,150,right_boundary
+all,Fidelity loss 5%,both,flat,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+all,Fidelity loss 5%,both,flat,recruitment_approach,30.8025181908,crossing,33.9797572187,crossing,36.1731771533,crossing
+all,Fidelity loss 5%,both,mod,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+all,Fidelity loss 5%,both,mod,recruitment_approach,150,right_boundary,150,right_boundary,150,right_boundary
+all,Fidelity loss 5%,both,tv,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+all,Fidelity loss 5%,both,tv,recruitment_approach,143.363807537,crossing,143.873221687,crossing,150,right_boundary
+all,Fidelity loss 10%,shared,flat,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+all,Fidelity loss 10%,shared,flat,recruitment_approach,24.9947219083,crossing,28.4321821892,crossing,30.0556987451,crossing
+all,Fidelity loss 10%,shared,mod,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+all,Fidelity loss 10%,shared,mod,recruitment_approach,98.4856459285,crossing,99.589726962,crossing,150,right_boundary
+all,Fidelity loss 10%,shared,tv,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+all,Fidelity loss 10%,shared,tv,recruitment_approach,85.641408185,crossing,97.0510635221,crossing,150,right_boundary
+all,Fidelity loss 10%,both,flat,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+all,Fidelity loss 10%,both,flat,recruitment_approach,21.0525682082,crossing,22.803371816,crossing,23.5910041346,crossing
+all,Fidelity loss 10%,both,mod,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+all,Fidelity loss 10%,both,mod,recruitment_approach,74.1130034304,crossing,81.8233937866,crossing,101.966344664,crossing
+all,Fidelity loss 10%,both,tv,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+all,Fidelity loss 10%,both,tv,recruitment_approach,55.7085863681,crossing,74.8481714202,crossing,150,right_boundary
+all,Fidelity loss 20%,shared,flat,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+all,Fidelity loss 20%,shared,flat,recruitment_approach,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound
+all,Fidelity loss 20%,shared,mod,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+all,Fidelity loss 20%,shared,mod,recruitment_approach,64.2787969652,crossing,64.5204073421,crossing,65.2001904811,crossing
+all,Fidelity loss 20%,shared,tv,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+all,Fidelity loss 20%,shared,tv,recruitment_approach,20,no_segment_at_lower_bound,27.5763120715,crossing,54.4115547491,crossing
+all,Fidelity loss 20%,both,flat,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+all,Fidelity loss 20%,both,flat,recruitment_approach,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound
+all,Fidelity loss 20%,both,mod,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+all,Fidelity loss 20%,both,mod,recruitment_approach,27.8942044287,crossing,27.8942044287,crossing,27.8942044287,crossing
+all,Fidelity loss 20%,both,tv,contact_net_vocal,150,right_boundary,150,right_boundary,150,right_boundary
+all,Fidelity loss 20%,both,tv,recruitment_approach,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound
+all,Combined stress,shared,flat,contact_net_vocal,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound
+all,Combined stress,shared,flat,recruitment_approach,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound
+all,Combined stress,shared,mod,contact_net_vocal,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound
+all,Combined stress,shared,mod,recruitment_approach,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound
+all,Combined stress,shared,tv,contact_net_vocal,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound
+all,Combined stress,shared,tv,recruitment_approach,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound
+all,Combined stress,both,flat,contact_net_vocal,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound
+all,Combined stress,both,flat,recruitment_approach,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound
+all,Combined stress,both,mod,contact_net_vocal,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound
+all,Combined stress,both,mod,recruitment_approach,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound
+all,Combined stress,both,tv,contact_net_vocal,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound
+all,Combined stress,both,tv,recruitment_approach,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound,20,no_segment_at_lower_bound

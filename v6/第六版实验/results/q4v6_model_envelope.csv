@@ -1,0 +1,127 @@
+criterion,scenario,call,endpoint,v5_common_clipped_m,v5_common_status,v5_largest_clipped_m,v5_n_empty,v5_n_cap,v6_common_clipped_m,v6_common_status,v6_largest_clipped_m,v6_n_empty,v6_n_cap
+mean,Baseline,flat,contact_net_vocal,115.939253507,crossing,137.024059807,0,0,150,right_boundary,150,0,8
+mean,Baseline,flat,recruitment_approach,65.1161605928,crossing,67.1304414315,0,0,88.8182336015,crossing,88.8182336015,0,0
+mean,Baseline,flat,context_composite,103.50976861,crossing,119.686617353,0,0,150,right_boundary,150,0,8
+mean,Baseline,mod,contact_net_vocal,150,right_boundary,150,0,8,150,right_boundary,150,0,8
+mean,Baseline,mod,recruitment_approach,148.43162873,crossing,150,0,6,150,right_boundary,150,0,8
+mean,Baseline,mod,context_composite,150,right_boundary,150,0,8,150,right_boundary,150,0,8
+mean,Baseline,tv,contact_net_vocal,150,right_boundary,150,0,8,150,right_boundary,150,0,8
+mean,Baseline,tv,recruitment_approach,150,right_boundary,150,0,8,150,right_boundary,150,0,8
+mean,Baseline,tv,context_composite,150,right_boundary,150,0,8,150,right_boundary,150,0,8
+mean,Threshold 0.60,flat,contact_net_vocal,86.3514040683,crossing,95.2350539919,0,0,150,right_boundary,150,0,8
+mean,Threshold 0.60,flat,recruitment_approach,46.8170444326,crossing,51.9250001169,0,0,48.804209845,crossing,53.5361597119,0,0
+mean,Threshold 0.60,flat,context_composite,77.656438581,crossing,81.5977205981,0,0,91.2972552168,crossing,101.885457294,0,0
+mean,Threshold 0.60,mod,contact_net_vocal,143.501937114,crossing,149.967398336,0,0,150,right_boundary,150,0,8
+mean,Threshold 0.60,mod,recruitment_approach,117.666349093,crossing,122.9764089,0,0,125.134845145,crossing,128.925149018,0,0
+mean,Threshold 0.60,mod,context_composite,133.882982322,crossing,138.08866602,0,0,149.786465602,crossing,150,0,6
+mean,Threshold 0.60,tv,contact_net_vocal,150,right_boundary,150,0,8,150,right_boundary,150,0,8
+mean,Threshold 0.60,tv,recruitment_approach,125.5236838,crossing,148.984216002,0,0,132.421079297,crossing,150,0,2
+mean,Threshold 0.60,tv,context_composite,150,right_boundary,150,0,8,150,right_boundary,150,0,8
+mean,Threshold 0.70,flat,contact_net_vocal,59.9590485071,crossing,64.653844108,0,0,62.9630120886,crossing,66.9038948557,0,0
+mean,Threshold 0.70,flat,recruitment_approach,29.4345108312,crossing,35.4439419211,0,0,29.7127386143,crossing,35.7131915481,0,0
+mean,Threshold 0.70,flat,context_composite,50.0399271536,crossing,56.7086538221,0,0,51.4816322169,crossing,57.8604268798,0,0
+mean,Threshold 0.70,mod,contact_net_vocal,106.437798475,crossing,114.886049396,0,0,109.804883281,crossing,117.541348571,0,0
+mean,Threshold 0.70,mod,recruitment_approach,81.1765625509,crossing,92.1994250913,0,0,82.2367087026,crossing,93.0905705468,0,0
+mean,Threshold 0.70,mod,context_composite,95.2709981497,crossing,105.460559955,0,0,97.2643843492,crossing,107.076941041,0,0
+mean,Threshold 0.70,tv,contact_net_vocal,127.33358447,crossing,150,0,2,132.51596486,crossing,150,0,2
+mean,Threshold 0.70,tv,recruitment_approach,82.4449120557,crossing,111.643593278,0,0,83.5778534184,crossing,112.62454463,0,0
+mean,Threshold 0.70,tv,context_composite,108.841758884,crossing,139.640661569,0,0,111.467995186,crossing,141.576323036,0,0
+mean,Fidelity loss 5%,flat,contact_net_vocal,108.361643283,crossing,127.870572138,0,0,150,right_boundary,150,0,8
+mean,Fidelity loss 5%,flat,recruitment_approach,54.9944893059,crossing,62.7353396858,0,0,62.1737659873,crossing,70.5078645601,0,0
+mean,Fidelity loss 5%,flat,context_composite,96.0992969586,crossing,110.47006856,0,0,150,right_boundary,150,0,8
+mean,Fidelity loss 5%,mod,contact_net_vocal,150,right_boundary,150,0,8,150,right_boundary,150,0,8
+mean,Fidelity loss 5%,mod,recruitment_approach,137.953423786,crossing,145.580085015,0,0,150,right_boundary,150,0,8
+mean,Fidelity loss 5%,mod,context_composite,150,right_boundary,150,0,8,150,right_boundary,150,0,8
+mean,Fidelity loss 5%,tv,contact_net_vocal,150,right_boundary,150,0,8,150,right_boundary,150,0,8
+mean,Fidelity loss 5%,tv,recruitment_approach,150,right_boundary,150,0,8,150,right_boundary,150,0,8
+mean,Fidelity loss 5%,tv,context_composite,150,right_boundary,150,0,8,150,right_boundary,150,0,8
+mean,Fidelity loss 10%,flat,contact_net_vocal,100.484118326,crossing,118.007519301,0,0,150,right_boundary,150,0,8
+mean,Fidelity loss 10%,flat,recruitment_approach,44.9278248252,crossing,57.8454094544,0,0,47.6643038067,crossing,61.6283953792,0,0
+mean,Fidelity loss 10%,flat,context_composite,88.4441595674,crossing,100.636313921,0,0,150,right_boundary,150,0,8
+mean,Fidelity loss 10%,mod,contact_net_vocal,150,right_boundary,150,0,8,150,right_boundary,150,0,8
+mean,Fidelity loss 10%,mod,recruitment_approach,126.377704629,crossing,136.647760289,0,0,143.576704098,crossing,150,0,4
+mean,Fidelity loss 10%,mod,context_composite,147.516201679,crossing,150,0,7,150,right_boundary,150,0,8
+mean,Fidelity loss 10%,tv,contact_net_vocal,150,right_boundary,150,0,8,150,right_boundary,150,0,8
+mean,Fidelity loss 10%,tv,recruitment_approach,132.932761383,crossing,150,0,4,148.803271146,crossing,150,0,7
+mean,Fidelity loss 10%,tv,context_composite,150,right_boundary,150,0,8,150,right_boundary,150,0,8
+mean,Fidelity loss 20%,flat,contact_net_vocal,83.8774050235,crossing,95.892261563,0,0,150,right_boundary,150,0,8
+mean,Fidelity loss 20%,flat,recruitment_approach,25.7377978735,crossing,46.3844164186,0,0,26.1065181751,crossing,47.3880623244,0,0
+mean,Fidelity loss 20%,flat,context_composite,72.4784703071,crossing,79.0076673366,0,0,83.4029486939,crossing,150,0,4
+mean,Fidelity loss 20%,mod,contact_net_vocal,139.412729847,crossing,149.620225556,0,0,150,right_boundary,150,0,8
+mean,Fidelity loss 20%,mod,recruitment_approach,90.4247384844,crossing,117.213371737,0,0,93.3754494633,crossing,122.32786181,0,0
+mean,Fidelity loss 20%,mod,context_composite,124.557853391,crossing,135.380740424,0,0,136.809609093,crossing,150,0,4
+mean,Fidelity loss 20%,tv,contact_net_vocal,150,right_boundary,150,0,8,150,right_boundary,150,0,8
+mean,Fidelity loss 20%,tv,recruitment_approach,89.0108992214,crossing,140.870709499,0,0,91.5680230361,crossing,144.60930583,0,0
+mean,Fidelity loss 20%,tv,context_composite,145.843053224,crossing,150,0,7,150,right_boundary,150,0,8
+mean,Combined stress,flat,contact_net_vocal,20,no_segment_at_lower_bound,28.5255985326,1,0,20,no_segment_at_lower_bound,28.6659718051,1,0
+mean,Combined stress,flat,recruitment_approach,20,no_segment_at_lower_bound,20,8,0,20,no_segment_at_lower_bound,20,8,0
+mean,Combined stress,flat,context_composite,20,no_segment_at_lower_bound,20.0600357902,7,0,20,no_segment_at_lower_bound,20.1051530481,7,0
+mean,Combined stress,mod,contact_net_vocal,25.7850311183,crossing,64.397919086,0,0,26.0263021491,crossing,64.4950223831,0,0
+mean,Combined stress,mod,recruitment_approach,20,no_segment_at_lower_bound,31.1746297966,5,0,20,no_segment_at_lower_bound,31.2765200608,5,0
+mean,Combined stress,mod,context_composite,20,no_segment_at_lower_bound,41.6925765079,1,0,20,no_segment_at_lower_bound,41.8572075224,1,0
+mean,Combined stress,tv,contact_net_vocal,20,no_segment_at_lower_bound,58.0623983484,5,0,20,no_segment_at_lower_bound,59.7270274329,5,0
+mean,Combined stress,tv,recruitment_approach,20,no_segment_at_lower_bound,20,8,0,20,no_segment_at_lower_bound,20,8,0
+mean,Combined stress,tv,context_composite,20,no_segment_at_lower_bound,20,8,0,20,no_segment_at_lower_bound,20,8,0
+all,Baseline,flat,contact_net_vocal,52.8181289663,crossing,60.0717754687,0,0,150,right_boundary,150,0,8
+all,Baseline,flat,recruitment_approach,28.8571655923,crossing,33.8485413768,0,0,88.8182336015,crossing,88.8182336015,0,0
+all,Baseline,flat,context_composite,46.8997125788,crossing,51.0936172362,0,0,150,right_boundary,150,0,8
+all,Baseline,mod,contact_net_vocal,112.133525279,crossing,129.842250369,0,0,150,right_boundary,150,0,8
+all,Baseline,mod,recruitment_approach,90.2969285042,crossing,93.4796451449,0,0,150,right_boundary,150,0,8
+all,Baseline,mod,context_composite,102.91995293,crossing,113.376090258,0,0,150,right_boundary,150,0,8
+all,Baseline,tv,contact_net_vocal,135.944392284,crossing,148.956475625,0,0,150,right_boundary,150,0,8
+all,Baseline,tv,recruitment_approach,85.5813835278,crossing,111.741334178,0,0,150,right_boundary,150,0,8
+all,Baseline,tv,context_composite,114.967605191,crossing,135.567379977,0,0,150,right_boundary,150,0,8
+all,Threshold 0.60,flat,contact_net_vocal,30.9163153308,crossing,36.3305301366,0,0,150,right_boundary,150,0,8
+all,Threshold 0.60,flat,recruitment_approach,20,no_segment_at_lower_bound,20.7606639499,6,0,20,no_segment_at_lower_bound,22.7956346753,4,0
+all,Threshold 0.60,flat,context_composite,25.3326950755,crossing,32.622162764,0,0,39.7524528708,crossing,42.9636588156,0,0
+all,Threshold 0.60,mod,contact_net_vocal,74.9470623304,crossing,81.5246291826,0,0,150,right_boundary,150,0,8
+all,Threshold 0.60,mod,recruitment_approach,54.2661211018,crossing,69.0073705978,0,0,65.8979172687,crossing,75.0039002202,0,0
+all,Threshold 0.60,mod,context_composite,64.7913572365,crossing,75.7741322397,0,0,89.3248742712,crossing,92.3337337773,0,0
+all,Threshold 0.60,tv,contact_net_vocal,75.4091498919,crossing,110.546110671,0,0,150,right_boundary,150,0,8
+all,Threshold 0.60,tv,recruitment_approach,21.3697613769,crossing,59.9431384862,0,0,51.8303782552,crossing,76.4417190604,0,0
+all,Threshold 0.60,tv,context_composite,55.0412303937,crossing,92.6018110876,0,0,96.7063752293,crossing,122.231065045,0,0
+all,Threshold 0.70,flat,contact_net_vocal,20,no_segment_at_lower_bound,20,8,0,20,no_segment_at_lower_bound,21.110283432,6,0
+all,Threshold 0.70,flat,recruitment_approach,20,no_segment_at_lower_bound,20,8,0,20,no_segment_at_lower_bound,20,8,0
+all,Threshold 0.70,flat,context_composite,20,no_segment_at_lower_bound,20,8,0,20,no_segment_at_lower_bound,20,8,0
+all,Threshold 0.70,mod,contact_net_vocal,26.0844043827,crossing,40.4314140219,0,0,28.0205152135,crossing,43.0728655258,0,0
+all,Threshold 0.70,mod,recruitment_approach,21.7888414871,crossing,30.9486060597,0,0,22.7035469684,crossing,32.1996328704,0,0
+all,Threshold 0.70,mod,context_composite,23.7383379082,crossing,35.6377322705,0,0,25.0653656736,crossing,37.4798905989,0,0
+all,Threshold 0.70,tv,contact_net_vocal,20,no_segment_at_lower_bound,20,8,0,20,no_segment_at_lower_bound,20,8,0
+all,Threshold 0.70,tv,recruitment_approach,20,no_segment_at_lower_bound,20,8,0,20,no_segment_at_lower_bound,20,8,0
+all,Threshold 0.70,tv,context_composite,20,no_segment_at_lower_bound,20,8,0,20,no_segment_at_lower_bound,20,8,0
+all,Fidelity loss 5%,flat,contact_net_vocal,48.4535188634,crossing,54.1762985028,0,0,150,right_boundary,150,0,8
+all,Fidelity loss 5%,flat,recruitment_approach,23.5458508377,crossing,30.6787803965,0,0,41.4377704368,crossing,49.0089589857,0,0
+all,Fidelity loss 5%,flat,context_composite,41.7592022118,crossing,45.726374233,0,0,150,right_boundary,150,0,8
+all,Fidelity loss 5%,mod,contact_net_vocal,104.013130111,crossing,117.325396651,0,0,150,right_boundary,150,0,8
+all,Fidelity loss 5%,mod,recruitment_approach,79.3052560516,crossing,85.5421742031,0,0,150,right_boundary,150,0,8
+all,Fidelity loss 5%,mod,context_composite,94.627486853,crossing,101.461959327,0,0,150,right_boundary,150,0,8
+all,Fidelity loss 5%,tv,contact_net_vocal,122.799917741,crossing,141.763232985,0,0,150,right_boundary,150,0,8
+all,Fidelity loss 5%,tv,recruitment_approach,69.5783814008,crossing,101.68794486,0,0,150,right_boundary,150,0,8
+all,Fidelity loss 5%,tv,context_composite,100.31228562,crossing,127.983627103,0,0,150,right_boundary,150,0,8
+all,Fidelity loss 10%,flat,contact_net_vocal,43.9654103636,crossing,48.2056281566,0,0,150,right_boundary,150,0,8
+all,Fidelity loss 10%,flat,recruitment_approach,20,no_segment_at_lower_bound,26.3991661325,2,0,23.9536636347,crossing,33.5938412771,0,0
+all,Fidelity loss 10%,flat,context_composite,34.6735363007,crossing,40.1817191156,0,0,150,right_boundary,150,0,8
+all,Fidelity loss 10%,mod,contact_net_vocal,95.6506318204,crossing,103.941277512,0,0,150,right_boundary,150,0,8
+all,Fidelity loss 10%,mod,recruitment_approach,65.6121242549,crossing,79.2838993969,0,0,113.579730998,crossing,150,0,4
+all,Fidelity loss 10%,mod,context_composite,83.1591917788,crossing,88.9490382492,0,0,150,right_boundary,150,0,8
+all,Fidelity loss 10%,tv,contact_net_vocal,107.833234349,crossing,133.530012043,0,0,150,right_boundary,150,0,8
+all,Fidelity loss 10%,tv,recruitment_approach,51.6567505161,crossing,89.125938827,0,0,92.2652531991,crossing,133.614754019,0,0
+all,Fidelity loss 10%,tv,context_composite,83.4255418024,crossing,117.687085736,0,0,150,right_boundary,150,0,8
+all,Fidelity loss 20%,flat,contact_net_vocal,28.6469194419,crossing,36.4896788623,0,0,150,right_boundary,150,0,8
+all,Fidelity loss 20%,flat,recruitment_approach,20,no_segment_at_lower_bound,20,8,0,20,no_segment_at_lower_bound,20,8,0
+all,Fidelity loss 20%,flat,context_composite,21.1849502419,crossing,31.8369165895,0,0,33.1983881951,crossing,150,0,4
+all,Fidelity loss 20%,mod,contact_net_vocal,68.7852508177,crossing,81.293916698,0,0,150,right_boundary,150,0,8
+all,Fidelity loss 20%,mod,recruitment_approach,31.2774424184,crossing,66.3747723852,0,0,42.1989545184,crossing,72.1707432215,0,0
+all,Fidelity loss 20%,mod,context_composite,53.6540946202,crossing,74.2672315671,0,0,74.6264644402,crossing,150,0,4
+all,Fidelity loss 20%,tv,contact_net_vocal,69.0952785814,crossing,111.667750409,0,0,150,right_boundary,150,0,8
+all,Fidelity loss 20%,tv,recruitment_approach,20,no_segment_at_lower_bound,48.7737477898,5,0,20,no_segment_at_lower_bound,66.3752862693,1,0
+all,Fidelity loss 20%,tv,context_composite,20,no_segment_at_lower_bound,88.9297470989,1,0,79.2261257471,crossing,150,0,4
+all,Combined stress,flat,contact_net_vocal,20,no_segment_at_lower_bound,20,8,0,20,no_segment_at_lower_bound,20,8,0
+all,Combined stress,flat,recruitment_approach,20,no_segment_at_lower_bound,20,8,0,20,no_segment_at_lower_bound,20,8,0
+all,Combined stress,flat,context_composite,20,no_segment_at_lower_bound,20,8,0,20,no_segment_at_lower_bound,20,8,0
+all,Combined stress,mod,contact_net_vocal,20,no_segment_at_lower_bound,20,8,0,20,no_segment_at_lower_bound,20,8,0
+all,Combined stress,mod,recruitment_approach,20,no_segment_at_lower_bound,20,8,0,20,no_segment_at_lower_bound,20,8,0
+all,Combined stress,mod,context_composite,20,no_segment_at_lower_bound,20,8,0,20,no_segment_at_lower_bound,20,8,0
+all,Combined stress,tv,contact_net_vocal,20,no_segment_at_lower_bound,20,8,0,20,no_segment_at_lower_bound,20,8,0
+all,Combined stress,tv,recruitment_approach,20,no_segment_at_lower_bound,20,8,0,20,no_segment_at_lower_bound,20,8,0
+all,Combined stress,tv,context_composite,20,no_segment_at_lower_bound,20,8,0,20,no_segment_at_lower_bound,20,8,0

@@ -1,0 +1,757 @@
+variant,scenario,call,context,width,effectiveness_cutoff,radius_m,status,disconnected_segment,index_at_100m
+base,Baseline,flat,commuting,0.05,0.05,103.2799906,crossing,False,0.05955413837
+base,Baseline,flat,searching,0.05,0.05,105.2530695,crossing,False,0.06642520386
+base,Baseline,flat,after,0.05,0.05,100.8979664,crossing,False,0.05241845078
+base,Baseline,flat,pooled,0.05,0.05,103.2842435,crossing,False,0.0595844674
+base,Baseline,mod,commuting,0.05,0.05,150,right_boundary,False,0.2137337908
+base,Baseline,mod,searching,0.05,0.05,150,right_boundary,False,0.306525464
+base,Baseline,mod,after,0.05,0.05,150,right_boundary,False,0.2027211757
+base,Baseline,mod,pooled,0.05,0.05,150,right_boundary,False,0.2362491105
+base,Baseline,tv,commuting,0.05,0.05,150,right_boundary,False,0.248831132
+base,Baseline,tv,searching,0.05,0.05,150,right_boundary,False,0.3162988452
+base,Baseline,tv,after,0.05,0.05,150,right_boundary,False,0.2419763527
+base,Baseline,tv,pooled,0.05,0.05,150,right_boundary,False,0.2655002043
+base,Threshold 0.60,flat,commuting,0.05,0.05,77.48187782,crossing,False,0.01017645023
+base,Threshold 0.60,flat,searching,0.05,0.05,79.1808452,crossing,False,0.01135055933
+base,Threshold 0.60,flat,after,0.05,0.05,75.57670428,crossing,False,0.008957123215
+base,Threshold 0.60,flat,pooled,0.05,0.05,77.52609997,crossing,False,0.01018163277
+base,Threshold 0.60,mod,commuting,0.05,0.05,135.6072962,crossing,False,0.1514110632
+base,Threshold 0.60,mod,searching,0.05,0.05,141.9429646,crossing,False,0.2171455728
+base,Threshold 0.60,mod,after,0.05,0.05,134.735434,crossing,False,0.1436096213
+base,Threshold 0.60,mod,pooled,0.05,0.05,137.4073089,crossing,False,0.1673611312
+base,Threshold 0.60,tv,commuting,0.05,0.05,150,right_boundary,False,0.2114388657
+base,Threshold 0.60,tv,searching,0.05,0.05,150,right_boundary,False,0.2687680938
+base,Threshold 0.60,tv,after,0.05,0.05,150,right_boundary,False,0.2056141654
+base,Threshold 0.60,tv,pooled,0.05,0.05,150,right_boundary,False,0.2256030488
+base,Threshold 0.70,flat,commuting,0.05,0.05,53.20264008,crossing,False,0.001427986283
+base,Threshold 0.70,flat,searching,0.05,0.05,55.85902802,crossing,False,0.001592740363
+base,Threshold 0.70,flat,after,0.05,0.05,50.60914499,crossing,False,0.001256887107
+base,Threshold 0.70,flat,pooled,0.05,0.05,53.36519842,crossing,False,0.001428713511
+base,Threshold 0.70,mod,commuting,0.05,0.05,99.09431872,crossing,False,0.04799724774
+base,Threshold 0.70,mod,searching,0.05,0.05,107.0074679,crossing,False,0.06883506151
+base,Threshold 0.70,mod,after,0.05,0.05,97.91223756,crossing,False,0.0455241937
+base,Threshold 0.70,mod,pooled,0.05,0.05,101.3086973,crossing,False,0.05305341305
+base,Threshold 0.70,tv,commuting,0.05,0.05,133.6988518,crossing,False,0.1001906285
+base,Threshold 0.70,tv,searching,0.05,0.05,136.865155,crossing,False,0.1273561706
+base,Threshold 0.70,tv,after,0.05,0.05,133.35798,crossing,False,0.09743058538
+base,Threshold 0.70,tv,pooled,0.05,0.05,134.5668272,crossing,False,0.1069023483
+base,Fidelity loss 5%,flat,commuting,0.05,0.05,96.75587658,crossing,False,0.04185922581
+base,Fidelity loss 5%,flat,searching,0.05,0.05,98.76439706,crossing,False,0.04668873874
+base,Fidelity loss 5%,flat,after,0.05,0.05,94.36913181,crossing,False,0.03684371612
+base,Fidelity loss 5%,flat,pooled,0.05,0.05,96.77075901,crossing,False,0.04188054338
+base,Fidelity loss 5%,mod,commuting,0.05,0.05,150,right_boundary,False,0.2022082692
+base,Fidelity loss 5%,mod,searching,0.05,0.05,150,right_boundary,False,0.2899961831
+base,Fidelity loss 5%,mod,after,0.05,0.05,150,right_boundary,False,0.1917895056
+base,Fidelity loss 5%,mod,pooled,0.05,0.05,150,right_boundary,False,0.2235094579
+base,Fidelity loss 5%,tv,commuting,0.05,0.05,150,right_boundary,False,0.2423259751
+base,Fidelity loss 5%,tv,searching,0.05,0.05,150,right_boundary,False,0.3080298894
+base,Fidelity loss 5%,tv,after,0.05,0.05,150,right_boundary,False,0.2356503992
+base,Fidelity loss 5%,tv,pooled,0.05,0.05,150,right_boundary,False,0.2585592702
+base,Fidelity loss 10%,flat,commuting,0.05,0.05,90.00220334,crossing,False,0.0286215347
+base,Fidelity loss 10%,flat,searching,0.05,0.05,92.04314263,crossing,False,0.03192374751
+base,Fidelity loss 10%,flat,after,0.05,0.05,87.62118546,crossing,False,0.02519214531
+base,Fidelity loss 10%,flat,pooled,0.05,0.05,90.0294515,crossing,False,0.02863611073
+base,Fidelity loss 10%,mod,commuting,0.05,0.05,150,right_boundary,False,0.1835531583
+base,Fidelity loss 10%,mod,searching,0.05,0.05,150,right_boundary,False,0.2632420302
+base,Fidelity loss 10%,mod,after,0.05,0.05,150,right_boundary,False,0.1740955977
+base,Fidelity loss 10%,mod,pooled,0.05,0.05,150,right_boundary,False,0.2028891651
+base,Fidelity loss 10%,tv,commuting,0.05,0.05,150,right_boundary,False,0.230458054
+base,Fidelity loss 10%,tv,searching,0.05,0.05,150,right_boundary,False,0.2929441173
+base,Fidelity loss 10%,tv,after,0.05,0.05,150,right_boundary,False,0.2241094147
+base,Fidelity loss 10%,tv,pooled,0.05,0.05,150,right_boundary,False,0.245896323
+base,Fidelity loss 20%,flat,commuting,0.05,0.05,75.83780807,crossing,False,0.01267253041
+base,Fidelity loss 20%,flat,searching,0.05,0.05,77.92906208,crossing,False,0.01413462504
+base,Fidelity loss 20%,flat,after,0.05,0.05,73.51138458,crossing,False,0.01115412681
+base,Fidelity loss 20%,flat,pooled,0.05,0.05,75.89610827,crossing,False,0.01267898412
+base,Fidelity loss 20%,mod,commuting,0.05,0.05,132.7582184,crossing,False,0.1222388767
+base,Fidelity loss 20%,mod,searching,0.05,0.05,140.5192665,crossing,False,0.1753083978
+base,Fidelity loss 20%,mod,after,0.05,0.05,131.6852293,crossing,False,0.1159405292
+base,Fidelity loss 20%,mod,pooled,0.05,0.05,134.9551773,crossing,False,0.1351158644
+base,Fidelity loss 20%,tv,commuting,0.05,0.05,150,right_boundary,False,0.1791345816
+base,Fidelity loss 20%,tv,searching,0.05,0.05,150,right_boundary,False,0.2277048729
+base,Fidelity loss 20%,tv,after,0.05,0.05,150,right_boundary,False,0.174199797
+base,Fidelity loss 20%,tv,pooled,0.05,0.05,150,right_boundary,False,0.191134717
+base,Combined stress,flat,commuting,0.05,0.05,20,no_segment_at_lower_bound,False,0.000244385796
+base,Combined stress,flat,searching,0.05,0.05,22.18479219,crossing,False,0.000272581835
+base,Combined stress,flat,after,0.05,0.05,20,no_segment_at_lower_bound,False,0.0002151038562
+base,Combined stress,flat,pooled,0.05,0.05,20.03894505,crossing,False,0.0002445102539
+base,Combined stress,mod,commuting,0.05,0.05,20.2322789,crossing,False,0.004716169395
+base,Combined stress,mod,searching,0.05,0.05,50.8742732,crossing,False,0.006763675537
+base,Combined stress,mod,after,0.05,0.05,20,no_segment_at_lower_bound,False,0.004473169175
+base,Combined stress,mod,pooled,0.05,0.05,24.63350273,crossing,False,0.005212983967
+base,Combined stress,tv,commuting,0.05,0.05,20,no_segment_at_lower_bound,False,0.01048757466
+base,Combined stress,tv,searching,0.05,0.05,20,no_segment_at_lower_bound,False,0.01333116048
+base,Combined stress,tv,after,0.05,0.05,20,no_segment_at_lower_bound,False,0.01019866382
+base,Combined stress,tv,pooled,0.05,0.05,20,no_segment_at_lower_bound,False,0.011190132
+epsilon_0.025,Baseline,flat,commuting,0.05,0.025,116.1101029,crossing,False,0.05955413837
+epsilon_0.025,Baseline,flat,searching,0.05,0.025,117.9759346,crossing,False,0.06642520386
+epsilon_0.025,Baseline,flat,after,0.05,0.025,113.8327394,crossing,False,0.05241845078
+epsilon_0.025,Baseline,flat,pooled,0.05,0.025,116.0970214,crossing,False,0.0595844674
+epsilon_0.025,Baseline,mod,commuting,0.05,0.025,150,right_boundary,False,0.2137337908
+epsilon_0.025,Baseline,mod,searching,0.05,0.025,150,right_boundary,False,0.306525464
+epsilon_0.025,Baseline,mod,after,0.05,0.025,150,right_boundary,False,0.2027211757
+epsilon_0.025,Baseline,mod,pooled,0.05,0.025,150,right_boundary,False,0.2362491105
+epsilon_0.025,Baseline,tv,commuting,0.05,0.025,150,right_boundary,False,0.248831132
+epsilon_0.025,Baseline,tv,searching,0.05,0.025,150,right_boundary,False,0.3162988452
+epsilon_0.025,Baseline,tv,after,0.05,0.025,150,right_boundary,False,0.2419763527
+epsilon_0.025,Baseline,tv,pooled,0.05,0.025,150,right_boundary,False,0.2655002043
+epsilon_0.025,Threshold 0.60,flat,commuting,0.05,0.025,87.05176759,crossing,False,0.01017645023
+epsilon_0.025,Threshold 0.60,flat,searching,0.05,0.025,88.67358377,crossing,False,0.01135055933
+epsilon_0.025,Threshold 0.60,flat,after,0.05,0.025,85.20405536,crossing,False,0.008957123215
+epsilon_0.025,Threshold 0.60,flat,pooled,0.05,0.025,87.0777301,crossing,False,0.01018163277
+epsilon_0.025,Threshold 0.60,mod,commuting,0.05,0.025,148.3221099,crossing,False,0.1514110632
+epsilon_0.025,Threshold 0.60,mod,searching,0.05,0.025,150,right_boundary,False,0.2171455728
+epsilon_0.025,Threshold 0.60,mod,after,0.05,0.025,147.540615,crossing,False,0.1436096213
+epsilon_0.025,Threshold 0.60,mod,pooled,0.05,0.025,150,right_boundary,False,0.1673611312
+epsilon_0.025,Threshold 0.60,tv,commuting,0.05,0.025,150,right_boundary,False,0.2114388657
+epsilon_0.025,Threshold 0.60,tv,searching,0.05,0.025,150,right_boundary,False,0.2687680938
+epsilon_0.025,Threshold 0.60,tv,after,0.05,0.025,150,right_boundary,False,0.2056141654
+epsilon_0.025,Threshold 0.60,tv,pooled,0.05,0.025,150,right_boundary,False,0.2256030488
+epsilon_0.025,Threshold 0.70,flat,commuting,0.05,0.025,65.28771434,crossing,False,0.001427986283
+epsilon_0.025,Threshold 0.70,flat,searching,0.05,0.025,66.68057537,crossing,False,0.001592740363
+epsilon_0.025,Threshold 0.70,flat,after,0.05,0.025,63.671748,crossing,False,0.001256887107
+epsilon_0.025,Threshold 0.70,flat,pooled,0.05,0.025,65.34539978,crossing,False,0.001428713511
+epsilon_0.025,Threshold 0.70,mod,commuting,0.05,0.025,114.5513272,crossing,False,0.04799724774
+epsilon_0.025,Threshold 0.70,mod,searching,0.05,0.025,122.6317012,crossing,False,0.06883506151
+epsilon_0.025,Threshold 0.70,mod,after,0.05,0.025,113.4092876,crossing,False,0.0455241937
+epsilon_0.025,Threshold 0.70,mod,pooled,0.05,0.025,116.7872993,crossing,False,0.05305341305
+epsilon_0.025,Threshold 0.70,tv,commuting,0.05,0.025,144.0880048,crossing,False,0.1001906285
+epsilon_0.025,Threshold 0.70,tv,searching,0.05,0.025,147.0514682,crossing,False,0.1273561706
+epsilon_0.025,Threshold 0.70,tv,after,0.05,0.025,143.7844862,crossing,False,0.09743058538
+epsilon_0.025,Threshold 0.70,tv,pooled,0.05,0.025,144.893235,crossing,False,0.1069023483
+epsilon_0.025,Fidelity loss 5%,flat,commuting,0.05,0.025,109.4222368,crossing,False,0.04185922581
+epsilon_0.025,Fidelity loss 5%,flat,searching,0.05,0.025,111.3319236,crossing,False,0.04668873874
+epsilon_0.025,Fidelity loss 5%,flat,after,0.05,0.025,107.1228073,crossing,False,0.03684371612
+epsilon_0.025,Fidelity loss 5%,flat,pooled,0.05,0.025,109.4176732,crossing,False,0.04188054338
+epsilon_0.025,Fidelity loss 5%,mod,commuting,0.05,0.025,150,right_boundary,False,0.2022082692
+epsilon_0.025,Fidelity loss 5%,mod,searching,0.05,0.025,150,right_boundary,False,0.2899961831
+epsilon_0.025,Fidelity loss 5%,mod,after,0.05,0.025,150,right_boundary,False,0.1917895056
+epsilon_0.025,Fidelity loss 5%,mod,pooled,0.05,0.025,150,right_boundary,False,0.2235094579
+epsilon_0.025,Fidelity loss 5%,tv,commuting,0.05,0.025,150,right_boundary,False,0.2423259751
+epsilon_0.025,Fidelity loss 5%,tv,searching,0.05,0.025,150,right_boundary,False,0.3080298894
+epsilon_0.025,Fidelity loss 5%,tv,after,0.05,0.025,150,right_boundary,False,0.2356503992
+epsilon_0.025,Fidelity loss 5%,tv,pooled,0.05,0.025,150,right_boundary,False,0.2585592702
+epsilon_0.025,Fidelity loss 10%,flat,commuting,0.05,0.025,102.4538758,crossing,False,0.0286215347
+epsilon_0.025,Fidelity loss 10%,flat,searching,0.05,0.025,104.4058894,crossing,False,0.03192374751
+epsilon_0.025,Fidelity loss 10%,flat,after,0.05,0.025,100.1397201,crossing,False,0.02519214531
+epsilon_0.025,Fidelity loss 10%,flat,pooled,0.05,0.025,102.4592455,crossing,False,0.02863611073
+epsilon_0.025,Fidelity loss 10%,mod,commuting,0.05,0.025,150,right_boundary,False,0.1835531583
+epsilon_0.025,Fidelity loss 10%,mod,searching,0.05,0.025,150,right_boundary,False,0.2632420302
+epsilon_0.025,Fidelity loss 10%,mod,after,0.05,0.025,150,right_boundary,False,0.1740955977
+epsilon_0.025,Fidelity loss 10%,mod,pooled,0.05,0.025,150,right_boundary,False,0.2028891651
+epsilon_0.025,Fidelity loss 10%,tv,commuting,0.05,0.025,150,right_boundary,False,0.230458054
+epsilon_0.025,Fidelity loss 10%,tv,searching,0.05,0.025,150,right_boundary,False,0.2929441173
+epsilon_0.025,Fidelity loss 10%,tv,after,0.05,0.025,150,right_boundary,False,0.2241094147
+epsilon_0.025,Fidelity loss 10%,tv,pooled,0.05,0.025,150,right_boundary,False,0.245896323
+epsilon_0.025,Fidelity loss 20%,flat,commuting,0.05,0.025,87.67455465,crossing,False,0.01267253041
+epsilon_0.025,Fidelity loss 20%,flat,searching,0.05,0.025,89.70241869,crossing,False,0.01413462504
+epsilon_0.025,Fidelity loss 20%,flat,after,0.05,0.025,85.36318968,crossing,False,0.01115412681
+epsilon_0.025,Fidelity loss 20%,flat,pooled,0.05,0.025,87.70553463,crossing,False,0.01267898412
+epsilon_0.025,Fidelity loss 20%,mod,commuting,0.05,0.025,148.4016053,crossing,False,0.1222388767
+epsilon_0.025,Fidelity loss 20%,mod,searching,0.05,0.025,150,right_boundary,False,0.1753083978
+epsilon_0.025,Fidelity loss 20%,mod,after,0.05,0.025,147.4290706,crossing,False,0.1159405292
+epsilon_0.025,Fidelity loss 20%,mod,pooled,0.05,0.025,150,right_boundary,False,0.1351158644
+epsilon_0.025,Fidelity loss 20%,tv,commuting,0.05,0.025,150,right_boundary,False,0.1791345816
+epsilon_0.025,Fidelity loss 20%,tv,searching,0.05,0.025,150,right_boundary,False,0.2277048729
+epsilon_0.025,Fidelity loss 20%,tv,after,0.05,0.025,150,right_boundary,False,0.174199797
+epsilon_0.025,Fidelity loss 20%,tv,pooled,0.05,0.025,150,right_boundary,False,0.191134717
+epsilon_0.025,Combined stress,flat,commuting,0.05,0.025,28.64910309,crossing,False,0.000244385796
+epsilon_0.025,Combined stress,flat,searching,0.05,0.025,31.54044591,crossing,False,0.000272581835
+epsilon_0.025,Combined stress,flat,after,0.05,0.025,26.66101592,crossing,False,0.0002151038562
+epsilon_0.025,Combined stress,flat,pooled,0.05,0.025,29.01379209,crossing,False,0.0002445102539
+epsilon_0.025,Combined stress,mod,commuting,0.05,0.025,68.16392782,crossing,False,0.004716169395
+epsilon_0.025,Combined stress,mod,searching,0.05,0.025,74.51360253,crossing,False,0.006763675537
+epsilon_0.025,Combined stress,mod,after,0.05,0.025,67.24221136,crossing,False,0.004473169175
+epsilon_0.025,Combined stress,mod,pooled,0.05,0.025,69.91537196,crossing,False,0.005212983967
+epsilon_0.025,Combined stress,tv,commuting,0.05,0.025,20.77925039,crossing,False,0.01048757466
+epsilon_0.025,Combined stress,tv,searching,0.05,0.025,68.53320608,crossing,False,0.01333116048
+epsilon_0.025,Combined stress,tv,after,0.05,0.025,20,no_segment_at_lower_bound,False,0.01019866382
+epsilon_0.025,Combined stress,tv,pooled,0.05,0.025,37.73427847,crossing,False,0.011190132
+epsilon_0.075,Baseline,flat,commuting,0.05,0.075,95.56346533,crossing,False,0.05955413837
+epsilon_0.075,Baseline,flat,searching,0.05,0.075,97.71036318,crossing,False,0.06642520386
+epsilon_0.075,Baseline,flat,after,0.05,0.075,92.96601509,crossing,False,0.05241845078
+epsilon_0.075,Baseline,flat,pooled,0.05,0.075,95.58163456,crossing,False,0.0595844674
+epsilon_0.075,Baseline,mod,commuting,0.05,0.075,150,right_boundary,False,0.2137337908
+epsilon_0.075,Baseline,mod,searching,0.05,0.075,150,right_boundary,False,0.306525464
+epsilon_0.075,Baseline,mod,after,0.05,0.075,150,right_boundary,False,0.2027211757
+epsilon_0.075,Baseline,mod,pooled,0.05,0.075,150,right_boundary,False,0.2362491105
+epsilon_0.075,Baseline,tv,commuting,0.05,0.075,150,right_boundary,False,0.248831132
+epsilon_0.075,Baseline,tv,searching,0.05,0.075,150,right_boundary,False,0.3162988452
+epsilon_0.075,Baseline,tv,after,0.05,0.075,150,right_boundary,False,0.2419763527
+epsilon_0.075,Baseline,tv,pooled,0.05,0.075,150,right_boundary,False,0.2655002043
+epsilon_0.075,Threshold 0.60,flat,commuting,0.05,0.075,71.74313425,crossing,False,0.01017645023
+epsilon_0.075,Threshold 0.60,flat,searching,0.05,0.075,73.57727527,crossing,False,0.01135055933
+epsilon_0.075,Threshold 0.60,flat,after,0.05,0.075,69.68968153,crossing,False,0.008957123215
+epsilon_0.075,Threshold 0.60,flat,pooled,0.05,0.075,71.80413411,crossing,False,0.01018163277
+epsilon_0.075,Threshold 0.60,mod,commuting,0.05,0.075,127.39183,crossing,False,0.1514110632
+epsilon_0.075,Threshold 0.60,mod,searching,0.05,0.075,134.4543386,crossing,False,0.2171455728
+epsilon_0.075,Threshold 0.60,mod,after,0.05,0.075,125.7672537,crossing,False,0.1436096213
+epsilon_0.075,Threshold 0.60,mod,pooled,0.05,0.075,129.6002401,crossing,False,0.1673611312
+epsilon_0.075,Threshold 0.60,tv,commuting,0.05,0.075,150,right_boundary,False,0.2114388657
+epsilon_0.075,Threshold 0.60,tv,searching,0.05,0.075,150,right_boundary,False,0.2687680938
+epsilon_0.075,Threshold 0.60,tv,after,0.05,0.075,150,right_boundary,False,0.2056141654
+epsilon_0.075,Threshold 0.60,tv,pooled,0.05,0.075,150,right_boundary,False,0.2256030488
+epsilon_0.075,Threshold 0.70,flat,commuting,0.05,0.075,45.95704449,crossing,False,0.001427986283
+epsilon_0.075,Threshold 0.70,flat,searching,0.05,0.075,48.68583577,crossing,False,0.001592740363
+epsilon_0.075,Threshold 0.70,flat,after,0.05,0.075,43.40561863,crossing,False,0.001256887107
+epsilon_0.075,Threshold 0.70,flat,pooled,0.05,0.075,46.16677339,crossing,False,0.001428713511
+epsilon_0.075,Threshold 0.70,mod,commuting,0.05,0.075,89.97369896,crossing,False,0.04799724774
+epsilon_0.075,Threshold 0.70,mod,searching,0.05,0.075,98.11920123,crossing,False,0.06883506151
+epsilon_0.075,Threshold 0.70,mod,after,0.05,0.075,88.70872304,crossing,False,0.0455241937
+epsilon_0.075,Threshold 0.70,mod,pooled,0.05,0.075,92.28822831,crossing,False,0.05305341305
+epsilon_0.075,Threshold 0.70,tv,commuting,0.05,0.075,123.9233127,crossing,False,0.1001906285
+epsilon_0.075,Threshold 0.70,tv,searching,0.05,0.075,130.6873054,crossing,False,0.1273561706
+epsilon_0.075,Threshold 0.70,tv,after,0.05,0.075,121.849217,crossing,False,0.09743058538
+epsilon_0.075,Threshold 0.70,tv,pooled,0.05,0.075,128.1870767,crossing,False,0.1069023483
+epsilon_0.075,Fidelity loss 5%,flat,commuting,0.05,0.075,89.18362523,crossing,False,0.04185922581
+epsilon_0.075,Fidelity loss 5%,flat,searching,0.05,0.075,91.35985188,crossing,False,0.04668873874
+epsilon_0.075,Fidelity loss 5%,flat,after,0.05,0.075,86.59658005,crossing,False,0.03684371612
+epsilon_0.075,Fidelity loss 5%,flat,pooled,0.05,0.075,89.21433673,crossing,False,0.04188054338
+epsilon_0.075,Fidelity loss 5%,mod,commuting,0.05,0.075,149.8985582,crossing,False,0.2022082692
+epsilon_0.075,Fidelity loss 5%,mod,searching,0.05,0.075,150,right_boundary,False,0.2899961831
+epsilon_0.075,Fidelity loss 5%,mod,after,0.05,0.075,148.7737602,crossing,False,0.1917895056
+epsilon_0.075,Fidelity loss 5%,mod,pooled,0.05,0.075,150,right_boundary,False,0.2235094579
+epsilon_0.075,Fidelity loss 5%,tv,commuting,0.05,0.075,150,right_boundary,False,0.2423259751
+epsilon_0.075,Fidelity loss 5%,tv,searching,0.05,0.075,150,right_boundary,False,0.3080298894
+epsilon_0.075,Fidelity loss 5%,tv,after,0.05,0.075,150,right_boundary,False,0.2356503992
+epsilon_0.075,Fidelity loss 5%,tv,pooled,0.05,0.075,150,right_boundary,False,0.2585592702
+epsilon_0.075,Fidelity loss 10%,flat,commuting,0.05,0.075,82.60754844,crossing,False,0.0286215347
+epsilon_0.075,Fidelity loss 10%,flat,searching,0.05,0.075,84.80836932,crossing,False,0.03192374751
+epsilon_0.075,Fidelity loss 10%,flat,after,0.05,0.075,80.04426351,crossing,False,0.02519214531
+epsilon_0.075,Fidelity loss 10%,flat,pooled,0.05,0.075,82.65298584,crossing,False,0.02863611073
+epsilon_0.075,Fidelity loss 10%,mod,commuting,0.05,0.075,141.3787321,crossing,False,0.1835531583
+epsilon_0.075,Fidelity loss 10%,mod,searching,0.05,0.075,149.7086228,crossing,False,0.2632420302
+epsilon_0.075,Fidelity loss 10%,mod,after,0.05,0.075,140.2197579,crossing,False,0.1740955977
+epsilon_0.075,Fidelity loss 10%,mod,pooled,0.05,0.075,143.7907334,crossing,False,0.2028891651
+epsilon_0.075,Fidelity loss 10%,tv,commuting,0.05,0.075,150,right_boundary,False,0.230458054
+epsilon_0.075,Fidelity loss 10%,tv,searching,0.05,0.075,150,right_boundary,False,0.2929441173
+epsilon_0.075,Fidelity loss 10%,tv,after,0.05,0.075,150,right_boundary,False,0.2241094147
+epsilon_0.075,Fidelity loss 10%,tv,pooled,0.05,0.075,150,right_boundary,False,0.245896323
+epsilon_0.075,Fidelity loss 20%,flat,commuting,0.05,0.075,68.91616986,crossing,False,0.01267253041
+epsilon_0.075,Fidelity loss 20%,flat,searching,0.05,0.075,71.14785866,crossing,False,0.01413462504
+epsilon_0.075,Fidelity loss 20%,flat,after,0.05,0.075,66.45540796,crossing,False,0.01115412681
+epsilon_0.075,Fidelity loss 20%,flat,pooled,0.05,0.075,68.99791503,crossing,False,0.01267898412
+epsilon_0.075,Fidelity loss 20%,mod,commuting,0.05,0.075,120.2032787,crossing,False,0.1222388767
+epsilon_0.075,Fidelity loss 20%,mod,searching,0.05,0.075,131.3892753,crossing,False,0.1753083978
+epsilon_0.075,Fidelity loss 20%,mod,after,0.05,0.075,118.2627199,crossing,False,0.1159405292
+epsilon_0.075,Fidelity loss 20%,mod,pooled,0.05,0.075,123.9888765,crossing,False,0.1351158644
+epsilon_0.075,Fidelity loss 20%,tv,commuting,0.05,0.075,148.9099121,crossing,False,0.1791345816
+epsilon_0.075,Fidelity loss 20%,tv,searching,0.05,0.075,150,right_boundary,False,0.2277048729
+epsilon_0.075,Fidelity loss 20%,tv,after,0.05,0.075,148.4218299,crossing,False,0.174199797
+epsilon_0.075,Fidelity loss 20%,tv,pooled,0.05,0.075,150,right_boundary,False,0.191134717
+epsilon_0.075,Combined stress,flat,commuting,0.05,0.075,20,no_segment_at_lower_bound,False,0.000244385796
+epsilon_0.075,Combined stress,flat,searching,0.05,0.075,20,no_segment_at_lower_bound,False,0.000272581835
+epsilon_0.075,Combined stress,flat,after,0.05,0.075,20,no_segment_at_lower_bound,False,0.0002151038562
+epsilon_0.075,Combined stress,flat,pooled,0.05,0.075,20,no_segment_at_lower_bound,False,0.0002445102539
+epsilon_0.075,Combined stress,mod,commuting,0.05,0.075,20,no_segment_at_lower_bound,False,0.004716169395
+epsilon_0.075,Combined stress,mod,searching,0.05,0.075,20.99964891,crossing,False,0.006763675537
+epsilon_0.075,Combined stress,mod,after,0.05,0.075,20,no_segment_at_lower_bound,False,0.004473169175
+epsilon_0.075,Combined stress,mod,pooled,0.05,0.075,20,no_segment_at_lower_bound,False,0.005212983967
+epsilon_0.075,Combined stress,tv,commuting,0.05,0.075,20,no_segment_at_lower_bound,False,0.01048757466
+epsilon_0.075,Combined stress,tv,searching,0.05,0.075,20,no_segment_at_lower_bound,False,0.01333116048
+epsilon_0.075,Combined stress,tv,after,0.05,0.075,20,no_segment_at_lower_bound,False,0.01019866382
+epsilon_0.075,Combined stress,tv,pooled,0.05,0.075,20,no_segment_at_lower_bound,False,0.011190132
+epsilon_0.1,Baseline,flat,commuting,0.05,0.1,89.69243205,crossing,False,0.05955413837
+epsilon_0.1,Baseline,flat,searching,0.05,0.1,92.07914418,crossing,False,0.06642520386
+epsilon_0.1,Baseline,flat,after,0.05,0.1,86.77079675,crossing,False,0.05241845078
+epsilon_0.1,Baseline,flat,pooled,0.05,0.1,89.72538532,crossing,False,0.0595844674
+epsilon_0.1,Baseline,mod,commuting,0.05,0.1,150,right_boundary,False,0.2137337908
+epsilon_0.1,Baseline,mod,searching,0.05,0.1,150,right_boundary,False,0.306525464
+epsilon_0.1,Baseline,mod,after,0.05,0.1,148.6980023,crossing,False,0.2027211757
+epsilon_0.1,Baseline,mod,pooled,0.05,0.1,150,right_boundary,False,0.2362491105
+epsilon_0.1,Baseline,tv,commuting,0.05,0.1,150,right_boundary,False,0.248831132
+epsilon_0.1,Baseline,tv,searching,0.05,0.1,150,right_boundary,False,0.3162988452
+epsilon_0.1,Baseline,tv,after,0.05,0.1,150,right_boundary,False,0.2419763527
+epsilon_0.1,Baseline,tv,pooled,0.05,0.1,150,right_boundary,False,0.2655002043
+epsilon_0.1,Threshold 0.60,flat,commuting,0.05,0.1,67.39465087,crossing,False,0.01017645023
+epsilon_0.1,Threshold 0.60,flat,searching,0.05,0.1,69.416511,crossing,False,0.01135055933
+epsilon_0.1,Threshold 0.60,flat,after,0.05,0.1,65.11139076,crossing,False,0.008957123215
+epsilon_0.1,Threshold 0.60,flat,pooled,0.05,0.1,67.47402593,crossing,False,0.01018163277
+epsilon_0.1,Threshold 0.60,mod,commuting,0.05,0.1,117.2947572,crossing,False,0.1514110632
+epsilon_0.1,Threshold 0.60,mod,searching,0.05,0.1,128.8484391,crossing,False,0.2171455728
+epsilon_0.1,Threshold 0.60,mod,after,0.05,0.1,115.4354896,crossing,False,0.1436096213
+epsilon_0.1,Threshold 0.60,mod,pooled,0.05,0.1,120.8194302,crossing,False,0.1673611312
+epsilon_0.1,Threshold 0.60,tv,commuting,0.05,0.1,146.8312531,crossing,False,0.2114388657
+epsilon_0.1,Threshold 0.60,tv,searching,0.05,0.1,150,right_boundary,False,0.2687680938
+epsilon_0.1,Threshold 0.60,tv,after,0.05,0.1,146.3734377,crossing,False,0.2056141654
+epsilon_0.1,Threshold 0.60,tv,pooled,0.05,0.1,148.0338734,crossing,False,0.2256030488
+epsilon_0.1,Threshold 0.70,flat,commuting,0.05,0.1,40.84904409,crossing,False,0.001427986283
+epsilon_0.1,Threshold 0.70,flat,searching,0.05,0.1,43.72575265,crossing,False,0.001592740363
+epsilon_0.1,Threshold 0.70,flat,after,0.05,0.1,38.24187201,crossing,False,0.001256887107
+epsilon_0.1,Threshold 0.70,flat,pooled,0.05,0.1,41.10929452,crossing,False,0.001428713511
+epsilon_0.1,Threshold 0.70,mod,commuting,0.05,0.1,83.13162497,crossing,False,0.04799724774
+epsilon_0.1,Threshold 0.70,mod,searching,0.05,0.1,91.73985912,crossing,False,0.06883506151
+epsilon_0.1,Threshold 0.70,mod,after,0.05,0.1,81.74360493,crossing,False,0.0455241937
+epsilon_0.1,Threshold 0.70,mod,pooled,0.05,0.1,85.6253164,crossing,False,0.05305341305
+epsilon_0.1,Threshold 0.70,tv,commuting,0.05,0.1,100.1502754,crossing,False,0.1001906285
+epsilon_0.1,Threshold 0.70,tv,searching,0.05,0.1,118.3686795,crossing,False,0.1273561706
+epsilon_0.1,Threshold 0.70,tv,after,0.05,0.1,97.92554882,crossing,False,0.09743058538
+epsilon_0.1,Threshold 0.70,tv,pooled,0.05,0.1,105.2010191,crossing,False,0.1069023483
+epsilon_0.1,Fidelity loss 5%,flat,commuting,0.05,0.1,83.45044777,crossing,False,0.04185922581
+epsilon_0.1,Fidelity loss 5%,flat,searching,0.05,0.1,85.85975302,crossing,False,0.04668873874
+epsilon_0.1,Fidelity loss 5%,flat,after,0.05,0.1,80.55739622,crossing,False,0.03684371612
+epsilon_0.1,Fidelity loss 5%,flat,pooled,0.05,0.1,83.49851048,crossing,False,0.04188054338
+epsilon_0.1,Fidelity loss 5%,mod,commuting,0.05,0.1,141.9573332,crossing,False,0.2022082692
+epsilon_0.1,Fidelity loss 5%,mod,searching,0.05,0.1,150,right_boundary,False,0.2899961831
+epsilon_0.1,Fidelity loss 5%,mod,after,0.05,0.1,140.6145599,crossing,False,0.1917895056
+epsilon_0.1,Fidelity loss 5%,mod,pooled,0.05,0.1,144.7028559,crossing,False,0.2235094579
+epsilon_0.1,Fidelity loss 5%,tv,commuting,0.05,0.1,150,right_boundary,False,0.2423259751
+epsilon_0.1,Fidelity loss 5%,tv,searching,0.05,0.1,150,right_boundary,False,0.3080298894
+epsilon_0.1,Fidelity loss 5%,tv,after,0.05,0.1,150,right_boundary,False,0.2356503992
+epsilon_0.1,Fidelity loss 5%,tv,pooled,0.05,0.1,150,right_boundary,False,0.2585592702
+epsilon_0.1,Fidelity loss 10%,flat,commuting,0.05,0.1,77.03881723,crossing,False,0.0286215347
+epsilon_0.1,Fidelity loss 10%,flat,searching,0.05,0.1,79.46455288,crossing,False,0.03192374751
+epsilon_0.1,Fidelity loss 10%,flat,after,0.05,0.1,74.19163775,crossing,False,0.02519214531
+epsilon_0.1,Fidelity loss 10%,flat,pooled,0.05,0.1,77.10452575,crossing,False,0.02863611073
+epsilon_0.1,Fidelity loss 10%,mod,commuting,0.05,0.1,133.5541297,crossing,False,0.1835531583
+epsilon_0.1,Fidelity loss 10%,mod,searching,0.05,0.1,142.7460983,crossing,False,0.2632420302
+epsilon_0.1,Fidelity loss 10%,mod,after,0.05,0.1,132.1825235,crossing,False,0.1740955977
+epsilon_0.1,Fidelity loss 10%,mod,pooled,0.05,0.1,136.2755949,crossing,False,0.2028891651
+epsilon_0.1,Fidelity loss 10%,tv,commuting,0.05,0.1,150,right_boundary,False,0.230458054
+epsilon_0.1,Fidelity loss 10%,tv,searching,0.05,0.1,150,right_boundary,False,0.2929441173
+epsilon_0.1,Fidelity loss 10%,tv,after,0.05,0.1,150,right_boundary,False,0.2241094147
+epsilon_0.1,Fidelity loss 10%,tv,pooled,0.05,0.1,150,right_boundary,False,0.245896323
+epsilon_0.1,Fidelity loss 20%,flat,commuting,0.05,0.1,63.55989775,crossing,False,0.01267253041
+epsilon_0.1,Fidelity loss 20%,flat,searching,0.05,0.1,66.20364635,crossing,False,0.01413462504
+epsilon_0.1,Fidelity loss 20%,flat,after,0.05,0.1,58.53571884,crossing,False,0.01115412681
+epsilon_0.1,Fidelity loss 20%,flat,pooled,0.05,0.1,63.76709701,crossing,False,0.01267898412
+epsilon_0.1,Fidelity loss 20%,mod,commuting,0.05,0.1,108.6508543,crossing,False,0.1222388767
+epsilon_0.1,Fidelity loss 20%,mod,searching,0.05,0.1,122.6295545,crossing,False,0.1753083978
+epsilon_0.1,Fidelity loss 20%,mod,after,0.05,0.1,106.4850418,crossing,False,0.1159405292
+epsilon_0.1,Fidelity loss 20%,mod,pooled,0.05,0.1,112.6862547,crossing,False,0.1351158644
+epsilon_0.1,Fidelity loss 20%,tv,commuting,0.05,0.1,141.51823,crossing,False,0.1791345816
+epsilon_0.1,Fidelity loss 20%,tv,searching,0.05,0.1,146.7477762,crossing,False,0.2277048729
+epsilon_0.1,Fidelity loss 20%,tv,after,0.05,0.1,140.9474753,crossing,False,0.174199797
+epsilon_0.1,Fidelity loss 20%,tv,pooled,0.05,0.1,142.9882274,crossing,False,0.191134717
+epsilon_0.1,Combined stress,flat,commuting,0.05,0.1,20,no_segment_at_lower_bound,False,0.000244385796
+epsilon_0.1,Combined stress,flat,searching,0.05,0.1,20,no_segment_at_lower_bound,False,0.000272581835
+epsilon_0.1,Combined stress,flat,after,0.05,0.1,20,no_segment_at_lower_bound,False,0.0002151038562
+epsilon_0.1,Combined stress,flat,pooled,0.05,0.1,20,no_segment_at_lower_bound,False,0.0002445102539
+epsilon_0.1,Combined stress,mod,commuting,0.05,0.1,20,no_segment_at_lower_bound,False,0.004716169395
+epsilon_0.1,Combined stress,mod,searching,0.05,0.1,20,no_segment_at_lower_bound,False,0.006763675537
+epsilon_0.1,Combined stress,mod,after,0.05,0.1,20,no_segment_at_lower_bound,False,0.004473169175
+epsilon_0.1,Combined stress,mod,pooled,0.05,0.1,20,no_segment_at_lower_bound,False,0.005212983967
+epsilon_0.1,Combined stress,tv,commuting,0.05,0.1,20,no_segment_at_lower_bound,False,0.01048757466
+epsilon_0.1,Combined stress,tv,searching,0.05,0.1,20,no_segment_at_lower_bound,False,0.01333116048
+epsilon_0.1,Combined stress,tv,after,0.05,0.1,20,no_segment_at_lower_bound,False,0.01019866382
+epsilon_0.1,Combined stress,tv,pooled,0.05,0.1,20,no_segment_at_lower_bound,False,0.011190132
+width_0.025,Baseline,flat,commuting,0.025,0.05,93.52160056,crossing,False,0.02257376681
+width_0.025,Baseline,flat,searching,0.025,0.05,94.46666458,crossing,False,0.02517821772
+width_0.025,Baseline,flat,after,0.025,0.05,92.40430433,crossing,False,0.01986901191
+width_0.025,Baseline,flat,pooled,0.025,0.05,93.53127522,crossing,False,0.02258526291
+width_0.025,Baseline,mod,commuting,0.025,0.05,150,right_boundary,False,0.2273735464
+width_0.025,Baseline,mod,searching,0.025,0.05,150,right_boundary,False,0.3260868652
+width_0.025,Baseline,mod,after,0.025,0.05,150,right_boundary,False,0.2156581441
+width_0.025,Baseline,mod,pooled,0.025,0.05,150,right_boundary,False,0.2513257164
+width_0.025,Baseline,tv,commuting,0.025,0.05,150,right_boundary,False,0.2557075311
+width_0.025,Baseline,tv,searching,0.025,0.05,150,right_boundary,False,0.3250397012
+width_0.025,Baseline,tv,after,0.025,0.05,150,right_boundary,False,0.2486633213
+width_0.025,Baseline,tv,pooled,0.025,0.05,150,right_boundary,False,0.2728372499
+width_0.025,Threshold 0.60,flat,commuting,0.025,0.05,70.0166266,crossing,False,0.0004540996387
+width_0.025,Threshold 0.60,flat,searching,0.025,0.05,70.8266758,crossing,False,0.0005064914362
+width_0.025,Threshold 0.60,flat,after,0.025,0.05,69.1319546,crossing,False,0.0003996901007
+width_0.025,Threshold 0.60,flat,pooled,0.025,0.05,70.0453934,crossing,False,0.0004543308972
+width_0.025,Threshold 0.60,mod,commuting,0.025,0.05,126.4228563,crossing,False,0.181469944
+width_0.025,Threshold 0.60,mod,searching,0.025,0.05,130.0398695,crossing,False,0.2602543968
+width_0.025,Threshold 0.60,mod,after,0.025,0.05,125.7186707,crossing,False,0.1721197209
+width_0.025,Threshold 0.60,mod,pooled,0.025,0.05,127.8302558,crossing,False,0.2005864992
+width_0.025,Threshold 0.60,tv,commuting,0.025,0.05,150,right_boundary,False,0.2450711957
+width_0.025,Threshold 0.60,tv,searching,0.025,0.05,150,right_boundary,False,0.3115194452
+width_0.025,Threshold 0.60,tv,after,0.025,0.05,150,right_boundary,False,0.2383199948
+width_0.025,Threshold 0.60,tv,pooled,0.025,0.05,150,right_boundary,False,0.2614883917
+width_0.025,Threshold 0.70,flat,commuting,0.025,0.05,43.46445356,crossing,False,8.332127963e-06
+width_0.025,Threshold 0.70,flat,searching,0.025,0.05,44.66377303,crossing,False,9.293448173e-06
+width_0.025,Threshold 0.70,flat,after,0.025,0.05,42.37613692,crossing,False,7.333784879e-06
+width_0.025,Threshold 0.70,flat,pooled,0.025,0.05,43.56350624,crossing,False,8.33637125e-06
+width_0.025,Threshold 0.70,mod,commuting,0.025,0.05,88.43754592,crossing,False,0.01509404543
+width_0.025,Threshold 0.70,mod,searching,0.025,0.05,92.02330361,crossing,False,0.02164706509
+width_0.025,Threshold 0.70,mod,after,0.025,0.05,87.88545407,crossing,False,0.01431632605
+width_0.025,Threshold 0.70,mod,pooled,0.025,0.05,89.4519983,crossing,False,0.01668409471
+width_0.025,Threshold 0.70,tv,commuting,0.025,0.05,114.4039993,crossing,False,0.07492129423
+width_0.025,Threshold 0.70,tv,searching,0.025,0.05,122.40772,crossing,False,0.09523534555
+width_0.025,Threshold 0.70,tv,after,0.025,0.05,113.487332,crossing,False,0.07285736863
+width_0.025,Threshold 0.70,tv,pooled,0.025,0.05,116.5932644,crossing,False,0.079940234
+width_0.025,Fidelity loss 5%,flat,commuting,0.025,0.05,87.12088054,crossing,False,0.009843301968
+width_0.025,Fidelity loss 5%,flat,searching,0.025,0.05,88.07909369,crossing,False,0.01097897405
+width_0.025,Fidelity loss 5%,flat,after,0.025,0.05,86.0064686,crossing,False,0.00866389228
+width_0.025,Fidelity loss 5%,flat,pooled,0.025,0.05,87.13620964,crossing,False,0.009848314849
+width_0.025,Fidelity loss 5%,mod,commuting,0.025,0.05,149.5679858,crossing,False,0.2246674285
+width_0.025,Fidelity loss 5%,mod,searching,0.025,0.05,150,right_boundary,False,0.322205897
+width_0.025,Fidelity loss 5%,mod,after,0.025,0.05,149.0874585,crossing,False,0.2130914587
+width_0.025,Fidelity loss 5%,mod,pooled,0.025,0.05,150,right_boundary,False,0.2483345285
+width_0.025,Fidelity loss 5%,tv,commuting,0.025,0.05,150,right_boundary,False,0.2551125386
+width_0.025,Fidelity loss 5%,tv,searching,0.025,0.05,150,right_boundary,False,0.3242833832
+width_0.025,Fidelity loss 5%,tv,after,0.025,0.05,150,right_boundary,False,0.2480847195
+width_0.025,Fidelity loss 5%,tv,pooled,0.025,0.05,150,right_boundary,False,0.2722023991
+width_0.025,Fidelity loss 10%,flat,commuting,0.025,0.05,80.52679203,crossing,False,0.004159455096
+width_0.025,Fidelity loss 10%,flat,searching,0.025,0.05,81.49621432,crossing,False,0.004639352701
+width_0.025,Fidelity loss 10%,flat,after,0.025,0.05,79.42344924,crossing,False,0.003661075421
+width_0.025,Fidelity loss 10%,flat,pooled,0.025,0.05,80.54899549,crossing,False,0.004161573374
+width_0.025,Fidelity loss 10%,mod,commuting,0.025,0.05,140.9105624,crossing,False,0.2155544386
+width_0.025,Fidelity loss 10%,mod,searching,0.025,0.05,144.5605336,crossing,False,0.3091365388
+width_0.025,Fidelity loss 10%,mod,after,0.025,0.05,140.4138545,crossing,False,0.2044480148
+width_0.025,Fidelity loss 10%,mod,pooled,0.025,0.05,141.954249,crossing,False,0.2382615505
+width_0.025,Fidelity loss 10%,tv,commuting,0.025,0.05,150,right_boundary,False,0.2528298027
+width_0.025,Fidelity loss 10%,tv,searching,0.025,0.05,150,right_boundary,False,0.3213817097
+width_0.025,Fidelity loss 10%,tv,after,0.025,0.05,150,right_boundary,False,0.2458648683
+width_0.025,Fidelity loss 10%,tv,pooled,0.025,0.05,150,right_boundary,False,0.2697667439
+width_0.025,Fidelity loss 20%,flat,commuting,0.025,0.05,66.82015858,crossing,False,0.0007184580851
+width_0.025,Fidelity loss 20%,flat,searching,0.025,0.05,67.80415492,crossing,False,0.0008013502682
+width_0.025,Fidelity loss 20%,flat,after,0.025,0.05,65.75997985,crossing,False,0.0006323735142
+width_0.025,Fidelity loss 20%,flat,pooled,0.025,0.05,66.85907174,crossing,False,0.0007188239729
+width_0.025,Fidelity loss 20%,mod,commuting,0.025,0.05,118.8382536,crossing,False,0.1301734161
+width_0.025,Fidelity loss 20%,mod,searching,0.025,0.05,124.6900089,crossing,False,0.1866876859
+width_0.025,Fidelity loss 20%,mod,after,0.025,0.05,117.9910074,crossing,False,0.1234662422
+width_0.025,Fidelity loss 20%,mod,pooled,0.025,0.05,120.4935577,crossing,False,0.1438862506
+width_0.025,Fidelity loss 20%,tv,commuting,0.025,0.05,146.3866184,crossing,False,0.2161966692
+width_0.025,Fidelity loss 20%,tv,searching,0.025,0.05,148.4660078,crossing,False,0.2748159213
+width_0.025,Fidelity loss 20%,tv,after,0.025,0.05,146.1725507,crossing,False,0.2102409013
+width_0.025,Fidelity loss 20%,tv,pooled,0.025,0.05,146.9565264,crossing,False,0.2306795752
+width_0.025,Combined stress,flat,commuting,0.025,0.05,20,no_segment_at_lower_bound,False,2.417170681e-07
+width_0.025,Combined stress,flat,searching,0.025,0.05,20,no_segment_at_lower_bound,False,2.696052023e-07
+width_0.025,Combined stress,flat,after,0.025,0.05,20,no_segment_at_lower_bound,False,2.127548913e-07
+width_0.025,Combined stress,flat,pooled,0.025,0.05,20,no_segment_at_lower_bound,False,2.418401669e-07
+width_0.025,Combined stress,mod,commuting,0.025,0.05,20,no_segment_at_lower_bound,False,0.0001014636101
+width_0.025,Combined stress,mod,searching,0.025,0.05,20,no_segment_at_lower_bound,False,0.0001455136319
+width_0.025,Combined stress,mod,after,0.025,0.05,20,no_segment_at_lower_bound,False,9.623570636e-05
+width_0.025,Combined stress,mod,pooled,0.025,0.05,20,no_segment_at_lower_bound,False,0.0001121520726
+width_0.025,Combined stress,tv,commuting,0.025,0.05,20,no_segment_at_lower_bound,False,0.0004664529354
+width_0.025,Combined stress,tv,searching,0.025,0.05,20,no_segment_at_lower_bound,False,0.0005929263095
+width_0.025,Combined stress,tv,after,0.025,0.05,20,no_segment_at_lower_bound,False,0.0004536031287
+width_0.025,Combined stress,tv,pooled,0.025,0.05,20,no_segment_at_lower_bound,False,0.0004977003827
+width_0.1,Baseline,flat,commuting,0.1,0.05,125.4820413,crossing,False,0.08915669968
+width_0.1,Baseline,flat,searching,0.1,0.05,130.2506371,crossing,False,0.09944316403
+width_0.1,Baseline,flat,after,0.1,0.05,120.1147931,crossing,False,0.07847407756
+width_0.1,Baseline,flat,pooled,0.1,0.05,125.4262745,crossing,False,0.08920210435
+width_0.1,Baseline,mod,commuting,0.1,0.05,150,right_boundary,False,0.1809642077
+width_0.1,Baseline,mod,searching,0.1,0.05,150,right_boundary,False,0.2595290971
+width_0.1,Baseline,mod,after,0.1,0.05,150,right_boundary,False,0.1716400426
+width_0.1,Baseline,mod,pooled,0.1,0.05,150,right_boundary,False,0.2000274872
+width_0.1,Baseline,tv,commuting,0.1,0.05,150,right_boundary,False,0.2189694732
+width_0.1,Baseline,tv,searching,0.1,0.05,150,right_boundary,False,0.2783405393
+width_0.1,Baseline,tv,after,0.1,0.05,150,right_boundary,False,0.2129373203
+width_0.1,Baseline,tv,pooled,0.1,0.05,150,right_boundary,False,0.2336381279
+width_0.1,Threshold 0.60,flat,commuting,0.1,0.05,94.46845305,crossing,False,0.04246593627
+width_0.1,Threshold 0.60,flat,searching,0.1,0.05,98.18857738,crossing,False,0.04736544849
+width_0.1,Threshold 0.60,flat,after,0.1,0.05,90.0996363,crossing,False,0.03737773143
+width_0.1,Threshold 0.60,flat,pooled,0.1,0.05,94.50290596,crossing,False,0.04248756282
+width_0.1,Threshold 0.60,mod,commuting,0.1,0.05,150,right_boundary,False,0.1333390276
+width_0.1,Threshold 0.60,mod,searching,0.1,0.05,150,right_boundary,False,0.1912276348
+width_0.1,Threshold 0.60,mod,after,0.1,0.05,150,right_boundary,False,0.1264687457
+width_0.1,Threshold 0.60,mod,pooled,0.1,0.05,150,right_boundary,False,0.1473853364
+width_0.1,Threshold 0.60,tv,commuting,0.1,0.05,150,right_boundary,False,0.1754477659
+width_0.1,Threshold 0.60,tv,searching,0.1,0.05,150,right_boundary,False,0.2230184193
+width_0.1,Threshold 0.60,tv,after,0.1,0.05,150,right_boundary,False,0.1706145454
+width_0.1,Threshold 0.60,tv,pooled,0.1,0.05,150,right_boundary,False,0.1872009234
+width_0.1,Threshold 0.70,flat,commuting,0.1,0.05,71.18086454,crossing,False,0.01752223318
+width_0.1,Threshold 0.70,flat,searching,0.1,0.05,74.37891795,crossing,False,0.01954386282
+width_0.1,Threshold 0.70,flat,after,0.1,0.05,67.71694555,crossing,False,0.01542274546
+width_0.1,Threshold 0.70,flat,pooled,0.1,0.05,71.28768754,crossing,False,0.01753115669
+width_0.1,Threshold 0.70,mod,commuting,0.1,0.05,122.7999651,crossing,False,0.0777313589
+width_0.1,Threshold 0.70,mod,searching,0.1,0.05,136.4469586,crossing,False,0.1114781185
+width_0.1,Threshold 0.70,mod,after,0.1,0.05,120.1847198,crossing,False,0.07372625736
+width_0.1,Threshold 0.70,mod,pooled,0.1,0.05,128.0255012,crossing,False,0.08591979926
+width_0.1,Threshold 0.70,tv,commuting,0.1,0.05,150,right_boundary,False,0.1139065999
+width_0.1,Threshold 0.70,tv,searching,0.1,0.05,150,right_boundary,False,0.1447910706
+width_0.1,Threshold 0.70,tv,after,0.1,0.05,150,right_boundary,False,0.1107687103
+width_0.1,Threshold 0.70,tv,pooled,0.1,0.05,150,right_boundary,False,0.1215371457
+width_0.1,Fidelity loss 5%,flat,commuting,0.1,0.05,118.8251278,crossing,False,0.07696120827
+width_0.1,Fidelity loss 5%,flat,searching,0.1,0.05,123.2045906,crossing,False,0.08584061641
+width_0.1,Fidelity loss 5%,flat,after,0.1,0.05,113.392441,crossing,False,0.06773983165
+width_0.1,Fidelity loss 5%,flat,pooled,0.1,0.05,118.7863485,crossing,False,0.07700040216
+width_0.1,Fidelity loss 5%,mod,commuting,0.1,0.05,150,right_boundary,False,0.1679476141
+width_0.1,Fidelity loss 5%,mod,searching,0.1,0.05,150,right_boundary,False,0.2408614012
+width_0.1,Fidelity loss 5%,mod,after,0.1,0.05,150,right_boundary,False,0.1592941278
+width_0.1,Fidelity loss 5%,mod,pooled,0.1,0.05,150,right_boundary,False,0.1856396889
+width_0.1,Fidelity loss 5%,tv,commuting,0.1,0.05,150,right_boundary,False,0.2069160643
+width_0.1,Fidelity loss 5%,tv,searching,0.1,0.05,150,right_boundary,False,0.2630189866
+width_0.1,Fidelity loss 5%,tv,after,0.1,0.05,150,right_boundary,False,0.2012159577
+width_0.1,Fidelity loss 5%,tv,pooled,0.1,0.05,150,right_boundary,False,0.2207772672
+width_0.1,Fidelity loss 10%,flat,commuting,0.1,0.05,111.8673314,crossing,False,0.06574161496
+width_0.1,Fidelity loss 10%,flat,searching,0.1,0.05,116.3521079,crossing,False,0.07332656125
+width_0.1,Fidelity loss 10%,flat,after,0.1,0.05,106.3838839,crossing,False,0.05786455319
+width_0.1,Fidelity loss 10%,flat,pooled,0.1,0.05,111.8487663,crossing,False,0.06577509507
+width_0.1,Fidelity loss 10%,mod,commuting,0.1,0.05,150,right_boundary,False,0.1528536041
+width_0.1,Fidelity loss 10%,mod,searching,0.1,0.05,150,right_boundary,False,0.219214387
+width_0.1,Fidelity loss 10%,mod,after,0.1,0.05,150,right_boundary,False,0.1449778354
+width_0.1,Fidelity loss 10%,mod,pooled,0.1,0.05,150,right_boundary,False,0.1689556334
+width_0.1,Fidelity loss 10%,tv,commuting,0.1,0.05,150,right_boundary,False,0.1920766824
+width_0.1,Fidelity loss 10%,tv,searching,0.1,0.05,150,right_boundary,False,0.2441560762
+width_0.1,Fidelity loss 10%,tv,after,0.1,0.05,150,right_boundary,False,0.1867853699
+width_0.1,Fidelity loss 10%,tv,pooled,0.1,0.05,150,right_boundary,False,0.2049438027
+width_0.1,Fidelity loss 20%,flat,commuting,0.1,0.05,97.02633593,crossing,False,0.04666454613
+width_0.1,Fidelity loss 20%,flat,searching,0.1,0.05,101.7083674,crossing,False,0.05204847345
+width_0.1,Fidelity loss 20%,flat,after,0.1,0.05,91.5073151,crossing,False,0.04107327016
+width_0.1,Fidelity loss 20%,flat,pooled,0.1,0.05,97.05976608,crossing,False,0.0466883109
+width_0.1,Fidelity loss 20%,mod,commuting,0.1,0.05,150,right_boundary,False,0.1182373084
+width_0.1,Fidelity loss 20%,mod,searching,0.1,0.05,150,right_boundary,False,0.1695695645
+width_0.1,Fidelity loss 20%,mod,after,0.1,0.05,150,right_boundary,False,0.1121451413
+width_0.1,Fidelity loss 20%,mod,pooled,0.1,0.05,150,right_boundary,False,0.1306927596
+width_0.1,Fidelity loss 20%,tv,commuting,0.1,0.05,150,right_boundary,False,0.154660366
+width_0.1,Fidelity loss 20%,tv,searching,0.1,0.05,150,right_boundary,False,0.1965947539
+width_0.1,Fidelity loss 20%,tv,after,0.1,0.05,150,right_boundary,False,0.1503997951
+width_0.1,Fidelity loss 20%,tv,pooled,0.1,0.05,150,right_boundary,False,0.1650209861
+width_0.1,Combined stress,flat,commuting,0.1,0.05,37.28105507,crossing,False,0.007545046955
+width_0.1,Combined stress,flat,searching,0.1,0.05,42.53034962,crossing,False,0.008415557605
+width_0.1,Combined stress,flat,after,0.1,0.05,33.12040352,crossing,False,0.006641010738
+width_0.1,Combined stress,flat,pooled,0.1,0.05,37.79184401,crossing,False,0.007548889408
+width_0.1,Combined stress,mod,commuting,0.1,0.05,76.33937094,crossing,False,0.02896311605
+width_0.1,Combined stress,mod,searching,0.1,0.05,91.6514498,crossing,False,0.04153733742
+width_0.1,Combined stress,mod,after,0.1,0.05,74.14427585,crossing,False,0.027470794
+width_0.1,Combined stress,mod,pooled,0.1,0.05,80.48816519,crossing,False,0.0320141723
+width_0.1,Combined stress,tv,commuting,0.1,0.05,83.63079069,crossing,False,0.04383955123
+width_0.1,Combined stress,tv,searching,0.1,0.05,113.8673592,crossing,False,0.05572614372
+width_0.1,Combined stress,tv,after,0.1,0.05,80.09839447,crossing,False,0.04263186291
+width_0.1,Combined stress,tv,pooled,0.1,0.05,91.63890997,crossing,False,0.04677634069
+equal_ecological_weights,Baseline,flat,commuting,0.05,0.05,99.16674641,crossing,False,0.04781456763
+equal_ecological_weights,Baseline,flat,searching,0.05,0.05,107.2786052,crossing,False,0.07440113672
+equal_ecological_weights,Baseline,flat,after,0.05,0.05,98.15484718,crossing,False,0.04533181399
+equal_ecological_weights,Baseline,flat,pooled,0.05,0.05,101.5775169,crossing,False,0.05443982298
+equal_ecological_weights,Baseline,mod,commuting,0.05,0.05,150,right_boundary,False,0.1896061963
+equal_ecological_weights,Baseline,mod,searching,0.05,0.05,150,right_boundary,False,0.3225219464
+equal_ecological_weights,Baseline,mod,after,0.05,0.05,150,right_boundary,False,0.1838007808
+equal_ecological_weights,Baseline,mod,pooled,0.05,0.05,150,right_boundary,False,0.2244393153
+equal_ecological_weights,Baseline,tv,commuting,0.05,0.05,150,right_boundary,False,0.1981655121
+equal_ecological_weights,Baseline,tv,searching,0.05,0.05,150,right_boundary,False,0.3201481393
+equal_ecological_weights,Baseline,tv,after,0.05,0.05,150,right_boundary,False,0.1963637378
+equal_ecological_weights,Baseline,tv,pooled,0.05,0.05,150,right_boundary,False,0.2310466341
+equal_ecological_weights,Threshold 0.60,flat,commuting,0.05,0.05,74.7669503,crossing,False,0.008170424104
+equal_ecological_weights,Threshold 0.60,flat,searching,0.05,0.05,80.82904568,crossing,False,0.01271346518
+equal_ecological_weights,Threshold 0.60,flat,after,0.05,0.05,73.90998314,crossing,False,0.007746177871
+equal_ecological_weights,Threshold 0.60,flat,pooled,0.05,0.05,76.54371872,crossing,False,0.009302529835
+equal_ecological_weights,Threshold 0.60,mod,commuting,0.05,0.05,132.7619146,crossing,False,0.1343188444
+equal_ecological_weights,Threshold 0.60,mod,searching,0.05,0.05,142.7335603,crossing,False,0.228477634
+equal_ecological_weights,Threshold 0.60,mod,after,0.05,0.05,132.3397489,crossing,False,0.1302062325
+equal_ecological_weights,Threshold 0.60,mod,pooled,0.05,0.05,136.0420523,crossing,False,0.1589949593
+equal_ecological_weights,Threshold 0.60,tv,commuting,0.05,0.05,150,right_boundary,False,0.1683868524
+equal_ecological_weights,Threshold 0.60,tv,searching,0.05,0.05,150,right_boundary,False,0.2720389481
+equal_ecological_weights,Threshold 0.60,tv,after,0.05,0.05,150,right_boundary,False,0.1668558336
+equal_ecological_weights,Threshold 0.60,tv,pooled,0.05,0.05,150,right_boundary,False,0.1963268737
+equal_ecological_weights,Threshold 0.70,flat,commuting,0.05,0.05,50.26491625,crossing,False,0.001146495417
+equal_ecological_weights,Threshold 0.70,flat,searching,0.05,0.05,58.23043194,crossing,False,0.0017839869
+equal_ecological_weights,Threshold 0.70,flat,after,0.05,0.05,49.0962679,crossing,False,0.001086964069
+equal_ecological_weights,Threshold 0.70,flat,pooled,0.05,0.05,52.51843277,crossing,False,0.001305355473
+equal_ecological_weights,Threshold 0.70,mod,commuting,0.05,0.05,96.50851102,crossing,False,0.04257902105
+equal_ecological_weights,Threshold 0.70,mod,searching,0.05,0.05,108.0989234,crossing,False,0.07242732049
+equal_ecological_weights,Threshold 0.70,mod,after,0.05,0.05,95.80577467,crossing,False,0.04127532469
+equal_ecological_weights,Threshold 0.70,mod,pooled,0.05,0.05,100.1743069,crossing,False,0.05040133982
+equal_ecological_weights,Threshold 0.70,tv,commuting,0.05,0.05,129.6941498,crossing,False,0.07979036642
+equal_ecological_weights,Threshold 0.70,tv,searching,0.05,0.05,136.9321883,crossing,False,0.1289060699
+equal_ecological_weights,Threshold 0.70,tv,after,0.05,0.05,129.7248945,crossing,False,0.07906489088
+equal_ecological_weights,Threshold 0.70,tv,pooled,0.05,0.05,132.1034182,crossing,False,0.09302978808
+equal_ecological_weights,Fidelity loss 5%,flat,commuting,0.05,0.05,92.82447873,crossing,False,0.03360775318
+equal_ecological_weights,Fidelity loss 5%,flat,searching,0.05,0.05,100.8034024,crossing,False,0.05229483739
+equal_ecological_weights,Fidelity loss 5%,flat,after,0.05,0.05,91.79540014,crossing,False,0.0318626831
+equal_ecological_weights,Fidelity loss 5%,flat,pooled,0.05,0.05,95.18356292,crossing,False,0.03826449187
+equal_ecological_weights,Fidelity loss 5%,mod,commuting,0.05,0.05,150,right_boundary,False,0.179381747
+equal_ecological_weights,Fidelity loss 5%,mod,searching,0.05,0.05,150,right_boundary,False,0.3051300607
+equal_ecological_weights,Fidelity loss 5%,mod,after,0.05,0.05,150,right_boundary,False,0.1738893865
+equal_ecological_weights,Fidelity loss 5%,mod,pooled,0.05,0.05,150,right_boundary,False,0.212336502
+equal_ecological_weights,Fidelity loss 5%,tv,commuting,0.05,0.05,150,right_boundary,False,0.1929848992
+equal_ecological_weights,Fidelity loss 5%,tv,searching,0.05,0.05,150,right_boundary,False,0.3117785519
+equal_ecological_weights,Fidelity loss 5%,tv,after,0.05,0.05,150,right_boundary,False,0.1912302285
+equal_ecological_weights,Fidelity loss 5%,tv,pooled,0.05,0.05,150,right_boundary,False,0.2250064147
+equal_ecological_weights,Fidelity loss 10%,flat,commuting,0.05,0.05,86.27447078,crossing,False,0.02297953331
+equal_ecological_weights,Fidelity loss 10%,flat,searching,0.05,0.05,94.08804969,crossing,False,0.03575695618
+equal_ecological_weights,Fidelity loss 10%,flat,after,0.05,0.05,85.23376144,crossing,False,0.02178632959
+equal_ecological_weights,Fidelity loss 10%,flat,pooled,0.05,0.05,88.57238526,crossing,False,0.02616361054
+equal_ecological_weights,Fidelity loss 10%,mod,commuting,0.05,0.05,147.4802884,crossing,False,0.1628325406
+equal_ecological_weights,Fidelity loss 10%,mod,searching,0.05,0.05,150,right_boundary,False,0.2769797029
+equal_ecological_weights,Fidelity loss 10%,mod,after,0.05,0.05,147.0542209,crossing,False,0.1578468883
+equal_ecological_weights,Fidelity loss 10%,mod,pooled,0.05,0.05,150,right_boundary,False,0.1927469916
+equal_ecological_weights,Fidelity loss 10%,tv,commuting,0.05,0.05,150,right_boundary,False,0.1835334586
+equal_ecological_weights,Fidelity loss 10%,tv,searching,0.05,0.05,150,right_boundary,False,0.296509189
+equal_ecological_weights,Fidelity loss 10%,tv,after,0.05,0.05,150,right_boundary,False,0.1818647229
+equal_ecological_weights,Fidelity loss 10%,tv,pooled,0.05,0.05,150,right_boundary,False,0.2139867196
+equal_ecological_weights,Fidelity loss 20%,flat,commuting,0.05,0.05,72.58784407,crossing,False,0.0101744661
+equal_ecological_weights,Fidelity loss 20%,flat,searching,0.05,0.05,79.95406475,crossing,False,0.0158318245
+equal_ecological_weights,Fidelity loss 20%,flat,after,0.05,0.05,71.54706588,crossing,False,0.009646160734
+equal_ecological_weights,Fidelity loss 20%,flat,pooled,0.05,0.05,74.72940349,crossing,False,0.01158425478
+equal_ecological_weights,Fidelity loss 20%,mod,commuting,0.05,0.05,129.3753483,crossing,False,0.108439795
+equal_ecological_weights,Fidelity loss 20%,mod,searching,0.05,0.05,141.4958828,crossing,False,0.1844571245
+equal_ecological_weights,Fidelity loss 20%,mod,after,0.05,0.05,128.8445602,crossing,False,0.1051195551
+equal_ecological_weights,Fidelity loss 20%,mod,pooled,0.05,0.05,133.3275682,crossing,False,0.1283615927
+equal_ecological_weights,Fidelity loss 20%,tv,commuting,0.05,0.05,150,right_boundary,False,0.1426601881
+equal_ecological_weights,Fidelity loss 20%,tv,searching,0.05,0.05,150,right_boundary,False,0.230475996
+equal_ecological_weights,Fidelity loss 20%,tv,after,0.05,0.05,150,right_boundary,False,0.1413630831
+equal_ecological_weights,Fidelity loss 20%,tv,pooled,0.05,0.05,150,right_boundary,False,0.1663314465
+equal_ecological_weights,Combined stress,flat,commuting,0.05,0.05,20,no_segment_at_lower_bound,False,0.0001962114051
+equal_ecological_weights,Combined stress,flat,searching,0.05,0.05,23.78048337,crossing,False,0.0003053117972
+equal_ecological_weights,Combined stress,flat,after,0.05,0.05,20,no_segment_at_lower_bound,False,0.0001860232009
+equal_ecological_weights,Combined stress,flat,pooled,0.05,0.05,20,no_segment_at_lower_bound,False,0.00022339874
+equal_ecological_weights,Combined stress,mod,commuting,0.05,0.05,20.04686919,crossing,False,0.004183778975
+equal_ecological_weights,Combined stress,mod,searching,0.05,0.05,64.01011723,crossing,False,0.007116647898
+equal_ecological_weights,Combined stress,mod,after,0.05,0.05,20,no_segment_at_lower_bound,False,0.004055678861
+equal_ecological_weights,Combined stress,mod,pooled,0.05,0.05,24.90237151,crossing,False,0.004952393471
+equal_ecological_weights,Combined stress,tv,commuting,0.05,0.05,20,no_segment_at_lower_bound,False,0.008352152663
+equal_ecological_weights,Combined stress,tv,searching,0.05,0.05,20,no_segment_at_lower_bound,False,0.01349339805
+equal_ecological_weights,Combined stress,tv,after,0.05,0.05,20,no_segment_at_lower_bound,False,0.008276212637
+equal_ecological_weights,Combined stress,tv,pooled,0.05,0.05,20,no_segment_at_lower_bound,False,0.009738005064
+no_cooccurrence_premium,Baseline,flat,commuting,0.05,0.05,106.2258211,crossing,False,0.06975392497
+no_cooccurrence_premium,Baseline,flat,searching,0.05,0.05,107.8389239,crossing,False,0.07638503958
+no_cooccurrence_premium,Baseline,flat,after,0.05,0.05,103.7622672,crossing,False,0.06099422894
+no_cooccurrence_premium,Baseline,flat,pooled,0.05,0.05,106.0992212,crossing,False,0.06929804942
+no_cooccurrence_premium,Baseline,mod,commuting,0.05,0.05,150,right_boundary,False,0.2397542501
+no_cooccurrence_premium,Baseline,mod,searching,0.05,0.05,150,right_boundary,False,0.3343568491
+no_cooccurrence_premium,Baseline,mod,after,0.05,0.05,150,right_boundary,False,0.2248583501
+no_cooccurrence_premium,Baseline,mod,pooled,0.05,0.05,150,right_boundary,False,0.2617589002
+no_cooccurrence_premium,Baseline,tv,commuting,0.05,0.05,150,right_boundary,False,0.2815897687
+no_cooccurrence_premium,Baseline,tv,searching,0.05,0.05,150,right_boundary,False,0.3487423049
+no_cooccurrence_premium,Baseline,tv,after,0.05,0.05,150,right_boundary,False,0.2715826795
+no_cooccurrence_premium,Baseline,tv,pooled,0.05,0.05,150,right_boundary,False,0.2973562519
+no_cooccurrence_premium,Threshold 0.60,flat,commuting,0.05,0.05,79.62589834,crossing,False,0.0119193622
+no_cooccurrence_premium,Threshold 0.60,flat,searching,0.05,0.05,81.0235985,crossing,False,0.01305246914
+no_cooccurrence_premium,Threshold 0.60,flat,after,0.05,0.05,77.63522164,crossing,False,0.01042252901
+no_cooccurrence_premium,Threshold 0.60,flat,pooled,0.05,0.05,79.55561401,crossing,False,0.01184146342
+no_cooccurrence_premium,Threshold 0.60,mod,commuting,0.05,0.05,137.8960441,crossing,False,0.1698442057
+no_cooccurrence_premium,Threshold 0.60,mod,searching,0.05,0.05,143.6954223,crossing,False,0.2368615923
+no_cooccurrence_premium,Threshold 0.60,mod,after,0.05,0.05,136.8596952,crossing,False,0.1592918075
+no_cooccurrence_premium,Threshold 0.60,mod,pooled,0.05,0.05,139.4630067,crossing,False,0.1854325104
+no_cooccurrence_premium,Threshold 0.60,tv,commuting,0.05,0.05,150,right_boundary,False,0.2392748077
+no_cooccurrence_premium,Threshold 0.60,tv,searching,0.05,0.05,150,right_boundary,False,0.2963362211
+no_cooccurrence_premium,Threshold 0.60,tv,after,0.05,0.05,150,right_boundary,False,0.2307715004
+no_cooccurrence_premium,Threshold 0.60,tv,pooled,0.05,0.05,150,right_boundary,False,0.2526720354
+no_cooccurrence_premium,Threshold 0.70,flat,commuting,0.05,0.05,55.95809045,crossing,False,0.001672556278
+no_cooccurrence_premium,Threshold 0.70,flat,searching,0.05,0.05,58.1961021,crossing,False,0.001831556828
+no_cooccurrence_premium,Threshold 0.70,flat,after,0.05,0.05,53.13321648,crossing,False,0.001462516706
+no_cooccurrence_premium,Threshold 0.70,flat,pooled,0.05,0.05,55.93329721,crossing,False,0.001661625316
+no_cooccurrence_premium,Threshold 0.70,mod,commuting,0.05,0.05,101.6468649,crossing,False,0.05384054667
+no_cooccurrence_premium,Threshold 0.70,mod,searching,0.05,0.05,108.9746702,crossing,False,0.07508503199
+no_cooccurrence_premium,Threshold 0.70,mod,after,0.05,0.05,100.2206991,crossing,False,0.0504954406
+no_cooccurrence_premium,Threshold 0.70,mod,pooled,0.05,0.05,103.591206,crossing,False,0.05878203317
+no_cooccurrence_premium,Threshold 0.70,tv,commuting,0.05,0.05,135.7045653,crossing,False,0.113380732
+no_cooccurrence_premium,Threshold 0.70,tv,searching,0.05,0.05,138.4576019,crossing,False,0.1404193697
+no_cooccurrence_premium,Threshold 0.70,tv,after,0.05,0.05,135.260107,crossing,False,0.1093514269
+no_cooccurrence_premium,Threshold 0.70,tv,pooled,0.05,0.05,136.4132256,crossing,False,0.1197290288
+no_cooccurrence_premium,Fidelity loss 5%,flat,commuting,0.05,0.05,99.64216688,crossing,False,0.04902841979
+no_cooccurrence_premium,Fidelity loss 5%,flat,searching,0.05,0.05,101.2878184,crossing,False,0.05368927681
+no_cooccurrence_premium,Fidelity loss 5%,flat,after,0.05,0.05,97.16518922,crossing,False,0.04287143214
+no_cooccurrence_premium,Fidelity loss 5%,flat,pooled,0.05,0.05,99.52261232,crossing,False,0.04870799541
+no_cooccurrence_premium,Fidelity loss 5%,mod,commuting,0.05,0.05,150,right_boundary,False,0.2268255841
+no_cooccurrence_premium,Fidelity loss 5%,mod,searching,0.05,0.05,150,right_boundary,False,0.3163267703
+no_cooccurrence_premium,Fidelity loss 5%,mod,after,0.05,0.05,150,right_boundary,False,0.2127329404
+no_cooccurrence_premium,Fidelity loss 5%,mod,pooled,0.05,0.05,150,right_boundary,False,0.2476436409
+no_cooccurrence_premium,Fidelity loss 5%,tv,commuting,0.05,0.05,150,right_boundary,False,0.2742282073
+no_cooccurrence_premium,Fidelity loss 5%,tv,searching,0.05,0.05,150,right_boundary,False,0.3396251844
+no_cooccurrence_premium,Fidelity loss 5%,tv,after,0.05,0.05,150,right_boundary,False,0.2644827321
+no_cooccurrence_premium,Fidelity loss 5%,tv,pooled,0.05,0.05,150,right_boundary,False,0.2895825096
+no_cooccurrence_premium,Fidelity loss 10%,flat,commuting,0.05,0.05,92.81493258,crossing,False,0.03352352059
+no_cooccurrence_premium,Fidelity loss 10%,flat,searching,0.05,0.05,94.49147934,crossing,False,0.03671041376
+no_cooccurrence_premium,Fidelity loss 10%,flat,after,0.05,0.05,90.33421742,crossing,False,0.02931363777
+no_cooccurrence_premium,Fidelity loss 10%,flat,pooled,0.05,0.05,92.70494586,crossing,False,0.03330442821
+no_cooccurrence_premium,Fidelity loss 10%,mod,commuting,0.05,0.05,150,right_boundary,False,0.2058993557
+no_cooccurrence_premium,Fidelity loss 10%,mod,searching,0.05,0.05,150,right_boundary,False,0.2871434386
+no_cooccurrence_premium,Fidelity loss 10%,mod,after,0.05,0.05,150,right_boundary,False,0.1931068558
+no_cooccurrence_premium,Fidelity loss 10%,mod,pooled,0.05,0.05,150,right_boundary,False,0.2247968028
+no_cooccurrence_premium,Fidelity loss 10%,tv,commuting,0.05,0.05,150,right_boundary,False,0.2607978736
+no_cooccurrence_premium,Fidelity loss 10%,tv,searching,0.05,0.05,150,right_boundary,False,0.3229920319
+no_cooccurrence_premium,Fidelity loss 10%,tv,after,0.05,0.05,150,right_boundary,False,0.2515296832
+no_cooccurrence_premium,Fidelity loss 10%,tv,pooled,0.05,0.05,150,right_boundary,False,0.2754001985
+no_cooccurrence_premium,Fidelity loss 20%,flat,commuting,0.05,0.05,78.45486291,crossing,False,0.0148429439
+no_cooccurrence_premium,Fidelity loss 20%,flat,searching,0.05,0.05,80.18397183,crossing,False,0.01625397937
+no_cooccurrence_premium,Fidelity loss 20%,flat,after,0.05,0.05,76.00724441,crossing,False,0.0129789674
+no_cooccurrence_premium,Fidelity loss 20%,flat,pooled,0.05,0.05,78.37103645,crossing,False,0.0147459381
+no_cooccurrence_premium,Fidelity loss 20%,mod,commuting,0.05,0.05,135.5373413,crossing,False,0.1371205279
+no_cooccurrence_premium,Fidelity loss 20%,mod,searching,0.05,0.05,142.6710647,crossing,False,0.1912257557
+no_cooccurrence_premium,Fidelity loss 20%,mod,after,0.05,0.05,134.2576802,crossing,False,0.1286012475
+no_cooccurrence_premium,Fidelity loss 20%,mod,pooled,0.05,0.05,137.4582609,crossing,False,0.1497054528
+no_cooccurrence_premium,Fidelity loss 20%,tv,commuting,0.05,0.05,150,right_boundary,False,0.2027176623
+no_cooccurrence_premium,Fidelity loss 20%,tv,searching,0.05,0.05,150,right_boundary,False,0.2510610564
+no_cooccurrence_premium,Fidelity loss 20%,tv,after,0.05,0.05,150,right_boundary,False,0.1955135166
+no_cooccurrence_premium,Fidelity loss 20%,tv,pooled,0.05,0.05,150,right_boundary,False,0.2140680201
+no_cooccurrence_premium,Combined stress,flat,commuting,0.05,0.05,21.16487664,crossing,False,0.0002862415433
+no_cooccurrence_premium,Combined stress,flat,searching,0.05,0.05,23.44431133,crossing,False,0.0003134529222
+no_cooccurrence_premium,Combined stress,flat,after,0.05,0.05,20,no_segment_at_lower_bound,False,0.0002502953379
+no_cooccurrence_premium,Combined stress,flat,pooled,0.05,0.05,21.43133134,crossing,False,0.0002843708167
+no_cooccurrence_premium,Combined stress,mod,commuting,0.05,0.05,23.05656086,crossing,False,0.005290327057
+no_cooccurrence_premium,Combined stress,mod,searching,0.05,0.05,64.32764254,crossing,False,0.007377792407
+no_cooccurrence_premium,Combined stress,mod,after,0.05,0.05,21.72971096,crossing,False,0.004961639734
+no_cooccurrence_premium,Combined stress,mod,pooled,0.05,0.05,27.3497645,crossing,False,0.005775873386
+no_cooccurrence_premium,Combined stress,tv,commuting,0.05,0.05,20,no_segment_at_lower_bound,False,0.01186826462
+no_cooccurrence_premium,Combined stress,tv,searching,0.05,0.05,20,no_segment_at_lower_bound,False,0.01469856657
+no_cooccurrence_premium,Combined stress,tv,after,0.05,0.05,20,no_segment_at_lower_bound,False,0.01144649226
+no_cooccurrence_premium,Combined stress,tv,pooled,0.05,0.05,20,no_segment_at_lower_bound,False,0.01253278023
+upweighted_recruitment,Baseline,flat,commuting,0.05,0.05,100.3950926,crossing,False,0.05105854281
+upweighted_recruitment,Baseline,flat,searching,0.05,0.05,99.92831158,crossing,False,0.04980609937
+upweighted_recruitment,Baseline,flat,after,0.05,0.05,96.3960709,crossing,False,0.04143117653
+upweighted_recruitment,Baseline,flat,pooled,0.05,0.05,99.31913361,crossing,False,0.04822272959
+upweighted_recruitment,Baseline,mod,commuting,0.05,0.05,150,right_boundary,False,0.1953661357
+upweighted_recruitment,Baseline,mod,searching,0.05,0.05,150,right_boundary,False,0.2648026855
+upweighted_recruitment,Baseline,mod,after,0.05,0.05,150,right_boundary,False,0.1797547377
+upweighted_recruitment,Baseline,mod,pooled,0.05,0.05,150,right_boundary,False,0.2103055498
+upweighted_recruitment,Baseline,tv,commuting,0.05,0.05,150,right_boundary,False,0.2232509049
+upweighted_recruitment,Baseline,tv,searching,0.05,0.05,150,right_boundary,False,0.2642678119
+upweighted_recruitment,Baseline,tv,after,0.05,0.05,150,right_boundary,False,0.2068393317
+upweighted_recruitment,Baseline,tv,pooled,0.05,0.05,150,right_boundary,False,0.2302136807
+upweighted_recruitment,Threshold 0.60,flat,commuting,0.05,0.05,75.39903247,crossing,False,0.008724745817
+upweighted_recruitment,Threshold 0.60,flat,searching,0.05,0.05,75.44296861,crossing,False,0.008510731665
+upweighted_recruitment,Threshold 0.60,flat,after,0.05,0.05,72.39199817,crossing,False,0.007079647482
+upweighted_recruitment,Threshold 0.60,flat,pooled,0.05,0.05,74.70372604,crossing,False,0.008240169718
+upweighted_recruitment,Threshold 0.60,mod,commuting,0.05,0.05,133.7185199,crossing,False,0.1383992406
+upweighted_recruitment,Threshold 0.60,mod,searching,0.05,0.05,138.8708988,crossing,False,0.1875887571
+upweighted_recruitment,Threshold 0.60,mod,after,0.05,0.05,132.0839626,crossing,False,0.1273399768
+upweighted_recruitment,Threshold 0.60,mod,pooled,0.05,0.05,134.9415603,crossing,False,0.1489824645
+upweighted_recruitment,Threshold 0.60,tv,commuting,0.05,0.05,150,right_boundary,False,0.1897026217
+upweighted_recruitment,Threshold 0.60,tv,searching,0.05,0.05,150,right_boundary,False,0.2245558501
+upweighted_recruitment,Threshold 0.60,tv,after,0.05,0.05,150,right_boundary,False,0.1757572427
+upweighted_recruitment,Threshold 0.60,tv,pooled,0.05,0.05,150,right_boundary,False,0.1956190896
+upweighted_recruitment,Threshold 0.70,flat,commuting,0.05,0.05,50.63504773,crossing,False,0.001224279299
+upweighted_recruitment,Threshold 0.70,flat,searching,0.05,0.05,51.41338349,crossing,False,0.00119424827
+upweighted_recruitment,Threshold 0.70,flat,after,0.05,0.05,46.96130585,crossing,False,0.0009934347702
+upweighted_recruitment,Threshold 0.70,flat,pooled,0.05,0.05,49.98660447,crossing,False,0.001156282305
+upweighted_recruitment,Threshold 0.70,mod,commuting,0.05,0.05,97.11933522,crossing,False,0.04387250506
+upweighted_recruitment,Threshold 0.70,mod,searching,0.05,0.05,103.743399,crossing,False,0.05946556251
+upweighted_recruitment,Threshold 0.70,mod,after,0.05,0.05,95.28709516,crossing,False,0.04036672276
+upweighted_recruitment,Threshold 0.70,mod,pooled,0.05,0.05,98.75300448,crossing,False,0.0472273829
+upweighted_recruitment,Threshold 0.70,tv,commuting,0.05,0.05,131.8801094,crossing,False,0.08989087618
+upweighted_recruitment,Threshold 0.70,tv,searching,0.05,0.05,133.8506567,crossing,False,0.1064061316
+upweighted_recruitment,Threshold 0.70,tv,after,0.05,0.05,130.6538368,crossing,False,0.08328283713
+upweighted_recruitment,Threshold 0.70,tv,pooled,0.05,0.05,132.1623769,crossing,False,0.09269440351
+upweighted_recruitment,Fidelity loss 5%,flat,commuting,0.05,0.05,93.93952425,crossing,False,0.03588786827
+upweighted_recruitment,Fidelity loss 5%,flat,searching,0.05,0.05,93.59961544,crossing,False,0.03500755476
+upweighted_recruitment,Fidelity loss 5%,flat,after,0.05,0.05,90.00073349,crossing,False,0.02912101528
+upweighted_recruitment,Fidelity loss 5%,flat,pooled,0.05,0.05,92.91383155,crossing,False,0.03389464078
+upweighted_recruitment,Fidelity loss 5%,mod,commuting,0.05,0.05,150,right_boundary,False,0.1848310836
+upweighted_recruitment,Fidelity loss 5%,mod,searching,0.05,0.05,150,right_boundary,False,0.2505232911
+upweighted_recruitment,Fidelity loss 5%,mod,after,0.05,0.05,150,right_boundary,False,0.1700615249
+upweighted_recruitment,Fidelity loss 5%,mod,pooled,0.05,0.05,150,right_boundary,False,0.1989648949
+upweighted_recruitment,Fidelity loss 5%,tv,commuting,0.05,0.05,150,right_boundary,False,0.2174144882
+upweighted_recruitment,Fidelity loss 5%,tv,searching,0.05,0.05,150,right_boundary,False,0.2573590961
+upweighted_recruitment,Fidelity loss 5%,tv,after,0.05,0.05,150,right_boundary,False,0.2014319604
+upweighted_recruitment,Fidelity loss 5%,tv,pooled,0.05,0.05,150,right_boundary,False,0.2241952371
+upweighted_recruitment,Fidelity loss 10%,flat,commuting,0.05,0.05,87.26808836,crossing,False,0.02453857775
+upweighted_recruitment,Fidelity loss 10%,flat,searching,0.05,0.05,87.0651574,crossing,False,0.0239366573
+upweighted_recruitment,Fidelity loss 10%,flat,after,0.05,0.05,83.4112472,crossing,False,0.01991169529
+upweighted_recruitment,Fidelity loss 10%,flat,pooled,0.05,0.05,86.30052143,crossing,False,0.02317569469
+upweighted_recruitment,Fidelity loss 10%,mod,commuting,0.05,0.05,148.8604009,crossing,False,0.1677791382
+upweighted_recruitment,Fidelity loss 10%,mod,searching,0.05,0.05,150,right_boundary,False,0.2274107854
+upweighted_recruitment,Fidelity loss 10%,mod,after,0.05,0.05,146.8317192,crossing,False,0.1543721734
+upweighted_recruitment,Fidelity loss 10%,mod,pooled,0.05,0.05,150,right_boundary,False,0.1806090077
+upweighted_recruitment,Fidelity loss 10%,tv,commuting,0.05,0.05,150,right_boundary,False,0.2067666079
+upweighted_recruitment,Fidelity loss 10%,tv,searching,0.05,0.05,150,right_boundary,False,0.2447549275
+upweighted_recruitment,Fidelity loss 10%,tv,after,0.05,0.05,150,right_boundary,False,0.1915668248
+upweighted_recruitment,Fidelity loss 10%,tv,pooled,0.05,0.05,150,right_boundary,False,0.2132152694
+upweighted_recruitment,Fidelity loss 20%,flat,commuting,0.05,0.05,73.31699385,crossing,False,0.01086475187
+upweighted_recruitment,Fidelity loss 20%,flat,searching,0.05,0.05,73.41725395,crossing,False,0.01059824432
+upweighted_recruitment,Fidelity loss 20%,flat,after,0.05,0.05,69.7016195,crossing,False,0.008816143741
+upweighted_recruitment,Fidelity loss 20%,flat,pooled,0.05,0.05,72.49235216,crossing,False,0.01026131892
+upweighted_recruitment,Fidelity loss 20%,mod,commuting,0.05,0.05,130.4857954,crossing,False,0.1117340262
+upweighted_recruitment,Fidelity loss 20%,mod,searching,0.05,0.05,136.7803708,crossing,False,0.151446258
+upweighted_recruitment,Fidelity loss 20%,mod,after,0.05,0.05,128.5137672,crossing,False,0.1028055374
+upweighted_recruitment,Fidelity loss 20%,mod,pooled,0.05,0.05,131.9821973,crossing,False,0.1202781932
+upweighted_recruitment,Fidelity loss 20%,tv,commuting,0.05,0.05,150,right_boundary,False,0.1607192682
+upweighted_recruitment,Fidelity loss 20%,tv,searching,0.05,0.05,150,right_boundary,False,0.1902475126
+upweighted_recruitment,Fidelity loss 20%,tv,after,0.05,0.05,150,right_boundary,False,0.1489045074
+upweighted_recruitment,Fidelity loss 20%,tv,pooled,0.05,0.05,150,right_boundary,False,0.1657317999
+upweighted_recruitment,Combined stress,flat,commuting,0.05,0.05,20,no_segment_at_lower_bound,False,0.0002095233508
+upweighted_recruitment,Combined stress,flat,searching,0.05,0.05,20.01169778,crossing,False,0.0002043838358
+upweighted_recruitment,Combined stress,flat,after,0.05,0.05,20,no_segment_at_lower_bound,False,0.0001700165821
+upweighted_recruitment,Combined stress,flat,pooled,0.05,0.05,20,no_segment_at_lower_bound,False,0.0001978863347
+upweighted_recruitment,Combined stress,mod,commuting,0.05,0.05,20,no_segment_at_lower_bound,False,0.004310875631
+upweighted_recruitment,Combined stress,mod,searching,0.05,0.05,34.95418701,crossing,False,0.005843036406
+upweighted_recruitment,Combined stress,mod,after,0.05,0.05,20,no_segment_at_lower_bound,False,0.003966400396
+upweighted_recruitment,Combined stress,mod,pooled,0.05,0.05,22.93285081,crossing,False,0.00464052312
+upweighted_recruitment,Combined stress,tv,commuting,0.05,0.05,20,no_segment_at_lower_bound,False,0.009409435682
+upweighted_recruitment,Combined stress,tv,searching,0.05,0.05,20,no_segment_at_lower_bound,False,0.01113818992
+upweighted_recruitment,Combined stress,tv,after,0.05,0.05,20,no_segment_at_lower_bound,False,0.008717731239
+upweighted_recruitment,Combined stress,tv,pooled,0.05,0.05,20,no_segment_at_lower_bound,False,0.00970289828

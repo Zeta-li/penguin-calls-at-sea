@@ -1,0 +1,5 @@
+validation,dependence,multiclass_log_loss,multiclass_brier,any_brier
+expID_nested,joint,1.094022924,0.4818114904,0.1509176059
+expID_nested,independent,1.136079484,0.4946232838,0.1547060445
+pair_track_fixed_penalty,joint,1.114181367,0.4927021214,0.1553114415
+Date_fixed_penalty,joint,1.103354714,0.48738138,0.1563382882

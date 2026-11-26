@@ -1,0 +1,7 @@
+{
+  "experiment": "frozen model; earlier-year train and later-year test; no model or cutoff selection",
+  "raw_input_sha256": "1328f92601a84d81dbf8e1404fa0eeabc36cdf17a7626d9746aa62794827d02e",
+  "q1_fixed_protocol_sha256": "fff2fa5b48a4f66f28766b9ca6c10aac5d238ac89803e13e91a6285b3afb8b7c",
+  "weight_sha256": "bdc7dbd5e4ff21f8f0456fcf90c6b7cdf72dbea960f2d05b19bec19f9b3d4ed0",
+  "predictions_sha256": "84bb837abfc12a32ccc5859f000d216fa8e9b9d7ee339bff463d3a7ca305534b"
+}

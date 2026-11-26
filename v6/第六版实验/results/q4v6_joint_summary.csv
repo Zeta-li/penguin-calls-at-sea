@@ -1,0 +1,43 @@
+scenario,call,endpoint,grid_n,min_clipped_m,max_clipped_m,n_empty,n_cap,n_contact_longer,n_recruitment_longer,n_any_up_net_down
+Baseline,flat,contact,243,150,150,0,243,162,0,0
+Baseline,flat,recruitment,243,26.0742539028,150,0,81,162,0,0
+Baseline,mod,contact,243,150,150,0,243,0,0,0
+Baseline,mod,recruitment,243,150,150,0,243,0,0,0
+Baseline,tv,contact,243,150,150,0,243,81,0,0
+Baseline,tv,recruitment,243,142.287541949,150,0,162,81,0,0
+Threshold 0.60,flat,contact,243,71.6044797621,150,0,135,243,0,0
+Threshold 0.60,flat,recruitment,243,21.115633472,93.1914286706,0,0,243,0,0
+Threshold 0.60,mod,contact,243,125.781319152,150,0,135,162,0,0
+Threshold 0.60,mod,recruitment,243,102.947299977,150,0,81,162,0,0
+Threshold 0.60,tv,contact,243,150,150,0,243,108,0,0
+Threshold 0.60,tv,recruitment,243,101.937033666,150,0,135,108,0,0
+Threshold 0.70,flat,contact,243,47.2783891133,150,0,54,243,0,0
+Threshold 0.70,flat,recruitment,243,20,59.8485477236,54,0,243,0,0
+Threshold 0.70,mod,contact,243,89.9173132803,150,0,54,216,0,0
+Threshold 0.70,mod,recruitment,243,71.3389173494,150,0,27,216,0,0
+Threshold 0.70,tv,contact,243,123.410724595,150,0,135,216,0,0
+Threshold 0.70,tv,recruitment,243,63.7125362105,150,0,27,216,0,0
+Fidelity loss 5%,flat,contact,243,150,150,0,243,207,0,162
+Fidelity loss 5%,flat,recruitment,243,20,150,36,36,207,0,162
+Fidelity loss 5%,mod,contact,243,150,150,0,243,81,0,162
+Fidelity loss 5%,mod,recruitment,243,116.284792287,150,0,162,81,0,162
+Fidelity loss 5%,tv,contact,243,150,150,0,243,81,0,162
+Fidelity loss 5%,tv,recruitment,243,97.1951853584,150,0,162,81,0,162
+Fidelity loss 10%,flat,contact,243,88.0119633961,150,0,216,234,0,162
+Fidelity loss 10%,flat,recruitment,243,20,150,54,9,234,0,162
+Fidelity loss 10%,mod,contact,243,144.944106845,150,0,216,144,0,162
+Fidelity loss 10%,mod,recruitment,243,78.3305468253,150,0,99,144,0,162
+Fidelity loss 10%,tv,contact,243,150,150,0,243,81,0,162
+Fidelity loss 10%,tv,recruitment,243,62.552208821,150,0,162,81,0,162
+Fidelity loss 20%,flat,contact,243,64.6723437003,150,0,144,243,0,162
+Fidelity loss 20%,flat,recruitment,243,20,96.622241671,90,0,243,0,162
+Fidelity loss 20%,mod,contact,243,115.507916529,150,0,135,207,0,162
+Fidelity loss 20%,mod,recruitment,243,20.2820979607,150,0,36,207,0,162
+Fidelity loss 20%,tv,contact,243,150,150,0,243,189,0,162
+Fidelity loss 20%,tv,recruitment,243,20,150,18,54,189,0,162
+Combined stress,flat,contact,243,20,150,108,27,135,0,162
+Combined stress,flat,recruitment,243,20,30.6716524602,234,0,135,0,162
+Combined stress,mod,contact,243,20,150,81,27,162,0,162
+Combined stress,mod,recruitment,243,20,97.5981095232,144,0,162,0,162
+Combined stress,tv,contact,243,20,150,126,54,117,0,162
+Combined stress,tv,recruitment,243,20,108.738383818,198,0,117,0,162

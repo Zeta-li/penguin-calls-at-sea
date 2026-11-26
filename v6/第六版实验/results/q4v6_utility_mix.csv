@@ -1,0 +1,505 @@
+weight_profile,bonus,scenario,mechanism,call,clipped_m,status,index100
+context_reference,0,Baseline,shared,flat,150,right_boundary,0.288078652409
+context_reference,0,Baseline,shared,mod,150,right_boundary,0.279783881867
+context_reference,0,Baseline,shared,tv,150,right_boundary,0.305821271246
+context_reference,0,Baseline,both,flat,150,right_boundary,0.288078652409
+context_reference,0,Baseline,both,mod,150,right_boundary,0.279783881867
+context_reference,0,Baseline,both,tv,150,right_boundary,0.305821271246
+context_reference,0,Threshold 0.60,shared,flat,102.807827802,crossing,0.0523538149008
+context_reference,0,Threshold 0.60,shared,mod,150,right_boundary,0.210844486068
+context_reference,0,Threshold 0.60,shared,tv,150,right_boundary,0.277185223843
+context_reference,0,Threshold 0.60,both,flat,102.807827802,crossing,0.0523538149008
+context_reference,0,Threshold 0.60,both,mod,150,right_boundary,0.210844486068
+context_reference,0,Threshold 0.60,both,tv,150,right_boundary,0.277185223843
+context_reference,0,Threshold 0.70,shared,flat,60.0272960445,crossing,0.0074300672849
+context_reference,0,Threshold 0.70,shared,mod,109.429921016,crossing,0.0747495098143
+context_reference,0,Threshold 0.70,shared,tv,144.64129112,crossing,0.16383212281
+context_reference,0,Threshold 0.70,both,flat,60.0272960445,crossing,0.0074300672849
+context_reference,0,Threshold 0.70,both,mod,109.429921016,crossing,0.0747495098143
+context_reference,0,Threshold 0.70,both,tv,144.64129112,crossing,0.16383212281
+context_reference,0,Fidelity loss 5%,shared,flat,150,right_boundary,0.20464244139
+context_reference,0,Fidelity loss 5%,shared,mod,150,right_boundary,0.267361629948
+context_reference,0,Fidelity loss 5%,shared,tv,150,right_boundary,0.300836693163
+context_reference,0,Fidelity loss 5%,both,flat,150,right_boundary,0.195767988256
+context_reference,0,Fidelity loss 5%,both,mod,150,right_boundary,0.253795540045
+context_reference,0,Fidelity loss 5%,both,tv,150,right_boundary,0.286546897263
+context_reference,0,Fidelity loss 10%,shared,flat,150,right_boundary,0.140435915592
+context_reference,0,Fidelity loss 10%,shared,mod,150,right_boundary,0.246482303842
+context_reference,0,Fidelity loss 10%,shared,tv,150,right_boundary,0.291226126825
+context_reference,0,Fidelity loss 10%,both,flat,150,right_boundary,0.12825572518
+context_reference,0,Fidelity loss 10%,both,mod,150,right_boundary,0.221468983165
+context_reference,0,Fidelity loss 10%,both,tv,150,right_boundary,0.26355954221
+context_reference,0,Fidelity loss 20%,shared,flat,150,right_boundary,0.0616738547066
+context_reference,0,Fidelity loss 20%,shared,mod,150,right_boundary,0.171973231317
+context_reference,0,Fidelity loss 20%,shared,tv,150,right_boundary,0.24357352176
+context_reference,0,Fidelity loss 20%,both,flat,150,right_boundary,0.0509757467389
+context_reference,0,Fidelity loss 20%,both,mod,149.842916408,crossing,0.13706913057
+context_reference,0,Fidelity loss 20%,both,tv,150,right_boundary,0.197294381059
+context_reference,0,Combined stress,shared,flat,22.2101349776,crossing,0.00120433268526
+context_reference,0,Combined stress,shared,mod,45.0674318168,crossing,0.00736840865242
+context_reference,0,Combined stress,shared,tv,20,no_segment_at_lower_bound,0.0193315506166
+context_reference,0,Combined stress,both,flat,20,no_segment_at_lower_bound,0.000995425991216
+context_reference,0,Combined stress,both,mod,34.8457897673,crossing,0.005872898706
+context_reference,0,Combined stress,both,tv,20,no_segment_at_lower_bound,0.0156585423828
+context_reference,0.2,Baseline,shared,flat,150,right_boundary,0.247698358294
+context_reference,0.2,Baseline,shared,mod,150,right_boundary,0.252517462373
+context_reference,0.2,Baseline,shared,tv,150,right_boundary,0.273058358368
+context_reference,0.2,Baseline,both,flat,150,right_boundary,0.247698358294
+context_reference,0.2,Baseline,both,mod,150,right_boundary,0.252517462373
+context_reference,0.2,Baseline,both,tv,150,right_boundary,0.273058358368
+context_reference,0.2,Threshold 0.60,shared,flat,94.8149067327,crossing,0.0450153244363
+context_reference,0.2,Threshold 0.60,shared,mod,150,right_boundary,0.190296575421
+context_reference,0.2,Threshold 0.60,shared,tv,150,right_boundary,0.24749011695
+context_reference,0.2,Threshold 0.60,both,flat,94.8149067327,crossing,0.0450153244363
+context_reference,0.2,Threshold 0.60,both,mod,150,right_boundary,0.190296575421
+context_reference,0.2,Threshold 0.60,both,tv,150,right_boundary,0.24749011695
+context_reference,0.2,Threshold 0.70,shared,flat,57.8604268798,crossing,0.00638858677343
+context_reference,0.2,Threshold 0.70,shared,mod,107.076941041,crossing,0.0674647746181
+context_reference,0.2,Threshold 0.70,shared,tv,141.576323036,crossing,0.146280637446
+context_reference,0.2,Threshold 0.70,both,flat,57.8604268798,crossing,0.00638858677343
+context_reference,0.2,Threshold 0.70,both,mod,107.076941041,crossing,0.0674647746181
+context_reference,0.2,Threshold 0.70,both,tv,141.576323036,crossing,0.146280637446
+context_reference,0.2,Fidelity loss 5%,shared,flat,150,right_boundary,0.175957490588
+context_reference,0.2,Fidelity loss 5%,shared,mod,150,right_boundary,0.241305824624
+context_reference,0.2,Fidelity loss 5%,shared,tv,150,right_boundary,0.268607782701
+context_reference,0.2,Fidelity loss 5%,both,flat,150,right_boundary,0.167836904057
+context_reference,0.2,Fidelity loss 5%,both,mod,150,right_boundary,0.227525777333
+context_reference,0.2,Fidelity loss 5%,both,tv,150,right_boundary,0.254304084939
+context_reference,0.2,Fidelity loss 10%,shared,flat,150,right_boundary,0.120750862471
+context_reference,0.2,Fidelity loss 10%,shared,mod,150,right_boundary,0.22246129931
+context_reference,0.2,Fidelity loss 10%,shared,tv,150,right_boundary,0.260026805136
+context_reference,0.2,Fidelity loss 10%,both,flat,150,right_boundary,0.109633261263
+context_reference,0.2,Fidelity loss 10%,both,mod,150,right_boundary,0.197181426757
+context_reference,0.2,Fidelity loss 10%,both,tv,150,right_boundary,0.232463342767
+context_reference,0.2,Fidelity loss 20%,shared,flat,150,right_boundary,0.0530289642525
+context_reference,0.2,Fidelity loss 20%,shared,mod,150,right_boundary,0.155213530095
+context_reference,0.2,Fidelity loss 20%,shared,tv,150,right_boundary,0.217479267295
+context_reference,0.2,Fidelity loss 20%,both,flat,86.5052200025,crossing,0.0433131724676
+context_reference,0.2,Fidelity loss 20%,both,mod,141.072935213,crossing,0.120294552513
+context_reference,0.2,Fidelity loss 20%,both,tv,150,right_boundary,0.171807663788
+context_reference,0.2,Combined stress,shared,flat,20,no_segment_at_lower_bound,0.00103552007928
+context_reference,0.2,Combined stress,shared,mod,41.8572075224,crossing,0.00665031824642
+context_reference,0.2,Combined stress,shared,tv,20,no_segment_at_lower_bound,0.0172605438941
+context_reference,0.2,Combined stress,both,flat,20,no_segment_at_lower_bound,0.000845795508541
+context_reference,0.2,Combined stress,both,mod,29.7939258777,crossing,0.0051541708834
+context_reference,0.2,Combined stress,both,tv,20,no_segment_at_lower_bound,0.0136357536929
+context_reference,0.4,Baseline,shared,flat,150,right_boundary,0.21885529107
+context_reference,0.4,Baseline,shared,mod,150,right_boundary,0.233041448448
+context_reference,0.4,Baseline,shared,tv,150,right_boundary,0.249656277741
+context_reference,0.4,Baseline,both,flat,150,right_boundary,0.21885529107
+context_reference,0.4,Baseline,both,mod,150,right_boundary,0.233041448448
+context_reference,0.4,Baseline,both,tv,150,right_boundary,0.249656277741
+context_reference,0.4,Threshold 0.60,shared,flat,89.9984924107,crossing,0.0397735455332
+context_reference,0.4,Threshold 0.60,shared,mod,150,right_boundary,0.175619496387
+context_reference,0.4,Threshold 0.60,shared,tv,150,right_boundary,0.226279326312
+context_reference,0.4,Threshold 0.60,both,flat,89.9984924107,crossing,0.0397735455332
+context_reference,0.4,Threshold 0.60,both,mod,150,right_boundary,0.175619496387
+context_reference,0.4,Threshold 0.60,both,tv,150,right_boundary,0.226279326312
+context_reference,0.4,Threshold 0.70,shared,flat,56.0956924724,crossing,0.00564467212238
+context_reference,0.4,Threshold 0.70,shared,mod,105.213280487,crossing,0.062261392335
+context_reference,0.4,Threshold 0.70,shared,tv,139.053877604,crossing,0.133743862187
+context_reference,0.4,Threshold 0.70,both,flat,56.0956924724,crossing,0.00564467212238
+context_reference,0.4,Threshold 0.70,both,mod,105.213280487,crossing,0.062261392335
+context_reference,0.4,Threshold 0.70,both,tv,139.053877604,crossing,0.133743862187
+context_reference,0.4,Fidelity loss 5%,shared,flat,150,right_boundary,0.155468240014
+context_reference,0.4,Fidelity loss 5%,shared,mod,150,right_boundary,0.222694535107
+context_reference,0.4,Fidelity loss 5%,shared,tv,150,right_boundary,0.24558713237
+context_reference,0.4,Fidelity loss 5%,both,flat,150,right_boundary,0.147886129628
+context_reference,0.4,Fidelity loss 5%,both,mod,150,right_boundary,0.208761661109
+context_reference,0.4,Fidelity loss 5%,both,tv,150,right_boundary,0.231273504709
+context_reference,0.4,Fidelity loss 10%,shared,flat,150,right_boundary,0.106690110241
+context_reference,0.4,Fidelity loss 10%,shared,mod,150,right_boundary,0.205303438929
+context_reference,0.4,Fidelity loss 10%,shared,tv,150,right_boundary,0.237741575358
+context_reference,0.4,Fidelity loss 10%,both,flat,150,right_boundary,0.0963315013224
+context_reference,0.4,Fidelity loss 10%,both,mod,150,right_boundary,0.17983317218
+context_reference,0.4,Fidelity loss 10%,both,tv,150,right_boundary,0.210251771736
+context_reference,0.4,Fidelity loss 20%,shared,flat,91.9341350067,crossing,0.0468540424996
+context_reference,0.4,Fidelity loss 20%,shared,mod,150,right_boundary,0.143242314936
+context_reference,0.4,Fidelity loss 20%,shared,tv,150,right_boundary,0.198840514105
+context_reference,0.4,Fidelity loss 20%,both,flat,80.3520139769,crossing,0.0378399051309
+context_reference,0.4,Fidelity loss 20%,both,mod,135.526470524,crossing,0.108312711045
+context_reference,0.4,Fidelity loss 20%,both,tv,150,right_boundary,0.153602865737
+context_reference,0.4,Combined stress,shared,flat,20,no_segment_at_lower_bound,0.000914939646428
+context_reference,0.4,Combined stress,shared,mod,39.4063298117,crossing,0.00613739652785
+context_reference,0.4,Combined stress,shared,tv,20,no_segment_at_lower_bound,0.015781253378
+context_reference,0.4,Combined stress,both,flat,20,no_segment_at_lower_bound,0.000738916592344
+context_reference,0.4,Combined stress,both,mod,25.7825559905,crossing,0.00464079386725
+context_reference,0.4,Combined stress,both,tv,20,no_segment_at_lower_bound,0.0121909046287
+equal,0,Baseline,shared,flat,150,right_boundary,0.262414514788
+equal,0,Baseline,shared,mod,150,right_boundary,0.264636246409
+equal,0,Baseline,shared,tv,150,right_boundary,0.26330001438
+equal,0,Baseline,both,flat,150,right_boundary,0.262414514788
+equal,0,Baseline,both,mod,150,right_boundary,0.264636246409
+equal,0,Baseline,both,tv,150,right_boundary,0.26330001438
+equal,0,Threshold 0.60,shared,flat,97.5765683888,crossing,0.0476897570146
+equal,0,Threshold 0.60,shared,mod,150,right_boundary,0.199429263033
+equal,0,Threshold 0.60,shared,tv,150,right_boundary,0.238645510584
+equal,0,Threshold 0.60,both,flat,97.5765683888,crossing,0.0476897570146
+equal,0,Threshold 0.60,both,mod,150,right_boundary,0.199429263033
+equal,0,Threshold 0.60,both,tv,150,right_boundary,0.238645510584
+equal,0,Threshold 0.70,shared,flat,59.1668990292,crossing,0.00676814295369
+equal,0,Threshold 0.70,shared,mod,108.054907005,crossing,0.070702534993
+equal,0,Threshold 0.70,shared,tv,140.220734096,crossing,0.141052975537
+equal,0,Threshold 0.70,both,flat,59.1668990292,crossing,0.00676814295369
+equal,0,Threshold 0.70,both,mod,108.054907005,crossing,0.070702534993
+equal,0,Threshold 0.70,both,tv,140.220734096,crossing,0.141052975537
+equal,0,Fidelity loss 5%,shared,flat,150,right_boundary,0.18641140714
+equal,0,Fidelity loss 5%,shared,mod,150,right_boundary,0.252886541252
+equal,0,Fidelity loss 5%,shared,tv,150,right_boundary,0.259008489871
+equal,0,Fidelity loss 5%,both,flat,150,right_boundary,0.177945090308
+equal,0,Fidelity loss 5%,both,mod,150,right_boundary,0.239575546599
+equal,0,Fidelity loss 5%,both,tv,150,right_boundary,0.246106716934
+equal,0,Fidelity loss 10%,shared,flat,150,right_boundary,0.127924864757
+equal,0,Fidelity loss 10%,shared,mod,150,right_boundary,0.233137632017
+equal,0,Fidelity loss 10%,shared,tv,150,right_boundary,0.250734172507
+equal,0,Fidelity loss 10%,both,flat,150,right_boundary,0.11630484158
+equal,0,Fidelity loss 10%,both,mod,150,right_boundary,0.208594659047
+equal,0,Fidelity loss 10%,both,tv,150,right_boundary,0.22575494991
+equal,0,Fidelity loss 20%,shared,flat,150,right_boundary,0.0561795000171
+equal,0,Fidelity loss 20%,shared,mod,150,right_boundary,0.162662516922
+equal,0,Fidelity loss 20%,shared,tv,150,right_boundary,0.209707164975
+equal,0,Fidelity loss 20%,both,flat,90.6970209178,crossing,0.0459733982787
+equal,0,Fidelity loss 20%,both,mod,143.559531863,crossing,0.128414749013
+equal,0,Fidelity loss 20%,both,tv,150,right_boundary,0.167923295616
+equal,0,Combined stress,shared,flat,21.9784881322,crossing,0.00109704198699
+equal,0,Combined stress,shared,mod,44.6791787361,crossing,0.00696947942381
+equal,0,Combined stress,shared,tv,20,no_segment_at_lower_bound,0.0166437002064
+equal,0,Combined stress,both,flat,20,no_segment_at_lower_bound,0.000897742916559
+equal,0,Combined stress,both,mod,34.5192198932,crossing,0.00550209088053
+equal,0,Combined stress,both,tv,20,no_segment_at_lower_bound,0.0133274654217
+equal,0.2,Baseline,shared,flat,150,right_boundary,0.226311576943
+equal,0.2,Baseline,shared,mod,150,right_boundary,0.239894432825
+equal,0.2,Baseline,shared,tv,150,right_boundary,0.237623977646
+equal,0.2,Baseline,both,flat,150,right_boundary,0.226311576943
+equal,0.2,Baseline,both,mod,150,right_boundary,0.239894432825
+equal,0.2,Baseline,both,tv,150,right_boundary,0.237623977646
+equal,0.2,Threshold 0.60,shared,flat,91.4196533901,crossing,0.0411286095312
+equal,0.2,Threshold 0.60,shared,mod,150,right_boundary,0.180783889558
+equal,0.2,Threshold 0.60,shared,tv,150,right_boundary,0.215373689234
+equal,0.2,Threshold 0.60,both,flat,91.4196533901,crossing,0.0411286095312
+equal,0.2,Threshold 0.60,both,mod,150,right_boundary,0.180783889558
+equal,0.2,Threshold 0.60,both,tv,150,right_boundary,0.215373689234
+equal,0.2,Threshold 0.70,shared,flat,57.0631716149,crossing,0.00583698316409
+equal,0.2,Threshold 0.70,shared,mod,105.819894604,crossing,0.0640922956003
+equal,0.2,Threshold 0.70,shared,tv,137.308166693,crossing,0.127298014719
+equal,0.2,Threshold 0.70,both,flat,57.0631716149,crossing,0.00583698316409
+equal,0.2,Threshold 0.70,both,mod,105.819894604,crossing,0.0640922956003
+equal,0.2,Threshold 0.70,both,tv,137.308166693,crossing,0.127298014719
+equal,0.2,Fidelity loss 5%,shared,flat,150,right_boundary,0.160764962046
+equal,0.2,Fidelity loss 5%,shared,mod,150,right_boundary,0.22924325071
+equal,0.2,Fidelity loss 5%,shared,tv,150,right_boundary,0.233750946624
+equal,0.2,Fidelity loss 5%,both,flat,150,right_boundary,0.152984489099
+equal,0.2,Fidelity loss 5%,both,mod,150,right_boundary,0.215675782794
+equal,0.2,Fidelity loss 5%,both,tv,150,right_boundary,0.220603934665
+equal,0.2,Fidelity loss 10%,shared,flat,150,right_boundary,0.110324986775
+equal,0.2,Fidelity loss 10%,shared,mod,150,right_boundary,0.211340739456
+equal,0.2,Fidelity loss 10%,shared,tv,150,right_boundary,0.226283509871
+equal,0.2,Fidelity loss 10%,both,flat,150,right_boundary,0.0996741915964
+equal,0.2,Fidelity loss 10%,both,mod,150,right_boundary,0.186452823326
+equal,0.2,Fidelity loss 10%,both,tv,150,right_boundary,0.20095951585
+equal,0.2,Fidelity loss 20%,shared,flat,95.4303472329,crossing,0.0484503353447
+equal,0.2,Fidelity loss 20%,shared,mod,150,right_boundary,0.147454601432
+equal,0.2,Fidelity loss 20%,shared,tv,150,right_boundary,0.189257303307
+equal,0.2,Fidelity loss 20%,both,flat,82.2795377126,crossing,0.0391445487507
+equal,0.2,Fidelity loss 20%,both,mod,136.724699337,crossing,0.113082567883
+equal,0.2,Fidelity loss 20%,both,tv,150,right_boundary,0.147331759252
+equal,0.2,Combined stress,shared,flat,20,no_segment_at_lower_bound,0.000946111164045
+equal,0.2,Combined stress,shared,mod,41.6036737455,crossing,0.00631787722258
+equal,0.2,Combined stress,shared,tv,20,no_segment_at_lower_bound,0.0150206685522
+equal,0.2,Combined stress,both,flat,20,no_segment_at_lower_bound,0.000764392946326
+equal,0.2,Combined stress,both,mod,29.6884993401,crossing,0.00484516436217
+equal,0.2,Combined stress,both,tv,20,no_segment_at_lower_bound,0.0116931895587
+equal,0.4,Baseline,shared,flat,150,right_boundary,0.200523764198
+equal,0.4,Baseline,shared,mod,150,right_boundary,0.222221708836
+equal,0.4,Baseline,shared,tv,150,right_boundary,0.219283951408
+equal,0.4,Baseline,both,flat,150,right_boundary,0.200523764198
+equal,0.4,Baseline,both,mod,150,right_boundary,0.222221708836
+equal,0.4,Baseline,both,tv,150,right_boundary,0.219283951408
+equal,0.4,Threshold 0.60,shared,flat,87.3660489447,crossing,0.0364420756145
+equal,0.4,Threshold 0.60,shared,mod,147.25266892,crossing,0.167465765647
+equal,0.4,Threshold 0.60,shared,tv,150,right_boundary,0.198750959698
+equal,0.4,Threshold 0.60,both,flat,87.3660489447,crossing,0.0364420756145
+equal,0.4,Threshold 0.60,both,mod,147.25266892,crossing,0.167465765647
+equal,0.4,Threshold 0.60,both,tv,150,right_boundary,0.198750959698
+equal,0.4,Threshold 0.70,shared,flat,55.3499155009,crossing,0.00517186902866
+equal,0.4,Threshold 0.70,shared,mod,104.053985759,crossing,0.0593706960341
+equal,0.4,Threshold 0.70,shared,tv,134.926820668,crossing,0.117473042706
+equal,0.4,Threshold 0.70,both,flat,55.3499155009,crossing,0.00517186902866
+equal,0.4,Threshold 0.70,both,mod,104.053985759,crossing,0.0593706960341
+equal,0.4,Threshold 0.70,both,tv,134.926820668,crossing,0.117473042706
+equal,0.4,Fidelity loss 5%,shared,flat,150,right_boundary,0.142446072693
+equal,0.4,Fidelity loss 5%,shared,mod,150,right_boundary,0.212355186037
+equal,0.4,Fidelity loss 5%,shared,tv,150,right_boundary,0.215709844304
+equal,0.4,Fidelity loss 5%,both,flat,150,right_boundary,0.135155488236
+equal,0.4,Fidelity loss 5%,both,mod,150,right_boundary,0.198604522933
+equal,0.4,Fidelity loss 5%,both,tv,150,right_boundary,0.202387661616
+equal,0.4,Fidelity loss 10%,shared,flat,150,right_boundary,0.097753645359
+equal,0.4,Fidelity loss 10%,shared,mod,150,right_boundary,0.195771530483
+equal,0.4,Fidelity loss 10%,shared,tv,150,right_boundary,0.208818750845
+equal,0.4,Fidelity loss 10%,both,flat,150,right_boundary,0.0877951558939
+equal,0.4,Fidelity loss 10%,both,mod,150,right_boundary,0.170637226382
+equal,0.4,Fidelity loss 10%,both,tv,150,right_boundary,0.183248491522
+equal,0.4,Fidelity loss 20%,shared,flat,86.8622491818,crossing,0.0429295034357
+equal,0.4,Fidelity loss 20%,shared,mod,145.884210727,crossing,0.136591804654
+equal,0.4,Fidelity loss 20%,shared,tv,150,right_boundary,0.174650259259
+equal,0.4,Fidelity loss 20%,both,flat,77.3006104983,crossing,0.0342667990879
+equal,0.4,Fidelity loss 20%,both,mod,131.935852216,crossing,0.102131009933
+equal,0.4,Fidelity loss 20%,both,tv,150,right_boundary,0.132623518992
+equal,0.4,Combined stress,shared,flat,20,no_segment_at_lower_bound,0.000838303433373
+equal,0.4,Combined stress,shared,mod,39.246374353,crossing,0.00585244707884
+equal,0.4,Combined stress,shared,tv,20,no_segment_at_lower_bound,0.0138613602278
+equal,0.4,Combined stress,both,flat,20,no_segment_at_lower_bound,0.000669142967588
+equal,0.4,Combined stress,both,mod,25.8361025025,crossing,0.00437593113477
+equal,0.4,Combined stress,both,tv,20,no_segment_at_lower_bound,0.0105258496565
+contact_emphasis,0,Baseline,shared,flat,150,right_boundary,0.378951142783
+contact_emphasis,0,Baseline,shared,mod,150,right_boundary,0.335802545825
+contact_emphasis,0,Baseline,shared,tv,150,right_boundary,0.391780531695
+contact_emphasis,0,Baseline,both,flat,150,right_boundary,0.378951142783
+contact_emphasis,0,Baseline,both,mod,150,right_boundary,0.335802545825
+contact_emphasis,0,Baseline,both,tv,150,right_boundary,0.391780531695
+contact_emphasis,0,Threshold 0.60,shared,flat,150,right_boundary,0.0688684767852
+contact_emphasis,0,Threshold 0.60,shared,mod,150,right_boundary,0.253060021623
+contact_emphasis,0,Threshold 0.60,shared,tv,150,right_boundary,0.355095556084
+contact_emphasis,0,Threshold 0.60,both,flat,150,right_boundary,0.0688684767852
+contact_emphasis,0,Threshold 0.60,both,mod,150,right_boundary,0.253060021623
+contact_emphasis,0,Threshold 0.60,both,tv,150,right_boundary,0.355095556084
+contact_emphasis,0,Threshold 0.70,shared,flat,63.7902559989,crossing,0.00977383247606
+contact_emphasis,0,Threshold 0.70,shared,mod,113.708122151,crossing,0.0897159462058
+contact_emphasis,0,Threshold 0.70,shared,tv,150,right_boundary,0.209881529567
+contact_emphasis,0,Threshold 0.70,both,flat,63.7902559989,crossing,0.00977383247606
+contact_emphasis,0,Threshold 0.70,both,mod,113.708122151,crossing,0.0897159462058
+contact_emphasis,0,Threshold 0.70,both,tv,150,right_boundary,0.209881529567
+contact_emphasis,0,Fidelity loss 5%,shared,flat,150,right_boundary,0.269195535242
+contact_emphasis,0,Fidelity loss 5%,shared,mod,150,right_boundary,0.320893095748
+contact_emphasis,0,Fidelity loss 5%,shared,tv,150,right_boundary,0.385394904419
+contact_emphasis,0,Fidelity loss 5%,both,flat,150,right_boundary,0.258436552591
+contact_emphasis,0,Fidelity loss 5%,both,mod,150,right_boundary,0.307137117447
+contact_emphasis,0,Fidelity loss 5%,both,tv,150,right_boundary,0.369507565947
+contact_emphasis,0,Fidelity loss 10%,shared,flat,150,right_boundary,0.184735488925
+contact_emphasis,0,Fidelity loss 10%,shared,mod,150,right_boundary,0.295833285959
+contact_emphasis,0,Fidelity loss 10%,shared,tv,150,right_boundary,0.373083030968
+contact_emphasis,0,Fidelity loss 10%,both,flat,150,right_boundary,0.169968781011
+contact_emphasis,0,Fidelity loss 10%,both,mod,150,right_boundary,0.270469846756
+contact_emphasis,0,Fidelity loss 10%,both,tv,150,right_boundary,0.342323431799
+contact_emphasis,0,Fidelity loss 20%,shared,flat,150,right_boundary,0.0811284610141
+contact_emphasis,0,Fidelity loss 20%,shared,mod,150,right_boundary,0.206405917684
+contact_emphasis,0,Fidelity loss 20%,shared,tv,150,right_boundary,0.312036384759
+contact_emphasis,0,Fidelity loss 20%,both,flat,150,right_boundary,0.0681585623308
+contact_emphasis,0,Fidelity loss 20%,both,mod,150,right_boundary,0.171013254365
+contact_emphasis,0,Fidelity loss 20%,both,tv,150,right_boundary,0.260583419469
+contact_emphasis,0,Combined stress,shared,flat,25.8858704084,crossing,0.00158423140193
+contact_emphasis,0,Combined stress,shared,mod,49.6085080077,crossing,0.00884372025884
+contact_emphasis,0,Combined stress,shared,tv,20,no_segment_at_lower_bound,0.02476520076
+contact_emphasis,0,Combined stress,both,flat,22.2608079736,crossing,0.00133096244407
+contact_emphasis,0,Combined stress,both,mod,41.4715916665,crossing,0.00732727723664
+contact_emphasis,0,Combined stress,both,tv,20,no_segment_at_lower_bound,0.0206815647568
+contact_emphasis,0.2,Baseline,shared,flat,150,right_boundary,0.323425433606
+contact_emphasis,0.2,Baseline,shared,mod,150,right_boundary,0.299199682338
+contact_emphasis,0.2,Baseline,shared,tv,150,right_boundary,0.344691075409
+contact_emphasis,0.2,Baseline,both,flat,150,right_boundary,0.323425433606
+contact_emphasis,0.2,Baseline,both,mod,150,right_boundary,0.299199682338
+contact_emphasis,0.2,Baseline,both,tv,150,right_boundary,0.344691075409
+contact_emphasis,0.2,Threshold 0.60,shared,flat,113.366146623,crossing,0.0587775426734
+contact_emphasis,0.2,Threshold 0.60,shared,mod,150,right_boundary,0.225476188383
+contact_emphasis,0.2,Threshold 0.60,shared,tv,150,right_boundary,0.312415393817
+contact_emphasis,0.2,Threshold 0.60,both,flat,113.366146623,crossing,0.0587775426734
+contact_emphasis,0.2,Threshold 0.60,both,mod,150,right_boundary,0.225476188383
+contact_emphasis,0.2,Threshold 0.60,both,tv,150,right_boundary,0.312415393817
+contact_emphasis,0.2,Threshold 0.70,shared,flat,61.4544941019,crossing,0.00834172443273
+contact_emphasis,0.2,Threshold 0.70,shared,mod,111.069828638,crossing,0.0799368049443
+contact_emphasis,0.2,Threshold 0.70,shared,tv,147.971777169,crossing,0.184655143077
+contact_emphasis,0.2,Threshold 0.70,both,flat,61.4544941019,crossing,0.00834172443273
+contact_emphasis,0.2,Threshold 0.70,both,mod,111.069828638,crossing,0.0799368049443
+contact_emphasis,0.2,Threshold 0.70,both,tv,147.971777169,crossing,0.184655143077
+contact_emphasis,0.2,Fidelity loss 5%,shared,flat,150,right_boundary,0.229751735464
+contact_emphasis,0.2,Fidelity loss 5%,shared,mod,150,right_boundary,0.285915379457
+contact_emphasis,0.2,Fidelity loss 5%,shared,tv,150,right_boundary,0.339072958747
+contact_emphasis,0.2,Fidelity loss 5%,both,flat,150,right_boundary,0.220060707669
+contact_emphasis,0.2,Fidelity loss 5%,both,mod,150,right_boundary,0.271977091834
+contact_emphasis,0.2,Fidelity loss 5%,both,tv,150,right_boundary,0.32343797551
+contact_emphasis,0.2,Fidelity loss 10%,shared,flat,150,right_boundary,0.157667173581
+contact_emphasis,0.2,Fidelity loss 10%,shared,mod,150,right_boundary,0.26358711774
+contact_emphasis,0.2,Fidelity loss 10%,shared,tv,150,right_boundary,0.328240891922
+contact_emphasis,0.2,Fidelity loss 10%,both,flat,150,right_boundary,0.144394141122
+contact_emphasis,0.2,Fidelity loss 10%,both,mod,150,right_boundary,0.23801547975
+contact_emphasis,0.2,Fidelity loss 10%,both,tv,150,right_boundary,0.298099917425
+contact_emphasis,0.2,Fidelity loss 20%,shared,flat,150,right_boundary,0.0692411361754
+contact_emphasis,0.2,Fidelity loss 20%,shared,mod,150,right_boundary,0.183907435401
+contact_emphasis,0.2,Fidelity loss 20%,shared,tv,150,right_boundary,0.274531653127
+contact_emphasis,0.2,Fidelity loss 20%,both,flat,150,right_boundary,0.0576321854608
+contact_emphasis,0.2,Fidelity loss 20%,both,mod,150,right_boundary,0.148581322343
+contact_emphasis,0.2,Fidelity loss 20%,both,tv,150,right_boundary,0.22454852913
+contact_emphasis,0.2,Combined stress,shared,flat,23.3077442521,crossing,0.00135210234317
+contact_emphasis,0.2,Combined stress,shared,mod,45.8611090676,crossing,0.0078797445851
+contact_emphasis,0.2,Combined stress,shared,tv,20,no_segment_at_lower_bound,0.0217885856802
+contact_emphasis,0.2,Combined stress,both,flat,20,no_segment_at_lower_bound,0.00112540921925
+contact_emphasis,0.2,Combined stress,both,mod,35.8767439397,crossing,0.00636615299227
+contact_emphasis,0.2,Combined stress,both,tv,20,no_segment_at_lower_bound,0.0178216056713
+contact_emphasis,0.4,Baseline,shared,flat,150,right_boundary,0.283764212766
+contact_emphasis,0.4,Baseline,shared,mod,150,right_boundary,0.273054779847
+contact_emphasis,0.4,Baseline,shared,tv,150,right_boundary,0.31105574949
+contact_emphasis,0.4,Baseline,both,flat,150,right_boundary,0.283764212766
+contact_emphasis,0.4,Baseline,both,mod,150,right_boundary,0.273054779847
+contact_emphasis,0.4,Baseline,both,tv,150,right_boundary,0.31105574949
+contact_emphasis,0.4,Threshold 0.60,shared,flat,101.878601959,crossing,0.0515697325935
+contact_emphasis,0.4,Threshold 0.60,shared,mod,150,right_boundary,0.205773450354
+contact_emphasis,0.4,Threshold 0.60,shared,tv,150,right_boundary,0.281929563627
+contact_emphasis,0.4,Threshold 0.60,both,flat,101.878601959,crossing,0.0515697325935
+contact_emphasis,0.4,Threshold 0.60,both,mod,150,right_boundary,0.205773450354
+contact_emphasis,0.4,Threshold 0.60,both,tv,150,right_boundary,0.281929563627
+contact_emphasis,0.4,Threshold 0.70,shared,flat,59.5535278927,crossing,0.00731879011607
+contact_emphasis,0.4,Threshold 0.70,shared,mod,108.962491976,crossing,0.0729517040432
+contact_emphasis,0.4,Threshold 0.70,shared,tv,145.293640383,crossing,0.166636295585
+contact_emphasis,0.4,Threshold 0.70,both,flat,59.5535278927,crossing,0.00731879011607
+contact_emphasis,0.4,Threshold 0.70,both,mod,108.962491976,crossing,0.0729517040432
+contact_emphasis,0.4,Threshold 0.70,both,tv,145.293640383,crossing,0.166636295585
+contact_emphasis,0.4,Fidelity loss 5%,shared,flat,150,right_boundary,0.201577592765
+contact_emphasis,0.4,Fidelity loss 5%,shared,mod,150,right_boundary,0.260931296392
+contact_emphasis,0.4,Fidelity loss 5%,shared,tv,150,right_boundary,0.305985854695
+contact_emphasis,0.4,Fidelity loss 5%,both,flat,150,right_boundary,0.192649389867
+contact_emphasis,0.4,Fidelity loss 5%,both,mod,150,right_boundary,0.246862787825
+contact_emphasis,0.4,Fidelity loss 5%,both,tv,150,right_boundary,0.290531125198
+contact_emphasis,0.4,Fidelity loss 10%,shared,flat,150,right_boundary,0.138332662621
+contact_emphasis,0.4,Fidelity loss 10%,shared,mod,150,right_boundary,0.240554140441
+contact_emphasis,0.4,Fidelity loss 10%,shared,tv,150,right_boundary,0.296210792603
+contact_emphasis,0.4,Fidelity loss 10%,both,flat,150,right_boundary,0.126126541202
+contact_emphasis,0.4,Fidelity loss 10%,both,mod,150,right_boundary,0.214833789031
+contact_emphasis,0.4,Fidelity loss 10%,both,tv,150,right_boundary,0.266511692871
+contact_emphasis,0.4,Fidelity loss 20%,shared,flat,150,right_boundary,0.0607501898621
+contact_emphasis,0.4,Fidelity loss 20%,shared,mod,150,right_boundary,0.167837090913
+contact_emphasis,0.4,Fidelity loss 20%,shared,tv,150,right_boundary,0.247742559105
+contact_emphasis,0.4,Fidelity loss 20%,both,flat,100.747444551,crossing,0.0501133448394
+contact_emphasis,0.4,Fidelity loss 20%,both,mod,148.68181119,crossing,0.132558513756
+contact_emphasis,0.4,Fidelity loss 20%,both,tv,150,right_boundary,0.198809321745
+contact_emphasis,0.4,Combined stress,shared,flat,21.2058049553,crossing,0.00118629587262
+contact_emphasis,0.4,Combined stress,shared,mod,42.9494577504,crossing,0.00719119053243
+contact_emphasis,0.4,Combined stress,shared,tv,20,no_segment_at_lower_bound,0.0196624320518
+contact_emphasis,0.4,Combined stress,both,flat,20,no_segment_at_lower_bound,0.000978585487241
+contact_emphasis,0.4,Combined stress,both,mod,31.2888406768,crossing,0.00567963567485
+contact_emphasis,0.4,Combined stress,both,tv,20,no_segment_at_lower_bound,0.015778777753
+recruitment_emphasis,0,Baseline,shared,flat,150,right_boundary,0.143618625329
+recruitment_emphasis,0,Baseline,shared,mod,150,right_boundary,0.196287573412
+recruitment_emphasis,0,Baseline,shared,tv,150,right_boundary,0.185176784804
+recruitment_emphasis,0,Baseline,both,flat,150,right_boundary,0.143618625329
+recruitment_emphasis,0,Baseline,both,mod,150,right_boundary,0.196287573412
+recruitment_emphasis,0,Baseline,both,tv,150,right_boundary,0.185176784804
+recruitment_emphasis,0,Threshold 0.60,shared,flat,78.3917018608,crossing,0.026100451609
+recruitment_emphasis,0,Threshold 0.60,shared,mod,141.645927315,crossing,0.147921861193
+recruitment_emphasis,0,Threshold 0.60,shared,tv,150,right_boundary,0.167837470354
+recruitment_emphasis,0,Threshold 0.60,both,flat,78.3917018608,crossing,0.026100451609
+recruitment_emphasis,0,Threshold 0.60,both,mod,141.645927315,crossing,0.147921861193
+recruitment_emphasis,0,Threshold 0.60,both,tv,150,right_boundary,0.167837470354
+recruitment_emphasis,0,Threshold 0.70,shared,flat,50.7093155906,crossing,0.00370418300919
+recruitment_emphasis,0,Threshold 0.70,shared,mod,101.126835982,crossing,0.0524419055068
+recruitment_emphasis,0,Threshold 0.70,shared,tv,129.3224269,crossing,0.0992014244989
+recruitment_emphasis,0,Threshold 0.70,both,flat,50.7093155906,crossing,0.00370418300919
+recruitment_emphasis,0,Threshold 0.70,both,mod,101.126835982,crossing,0.0524419055068
+recruitment_emphasis,0,Threshold 0.70,both,tv,129.3224269,crossing,0.0992014244989
+recruitment_emphasis,0,Fidelity loss 5%,shared,flat,150,right_boundary,0.102022367401
+recruitment_emphasis,0,Fidelity loss 5%,shared,mod,150,right_boundary,0.187572512097
+recruitment_emphasis,0,Fidelity loss 5%,shared,tv,150,right_boundary,0.182158590095
+recruitment_emphasis,0,Fidelity loss 5%,both,flat,150,right_boundary,0.096398801408
+recruitment_emphasis,0,Fidelity loss 5%,both,mod,150,right_boundary,0.17420520765
+recruitment_emphasis,0,Fidelity loss 5%,both,tv,150,right_boundary,0.169792315308
+recruitment_emphasis,0,Fidelity loss 10%,shared,flat,150,right_boundary,0.0700128696644
+recruitment_emphasis,0,Fidelity loss 10%,shared,mod,150,right_boundary,0.172924233474
+recruitment_emphasis,0,Fidelity loss 10%,shared,tv,150,right_boundary,0.176339329167
+recruitment_emphasis,0,Fidelity loss 10%,both,flat,150,right_boundary,0.0622945231299
+recruitment_emphasis,0,Fidelity loss 10%,both,mod,150,right_boundary,0.148277435824
+recruitment_emphasis,0,Fidelity loss 10%,both,tv,150,right_boundary,0.152396888691
+recruitment_emphasis,0,Fidelity loss 20%,shared,flat,74.4717835098,crossing,0.0307468608231
+recruitment_emphasis,0,Fidelity loss 20%,shared,mod,137.908208674,crossing,0.120651011208
+recruitment_emphasis,0,Fidelity loss 20%,shared,tv,150,right_boundary,0.147485364374
+recruitment_emphasis,0,Fidelity loss 20%,both,flat,66.6623737846,crossing,0.0239676807147
+recruitment_emphasis,0,Fidelity loss 20%,both,mod,124.118770573,crossing,0.0862583642121
+recruitment_emphasis,0,Fidelity loss 20%,both,tv,150,right_boundary,0.107435767108
+recruitment_emphasis,0,Combined stress,shared,flat,20,no_segment_at_lower_bound,0.000600407573594
+recruitment_emphasis,0,Combined stress,shared,mod,37.3418851402,crossing,0.00516944380299
+recruitment_emphasis,0,Combined stress,shared,tv,20,no_segment_at_lower_bound,0.0117053806424
+recruitment_emphasis,0,Combined stress,both,flat,20,no_segment_at_lower_bound,0.000468027520121
+recruitment_emphasis,0,Combined stress,both,mod,23.1656243563,crossing,0.0036958477336
+recruitment_emphasis,0,Combined stress,both,tv,20,no_segment_at_lower_bound,0.00852678876948
+recruitment_emphasis,0.2,Baseline,shared,flat,150,right_boundary,0.127315002395
+recruitment_emphasis,0.2,Baseline,shared,mod,150,right_boundary,0.182937205327
+recruitment_emphasis,0.2,Baseline,shared,tv,150,right_boundary,0.172521286333
+recruitment_emphasis,0.2,Baseline,both,flat,150,right_boundary,0.127315002395
+recruitment_emphasis,0.2,Baseline,both,mod,150,right_boundary,0.182937205327
+recruitment_emphasis,0.2,Baseline,both,tv,150,right_boundary,0.172521286333
+recruitment_emphasis,0.2,Threshold 0.60,shared,flat,75.5462255787,crossing,0.0231375216932
+recruitment_emphasis,0.2,Threshold 0.60,shared,mod,139.057849572,crossing,0.137861054692
+recruitment_emphasis,0.2,Threshold 0.60,shared,tv,150,right_boundary,0.156366989043
+recruitment_emphasis,0.2,Threshold 0.60,both,flat,75.5462255787,crossing,0.0231375216932
+recruitment_emphasis,0.2,Threshold 0.60,both,mod,139.057849572,crossing,0.137861054692
+recruitment_emphasis,0.2,Threshold 0.60,both,tv,150,right_boundary,0.156366989043
+recruitment_emphasis,0.2,Threshold 0.70,shared,flat,48.9982949547,crossing,0.00328368321034
+recruitment_emphasis,0.2,Threshold 0.70,shared,mod,99.4580808241,crossing,0.0488751043618
+recruitment_emphasis,0.2,Threshold 0.70,shared,tv,126.932733741,crossing,0.092421722187
+recruitment_emphasis,0.2,Threshold 0.70,both,flat,48.9982949547,crossing,0.00328368321034
+recruitment_emphasis,0.2,Threshold 0.70,both,mod,99.4580808241,crossing,0.0488751043618
+recruitment_emphasis,0.2,Threshold 0.70,both,tv,126.932733741,crossing,0.092421722187
+recruitment_emphasis,0.2,Fidelity loss 5%,shared,flat,150,right_boundary,0.0904407622635
+recruitment_emphasis,0.2,Fidelity loss 5%,shared,mod,150,right_boundary,0.174814893081
+recruitment_emphasis,0.2,Fidelity loss 5%,shared,tv,150,right_boundary,0.169709363477
+recruitment_emphasis,0.2,Fidelity loss 5%,both,flat,150,right_boundary,0.0850292483496
+recruitment_emphasis,0.2,Fidelity loss 5%,both,mod,150,right_boundary,0.161200500336
+recruitment_emphasis,0.2,Fidelity loss 5%,both,tv,150,right_boundary,0.157008599977
+recruitment_emphasis,0.2,Fidelity loss 10%,shared,flat,150,right_boundary,0.0620649908642
+recruitment_emphasis,0.2,Fidelity loss 10%,shared,mod,150,right_boundary,0.161162907336
+recruitment_emphasis,0.2,Fidelity loss 10%,shared,tv,150,right_boundary,0.164287807087
+recruitment_emphasis,0.2,Fidelity loss 10%,both,flat,150,right_boundary,0.054665592888
+recruitment_emphasis,0.2,Fidelity loss 10%,both,mod,150,right_boundary,0.13618847064
+recruitment_emphasis,0.2,Fidelity loss 10%,both,tv,150,right_boundary,0.139827798167
+recruitment_emphasis,0.2,Fidelity loss 20%,shared,flat,71.030128771,crossing,0.0272564693496
+recruitment_emphasis,0.2,Fidelity loss 20%,shared,mod,134.530681485,crossing,0.112445013338
+recruitment_emphasis,0.2,Fidelity loss 20%,shared,tv,150,right_boundary,0.137405802806
+recruitment_emphasis,0.2,Fidelity loss 20%,both,flat,62.7134990718,crossing,0.0208064507807
+recruitment_emphasis,0.2,Fidelity loss 20%,both,mod,119.918960459,crossing,0.0779522472154
+recruitment_emphasis,0.2,Fidelity loss 20%,both,tv,149.659788067,crossing,0.0969254854957
+recruitment_emphasis,0.2,Combined stress,shared,flat,20,no_segment_at_lower_bound,0.000532249152884
+recruitment_emphasis,0.2,Combined stress,shared,mod,35.2104116116,crossing,0.00481784753856
+recruitment_emphasis,0.2,Combined stress,shared,tv,20,no_segment_at_lower_bound,0.0109054022489
+recruitment_emphasis,0.2,Combined stress,both,flat,20,no_segment_at_lower_bound,0.000406296782628
+recruitment_emphasis,0.2,Combined stress,both,mod,20,no_segment_at_lower_bound,0.00333996173973
+recruitment_emphasis,0.2,Combined stress,both,tv,20,no_segment_at_lower_bound,0.00769262568182
+recruitment_emphasis,0.4,Baseline,shared,flat,150,right_boundary,0.115669557441
+recruitment_emphasis,0.4,Baseline,shared,mod,150,right_boundary,0.173401228124
+recruitment_emphasis,0.4,Baseline,shared,tv,150,right_boundary,0.163481644568
+recruitment_emphasis,0.4,Baseline,both,flat,150,right_boundary,0.115669557441
+recruitment_emphasis,0.4,Baseline,both,mod,150,right_boundary,0.173401228124
+recruitment_emphasis,0.4,Baseline,both,tv,150,right_boundary,0.163481644568
+recruitment_emphasis,0.4,Threshold 0.60,shared,flat,73.3593737595,crossing,0.0210211431819
+recruitment_emphasis,0.4,Threshold 0.60,shared,mod,137.138647287,crossing,0.130674764334
+recruitment_emphasis,0.4,Threshold 0.60,shared,tv,150,right_boundary,0.148173788106
+recruitment_emphasis,0.4,Threshold 0.60,both,flat,73.3593737595,crossing,0.0210211431819
+recruitment_emphasis,0.4,Threshold 0.60,both,mod,137.138647287,crossing,0.130674764334
+recruitment_emphasis,0.4,Threshold 0.60,both,tv,150,right_boundary,0.148173788106
+recruitment_emphasis,0.4,Threshold 0.70,shared,flat,47.6334706031,crossing,0.00298332621116
+recruitment_emphasis,0.4,Threshold 0.70,shared,mod,98.1710564568,crossing,0.0463273892582
+recruitment_emphasis,0.4,Threshold 0.70,shared,tv,125.038386087,crossing,0.0875790776784
+recruitment_emphasis,0.4,Threshold 0.70,both,flat,47.6334706031,crossing,0.00298332621116
+recruitment_emphasis,0.4,Threshold 0.70,both,mod,98.1710564568,crossing,0.0463273892582
+recruitment_emphasis,0.4,Threshold 0.70,both,tv,125.038386087,crossing,0.0875790776784
+recruitment_emphasis,0.4,Fidelity loss 5%,shared,flat,150,right_boundary,0.0821681871651
+recruitment_emphasis,0.4,Fidelity loss 5%,shared,mod,150,right_boundary,0.16570230807
+recruitment_emphasis,0.4,Fidelity loss 5%,shared,tv,150,right_boundary,0.16081705875
+recruitment_emphasis,0.4,Fidelity loss 5%,both,flat,150,right_boundary,0.0769081390222
+recruitment_emphasis,0.4,Fidelity loss 5%,both,mod,150,right_boundary,0.151911423684
+recruitment_emphasis,0.4,Fidelity loss 5%,both,tv,150,right_boundary,0.14787737474
+recruitment_emphasis,0.4,Fidelity loss 10%,shared,flat,150,right_boundary,0.0563879345783
+recruitment_emphasis,0.4,Fidelity loss 10%,shared,mod,150,right_boundary,0.152761960095
+recruitment_emphasis,0.4,Fidelity loss 10%,shared,tv,150,right_boundary,0.155679577031
+recruitment_emphasis,0.4,Fidelity loss 10%,both,flat,97.9684307075,crossing,0.0492163570009
+recruitment_emphasis,0.4,Fidelity loss 10%,both,mod,150,right_boundary,0.127553495508
+recruitment_emphasis,0.4,Fidelity loss 10%,both,tv,150,right_boundary,0.130849876365
+recruitment_emphasis,0.4,Fidelity loss 20%,shared,flat,68.4530621484,crossing,0.0247633325829
+recruitment_emphasis,0.4,Fidelity loss 20%,shared,mod,132.100521226,crossing,0.106583586287
+recruitment_emphasis,0.4,Fidelity loss 20%,shared,tv,150,right_boundary,0.130206115972
+recruitment_emphasis,0.4,Fidelity loss 20%,both,flat,59.4964958249,crossing,0.0185484293993
+recruitment_emphasis,0.4,Fidelity loss 20%,both,mod,116.610244653,crossing,0.0720193065034
+recruitment_emphasis,0.4,Fidelity loss 20%,both,tv,145.529775559,crossing,0.0894181414869
+recruitment_emphasis,0.4,Combined stress,shared,flat,20,no_segment_at_lower_bound,0.000483564566663
+recruitment_emphasis,0.4,Combined stress,shared,mod,33.613519257,crossing,0.00456670734969
+recruitment_emphasis,0.4,Combined stress,shared,tv,20,no_segment_at_lower_bound,0.0103339891107
+recruitment_emphasis,0.4,Combined stress,both,flat,20,no_segment_at_lower_bound,0.000362203398704
+recruitment_emphasis,0.4,Combined stress,both,mod,20,no_segment_at_lower_bound,0.0030857574584
+recruitment_emphasis,0.4,Combined stress,both,tv,20,no_segment_at_lower_bound,0.00709679490492

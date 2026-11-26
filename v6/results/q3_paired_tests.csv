@@ -1,0 +1,2 @@
+n_pairs,natural_any,control_any,natural_rate,control_rate,call_only,control_only,risk_difference,paired_lower,paired_upper,exact_mcnemar_p,paired_permutation_statistic,paired_permutation_p
+139,90,18,0.6474820144,0.1294964029,74,2,0.5179856115,0.4350719424,0.6043165468,7.747704489e-20,6784,0.00025

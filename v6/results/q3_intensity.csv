@@ -1,0 +1,13 @@
+behaviour,stimulus,intensity_field,unit,events,q25,median,q75,spearman_with_latency
+HeadsUp,control,HeadsUpDuration,s,13,11,12,18,0.3077495322
+HeadsUp,flat,HeadsUpDuration,s,21,13,17,27,-0.2348018066
+HeadsUp,mod,HeadsUpDuration,s,15,16.5,26,39.5,0.1985880932
+HeadsUp,tv,HeadsUpDuration,s,19,17.5,27,34.5,-0.3840712372
+Vocal,control,VocalNcalls,count,5,1,1,2,-0.894427191
+Vocal,flat,VocalNcalls,count,26,1.25,2.5,4,-0.4513178904
+Vocal,mod,VocalNcalls,count,16,2.75,4,5.25,-0.568556922
+Vocal,tv,VocalNcalls,count,34,2,3,5,-0.2484723772
+Approach,control,ApproachDuration,s,0,,,,
+Approach,flat,ApproachDuration,s,4,24,27.5,28,
+Approach,mod,ApproachDuration,s,8,21,33.5,48,0.7575896712
+Approach,tv,ApproachDuration,s,11,29.5,44,60,-0.03849001795
