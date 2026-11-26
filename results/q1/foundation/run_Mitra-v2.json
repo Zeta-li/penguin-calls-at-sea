@@ -1,0 +1,50 @@
+{
+  "model": "Mitra-v2",
+  "source_sha256": "1328f92601a84d81dbf8e1404fa0eeabc36cdf17a7626d9746aa62794827d02e",
+  "features": [
+    "Duration",
+    "F01",
+    "Fpeak",
+    "Q25",
+    "Q50",
+    "Q75"
+  ],
+  "classes": [
+    "flat",
+    "mod",
+    "tv"
+  ],
+  "n_records": 108,
+  "n_dates": 16,
+  "python": "3.12.4",
+  "packages": {
+    "numpy": "1.26.4",
+    "pandas": "2.2.2",
+    "torch": "2.6.0+cu126",
+    "scikit-learn": "1.4.2",
+    "tabicl": "2.0.3",
+    "einops": "0.8.2",
+    "safetensors": "0.8.0",
+    "huggingface-hub": "2.4.0",
+    "einx": "0.3.0"
+  },
+  "random_seed": 20261126,
+  "config": "single frozen forward pass",
+  "device": "cpu",
+  "torch_threads": 4,
+  "requested_hf_endpoint": "https://hf-mirror.com",
+  "assets": {
+    "weights/config.json": {
+      "upstream_url": "https://huggingface.co/autogluon/mitra-classifier-2/resolve/edada0d20759c58ada8c8605c25f22f6e98ea5f0/config.json",
+      "sha256": "2c96c24dd25f64e92753f6f2ba00cc7833b9923459403dcd8504e8700c0995df"
+    },
+    "weights/model.safetensors": {
+      "upstream_url": "https://huggingface.co/autogluon/mitra-classifier-2/resolve/edada0d20759c58ada8c8605c25f22f6e98ea5f0/model.safetensors",
+      "sha256": "5ffab0e2cf52f61c5b7c7eb1e8542996736d1023a0212190cc09abc2119a1e09"
+    },
+    "autogluon.whl": {
+      "upstream_url": "https://files.pythonhosted.org/packages/e2/86/007552ef0077e8fe45a38112fd0c7b67030f5a3576e9d270147169c1e9a8/autogluon_tabular-1.6.3-py3-none-any.whl",
+      "sha256": "6511e7e3edf9a93bf7b214f2f6782c1e00f3755c2150f4863f031fd0b3f44895"
+    }
+  }
+}

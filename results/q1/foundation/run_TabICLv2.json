@@ -1,0 +1,41 @@
+{
+  "model": "TabICLv2",
+  "source_sha256": "1328f92601a84d81dbf8e1404fa0eeabc36cdf17a7626d9746aa62794827d02e",
+  "features": [
+    "Duration",
+    "F01",
+    "Fpeak",
+    "Q25",
+    "Q50",
+    "Q75"
+  ],
+  "classes": [
+    "flat",
+    "mod",
+    "tv"
+  ],
+  "n_records": 108,
+  "n_dates": 16,
+  "python": "3.12.4",
+  "packages": {
+    "numpy": "1.26.4",
+    "pandas": "2.2.2",
+    "torch": "2.6.0+cu126",
+    "scikit-learn": "1.4.2",
+    "tabicl": "2.0.3",
+    "einops": "0.8.2",
+    "safetensors": "0.8.0",
+    "huggingface-hub": "2.4.0"
+  },
+  "random_seed": 20261126,
+  "config": "4-member frozen ensemble",
+  "device": "cpu",
+  "torch_threads": 4,
+  "requested_hf_endpoint": "https://hf-mirror.com",
+  "assets": {
+    "tabicl-classifier-v2-20260212.ckpt": {
+      "upstream_url": "https://huggingface.co/jingang/TabICL/resolve/4dcd344ece2c00be9e831fdd35bed57b5ad83e19/tabicl-classifier-v2-20260212.ckpt",
+      "sha256": "bdc7dbd5e4ff21f8f0456fcf90c6b7cdf72dbea960f2d05b19bec19f9b3d4ed0"
+    }
+  }
+}

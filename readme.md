@@ -13,6 +13,8 @@
 
 总体结构借鉴 Loning 等将传播测量与接收者听觉联系起来的研究。该研究的物种为斑胸草雀。企鹅的三档识别标准、联系／招募评分与噪声情景由本队设定。三组实验按声型和条件衔接，缺少逐录音公共键。后续各章将使用附件的实际声型，第一章的预测误差用于解释这套分类能推广到哪里。[框架研究](https://doi.org/10.1093/beheco/arab107) · [企鹅题源研究的 Methods、Table 1 和 Discussion](https://ore.eu/article/view/1538)
 
+Q2 的形状约束平滑和中心等序曲线分别借鉴 Pya 与 Wood、Oron 与 Flournoy 的方法，是否采用以留出距离的成绩决定。Q3 的八组合建模拟比较 Dai 等的联合二元框架与八类回归，发声主口径为播放后出现叫声，另以超过基线的发声作敏感性分析。Q4 相对基准比较噪声下通信范围的思路可参照 Hatch 等的鲸类研究。[形状约束](https://doi.org/10.1007/s11222-013-9448-7) · [中心等序回归](https://doi.org/10.1080/19466315.2017.1286256) · [多变量伯努利](https://doi.org/10.3150/12-BEJSP10) · [通信空间](https://doi.org/10.1111/j.1523-1739.2012.01908.x)
+
 ## 第 1 问的选择
 
 1. **先比较声音。** 按三类统计样本量、中位数和四分位数，绘制特征分布。题源用 Kruskal–Wallis 总体检验与两两秩和检验。沿用队员第三版的改进，在同一日期内置换声型检验总体差异，再限定到当天同时出现两类声音的记录作精确两两比较。对六项总体检验和十八项成对检验分别作 Holm 校正。按日期比较还需要同日记录在零假设下可交换。[题源 Table 2](https://ore.eu/article/view/1538) · [条件置换的一般框架](https://doi.org/10.18637/jss.v028.i08) · [Holm 校正](https://www.jstor.org/stable/4615733)
@@ -33,3 +35,23 @@ python -m q1 --data $data01
 ```
 
 基础入口依次生成描述检验和四个经典分类器的结果。`--stage statistics` 或 `--stage classical` 可单独运行。结果目录默认为 `results/q1`，可用 `--out` 替换。冻结模型与合并评分的精确命令见下文。
+
+```powershell
+# 在隔离的 Python 3.12 环境中运行。两个冻结模型均支持 CPU。
+python -m pip install -r requirements-foundation.txt
+$weights = "../q1-model-cache"
+python -m q1.foundation --data $data01 --cache $weights
+python -m q1.compare --data $data01 results/q1/classical/oof.csv results/q1/foundation/oof.csv
+python -m q1.foundation --data $data01 --cache $weights --model TabICLv2 --offline --ablate
+python -m q1.svm_check --data $data01
+```
+
+首次运行会下载固定版本的检查点，并验证 SHA-256。本次使用 HTTPS 镜像传输模型文件，脚本默认采用官方地址，运行时可选择 `--hf-endpoint https://hf-mirror.com`。Mitra 的四个原生推理模块取自固定哈希的上游 wheel。权重、依赖和原始数据使用外部路径。[TabICLv2 运行清单](results/q1/foundation/run_TabICLv2.json) · [Mitra-v2 运行清单](results/q1/foundation/run_Mitra-v2.json)
+
+若要复现自评中的岭模型删组对照，可从仓库根目录运行：
+
+```powershell
+python -c "from pathlib import Path; import sys; from q1.data import load_data; from q1.classifiers import ablate; ablate(load_data(Path(sys.argv[1])),Path('results/q1/classical'),'ridge')" $data01
+```
+
+**结果入口。** [六模型成绩](results/q1/comparison/scores.csv) · [各类混淆计数](results/q1/comparison/confusion.csv) · [六模型混淆图](results/q1/comparison/confusion.png) · [日期成对重抽样](results/q1/comparison/paired_date_sensitivity.csv) · [胜出模型删组结果](results/q1/foundation/ablations_TabICLv2.csv)。每个候选的 108 条测试概率见[传统模型逐条预测](results/q1/classical/oof.csv)和[冻结模型逐条预测](results/q1/foundation/oof.csv)。

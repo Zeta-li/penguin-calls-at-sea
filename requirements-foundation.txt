@@ -1,0 +1,8 @@
+# Optional frozen CPU inference. Python 3.12, with pinned weights in q1/foundation.py.
+-r requirements.txt
+torch==2.6.0
+tabicl==2.0.3
+einx==0.3.0
+einops==0.8.2
+safetensors==0.8.0
+huggingface-hub==2.4.0
