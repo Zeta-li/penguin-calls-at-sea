@@ -1,0 +1,3 @@
+data/**/*.csv -text
+audio/*.wav binary
+*.docx binary

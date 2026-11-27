@@ -1,0 +1,127 @@
+acoustic,call,distance_m,endpoint,eta_critical_clipped,status
+Baseline,flat,50,contact,1,retains_at_full_transfer
+Baseline,flat,50,recruitment,1,retains_at_full_transfer
+Baseline,flat,100,contact,1,retains_at_full_transfer
+Baseline,flat,100,recruitment,0,below_with_zero_transfer
+Baseline,flat,150,contact,1,retains_at_full_transfer
+Baseline,flat,150,recruitment,0,below_with_zero_transfer
+Baseline,mod,50,contact,1,retains_at_full_transfer
+Baseline,mod,50,recruitment,1,retains_at_full_transfer
+Baseline,mod,100,contact,1,retains_at_full_transfer
+Baseline,mod,100,recruitment,1,retains_at_full_transfer
+Baseline,mod,150,contact,1,retains_at_full_transfer
+Baseline,mod,150,recruitment,1,retains_at_full_transfer
+Baseline,tv,50,contact,1,retains_at_full_transfer
+Baseline,tv,50,recruitment,1,retains_at_full_transfer
+Baseline,tv,100,contact,1,retains_at_full_transfer
+Baseline,tv,100,recruitment,1,retains_at_full_transfer
+Baseline,tv,150,contact,1,retains_at_full_transfer
+Baseline,tv,150,recruitment,1,retains_at_full_transfer
+Threshold 0.60,flat,50,contact,1,retains_at_full_transfer
+Threshold 0.60,flat,50,recruitment,0,below_with_zero_transfer
+Threshold 0.60,flat,100,contact,1,retains_at_full_transfer
+Threshold 0.60,flat,100,recruitment,0,below_with_zero_transfer
+Threshold 0.60,flat,150,contact,1,retains_at_full_transfer
+Threshold 0.60,flat,150,recruitment,0,below_with_zero_transfer
+Threshold 0.60,mod,50,contact,1,retains_at_full_transfer
+Threshold 0.60,mod,50,recruitment,1,retains_at_full_transfer
+Threshold 0.60,mod,100,contact,1,retains_at_full_transfer
+Threshold 0.60,mod,100,recruitment,1,retains_at_full_transfer
+Threshold 0.60,mod,150,contact,1,retains_at_full_transfer
+Threshold 0.60,mod,150,recruitment,0,below_with_zero_transfer
+Threshold 0.60,tv,50,contact,1,retains_at_full_transfer
+Threshold 0.60,tv,50,recruitment,1,retains_at_full_transfer
+Threshold 0.60,tv,100,contact,1,retains_at_full_transfer
+Threshold 0.60,tv,100,recruitment,1,retains_at_full_transfer
+Threshold 0.60,tv,150,contact,1,retains_at_full_transfer
+Threshold 0.60,tv,150,recruitment,0,below_with_zero_transfer
+Threshold 0.70,flat,50,contact,1,retains_at_full_transfer
+Threshold 0.70,flat,50,recruitment,0,below_with_zero_transfer
+Threshold 0.70,flat,100,contact,0,below_with_zero_transfer
+Threshold 0.70,flat,100,recruitment,0,below_with_zero_transfer
+Threshold 0.70,flat,150,contact,0,below_with_zero_transfer
+Threshold 0.70,flat,150,recruitment,0,below_with_zero_transfer
+Threshold 0.70,mod,50,contact,1,retains_at_full_transfer
+Threshold 0.70,mod,50,recruitment,1,retains_at_full_transfer
+Threshold 0.70,mod,100,contact,1,retains_at_full_transfer
+Threshold 0.70,mod,100,recruitment,0,below_with_zero_transfer
+Threshold 0.70,mod,150,contact,0,below_with_zero_transfer
+Threshold 0.70,mod,150,recruitment,0,below_with_zero_transfer
+Threshold 0.70,tv,50,contact,1,retains_at_full_transfer
+Threshold 0.70,tv,50,recruitment,1,retains_at_full_transfer
+Threshold 0.70,tv,100,contact,1,retains_at_full_transfer
+Threshold 0.70,tv,100,recruitment,0.789177237192,crosses_within_range
+Threshold 0.70,tv,150,contact,1,retains_at_full_transfer
+Threshold 0.70,tv,150,recruitment,0,below_with_zero_transfer
+Fidelity loss 5%,flat,50,contact,1,retains_at_full_transfer
+Fidelity loss 5%,flat,50,recruitment,1,retains_at_full_transfer
+Fidelity loss 5%,flat,100,contact,1,retains_at_full_transfer
+Fidelity loss 5%,flat,100,recruitment,0,below_with_zero_transfer
+Fidelity loss 5%,flat,150,contact,1,retains_at_full_transfer
+Fidelity loss 5%,flat,150,recruitment,0,below_with_zero_transfer
+Fidelity loss 5%,mod,50,contact,1,retains_at_full_transfer
+Fidelity loss 5%,mod,50,recruitment,1,retains_at_full_transfer
+Fidelity loss 5%,mod,100,contact,1,retains_at_full_transfer
+Fidelity loss 5%,mod,100,recruitment,1,retains_at_full_transfer
+Fidelity loss 5%,mod,150,contact,1,retains_at_full_transfer
+Fidelity loss 5%,mod,150,recruitment,1,retains_at_full_transfer
+Fidelity loss 5%,tv,50,contact,1,retains_at_full_transfer
+Fidelity loss 5%,tv,50,recruitment,1,retains_at_full_transfer
+Fidelity loss 5%,tv,100,contact,1,retains_at_full_transfer
+Fidelity loss 5%,tv,100,recruitment,1,retains_at_full_transfer
+Fidelity loss 5%,tv,150,contact,1,retains_at_full_transfer
+Fidelity loss 5%,tv,150,recruitment,1,retains_at_full_transfer
+Fidelity loss 10%,flat,50,contact,1,retains_at_full_transfer
+Fidelity loss 10%,flat,50,recruitment,1,retains_at_full_transfer
+Fidelity loss 10%,flat,100,contact,1,retains_at_full_transfer
+Fidelity loss 10%,flat,100,recruitment,0,below_with_zero_transfer
+Fidelity loss 10%,flat,150,contact,1,retains_at_full_transfer
+Fidelity loss 10%,flat,150,recruitment,0,below_with_zero_transfer
+Fidelity loss 10%,mod,50,contact,1,retains_at_full_transfer
+Fidelity loss 10%,mod,50,recruitment,1,retains_at_full_transfer
+Fidelity loss 10%,mod,100,contact,1,retains_at_full_transfer
+Fidelity loss 10%,mod,100,recruitment,1,retains_at_full_transfer
+Fidelity loss 10%,mod,150,contact,1,retains_at_full_transfer
+Fidelity loss 10%,mod,150,recruitment,0,below_with_zero_transfer
+Fidelity loss 10%,tv,50,contact,1,retains_at_full_transfer
+Fidelity loss 10%,tv,50,recruitment,1,retains_at_full_transfer
+Fidelity loss 10%,tv,100,contact,1,retains_at_full_transfer
+Fidelity loss 10%,tv,100,recruitment,1,retains_at_full_transfer
+Fidelity loss 10%,tv,150,contact,1,retains_at_full_transfer
+Fidelity loss 10%,tv,150,recruitment,1,retains_at_full_transfer
+Fidelity loss 20%,flat,50,contact,1,retains_at_full_transfer
+Fidelity loss 20%,flat,50,recruitment,0,below_with_zero_transfer
+Fidelity loss 20%,flat,100,contact,1,retains_at_full_transfer
+Fidelity loss 20%,flat,100,recruitment,0,below_with_zero_transfer
+Fidelity loss 20%,flat,150,contact,1,retains_at_full_transfer
+Fidelity loss 20%,flat,150,recruitment,0,below_with_zero_transfer
+Fidelity loss 20%,mod,50,contact,1,retains_at_full_transfer
+Fidelity loss 20%,mod,50,recruitment,1,retains_at_full_transfer
+Fidelity loss 20%,mod,100,contact,1,retains_at_full_transfer
+Fidelity loss 20%,mod,100,recruitment,1,retains_at_full_transfer
+Fidelity loss 20%,mod,150,contact,1,retains_at_full_transfer
+Fidelity loss 20%,mod,150,recruitment,0,below_with_zero_transfer
+Fidelity loss 20%,tv,50,contact,1,retains_at_full_transfer
+Fidelity loss 20%,tv,50,recruitment,1,retains_at_full_transfer
+Fidelity loss 20%,tv,100,contact,1,retains_at_full_transfer
+Fidelity loss 20%,tv,100,recruitment,1,retains_at_full_transfer
+Fidelity loss 20%,tv,150,contact,1,retains_at_full_transfer
+Fidelity loss 20%,tv,150,recruitment,0,below_with_zero_transfer
+Combined stress,flat,50,contact,0,below_with_zero_transfer
+Combined stress,flat,50,recruitment,0,below_with_zero_transfer
+Combined stress,flat,100,contact,0,below_with_zero_transfer
+Combined stress,flat,100,recruitment,0,below_with_zero_transfer
+Combined stress,flat,150,contact,0,below_with_zero_transfer
+Combined stress,flat,150,recruitment,0,below_with_zero_transfer
+Combined stress,mod,50,contact,0,below_with_zero_transfer
+Combined stress,mod,50,recruitment,0,below_with_zero_transfer
+Combined stress,mod,100,contact,0,below_with_zero_transfer
+Combined stress,mod,100,recruitment,0,below_with_zero_transfer
+Combined stress,mod,150,contact,0,below_with_zero_transfer
+Combined stress,mod,150,recruitment,0,below_with_zero_transfer
+Combined stress,tv,50,contact,0,below_with_zero_transfer
+Combined stress,tv,50,recruitment,0,below_with_zero_transfer
+Combined stress,tv,100,contact,0,below_with_zero_transfer
+Combined stress,tv,100,recruitment,0,below_with_zero_transfer
+Combined stress,tv,150,contact,0,below_with_zero_transfer
+Combined stress,tv,150,recruitment,0,below_with_zero_transfer

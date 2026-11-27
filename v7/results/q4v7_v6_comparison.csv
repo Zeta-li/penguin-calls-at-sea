@@ -1,0 +1,43 @@
+acoustic,call,endpoint,clipped_m,radius_clipped_m,radius_difference,old_status,status,index100,excess_100m
+Baseline,flat,contact,150,150,0,right_boundary,right_boundary,0.386472876925,0.386472876925
+Baseline,flat,recruitment,66.0721666461,66.0727421163,0.000575470200474,crossing,crossing,0.0390077758554,0.0390077758554
+Baseline,mod,contact,150,150,0,right_boundary,right_boundary,0.306974299219,0.30697429922
+Baseline,mod,recruitment,150,150,0,right_boundary,right_boundary,0.103942063524,0.103942063524
+Baseline,tv,contact,150,150,0,right_boundary,right_boundary,0.41261595349,0.41261595349
+Baseline,tv,recruitment,150,150,0,right_boundary,right_boundary,0.0965560240844,0.0965560240843
+Threshold 0.60,flat,contact,150,150,0,right_boundary,right_boundary,0.0702354349881,0.0702354349883
+Threshold 0.60,flat,recruitment,47.0384450135,47.0383911471,-5.38664076117e-05,crossing,crossing,0.00708905661613,0.00708905661616
+Threshold 0.60,mod,contact,150,150,0,right_boundary,right_boundary,0.231335121677,0.231335121678
+Threshold 0.60,mod,recruitment,119.207931554,119.208900544,0.000968990072053,crossing,crossing,0.0783304985915,0.0783304985917
+Threshold 0.60,tv,contact,150,150,0,right_boundary,right_boundary,0.373980020956,0.373980020956
+Threshold 0.60,tv,recruitment,144.593399523,144.592695771,-0.000703751596973,crossing,crossing,0.0875148515347,0.0875148515347
+Threshold 0.70,flat,contact,63.9004173021,63.9028995041,0.00248220201207,crossing,crossing,0.00996783154648,0.00996783154651
+Threshold 0.70,flat,recruitment,31.2957239725,31.2970292562,0.00130528371261,crossing,crossing,0.00100608079362,0.00100608079362
+Threshold 0.70,mod,contact,111.846729912,111.848882466,0.00215255444816,crossing,crossing,0.0820139396133,0.082013939614
+Threshold 0.70,mod,recruitment,84.7599578432,84.7610309718,0.00107312861422,crossing,crossing,0.0277700711193,0.0277700711195
+Threshold 0.70,tv,contact,150,150,0,right_boundary,right_boundary,0.221043314908,0.221043314908
+Threshold 0.70,tv,recruitment,101.876353629,101.876147297,-0.000206331591414,crossing,crossing,0.0517262201267,0.0517262201265
+Fidelity loss 5%,flat,contact,150,150,0,right_boundary,right_boundary,0.274538749761,0.274538749761
+Fidelity loss 5%,flat,recruitment,58.5772197992,58.5779424902,0.000722690980929,crossing,crossing,0.0277099549637,0.0277099549638
+Fidelity loss 5%,mod,contact,150,150,0,right_boundary,right_boundary,0.293344807584,0.293344807585
+Fidelity loss 5%,mod,recruitment,150,150,0,right_boundary,right_boundary,0.0993270925345,0.0993270925345
+Fidelity loss 5%,tv,contact,150,150,0,right_boundary,right_boundary,0.405890729866,0.405890729866
+Fidelity loss 5%,tv,recruitment,150,150,0,right_boundary,right_boundary,0.0949822583375,0.0949822583375
+Fidelity loss 10%,flat,contact,150,150,0,right_boundary,right_boundary,0.188402270938,0.188402270938
+Fidelity loss 10%,flat,recruitment,52.68446079,52.6847685949,0.000307804869706,crossing,crossing,0.0190159620356,0.0190159620356
+Fidelity loss 10%,mod,contact,150,150,0,right_boundary,right_boundary,0.270436352469,0.27043635247
+Fidelity loss 10%,mod,recruitment,142.223171383,142.225759392,0.00258800949354,crossing,crossing,0.0915702474083,0.0915702474084
+Fidelity loss 10%,tv,contact,150,150,0,right_boundary,right_boundary,0.392924094232,0.392924094232
+Fidelity loss 10%,tv,recruitment,150,150,0,right_boundary,right_boundary,0.0919479433237,0.0919479433237
+Fidelity loss 20%,flat,contact,150,150,0,right_boundary,right_boundary,0.0827387654734,0.0827387654734
+Fidelity loss 20%,flat,recruitment,40.994468304,40.994487566,1.92620223132e-05,crossing,crossing,0.00835105232692,0.00835105232693
+Fidelity loss 20%,mod,contact,150,150,0,right_boundary,right_boundary,0.188686216717,0.188686216718
+Fidelity loss 20%,mod,recruitment,110.7982915,110.799228556,0.000937055821126,crossing,crossing,0.0638895007627,0.0638895007629
+Fidelity loss 20%,tv,contact,150,150,0,right_boundary,right_boundary,0.328630904307,0.328630904307
+Fidelity loss 20%,tv,recruitment,133.417382822,133.417009788,-0.000373033584509,crossing,crossing,0.0769027305968,0.0769027305967
+Combined stress,flat,contact,25.6317157378,25.6353336978,0.00361796001736,crossing,crossing,0.00161567653055,0.00161567653055
+Combined stress,flat,recruitment,20,20,0,no_segment_at_lower_bound,no_segment_at_lower_bound,0.000163074698695,0.000163074698696
+Combined stress,mod,contact,44.2068605167,44.207473942,0.000613425315912,crossing,crossing,0.00808449746048,0.00808449746055
+Combined stress,mod,recruitment,20.8191593595,20.8217254329,0.00256607336517,crossing,crossing,0.00273742574128,0.0027374257413
+Combined stress,tv,contact,20,20,0,no_segment_at_lower_bound,no_segment_at_lower_bound,0.0260822478359,0.0260822478357
+Combined stress,tv,recruitment,20,20,0,no_segment_at_lower_bound,no_segment_at_lower_bound,0.00610349194915,0.00610349194912

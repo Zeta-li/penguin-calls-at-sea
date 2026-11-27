@@ -1,0 +1,1576 @@
+acoustic,call,eta,clock,endpoint,vocal_weight,active_s,retention_v,retention_a,radius_clipped_m,status,later_segment,excess_100m
+Baseline,flat,0,cdf_lower,contact,1,60,1,1,150,right_boundary,False,0.386472876925
+Baseline,flat,0,interval_mle,contact,1,60,1,1,150,right_boundary,False,0.386472876925
+Baseline,flat,0,cdf_upper,contact,1,60,1,1,150,right_boundary,False,0.386472876925
+Baseline,flat,0,cdf_lower,recruitment,0,60,1,1,66.0727421163,crossing,False,0.0390077758554
+Baseline,flat,0,interval_mle,recruitment,0,60,1,1,66.0727421163,crossing,False,0.0390077758554
+Baseline,flat,0,cdf_upper,recruitment,0,60,1,1,66.0727421163,crossing,False,0.0390077758554
+Baseline,flat,0,cdf_lower,equal_priority,0.5,60,1,1,150,right_boundary,False,0.21274032639
+Baseline,flat,0,interval_mle,equal_priority,0.5,60,1,1,150,right_boundary,False,0.21274032639
+Baseline,flat,0,cdf_upper,equal_priority,0.5,60,1,1,150,right_boundary,False,0.21274032639
+Baseline,flat,0,cdf_lower,recruitment_priority,0.25,60,1,1,150,right_boundary,False,0.125874051123
+Baseline,flat,0,interval_mle,recruitment_priority,0.25,60,1,1,150,right_boundary,False,0.125874051123
+Baseline,flat,0,cdf_upper,recruitment_priority,0.25,60,1,1,150,right_boundary,False,0.125874051123
+Baseline,flat,0,cdf_lower,contact_priority,0.75,60,1,1,150,right_boundary,False,0.299606601658
+Baseline,flat,0,interval_mle,contact_priority,0.75,60,1,1,150,right_boundary,False,0.299606601658
+Baseline,flat,0,cdf_upper,contact_priority,0.75,60,1,1,150,right_boundary,False,0.299606601658
+Baseline,flat,0.25,cdf_lower,contact,1,51.7635738923,0.864197530864,1,150,right_boundary,False,0.333988905985
+Baseline,flat,0.25,interval_mle,contact,1,51.7635738923,1,1,150,right_boundary,False,0.386472876925
+Baseline,flat,0.25,cdf_upper,contact,1,51.7635738923,1,1,150,right_boundary,False,0.386472876925
+Baseline,flat,0.25,cdf_lower,recruitment,0,51.7635738923,0.864197530864,1,66.0727421163,crossing,False,0.0390077758554
+Baseline,flat,0.25,interval_mle,recruitment,0,51.7635738923,1,1,66.0727421163,crossing,False,0.0390077758554
+Baseline,flat,0.25,cdf_upper,recruitment,0,51.7635738923,1,1,66.0727421163,crossing,False,0.0390077758554
+Baseline,flat,0.25,cdf_lower,equal_priority,0.5,51.7635738923,0.864197530864,1,150,right_boundary,False,0.18649834092
+Baseline,flat,0.25,interval_mle,equal_priority,0.5,51.7635738923,1,1,150,right_boundary,False,0.21274032639
+Baseline,flat,0.25,cdf_upper,equal_priority,0.5,51.7635738923,1,1,150,right_boundary,False,0.21274032639
+Baseline,flat,0.25,cdf_lower,recruitment_priority,0.25,51.7635738923,0.864197530864,1,150,right_boundary,False,0.112753058388
+Baseline,flat,0.25,interval_mle,recruitment_priority,0.25,51.7635738923,1,1,150,right_boundary,False,0.125874051123
+Baseline,flat,0.25,cdf_upper,recruitment_priority,0.25,51.7635738923,1,1,150,right_boundary,False,0.125874051123
+Baseline,flat,0.25,cdf_lower,contact_priority,0.75,51.7635738923,0.864197530864,1,150,right_boundary,False,0.260243623452
+Baseline,flat,0.25,interval_mle,contact_priority,0.75,51.7635738923,1,1,150,right_boundary,False,0.299606601658
+Baseline,flat,0.25,cdf_upper,contact_priority,0.75,51.7635738923,1,1,150,right_boundary,False,0.299606601658
+Baseline,flat,0.5,cdf_lower,contact,1,43.5271477846,0.851851851852,1,150,right_boundary,False,0.329217635899
+Baseline,flat,0.5,interval_mle,contact,1,43.5271477846,0.984863443128,1,150,right_boundary,False,0.380623008244
+Baseline,flat,0.5,cdf_upper,contact,1,43.5271477846,0.987654320988,1,150,right_boundary,False,0.381701606839
+Baseline,flat,0.5,cdf_lower,recruitment,0,43.5271477846,0.851851851852,1,66.0727421163,crossing,False,0.0390077758554
+Baseline,flat,0.5,interval_mle,recruitment,0,43.5271477846,0.984863443128,1,66.0727421163,crossing,False,0.0390077758554
+Baseline,flat,0.5,cdf_upper,recruitment,0,43.5271477846,0.987654320988,1,66.0727421163,crossing,False,0.0390077758554
+Baseline,flat,0.5,cdf_lower,equal_priority,0.5,43.5271477846,0.851851851852,1,150,right_boundary,False,0.184112705877
+Baseline,flat,0.5,interval_mle,equal_priority,0.5,43.5271477846,0.984863443128,1,150,right_boundary,False,0.20981539205
+Baseline,flat,0.5,cdf_upper,equal_priority,0.5,43.5271477846,0.987654320988,1,150,right_boundary,False,0.210354691347
+Baseline,flat,0.5,cdf_lower,recruitment_priority,0.25,43.5271477846,0.851851851852,1,150,right_boundary,False,0.111560240866
+Baseline,flat,0.5,interval_mle,recruitment_priority,0.25,43.5271477846,0.984863443128,1,150,right_boundary,False,0.124411583953
+Baseline,flat,0.5,cdf_upper,recruitment_priority,0.25,43.5271477846,0.987654320988,1,150,right_boundary,False,0.124681233601
+Baseline,flat,0.5,cdf_lower,contact_priority,0.75,43.5271477846,0.851851851852,1,150,right_boundary,False,0.256665170888
+Baseline,flat,0.5,interval_mle,contact_priority,0.75,43.5271477846,0.984863443128,1,150,right_boundary,False,0.295219200147
+Baseline,flat,0.5,cdf_upper,contact_priority,0.75,43.5271477846,0.987654320988,1,150,right_boundary,False,0.296028149093
+Baseline,flat,0.75,cdf_lower,contact,1,35.2907216769,0.851851851852,1,150,right_boundary,False,0.329217635899
+Baseline,flat,0.75,interval_mle,contact,1,35.2907216769,0.984863443128,1,150,right_boundary,False,0.380623008244
+Baseline,flat,0.75,cdf_upper,contact,1,35.2907216769,0.987654320988,1,150,right_boundary,False,0.381701606839
+Baseline,flat,0.75,cdf_lower,recruitment,0,35.2907216769,0.851851851852,1,66.0727421163,crossing,False,0.0390077758554
+Baseline,flat,0.75,interval_mle,recruitment,0,35.2907216769,0.984863443128,1,66.0727421163,crossing,False,0.0390077758554
+Baseline,flat,0.75,cdf_upper,recruitment,0,35.2907216769,0.987654320988,1,66.0727421163,crossing,False,0.0390077758554
+Baseline,flat,0.75,cdf_lower,equal_priority,0.5,35.2907216769,0.851851851852,1,150,right_boundary,False,0.184112705877
+Baseline,flat,0.75,interval_mle,equal_priority,0.5,35.2907216769,0.984863443128,1,150,right_boundary,False,0.20981539205
+Baseline,flat,0.75,cdf_upper,equal_priority,0.5,35.2907216769,0.987654320988,1,150,right_boundary,False,0.210354691347
+Baseline,flat,0.75,cdf_lower,recruitment_priority,0.25,35.2907216769,0.851851851852,1,150,right_boundary,False,0.111560240866
+Baseline,flat,0.75,interval_mle,recruitment_priority,0.25,35.2907216769,0.984863443128,1,150,right_boundary,False,0.124411583953
+Baseline,flat,0.75,cdf_upper,recruitment_priority,0.25,35.2907216769,0.987654320988,1,150,right_boundary,False,0.124681233601
+Baseline,flat,0.75,cdf_lower,contact_priority,0.75,35.2907216769,0.851851851852,1,150,right_boundary,False,0.256665170888
+Baseline,flat,0.75,interval_mle,contact_priority,0.75,35.2907216769,0.984863443128,1,150,right_boundary,False,0.295219200147
+Baseline,flat,0.75,cdf_upper,contact_priority,0.75,35.2907216769,0.987654320988,1,150,right_boundary,False,0.296028149093
+Baseline,flat,1,cdf_lower,contact,1,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.329217635899
+Baseline,flat,1,interval_mle,contact,1,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.380623008244
+Baseline,flat,1,cdf_upper,contact,1,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.381701606839
+Baseline,flat,1,cdf_lower,recruitment,0,27.0542955693,0.851851851852,0.95652173913,61.170455474,crossing,False,0.0373117856008
+Baseline,flat,1,interval_mle,recruitment,0,27.0542955693,0.984863443128,0.95652173913,61.170455474,crossing,False,0.0373117856008
+Baseline,flat,1,cdf_upper,recruitment,0,27.0542955693,0.987654320988,0.95652173913,61.170455474,crossing,False,0.0373117856008
+Baseline,flat,1,cdf_lower,equal_priority,0.5,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.18326471075
+Baseline,flat,1,interval_mle,equal_priority,0.5,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.208967396922
+Baseline,flat,1,cdf_upper,equal_priority,0.5,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.20950669622
+Baseline,flat,1,cdf_lower,recruitment_priority,0.25,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.110288248175
+Baseline,flat,1,interval_mle,recruitment_priority,0.25,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.123139591262
+Baseline,flat,1,cdf_upper,recruitment_priority,0.25,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.12340924091
+Baseline,flat,1,cdf_lower,contact_priority,0.75,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.256241173325
+Baseline,flat,1,interval_mle,contact_priority,0.75,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.294795202583
+Baseline,flat,1,cdf_upper,contact_priority,0.75,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.29560415153
+Baseline,mod,0,cdf_lower,contact,1,60,1,1,150,right_boundary,False,0.30697429922
+Baseline,mod,0,interval_mle,contact,1,60,1,1,150,right_boundary,False,0.30697429922
+Baseline,mod,0,cdf_upper,contact,1,60,1,1,150,right_boundary,False,0.30697429922
+Baseline,mod,0,cdf_lower,recruitment,0,60,1,1,150,right_boundary,False,0.103942063524
+Baseline,mod,0,interval_mle,recruitment,0,60,1,1,150,right_boundary,False,0.103942063524
+Baseline,mod,0,cdf_upper,recruitment,0,60,1,1,150,right_boundary,False,0.103942063524
+Baseline,mod,0,cdf_lower,equal_priority,0.5,60,1,1,150,right_boundary,False,0.205458181372
+Baseline,mod,0,interval_mle,equal_priority,0.5,60,1,1,150,right_boundary,False,0.205458181372
+Baseline,mod,0,cdf_upper,equal_priority,0.5,60,1,1,150,right_boundary,False,0.205458181372
+Baseline,mod,0,cdf_lower,recruitment_priority,0.25,60,1,1,150,right_boundary,False,0.154700122448
+Baseline,mod,0,interval_mle,recruitment_priority,0.25,60,1,1,150,right_boundary,False,0.154700122448
+Baseline,mod,0,cdf_upper,recruitment_priority,0.25,60,1,1,150,right_boundary,False,0.154700122448
+Baseline,mod,0,cdf_lower,contact_priority,0.75,60,1,1,150,right_boundary,False,0.256216240296
+Baseline,mod,0,interval_mle,contact_priority,0.75,60,1,1,150,right_boundary,False,0.256216240296
+Baseline,mod,0,cdf_upper,contact_priority,0.75,60,1,1,150,right_boundary,False,0.256216240296
+Baseline,mod,0.25,cdf_lower,contact,1,51.7635738923,0.864197530864,1,150,right_boundary,False,0.265286431425
+Baseline,mod,0.25,interval_mle,contact,1,51.7635738923,1,1,150,right_boundary,False,0.30697429922
+Baseline,mod,0.25,cdf_upper,contact,1,51.7635738923,1,1,150,right_boundary,False,0.30697429922
+Baseline,mod,0.25,cdf_lower,recruitment,0,51.7635738923,0.864197530864,1,150,right_boundary,False,0.103942063524
+Baseline,mod,0.25,interval_mle,recruitment,0,51.7635738923,1,1,150,right_boundary,False,0.103942063524
+Baseline,mod,0.25,cdf_upper,recruitment,0,51.7635738923,1,1,150,right_boundary,False,0.103942063524
+Baseline,mod,0.25,cdf_lower,equal_priority,0.5,51.7635738923,0.864197530864,1,150,right_boundary,False,0.184614247474
+Baseline,mod,0.25,interval_mle,equal_priority,0.5,51.7635738923,1,1,150,right_boundary,False,0.205458181372
+Baseline,mod,0.25,cdf_upper,equal_priority,0.5,51.7635738923,1,1,150,right_boundary,False,0.205458181372
+Baseline,mod,0.25,cdf_lower,recruitment_priority,0.25,51.7635738923,0.864197530864,1,150,right_boundary,False,0.144278155499
+Baseline,mod,0.25,interval_mle,recruitment_priority,0.25,51.7635738923,1,1,150,right_boundary,False,0.154700122448
+Baseline,mod,0.25,cdf_upper,recruitment_priority,0.25,51.7635738923,1,1,150,right_boundary,False,0.154700122448
+Baseline,mod,0.25,cdf_lower,contact_priority,0.75,51.7635738923,0.864197530864,1,150,right_boundary,False,0.224950339449
+Baseline,mod,0.25,interval_mle,contact_priority,0.75,51.7635738923,1,1,150,right_boundary,False,0.256216240296
+Baseline,mod,0.25,cdf_upper,contact_priority,0.75,51.7635738923,1,1,150,right_boundary,False,0.256216240296
+Baseline,mod,0.5,cdf_lower,contact,1,43.5271477846,0.851851851852,1,150,right_boundary,False,0.261496625261
+Baseline,mod,0.5,interval_mle,contact,1,43.5271477846,0.984863443128,1,150,right_boundary,False,0.302327765281
+Baseline,mod,0.5,cdf_upper,contact,1,43.5271477846,0.987654320988,1,150,right_boundary,False,0.303184493057
+Baseline,mod,0.5,cdf_lower,recruitment,0,43.5271477846,0.851851851852,1,150,right_boundary,False,0.103942063524
+Baseline,mod,0.5,interval_mle,recruitment,0,43.5271477846,0.984863443128,1,150,right_boundary,False,0.103942063524
+Baseline,mod,0.5,cdf_upper,recruitment,0,43.5271477846,0.987654320988,1,150,right_boundary,False,0.103942063524
+Baseline,mod,0.5,cdf_lower,equal_priority,0.5,43.5271477846,0.851851851852,1,150,right_boundary,False,0.182719344393
+Baseline,mod,0.5,interval_mle,equal_priority,0.5,43.5271477846,0.984863443128,1,150,right_boundary,False,0.203134914403
+Baseline,mod,0.5,cdf_upper,equal_priority,0.5,43.5271477846,0.987654320988,1,150,right_boundary,False,0.20356327829
+Baseline,mod,0.5,cdf_lower,recruitment_priority,0.25,43.5271477846,0.851851851852,1,150,right_boundary,False,0.143330703958
+Baseline,mod,0.5,interval_mle,recruitment_priority,0.25,43.5271477846,0.984863443128,1,150,right_boundary,False,0.153538488963
+Baseline,mod,0.5,cdf_upper,recruitment_priority,0.25,43.5271477846,0.987654320988,1,150,right_boundary,False,0.153752670907
+Baseline,mod,0.5,cdf_lower,contact_priority,0.75,43.5271477846,0.851851851852,1,150,right_boundary,False,0.222107984827
+Baseline,mod,0.5,interval_mle,contact_priority,0.75,43.5271477846,0.984863443128,1,150,right_boundary,False,0.252731339842
+Baseline,mod,0.5,cdf_upper,contact_priority,0.75,43.5271477846,0.987654320988,1,150,right_boundary,False,0.253373885673
+Baseline,mod,0.75,cdf_lower,contact,1,35.2907216769,0.851851851852,1,150,right_boundary,False,0.261496625261
+Baseline,mod,0.75,interval_mle,contact,1,35.2907216769,0.984863443128,1,150,right_boundary,False,0.302327765281
+Baseline,mod,0.75,cdf_upper,contact,1,35.2907216769,0.987654320988,1,150,right_boundary,False,0.303184493057
+Baseline,mod,0.75,cdf_lower,recruitment,0,35.2907216769,0.851851851852,1,150,right_boundary,False,0.103942063524
+Baseline,mod,0.75,interval_mle,recruitment,0,35.2907216769,0.984863443128,1,150,right_boundary,False,0.103942063524
+Baseline,mod,0.75,cdf_upper,recruitment,0,35.2907216769,0.987654320988,1,150,right_boundary,False,0.103942063524
+Baseline,mod,0.75,cdf_lower,equal_priority,0.5,35.2907216769,0.851851851852,1,150,right_boundary,False,0.182719344393
+Baseline,mod,0.75,interval_mle,equal_priority,0.5,35.2907216769,0.984863443128,1,150,right_boundary,False,0.203134914403
+Baseline,mod,0.75,cdf_upper,equal_priority,0.5,35.2907216769,0.987654320988,1,150,right_boundary,False,0.20356327829
+Baseline,mod,0.75,cdf_lower,recruitment_priority,0.25,35.2907216769,0.851851851852,1,150,right_boundary,False,0.143330703958
+Baseline,mod,0.75,interval_mle,recruitment_priority,0.25,35.2907216769,0.984863443128,1,150,right_boundary,False,0.153538488963
+Baseline,mod,0.75,cdf_upper,recruitment_priority,0.25,35.2907216769,0.987654320988,1,150,right_boundary,False,0.153752670907
+Baseline,mod,0.75,cdf_lower,contact_priority,0.75,35.2907216769,0.851851851852,1,150,right_boundary,False,0.222107984827
+Baseline,mod,0.75,interval_mle,contact_priority,0.75,35.2907216769,0.984863443128,1,150,right_boundary,False,0.252731339842
+Baseline,mod,0.75,cdf_upper,contact_priority,0.75,35.2907216769,0.987654320988,1,150,right_boundary,False,0.253373885673
+Baseline,mod,1,cdf_lower,contact,1,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.261496625261
+Baseline,mod,1,interval_mle,contact,1,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.302327765281
+Baseline,mod,1,cdf_upper,contact,1,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.303184493057
+Baseline,mod,1,cdf_lower,recruitment,0,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.0994228433705
+Baseline,mod,1,interval_mle,recruitment,0,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.0994228433705
+Baseline,mod,1,cdf_upper,recruitment,0,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.0994228433705
+Baseline,mod,1,cdf_lower,equal_priority,0.5,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.180459734316
+Baseline,mod,1,interval_mle,equal_priority,0.5,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.200875304326
+Baseline,mod,1,cdf_upper,equal_priority,0.5,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.201303668214
+Baseline,mod,1,cdf_lower,recruitment_priority,0.25,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.139941288843
+Baseline,mod,1,interval_mle,recruitment_priority,0.25,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.150149073848
+Baseline,mod,1,cdf_upper,recruitment_priority,0.25,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.150363255792
+Baseline,mod,1,cdf_lower,contact_priority,0.75,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.220978179789
+Baseline,mod,1,interval_mle,contact_priority,0.75,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.251601534804
+Baseline,mod,1,cdf_upper,contact_priority,0.75,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.252244080635
+Baseline,tv,0,cdf_lower,contact,1,60,1,1,150,right_boundary,False,0.41261595349
+Baseline,tv,0,interval_mle,contact,1,60,1,1,150,right_boundary,False,0.41261595349
+Baseline,tv,0,cdf_upper,contact,1,60,1,1,150,right_boundary,False,0.41261595349
+Baseline,tv,0,cdf_lower,recruitment,0,60,1,1,150,right_boundary,False,0.0965560240843
+Baseline,tv,0,interval_mle,recruitment,0,60,1,1,150,right_boundary,False,0.0965560240843
+Baseline,tv,0,cdf_upper,recruitment,0,60,1,1,150,right_boundary,False,0.0965560240843
+Baseline,tv,0,cdf_lower,equal_priority,0.5,60,1,1,150,right_boundary,False,0.254585988787
+Baseline,tv,0,interval_mle,equal_priority,0.5,60,1,1,150,right_boundary,False,0.254585988787
+Baseline,tv,0,cdf_upper,equal_priority,0.5,60,1,1,150,right_boundary,False,0.254585988787
+Baseline,tv,0,cdf_lower,recruitment_priority,0.25,60,1,1,150,right_boundary,False,0.175571006436
+Baseline,tv,0,interval_mle,recruitment_priority,0.25,60,1,1,150,right_boundary,False,0.175571006436
+Baseline,tv,0,cdf_upper,recruitment_priority,0.25,60,1,1,150,right_boundary,False,0.175571006436
+Baseline,tv,0,cdf_lower,contact_priority,0.75,60,1,1,150,right_boundary,False,0.333600971139
+Baseline,tv,0,interval_mle,contact_priority,0.75,60,1,1,150,right_boundary,False,0.333600971139
+Baseline,tv,0,cdf_upper,contact_priority,0.75,60,1,1,150,right_boundary,False,0.333600971139
+Baseline,tv,0.25,cdf_lower,contact,1,51.7635738923,0.864197530864,1,150,right_boundary,False,0.356581688201
+Baseline,tv,0.25,interval_mle,contact,1,51.7635738923,1,1,150,right_boundary,False,0.41261595349
+Baseline,tv,0.25,cdf_upper,contact,1,51.7635738923,1,1,150,right_boundary,False,0.41261595349
+Baseline,tv,0.25,cdf_lower,recruitment,0,51.7635738923,0.864197530864,1,150,right_boundary,False,0.0965560240843
+Baseline,tv,0.25,interval_mle,recruitment,0,51.7635738923,1,1,150,right_boundary,False,0.0965560240843
+Baseline,tv,0.25,cdf_upper,recruitment,0,51.7635738923,1,1,150,right_boundary,False,0.0965560240843
+Baseline,tv,0.25,cdf_lower,equal_priority,0.5,51.7635738923,0.864197530864,1,150,right_boundary,False,0.226568856143
+Baseline,tv,0.25,interval_mle,equal_priority,0.5,51.7635738923,1,1,150,right_boundary,False,0.254585988787
+Baseline,tv,0.25,cdf_upper,equal_priority,0.5,51.7635738923,1,1,150,right_boundary,False,0.254585988787
+Baseline,tv,0.25,cdf_lower,recruitment_priority,0.25,51.7635738923,0.864197530864,1,150,right_boundary,False,0.161562440114
+Baseline,tv,0.25,interval_mle,recruitment_priority,0.25,51.7635738923,1,1,150,right_boundary,False,0.175571006436
+Baseline,tv,0.25,cdf_upper,recruitment_priority,0.25,51.7635738923,1,1,150,right_boundary,False,0.175571006436
+Baseline,tv,0.25,cdf_lower,contact_priority,0.75,51.7635738923,0.864197530864,1,150,right_boundary,False,0.291575272172
+Baseline,tv,0.25,interval_mle,contact_priority,0.75,51.7635738923,1,1,150,right_boundary,False,0.333600971138
+Baseline,tv,0.25,cdf_upper,contact_priority,0.75,51.7635738923,1,1,150,right_boundary,False,0.333600971139
+Baseline,tv,0.5,cdf_lower,contact,1,43.5271477846,0.851851851852,1,150,right_boundary,False,0.351487664084
+Baseline,tv,0.5,interval_mle,contact,1,43.5271477846,0.984863443128,1,150,right_boundary,False,0.406370368644
+Baseline,tv,0.5,cdf_upper,contact,1,43.5271477846,0.987654320988,1,150,right_boundary,False,0.407521929373
+Baseline,tv,0.5,cdf_lower,recruitment,0,43.5271477846,0.851851851852,1,150,right_boundary,False,0.0965560240843
+Baseline,tv,0.5,interval_mle,recruitment,0,43.5271477846,0.984863443128,1,150,right_boundary,False,0.0965560240843
+Baseline,tv,0.5,cdf_upper,recruitment,0,43.5271477846,0.987654320988,1,150,right_boundary,False,0.0965560240843
+Baseline,tv,0.5,cdf_lower,equal_priority,0.5,43.5271477846,0.851851851852,1,150,right_boundary,False,0.224021844084
+Baseline,tv,0.5,interval_mle,equal_priority,0.5,43.5271477846,0.984863443128,1,150,right_boundary,False,0.251463196364
+Baseline,tv,0.5,cdf_upper,equal_priority,0.5,43.5271477846,0.987654320988,1,150,right_boundary,False,0.252038976729
+Baseline,tv,0.5,cdf_lower,recruitment_priority,0.25,43.5271477846,0.851851851852,1,150,right_boundary,False,0.160288934084
+Baseline,tv,0.5,interval_mle,recruitment_priority,0.25,43.5271477846,0.984863443128,1,150,right_boundary,False,0.174009610224
+Baseline,tv,0.5,cdf_upper,recruitment_priority,0.25,43.5271477846,0.987654320988,1,150,right_boundary,False,0.174297500406
+Baseline,tv,0.5,cdf_lower,contact_priority,0.75,43.5271477846,0.851851851852,1,150,right_boundary,False,0.287754754084
+Baseline,tv,0.5,interval_mle,contact_priority,0.75,43.5271477846,0.984863443128,1,150,right_boundary,False,0.328916782504
+Baseline,tv,0.5,cdf_upper,contact_priority,0.75,43.5271477846,0.987654320988,1,150,right_boundary,False,0.329780453051
+Baseline,tv,0.75,cdf_lower,contact,1,35.2907216769,0.851851851852,1,150,right_boundary,False,0.351487664084
+Baseline,tv,0.75,interval_mle,contact,1,35.2907216769,0.984863443128,1,150,right_boundary,False,0.406370368644
+Baseline,tv,0.75,cdf_upper,contact,1,35.2907216769,0.987654320988,1,150,right_boundary,False,0.407521929373
+Baseline,tv,0.75,cdf_lower,recruitment,0,35.2907216769,0.851851851852,1,150,right_boundary,False,0.0965560240843
+Baseline,tv,0.75,interval_mle,recruitment,0,35.2907216769,0.984863443128,1,150,right_boundary,False,0.0965560240843
+Baseline,tv,0.75,cdf_upper,recruitment,0,35.2907216769,0.987654320988,1,150,right_boundary,False,0.0965560240843
+Baseline,tv,0.75,cdf_lower,equal_priority,0.5,35.2907216769,0.851851851852,1,150,right_boundary,False,0.224021844084
+Baseline,tv,0.75,interval_mle,equal_priority,0.5,35.2907216769,0.984863443128,1,150,right_boundary,False,0.251463196364
+Baseline,tv,0.75,cdf_upper,equal_priority,0.5,35.2907216769,0.987654320988,1,150,right_boundary,False,0.252038976729
+Baseline,tv,0.75,cdf_lower,recruitment_priority,0.25,35.2907216769,0.851851851852,1,150,right_boundary,False,0.160288934084
+Baseline,tv,0.75,interval_mle,recruitment_priority,0.25,35.2907216769,0.984863443128,1,150,right_boundary,False,0.174009610224
+Baseline,tv,0.75,cdf_upper,recruitment_priority,0.25,35.2907216769,0.987654320988,1,150,right_boundary,False,0.174297500406
+Baseline,tv,0.75,cdf_lower,contact_priority,0.75,35.2907216769,0.851851851852,1,150,right_boundary,False,0.287754754084
+Baseline,tv,0.75,interval_mle,contact_priority,0.75,35.2907216769,0.984863443128,1,150,right_boundary,False,0.328916782504
+Baseline,tv,0.75,cdf_upper,contact_priority,0.75,35.2907216769,0.987654320988,1,150,right_boundary,False,0.329780453051
+Baseline,tv,1,cdf_lower,contact,1,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.351487664084
+Baseline,tv,1,interval_mle,contact,1,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.406370368644
+Baseline,tv,1,cdf_upper,contact,1,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.407521929373
+Baseline,tv,1,cdf_lower,recruitment,0,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.0923579360807
+Baseline,tv,1,interval_mle,recruitment,0,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.0923579360807
+Baseline,tv,1,cdf_upper,recruitment,0,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.0923579360807
+Baseline,tv,1,cdf_lower,equal_priority,0.5,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.221922800082
+Baseline,tv,1,interval_mle,equal_priority,0.5,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.249364152362
+Baseline,tv,1,cdf_upper,equal_priority,0.5,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.249939932727
+Baseline,tv,1,cdf_lower,recruitment_priority,0.25,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.157140368082
+Baseline,tv,1,interval_mle,recruitment_priority,0.25,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.170861044221
+Baseline,tv,1,cdf_upper,recruitment_priority,0.25,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.171148934404
+Baseline,tv,1,cdf_lower,contact_priority,0.75,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.286705232083
+Baseline,tv,1,interval_mle,contact_priority,0.75,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.327867260503
+Baseline,tv,1,cdf_upper,contact_priority,0.75,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.32873093105
+Threshold 0.60,flat,0,cdf_lower,contact,1,60,1,1,150,right_boundary,False,0.0702354349883
+Threshold 0.60,flat,0,interval_mle,contact,1,60,1,1,150,right_boundary,False,0.0702354349883
+Threshold 0.60,flat,0,cdf_upper,contact,1,60,1,1,150,right_boundary,False,0.0702354349883
+Threshold 0.60,flat,0,cdf_lower,recruitment,0,60,1,1,47.0383911471,crossing,False,0.00708905661616
+Threshold 0.60,flat,0,interval_mle,recruitment,0,60,1,1,47.0383911471,crossing,False,0.00708905661616
+Threshold 0.60,flat,0,cdf_upper,recruitment,0,60,1,1,47.0383911471,crossing,False,0.00708905661616
+Threshold 0.60,flat,0,cdf_lower,equal_priority,0.5,60,1,1,88.765848198,crossing,False,0.0386622458022
+Threshold 0.60,flat,0,interval_mle,equal_priority,0.5,60,1,1,88.765848198,crossing,False,0.0386622458022
+Threshold 0.60,flat,0,cdf_upper,equal_priority,0.5,60,1,1,88.765848198,crossing,False,0.0386622458022
+Threshold 0.60,flat,0,cdf_lower,recruitment_priority,0.25,60,1,1,74.4132828391,crossing,False,0.0228756512092
+Threshold 0.60,flat,0,interval_mle,recruitment_priority,0.25,60,1,1,74.4132828391,crossing,False,0.0228756512092
+Threshold 0.60,flat,0,cdf_upper,recruitment_priority,0.25,60,1,1,74.4132828391,crossing,False,0.0228756512092
+Threshold 0.60,flat,0,cdf_lower,contact_priority,0.75,60,1,1,105.886496389,crossing,False,0.0544488403953
+Threshold 0.60,flat,0,interval_mle,contact_priority,0.75,60,1,1,105.886496389,crossing,False,0.0544488403953
+Threshold 0.60,flat,0,cdf_upper,contact_priority,0.75,60,1,1,105.886496389,crossing,False,0.0544488403953
+Threshold 0.60,flat,0.25,cdf_lower,contact,1,51.7635738923,0.864197530864,1,119.178661827,crossing,False,0.0606972894961
+Threshold 0.60,flat,0.25,interval_mle,contact,1,51.7635738923,1,1,150,right_boundary,False,0.0702354349883
+Threshold 0.60,flat,0.25,cdf_upper,contact,1,51.7635738923,1,1,150,right_boundary,False,0.0702354349883
+Threshold 0.60,flat,0.25,cdf_lower,recruitment,0,51.7635738923,0.864197530864,1,47.0383911471,crossing,False,0.00708905661616
+Threshold 0.60,flat,0.25,interval_mle,recruitment,0,51.7635738923,1,1,47.0383911471,crossing,False,0.00708905661616
+Threshold 0.60,flat,0.25,cdf_upper,recruitment,0,51.7635738923,1,1,47.0383911471,crossing,False,0.00708905661616
+Threshold 0.60,flat,0.25,cdf_lower,equal_priority,0.5,51.7635738923,0.864197530864,1,84.5415947273,crossing,False,0.0338931730561
+Threshold 0.60,flat,0.25,interval_mle,equal_priority,0.5,51.7635738923,1,1,88.765848198,crossing,False,0.0386622458022
+Threshold 0.60,flat,0.25,cdf_upper,equal_priority,0.5,51.7635738923,1,1,88.765848198,crossing,False,0.0386622458022
+Threshold 0.60,flat,0.25,cdf_lower,recruitment_priority,0.25,51.7635738923,0.864197530864,1,71.7783818722,crossing,False,0.0204911148361
+Threshold 0.60,flat,0.25,interval_mle,recruitment_priority,0.25,51.7635738923,1,1,74.4132828391,crossing,False,0.0228756512092
+Threshold 0.60,flat,0.25,cdf_upper,recruitment_priority,0.25,51.7635738923,1,1,74.4132828391,crossing,False,0.0228756512092
+Threshold 0.60,flat,0.25,cdf_lower,contact_priority,0.75,51.7635738923,0.864197530864,1,96.9751761992,crossing,False,0.0472952312761
+Threshold 0.60,flat,0.25,interval_mle,contact_priority,0.75,51.7635738923,1,1,105.886496389,crossing,False,0.0544488403953
+Threshold 0.60,flat,0.25,cdf_upper,contact_priority,0.75,51.7635738923,1,1,105.886496389,crossing,False,0.0544488403953
+Threshold 0.60,flat,0.5,cdf_lower,contact,1,43.5271477846,0.851851851852,1,116.680279385,crossing,False,0.0598301853604
+Threshold 0.60,flat,0.5,interval_mle,contact,1,43.5271477846,0.984863443128,1,150,right_boundary,False,0.0691723123322
+Threshold 0.60,flat,0.5,cdf_upper,contact,1,43.5271477846,0.987654320988,1,150,right_boundary,False,0.0693683308526
+Threshold 0.60,flat,0.5,cdf_lower,recruitment,0,43.5271477846,0.851851851852,1,47.0383911471,crossing,False,0.00708905661616
+Threshold 0.60,flat,0.5,interval_mle,recruitment,0,43.5271477846,0.984863443128,1,47.0383911471,crossing,False,0.00708905661616
+Threshold 0.60,flat,0.5,cdf_upper,recruitment,0,43.5271477846,0.987654320988,1,47.0383911471,crossing,False,0.00708905661616
+Threshold 0.60,flat,0.5,cdf_lower,equal_priority,0.5,43.5271477846,0.851851851852,1,84.1537446218,crossing,False,0.0334596209883
+Threshold 0.60,flat,0.5,interval_mle,equal_priority,0.5,43.5271477846,0.984863443128,1,88.2919467361,crossing,False,0.0381306844742
+Threshold 0.60,flat,0.5,cdf_upper,equal_priority,0.5,43.5271477846,0.987654320988,1,88.3802847648,crossing,False,0.0382286937344
+Threshold 0.60,flat,0.5,cdf_lower,recruitment_priority,0.25,43.5271477846,0.851851851852,1,71.5270911461,crossing,False,0.0202743388022
+Threshold 0.60,flat,0.5,interval_mle,recruitment_priority,0.25,43.5271477846,0.984863443128,1,74.1287785765,crossing,False,0.0226098705452
+Threshold 0.60,flat,0.5,cdf_upper,recruitment_priority,0.25,43.5271477846,0.987654320988,1,74.1816886869,crossing,False,0.0226588751753
+Threshold 0.60,flat,0.5,cdf_lower,contact_priority,0.75,43.5271477846,0.851851851852,1,96.2953507408,crossing,False,0.0466449031743
+Threshold 0.60,flat,0.5,interval_mle,contact_priority,0.75,43.5271477846,0.984863443128,1,104.721818394,crossing,False,0.0536514984032
+Threshold 0.60,flat,0.5,cdf_upper,contact_priority,0.75,43.5271477846,0.987654320988,1,104.927925236,crossing,False,0.0537985122935
+Threshold 0.60,flat,0.75,cdf_lower,contact,1,35.2907216769,0.851851851852,1,116.680279385,crossing,False,0.0598301853604
+Threshold 0.60,flat,0.75,interval_mle,contact,1,35.2907216769,0.984863443128,1,150,right_boundary,False,0.0691723123322
+Threshold 0.60,flat,0.75,cdf_upper,contact,1,35.2907216769,0.987654320988,1,150,right_boundary,False,0.0693683308526
+Threshold 0.60,flat,0.75,cdf_lower,recruitment,0,35.2907216769,0.851851851852,1,47.0383911471,crossing,False,0.00708905661616
+Threshold 0.60,flat,0.75,interval_mle,recruitment,0,35.2907216769,0.984863443128,1,47.0383911471,crossing,False,0.00708905661616
+Threshold 0.60,flat,0.75,cdf_upper,recruitment,0,35.2907216769,0.987654320988,1,47.0383911471,crossing,False,0.00708905661616
+Threshold 0.60,flat,0.75,cdf_lower,equal_priority,0.5,35.2907216769,0.851851851852,1,84.1537446218,crossing,False,0.0334596209883
+Threshold 0.60,flat,0.75,interval_mle,equal_priority,0.5,35.2907216769,0.984863443128,1,88.2919467361,crossing,False,0.0381306844742
+Threshold 0.60,flat,0.75,cdf_upper,equal_priority,0.5,35.2907216769,0.987654320988,1,88.3802847648,crossing,False,0.0382286937344
+Threshold 0.60,flat,0.75,cdf_lower,recruitment_priority,0.25,35.2907216769,0.851851851852,1,71.5270911461,crossing,False,0.0202743388022
+Threshold 0.60,flat,0.75,interval_mle,recruitment_priority,0.25,35.2907216769,0.984863443128,1,74.1287785765,crossing,False,0.0226098705452
+Threshold 0.60,flat,0.75,cdf_upper,recruitment_priority,0.25,35.2907216769,0.987654320988,1,74.1816886869,crossing,False,0.0226588751753
+Threshold 0.60,flat,0.75,cdf_lower,contact_priority,0.75,35.2907216769,0.851851851852,1,96.2953507408,crossing,False,0.0466449031743
+Threshold 0.60,flat,0.75,interval_mle,contact_priority,0.75,35.2907216769,0.984863443128,1,104.721818394,crossing,False,0.0536514984032
+Threshold 0.60,flat,0.75,cdf_upper,contact_priority,0.75,35.2907216769,0.987654320988,1,104.927925236,crossing,False,0.0537985122935
+Threshold 0.60,flat,1,cdf_lower,contact,1,27.0542955693,0.851851851852,0.95652173913,116.680279385,crossing,False,0.0598301853604
+Threshold 0.60,flat,1,interval_mle,contact,1,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.0691723123322
+Threshold 0.60,flat,1,cdf_upper,contact,1,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.0693683308526
+Threshold 0.60,flat,1,cdf_lower,recruitment,0,27.0542955693,0.851851851852,0.95652173913,45.2700326966,crossing,False,0.00678083676328
+Threshold 0.60,flat,1,interval_mle,recruitment,0,27.0542955693,0.984863443128,0.95652173913,45.2700326966,crossing,False,0.00678083676328
+Threshold 0.60,flat,1,cdf_upper,recruitment,0,27.0542955693,0.987654320988,0.95652173913,45.2700326966,crossing,False,0.00678083676328
+Threshold 0.60,flat,1,cdf_lower,equal_priority,0.5,27.0542955693,0.851851851852,0.95652173913,83.9975144439,crossing,False,0.0333055110618
+Threshold 0.60,flat,1,interval_mle,equal_priority,0.5,27.0542955693,0.984863443128,0.95652173913,88.1406068699,crossing,False,0.0379765745477
+Threshold 0.60,flat,1,cdf_upper,equal_priority,0.5,27.0542955693,0.987654320988,0.95652173913,88.2297898966,crossing,False,0.038074583808
+Threshold 0.60,flat,1,cdf_lower,recruitment_priority,0.25,27.0542955693,0.851851851852,0.95652173913,71.1896056145,crossing,False,0.0200431739126
+Threshold 0.60,flat,1,interval_mle,recruitment_priority,0.25,27.0542955693,0.984863443128,0.95652173913,73.8310057223,crossing,False,0.0223787056555
+Threshold 0.60,flat,1,cdf_upper,recruitment_priority,0.25,27.0542955693,0.987654320988,0.95652173913,73.8830531727,crossing,False,0.0224277102856
+Threshold 0.60,flat,1,cdf_lower,contact_priority,0.75,27.0542955693,0.851851851852,0.95652173913,96.2115383215,crossing,False,0.0465678482111
+Threshold 0.60,flat,1,interval_mle,contact_priority,0.75,27.0542955693,0.984863443128,0.95652173913,104.6164077,crossing,False,0.0535744434399
+Threshold 0.60,flat,1,cdf_upper,contact_priority,0.75,27.0542955693,0.987654320988,0.95652173913,104.823215359,crossing,False,0.0537214573303
+Threshold 0.60,mod,0,cdf_lower,contact,1,60,1,1,150,right_boundary,False,0.231335121678
+Threshold 0.60,mod,0,interval_mle,contact,1,60,1,1,150,right_boundary,False,0.231335121678
+Threshold 0.60,mod,0,cdf_upper,contact,1,60,1,1,150,right_boundary,False,0.231335121678
+Threshold 0.60,mod,0,cdf_lower,recruitment,0,60,1,1,119.208900544,crossing,False,0.0783304985917
+Threshold 0.60,mod,0,interval_mle,recruitment,0,60,1,1,119.208900544,crossing,False,0.0783304985917
+Threshold 0.60,mod,0,cdf_upper,recruitment,0,60,1,1,119.208900544,crossing,False,0.0783304985917
+Threshold 0.60,mod,0,cdf_lower,equal_priority,0.5,60,1,1,146.258751098,crossing,False,0.154832810135
+Threshold 0.60,mod,0,interval_mle,equal_priority,0.5,60,1,1,146.258751098,crossing,False,0.154832810135
+Threshold 0.60,mod,0,cdf_upper,equal_priority,0.5,60,1,1,146.258751098,crossing,False,0.154832810135
+Threshold 0.60,mod,0,cdf_lower,recruitment_priority,0.25,60,1,1,134.568412333,crossing,False,0.116581654363
+Threshold 0.60,mod,0,interval_mle,recruitment_priority,0.25,60,1,1,134.568412333,crossing,False,0.116581654363
+Threshold 0.60,mod,0,cdf_upper,recruitment_priority,0.25,60,1,1,134.568412333,crossing,False,0.116581654363
+Threshold 0.60,mod,0,cdf_lower,contact_priority,0.75,60,1,1,150,right_boundary,False,0.193083965907
+Threshold 0.60,mod,0,interval_mle,contact_priority,0.75,60,1,1,150,right_boundary,False,0.193083965907
+Threshold 0.60,mod,0,cdf_upper,contact_priority,0.75,60,1,1,150,right_boundary,False,0.193083965907
+Threshold 0.60,mod,0.25,cdf_lower,contact,1,51.7635738923,0.864197530864,1,150,right_boundary,False,0.199919240956
+Threshold 0.60,mod,0.25,interval_mle,contact,1,51.7635738923,1,1,150,right_boundary,False,0.231335121678
+Threshold 0.60,mod,0.25,cdf_upper,contact,1,51.7635738923,1,1,150,right_boundary,False,0.231335121678
+Threshold 0.60,mod,0.25,cdf_lower,recruitment,0,51.7635738923,0.864197530864,1,119.208900544,crossing,False,0.0783304985917
+Threshold 0.60,mod,0.25,interval_mle,recruitment,0,51.7635738923,1,1,119.208900544,crossing,False,0.0783304985917
+Threshold 0.60,mod,0.25,cdf_upper,recruitment,0,51.7635738923,1,1,119.208900544,crossing,False,0.0783304985917
+Threshold 0.60,mod,0.25,cdf_lower,equal_priority,0.5,51.7635738923,0.864197530864,1,141.986526458,crossing,False,0.139124869774
+Threshold 0.60,mod,0.25,interval_mle,equal_priority,0.5,51.7635738923,1,1,146.258751098,crossing,False,0.154832810135
+Threshold 0.60,mod,0.25,cdf_upper,equal_priority,0.5,51.7635738923,1,1,146.258751098,crossing,False,0.154832810135
+Threshold 0.60,mod,0.25,cdf_lower,recruitment_priority,0.25,51.7635738923,0.864197530864,1,132.056725995,crossing,False,0.108727684183
+Threshold 0.60,mod,0.25,interval_mle,recruitment_priority,0.25,51.7635738923,1,1,134.568412333,crossing,False,0.116581654363
+Threshold 0.60,mod,0.25,cdf_upper,recruitment_priority,0.25,51.7635738923,1,1,134.568412333,crossing,False,0.116581654363
+Threshold 0.60,mod,0.25,cdf_lower,contact_priority,0.75,51.7635738923,0.864197530864,1,150,right_boundary,False,0.169522055365
+Threshold 0.60,mod,0.25,interval_mle,contact_priority,0.75,51.7635738923,1,1,150,right_boundary,False,0.193083965907
+Threshold 0.60,mod,0.25,cdf_upper,contact_priority,0.75,51.7635738923,1,1,150,right_boundary,False,0.193083965907
+Threshold 0.60,mod,0.5,cdf_lower,contact,1,43.5271477846,0.851851851852,1,150,right_boundary,False,0.1970632518
+Threshold 0.60,mod,0.5,interval_mle,contact,1,43.5271477846,0.984863443128,1,150,right_boundary,False,0.227833504452
+Threshold 0.60,mod,0.5,cdf_upper,contact,1,43.5271477846,0.987654320988,1,150,right_boundary,False,0.228479132522
+Threshold 0.60,mod,0.5,cdf_lower,recruitment,0,43.5271477846,0.851851851852,1,119.208900544,crossing,False,0.0783304985917
+Threshold 0.60,mod,0.5,interval_mle,recruitment,0,43.5271477846,0.984863443128,1,119.208900544,crossing,False,0.0783304985917
+Threshold 0.60,mod,0.5,cdf_upper,recruitment,0,43.5271477846,0.987654320988,1,119.208900544,crossing,False,0.0783304985917
+Threshold 0.60,mod,0.5,cdf_lower,equal_priority,0.5,43.5271477846,0.851851851852,1,141.594756903,crossing,False,0.137696875196
+Threshold 0.60,mod,0.5,interval_mle,equal_priority,0.5,43.5271477846,0.984863443128,1,145.788355288,crossing,False,0.153082001522
+Threshold 0.60,mod,0.5,cdf_upper,equal_priority,0.5,43.5271477846,0.987654320988,1,145.873788621,crossing,False,0.153404815557
+Threshold 0.60,mod,0.5,cdf_lower,recruitment_priority,0.25,43.5271477846,0.851851851852,1,131.821786327,crossing,False,0.108013686894
+Threshold 0.60,mod,0.5,interval_mle,recruitment_priority,0.25,43.5271477846,0.984863443128,1,134.295705945,crossing,False,0.115706250057
+Threshold 0.60,mod,0.5,cdf_upper,recruitment_priority,0.25,43.5271477846,0.987654320988,1,134.346300657,crossing,False,0.115867657074
+Threshold 0.60,mod,0.5,cdf_lower,contact_priority,0.75,43.5271477846,0.851851851852,1,150,right_boundary,False,0.167380063498
+Threshold 0.60,mod,0.5,interval_mle,contact_priority,0.75,43.5271477846,0.984863443128,1,150,right_boundary,False,0.190457752987
+Threshold 0.60,mod,0.5,cdf_upper,contact_priority,0.75,43.5271477846,0.987654320988,1,150,right_boundary,False,0.190941974039
+Threshold 0.60,mod,0.75,cdf_lower,contact,1,35.2907216769,0.851851851852,1,150,right_boundary,False,0.1970632518
+Threshold 0.60,mod,0.75,interval_mle,contact,1,35.2907216769,0.984863443128,1,150,right_boundary,False,0.227833504452
+Threshold 0.60,mod,0.75,cdf_upper,contact,1,35.2907216769,0.987654320988,1,150,right_boundary,False,0.228479132522
+Threshold 0.60,mod,0.75,cdf_lower,recruitment,0,35.2907216769,0.851851851852,1,119.208900544,crossing,False,0.0783304985917
+Threshold 0.60,mod,0.75,interval_mle,recruitment,0,35.2907216769,0.984863443128,1,119.208900544,crossing,False,0.0783304985917
+Threshold 0.60,mod,0.75,cdf_upper,recruitment,0,35.2907216769,0.987654320988,1,119.208900544,crossing,False,0.0783304985917
+Threshold 0.60,mod,0.75,cdf_lower,equal_priority,0.5,35.2907216769,0.851851851852,1,141.594756903,crossing,False,0.137696875196
+Threshold 0.60,mod,0.75,interval_mle,equal_priority,0.5,35.2907216769,0.984863443128,1,145.788355288,crossing,False,0.153082001522
+Threshold 0.60,mod,0.75,cdf_upper,equal_priority,0.5,35.2907216769,0.987654320988,1,145.873788621,crossing,False,0.153404815557
+Threshold 0.60,mod,0.75,cdf_lower,recruitment_priority,0.25,35.2907216769,0.851851851852,1,131.821786327,crossing,False,0.108013686894
+Threshold 0.60,mod,0.75,interval_mle,recruitment_priority,0.25,35.2907216769,0.984863443128,1,134.295705945,crossing,False,0.115706250057
+Threshold 0.60,mod,0.75,cdf_upper,recruitment_priority,0.25,35.2907216769,0.987654320988,1,134.346300657,crossing,False,0.115867657074
+Threshold 0.60,mod,0.75,cdf_lower,contact_priority,0.75,35.2907216769,0.851851851852,1,150,right_boundary,False,0.167380063498
+Threshold 0.60,mod,0.75,interval_mle,contact_priority,0.75,35.2907216769,0.984863443128,1,150,right_boundary,False,0.190457752987
+Threshold 0.60,mod,0.75,cdf_upper,contact_priority,0.75,35.2907216769,0.987654320988,1,150,right_boundary,False,0.190941974039
+Threshold 0.60,mod,1,cdf_lower,contact,1,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.1970632518
+Threshold 0.60,mod,1,interval_mle,contact,1,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.227833504452
+Threshold 0.60,mod,1,cdf_upper,contact,1,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.228479132522
+Threshold 0.60,mod,1,cdf_lower,recruitment,0,27.0542955693,0.851851851852,0.95652173913,117.63253961,crossing,False,0.0749248247399
+Threshold 0.60,mod,1,interval_mle,recruitment,0,27.0542955693,0.984863443128,0.95652173913,117.63253961,crossing,False,0.0749248247399
+Threshold 0.60,mod,1,cdf_upper,recruitment,0,27.0542955693,0.987654320988,0.95652173913,117.63253961,crossing,False,0.0749248247399
+Threshold 0.60,mod,1,cdf_lower,equal_priority,0.5,27.0542955693,0.851851851852,0.95652173913,141.194857844,crossing,False,0.13599403827
+Threshold 0.60,mod,1,interval_mle,equal_priority,0.5,27.0542955693,0.984863443128,0.95652173913,145.412140983,crossing,False,0.151379164596
+Threshold 0.60,mod,1,cdf_upper,equal_priority,0.5,27.0542955693,0.987654320988,0.95652173913,145.499305236,crossing,False,0.151701978631
+Threshold 0.60,mod,1,cdf_lower,recruitment_priority,0.25,27.0542955693,0.851851851852,0.95652173913,131.074099025,crossing,False,0.105459431505
+Threshold 0.60,mod,1,interval_mle,recruitment_priority,0.25,27.0542955693,0.984863443128,0.95652173913,133.603179037,crossing,False,0.113151994668
+Threshold 0.60,mod,1,cdf_upper,recruitment_priority,0.25,27.0542955693,0.987654320988,0.95652173913,133.654259401,crossing,False,0.113313401685
+Threshold 0.60,mod,1,cdf_lower,contact_priority,0.75,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.166528645035
+Threshold 0.60,mod,1,interval_mle,contact_priority,0.75,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.189606334524
+Threshold 0.60,mod,1,cdf_upper,contact_priority,0.75,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.190090555576
+Threshold 0.60,tv,0,cdf_lower,contact,1,60,1,1,150,right_boundary,False,0.373980020956
+Threshold 0.60,tv,0,interval_mle,contact,1,60,1,1,150,right_boundary,False,0.373980020956
+Threshold 0.60,tv,0,cdf_upper,contact,1,60,1,1,150,right_boundary,False,0.373980020956
+Threshold 0.60,tv,0,cdf_lower,recruitment,0,60,1,1,144.592695771,crossing,False,0.0875148515347
+Threshold 0.60,tv,0,interval_mle,recruitment,0,60,1,1,144.592695771,crossing,False,0.0875148515347
+Threshold 0.60,tv,0,cdf_upper,recruitment,0,60,1,1,144.592695771,crossing,False,0.0875148515347
+Threshold 0.60,tv,0,cdf_lower,equal_priority,0.5,60,1,1,150,right_boundary,False,0.230747436245
+Threshold 0.60,tv,0,interval_mle,equal_priority,0.5,60,1,1,150,right_boundary,False,0.230747436245
+Threshold 0.60,tv,0,cdf_upper,equal_priority,0.5,60,1,1,150,right_boundary,False,0.230747436245
+Threshold 0.60,tv,0,cdf_lower,recruitment_priority,0.25,60,1,1,150,right_boundary,False,0.15913114389
+Threshold 0.60,tv,0,interval_mle,recruitment_priority,0.25,60,1,1,150,right_boundary,False,0.15913114389
+Threshold 0.60,tv,0,cdf_upper,recruitment_priority,0.25,60,1,1,150,right_boundary,False,0.15913114389
+Threshold 0.60,tv,0,cdf_lower,contact_priority,0.75,60,1,1,150,right_boundary,False,0.302363728601
+Threshold 0.60,tv,0,interval_mle,contact_priority,0.75,60,1,1,150,right_boundary,False,0.302363728601
+Threshold 0.60,tv,0,cdf_upper,contact_priority,0.75,60,1,1,150,right_boundary,False,0.302363728601
+Threshold 0.60,tv,0.25,cdf_lower,contact,1,51.7635738923,0.864197530864,1,150,right_boundary,False,0.323192610703
+Threshold 0.60,tv,0.25,interval_mle,contact,1,51.7635738923,1,1,150,right_boundary,False,0.373980020956
+Threshold 0.60,tv,0.25,cdf_upper,contact,1,51.7635738923,1,1,150,right_boundary,False,0.373980020956
+Threshold 0.60,tv,0.25,cdf_lower,recruitment,0,51.7635738923,0.864197530864,1,144.592695771,crossing,False,0.0875148515347
+Threshold 0.60,tv,0.25,interval_mle,recruitment,0,51.7635738923,1,1,144.592695771,crossing,False,0.0875148515347
+Threshold 0.60,tv,0.25,cdf_upper,recruitment,0,51.7635738923,1,1,144.592695771,crossing,False,0.0875148515347
+Threshold 0.60,tv,0.25,cdf_lower,equal_priority,0.5,51.7635738923,0.864197530864,1,150,right_boundary,False,0.205353731119
+Threshold 0.60,tv,0.25,interval_mle,equal_priority,0.5,51.7635738923,1,1,150,right_boundary,False,0.230747436245
+Threshold 0.60,tv,0.25,cdf_upper,equal_priority,0.5,51.7635738923,1,1,150,right_boundary,False,0.230747436245
+Threshold 0.60,tv,0.25,cdf_lower,recruitment_priority,0.25,51.7635738923,0.864197530864,1,150,right_boundary,False,0.146434291327
+Threshold 0.60,tv,0.25,interval_mle,recruitment_priority,0.25,51.7635738923,1,1,150,right_boundary,False,0.15913114389
+Threshold 0.60,tv,0.25,cdf_upper,recruitment_priority,0.25,51.7635738923,1,1,150,right_boundary,False,0.15913114389
+Threshold 0.60,tv,0.25,cdf_lower,contact_priority,0.75,51.7635738923,0.864197530864,1,150,right_boundary,False,0.264273170911
+Threshold 0.60,tv,0.25,interval_mle,contact_priority,0.75,51.7635738923,1,1,150,right_boundary,False,0.302363728601
+Threshold 0.60,tv,0.25,cdf_upper,contact_priority,0.75,51.7635738923,1,1,150,right_boundary,False,0.302363728601
+Threshold 0.60,tv,0.5,cdf_lower,contact,1,43.5271477846,0.851851851852,1,150,right_boundary,False,0.318575573407
+Threshold 0.60,tv,0.5,interval_mle,contact,1,43.5271477846,0.984863443128,1,150,right_boundary,False,0.3683192511
+Threshold 0.60,tv,0.5,cdf_upper,contact,1,43.5271477846,0.987654320988,1,150,right_boundary,False,0.36936298366
+Threshold 0.60,tv,0.5,cdf_lower,recruitment,0,43.5271477846,0.851851851852,1,144.592695771,crossing,False,0.0875148515347
+Threshold 0.60,tv,0.5,interval_mle,recruitment,0,43.5271477846,0.984863443128,1,144.592695771,crossing,False,0.0875148515347
+Threshold 0.60,tv,0.5,cdf_upper,recruitment,0,43.5271477846,0.987654320988,1,144.592695771,crossing,False,0.0875148515347
+Threshold 0.60,tv,0.5,cdf_lower,equal_priority,0.5,43.5271477846,0.851851851852,1,150,right_boundary,False,0.203045212471
+Threshold 0.60,tv,0.5,interval_mle,equal_priority,0.5,43.5271477846,0.984863443128,1,150,right_boundary,False,0.227917051317
+Threshold 0.60,tv,0.5,cdf_upper,equal_priority,0.5,43.5271477846,0.987654320988,1,150,right_boundary,False,0.228438917597
+Threshold 0.60,tv,0.5,cdf_lower,recruitment_priority,0.25,43.5271477846,0.851851851852,1,150,right_boundary,False,0.145280032003
+Threshold 0.60,tv,0.5,interval_mle,recruitment_priority,0.25,43.5271477846,0.984863443128,1,150,right_boundary,False,0.157715951426
+Threshold 0.60,tv,0.5,cdf_upper,recruitment_priority,0.25,43.5271477846,0.987654320988,1,150,right_boundary,False,0.157976884566
+Threshold 0.60,tv,0.5,cdf_lower,contact_priority,0.75,43.5271477846,0.851851851852,1,150,right_boundary,False,0.260810392939
+Threshold 0.60,tv,0.5,interval_mle,contact_priority,0.75,43.5271477846,0.984863443128,1,150,right_boundary,False,0.298118151209
+Threshold 0.60,tv,0.5,cdf_upper,contact_priority,0.75,43.5271477846,0.987654320988,1,150,right_boundary,False,0.298900950629
+Threshold 0.60,tv,0.75,cdf_lower,contact,1,35.2907216769,0.851851851852,1,150,right_boundary,False,0.318575573407
+Threshold 0.60,tv,0.75,interval_mle,contact,1,35.2907216769,0.984863443128,1,150,right_boundary,False,0.3683192511
+Threshold 0.60,tv,0.75,cdf_upper,contact,1,35.2907216769,0.987654320988,1,150,right_boundary,False,0.36936298366
+Threshold 0.60,tv,0.75,cdf_lower,recruitment,0,35.2907216769,0.851851851852,1,144.592695771,crossing,False,0.0875148515347
+Threshold 0.60,tv,0.75,interval_mle,recruitment,0,35.2907216769,0.984863443128,1,144.592695771,crossing,False,0.0875148515347
+Threshold 0.60,tv,0.75,cdf_upper,recruitment,0,35.2907216769,0.987654320988,1,144.592695771,crossing,False,0.0875148515347
+Threshold 0.60,tv,0.75,cdf_lower,equal_priority,0.5,35.2907216769,0.851851851852,1,150,right_boundary,False,0.203045212471
+Threshold 0.60,tv,0.75,interval_mle,equal_priority,0.5,35.2907216769,0.984863443128,1,150,right_boundary,False,0.227917051317
+Threshold 0.60,tv,0.75,cdf_upper,equal_priority,0.5,35.2907216769,0.987654320988,1,150,right_boundary,False,0.228438917597
+Threshold 0.60,tv,0.75,cdf_lower,recruitment_priority,0.25,35.2907216769,0.851851851852,1,150,right_boundary,False,0.145280032003
+Threshold 0.60,tv,0.75,interval_mle,recruitment_priority,0.25,35.2907216769,0.984863443128,1,150,right_boundary,False,0.157715951426
+Threshold 0.60,tv,0.75,cdf_upper,recruitment_priority,0.25,35.2907216769,0.987654320988,1,150,right_boundary,False,0.157976884566
+Threshold 0.60,tv,0.75,cdf_lower,contact_priority,0.75,35.2907216769,0.851851851852,1,150,right_boundary,False,0.260810392939
+Threshold 0.60,tv,0.75,interval_mle,contact_priority,0.75,35.2907216769,0.984863443128,1,150,right_boundary,False,0.298118151209
+Threshold 0.60,tv,0.75,cdf_upper,contact_priority,0.75,35.2907216769,0.987654320988,1,150,right_boundary,False,0.298900950629
+Threshold 0.60,tv,1,cdf_lower,contact,1,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.318575573407
+Threshold 0.60,tv,1,interval_mle,contact,1,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.3683192511
+Threshold 0.60,tv,1,cdf_upper,contact,1,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.36936298366
+Threshold 0.60,tv,1,cdf_lower,recruitment,0,27.0542955693,0.851851851852,0.95652173913,142.479667576,crossing,False,0.0837098579897
+Threshold 0.60,tv,1,interval_mle,recruitment,0,27.0542955693,0.984863443128,0.95652173913,142.479667576,crossing,False,0.0837098579897
+Threshold 0.60,tv,1,cdf_upper,recruitment,0,27.0542955693,0.987654320988,0.95652173913,142.479667576,crossing,False,0.0837098579897
+Threshold 0.60,tv,1,cdf_lower,equal_priority,0.5,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.201142715698
+Threshold 0.60,tv,1,interval_mle,equal_priority,0.5,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.226014554545
+Threshold 0.60,tv,1,cdf_upper,equal_priority,0.5,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.226536420825
+Threshold 0.60,tv,1,cdf_lower,recruitment_priority,0.25,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.142426286844
+Threshold 0.60,tv,1,interval_mle,recruitment_priority,0.25,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.154862206267
+Threshold 0.60,tv,1,cdf_upper,recruitment_priority,0.25,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.155123139407
+Threshold 0.60,tv,1,cdf_lower,contact_priority,0.75,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.259859144553
+Threshold 0.60,tv,1,interval_mle,contact_priority,0.75,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.297166902822
+Threshold 0.60,tv,1,cdf_upper,contact_priority,0.75,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.297949702243
+Threshold 0.70,flat,0,cdf_lower,contact,1,60,1,1,63.9028995041,crossing,False,0.00996783154651
+Threshold 0.70,flat,0,interval_mle,contact,1,60,1,1,63.9028995041,crossing,False,0.00996783154651
+Threshold 0.70,flat,0,cdf_upper,contact,1,60,1,1,63.9028995041,crossing,False,0.00996783154651
+Threshold 0.70,flat,0,cdf_lower,recruitment,0,60,1,1,31.2970292562,crossing,False,0.00100608079362
+Threshold 0.70,flat,0,interval_mle,recruitment,0,60,1,1,31.2970292562,crossing,False,0.00100608079362
+Threshold 0.70,flat,0,cdf_upper,recruitment,0,60,1,1,31.2970292562,crossing,False,0.00100608079362
+Threshold 0.70,flat,0,cdf_lower,equal_priority,0.5,60,1,1,55.1148600626,crossing,False,0.00548695617007
+Threshold 0.70,flat,0,interval_mle,equal_priority,0.5,60,1,1,55.1148600626,crossing,False,0.00548695617007
+Threshold 0.70,flat,0,cdf_upper,equal_priority,0.5,60,1,1,55.1148600626,crossing,False,0.00548695617007
+Threshold 0.70,flat,0,cdf_lower,recruitment_priority,0.25,60,1,1,47.4504800214,crossing,False,0.00324651848185
+Threshold 0.70,flat,0,interval_mle,recruitment_priority,0.25,60,1,1,47.4504800214,crossing,False,0.00324651848185
+Threshold 0.70,flat,0,cdf_upper,recruitment_priority,0.25,60,1,1,47.4504800214,crossing,False,0.00324651848185
+Threshold 0.70,flat,0,cdf_lower,contact_priority,0.75,60,1,1,60.1174219098,crossing,False,0.00772739385829
+Threshold 0.70,flat,0,interval_mle,contact_priority,0.75,60,1,1,60.1174219098,crossing,False,0.00772739385829
+Threshold 0.70,flat,0,cdf_upper,contact_priority,0.75,60,1,1,60.1174219098,crossing,False,0.00772739385829
+Threshold 0.70,flat,0.25,cdf_lower,contact,1,51.7635738923,0.864197530864,1,61.6332188072,crossing,False,0.00861417541056
+Threshold 0.70,flat,0.25,interval_mle,contact,1,51.7635738923,1,1,63.9028995041,crossing,False,0.00996783154651
+Threshold 0.70,flat,0.25,cdf_upper,contact,1,51.7635738923,1,1,63.9028995041,crossing,False,0.00996783154651
+Threshold 0.70,flat,0.25,cdf_lower,recruitment,0,51.7635738923,0.864197530864,1,31.2970292562,crossing,False,0.00100608079362
+Threshold 0.70,flat,0.25,interval_mle,recruitment,0,51.7635738923,1,1,31.2970292562,crossing,False,0.00100608079362
+Threshold 0.70,flat,0.25,cdf_upper,recruitment,0,51.7635738923,1,1,31.2970292562,crossing,False,0.00100608079362
+Threshold 0.70,flat,0.25,cdf_lower,equal_priority,0.5,51.7635738923,0.864197530864,1,53.085549573,crossing,False,0.00481012810209
+Threshold 0.70,flat,0.25,interval_mle,equal_priority,0.5,51.7635738923,1,1,55.1148600626,crossing,False,0.00548695617007
+Threshold 0.70,flat,0.25,cdf_upper,equal_priority,0.5,51.7635738923,1,1,55.1148600626,crossing,False,0.00548695617007
+Threshold 0.70,flat,0.25,cdf_lower,recruitment_priority,0.25,51.7635738923,0.864197530864,1,45.7104061077,crossing,False,0.00290810444786
+Threshold 0.70,flat,0.25,interval_mle,recruitment_priority,0.25,51.7635738923,1,1,47.4504800214,crossing,False,0.00324651848184
+Threshold 0.70,flat,0.25,cdf_upper,recruitment_priority,0.25,51.7635738923,1,1,47.4504800214,crossing,False,0.00324651848185
+Threshold 0.70,flat,0.25,cdf_lower,contact_priority,0.75,51.7635738923,0.864197530864,1,57.9499841411,crossing,False,0.00671215175633
+Threshold 0.70,flat,0.25,interval_mle,contact_priority,0.75,51.7635738923,1,1,60.1174219098,crossing,False,0.00772739385829
+Threshold 0.70,flat,0.25,cdf_upper,contact_priority,0.75,51.7635738923,1,1,60.1174219098,crossing,False,0.00772739385829
+Threshold 0.70,flat,0.5,cdf_lower,contact,1,43.5271477846,0.851851851852,1,61.4094072447,crossing,False,0.00849111576184
+Threshold 0.70,flat,0.5,interval_mle,contact,1,43.5271477846,0.984863443128,1,63.6692620406,crossing,False,0.00981695289742
+Threshold 0.70,flat,0.5,cdf_upper,contact,1,43.5271477846,0.987654320988,1,63.7128785843,crossing,False,0.00984477189779
+Threshold 0.70,flat,0.5,cdf_lower,recruitment,0,43.5271477846,0.851851851852,1,31.2970292562,crossing,False,0.00100608079362
+Threshold 0.70,flat,0.5,interval_mle,recruitment,0,43.5271477846,0.984863443128,1,31.2970292562,crossing,False,0.00100608079362
+Threshold 0.70,flat,0.5,cdf_upper,recruitment,0,43.5271477846,0.987654320988,1,31.2970292562,crossing,False,0.00100608079362
+Threshold 0.70,flat,0.5,cdf_lower,equal_priority,0.5,43.5271477846,0.851851851852,1,52.885793165,crossing,False,0.00474859827773
+Threshold 0.70,flat,0.5,interval_mle,equal_priority,0.5,43.5271477846,0.984863443128,1,54.9026193435,crossing,False,0.00541151684552
+Threshold 0.70,flat,0.5,cdf_upper,equal_priority,0.5,43.5271477846,0.987654320988,1,54.9411051817,crossing,False,0.00542542634571
+Threshold 0.70,flat,0.5,cdf_lower,recruitment_priority,0.25,43.5271477846,0.851851851852,1,45.5413151999,crossing,False,0.00287733953568
+Threshold 0.70,flat,0.5,interval_mle,recruitment_priority,0.25,43.5271477846,0.984863443128,1,47.2664410365,crossing,False,0.00320879881957
+Threshold 0.70,flat,0.5,cdf_upper,recruitment_priority,0.25,43.5271477846,0.987654320988,1,47.300642863,crossing,False,0.00321575356966
+Threshold 0.70,flat,0.5,cdf_lower,contact_priority,0.75,43.5271477846,0.851851851852,1,57.7402101536,crossing,False,0.00661985701979
+Threshold 0.70,flat,0.5,interval_mle,contact_priority,0.75,43.5271477846,0.984863443128,1,59.8910250055,crossing,False,0.00761423487147
+Threshold 0.70,flat,0.5,cdf_upper,contact_priority,0.75,43.5271477846,0.987654320988,1,59.9319632871,crossing,False,0.00763509912175
+Threshold 0.70,flat,0.75,cdf_lower,contact,1,35.2907216769,0.851851851852,1,61.4094072447,crossing,False,0.00849111576184
+Threshold 0.70,flat,0.75,interval_mle,contact,1,35.2907216769,0.984863443128,1,63.6692620406,crossing,False,0.00981695289742
+Threshold 0.70,flat,0.75,cdf_upper,contact,1,35.2907216769,0.987654320988,1,63.7128785843,crossing,False,0.00984477189779
+Threshold 0.70,flat,0.75,cdf_lower,recruitment,0,35.2907216769,0.851851851852,1,31.2970292562,crossing,False,0.00100608079362
+Threshold 0.70,flat,0.75,interval_mle,recruitment,0,35.2907216769,0.984863443128,1,31.2970292562,crossing,False,0.00100608079362
+Threshold 0.70,flat,0.75,cdf_upper,recruitment,0,35.2907216769,0.987654320988,1,31.2970292562,crossing,False,0.00100608079362
+Threshold 0.70,flat,0.75,cdf_lower,equal_priority,0.5,35.2907216769,0.851851851852,1,52.885793165,crossing,False,0.00474859827773
+Threshold 0.70,flat,0.75,interval_mle,equal_priority,0.5,35.2907216769,0.984863443128,1,54.9026193435,crossing,False,0.00541151684552
+Threshold 0.70,flat,0.75,cdf_upper,equal_priority,0.5,35.2907216769,0.987654320988,1,54.9411051817,crossing,False,0.00542542634571
+Threshold 0.70,flat,0.75,cdf_lower,recruitment_priority,0.25,35.2907216769,0.851851851852,1,45.5413151999,crossing,False,0.00287733953568
+Threshold 0.70,flat,0.75,interval_mle,recruitment_priority,0.25,35.2907216769,0.984863443128,1,47.2664410365,crossing,False,0.00320879881957
+Threshold 0.70,flat,0.75,cdf_upper,recruitment_priority,0.25,35.2907216769,0.987654320988,1,47.300642863,crossing,False,0.00321575356966
+Threshold 0.70,flat,0.75,cdf_lower,contact_priority,0.75,35.2907216769,0.851851851852,1,57.7402101536,crossing,False,0.00661985701979
+Threshold 0.70,flat,0.75,interval_mle,contact_priority,0.75,35.2907216769,0.984863443128,1,59.8910250055,crossing,False,0.00761423487147
+Threshold 0.70,flat,0.75,cdf_upper,contact_priority,0.75,35.2907216769,0.987654320988,1,59.9319632871,crossing,False,0.00763509912175
+Threshold 0.70,flat,1,cdf_lower,contact,1,27.0542955693,0.851851851852,0.95652173913,61.4094072447,crossing,False,0.00849111576184
+Threshold 0.70,flat,1,interval_mle,contact,1,27.0542955693,0.984863443128,0.95652173913,63.6692620406,crossing,False,0.00981695289742
+Threshold 0.70,flat,1,cdf_upper,contact,1,27.0542955693,0.987654320988,0.95652173913,63.7128785843,crossing,False,0.00984477189779
+Threshold 0.70,flat,1,cdf_lower,recruitment,0,27.0542955693,0.851851851852,0.95652173913,30.2090213718,crossing,False,0.000962338150422
+Threshold 0.70,flat,1,interval_mle,recruitment,0,27.0542955693,0.984863443128,0.95652173913,30.2090213718,crossing,False,0.000962338150422
+Threshold 0.70,flat,1,cdf_upper,recruitment,0,27.0542955693,0.987654320988,0.95652173913,30.2090213718,crossing,False,0.000962338150422
+Threshold 0.70,flat,1,cdf_lower,equal_priority,0.5,27.0542955693,0.851851851852,0.95652173913,52.7819465361,crossing,False,0.00472672695613
+Threshold 0.70,flat,1,interval_mle,equal_priority,0.5,27.0542955693,0.984863443128,0.95652173913,54.8151814189,crossing,False,0.00538964552392
+Threshold 0.70,flat,1,cdf_upper,equal_priority,0.5,27.0542955693,0.987654320988,0.95652173913,54.8541263088,crossing,False,0.0054035550241
+Threshold 0.70,flat,1,cdf_lower,recruitment_priority,0.25,27.0542955693,0.851851851852,0.95652173913,45.2473506026,crossing,False,0.00284453255328
+Threshold 0.70,flat,1,interval_mle,recruitment_priority,0.25,27.0542955693,0.984863443128,0.95652173913,47.0108789025,crossing,False,0.00317599183717
+Threshold 0.70,flat,1,cdf_upper,recruitment_priority,0.25,27.0542955693,0.987654320988,0.95652173913,47.0460994155,crossing,False,0.00318294658726
+Threshold 0.70,flat,1,cdf_lower,contact_priority,0.75,27.0542955693,0.851851851852,0.95652173913,57.7050476007,crossing,False,0.00660892135899
+Threshold 0.70,flat,1,interval_mle,contact_priority,0.75,27.0542955693,0.984863443128,0.95652173913,59.8616319444,crossing,False,0.00760329921067
+Threshold 0.70,flat,1,cdf_upper,contact_priority,0.75,27.0542955693,0.987654320988,0.95652173913,59.9027400382,crossing,False,0.00762416346095
+Threshold 0.70,mod,0,cdf_lower,contact,1,60,1,1,111.848882466,crossing,False,0.082013939614
+Threshold 0.70,mod,0,interval_mle,contact,1,60,1,1,111.848882466,crossing,False,0.082013939614
+Threshold 0.70,mod,0,cdf_upper,contact,1,60,1,1,111.848882466,crossing,False,0.082013939614
+Threshold 0.70,mod,0,cdf_lower,recruitment,0,60,1,1,84.7610309718,crossing,False,0.0277700711195
+Threshold 0.70,mod,0,interval_mle,recruitment,0,60,1,1,84.7610309718,crossing,False,0.0277700711195
+Threshold 0.70,mod,0,cdf_upper,recruitment,0,60,1,1,84.7610309718,crossing,False,0.0277700711195
+Threshold 0.70,mod,0,cdf_lower,equal_priority,0.5,60,1,1,102.302414743,crossing,False,0.0548920053668
+Threshold 0.70,mod,0,interval_mle,equal_priority,0.5,60,1,1,102.302414743,crossing,False,0.0548920053668
+Threshold 0.70,mod,0,cdf_upper,equal_priority,0.5,60,1,1,102.302414743,crossing,False,0.0548920053668
+Threshold 0.70,mod,0,cdf_lower,recruitment_priority,0.25,60,1,1,95.1977991309,crossing,False,0.0413310382431
+Threshold 0.70,mod,0,interval_mle,recruitment_priority,0.25,60,1,1,95.1977991309,crossing,False,0.0413310382431
+Threshold 0.70,mod,0,cdf_upper,recruitment_priority,0.25,60,1,1,95.1977991309,crossing,False,0.0413310382431
+Threshold 0.70,mod,0,cdf_lower,contact_priority,0.75,60,1,1,107.611929392,crossing,False,0.0684529724904
+Threshold 0.70,mod,0,interval_mle,contact_priority,0.75,60,1,1,107.611929392,crossing,False,0.0684529724904
+Threshold 0.70,mod,0,cdf_upper,contact_priority,0.75,60,1,1,107.611929392,crossing,False,0.0684529724904
+Threshold 0.70,mod,0.25,cdf_lower,contact,1,51.7635738923,0.864197530864,1,108.508354119,crossing,False,0.0708762441109
+Threshold 0.70,mod,0.25,interval_mle,contact,1,51.7635738923,1,1,111.848882466,crossing,False,0.082013939614
+Threshold 0.70,mod,0.25,cdf_upper,contact,1,51.7635738923,1,1,111.848882466,crossing,False,0.082013939614
+Threshold 0.70,mod,0.25,cdf_lower,recruitment,0,51.7635738923,0.864197530864,1,84.7610309718,crossing,False,0.0277700711195
+Threshold 0.70,mod,0.25,interval_mle,recruitment,0,51.7635738923,1,1,84.7610309718,crossing,False,0.0277700711195
+Threshold 0.70,mod,0.25,cdf_upper,recruitment,0,51.7635738923,1,1,84.7610309718,crossing,False,0.0277700711195
+Threshold 0.70,mod,0.25,cdf_lower,equal_priority,0.5,51.7635738923,0.864197530864,1,99.6615240198,crossing,False,0.0493231576152
+Threshold 0.70,mod,0.25,interval_mle,equal_priority,0.5,51.7635738923,1,1,102.302414743,crossing,False,0.0548920053668
+Threshold 0.70,mod,0.25,cdf_upper,equal_priority,0.5,51.7635738923,1,1,102.302414743,crossing,False,0.0548920053668
+Threshold 0.70,mod,0.25,cdf_lower,recruitment_priority,0.25,51.7635738923,0.864197530864,1,93.3676771076,crossing,False,0.0385466143673
+Threshold 0.70,mod,0.25,interval_mle,recruitment_priority,0.25,51.7635738923,1,1,95.1977991309,crossing,False,0.0413310382431
+Threshold 0.70,mod,0.25,cdf_upper,recruitment_priority,0.25,51.7635738923,1,1,95.1977991309,crossing,False,0.0413310382431
+Threshold 0.70,mod,0.25,cdf_lower,contact_priority,0.75,51.7635738923,0.864197530864,1,104.540128937,crossing,False,0.060099700863
+Threshold 0.70,mod,0.25,interval_mle,contact_priority,0.75,51.7635738923,1,1,107.611929392,crossing,False,0.0684529724904
+Threshold 0.70,mod,0.25,cdf_upper,contact_priority,0.75,51.7635738923,1,1,107.611929392,crossing,False,0.0684529724904
+Threshold 0.70,mod,0.5,cdf_lower,contact,1,43.5271477846,0.851851851852,1,108.171913245,crossing,False,0.0698637263379
+Threshold 0.70,mod,0.5,interval_mle,contact,1,43.5271477846,0.984863443128,1,111.505688222,crossing,False,0.0807725309528
+Threshold 0.70,mod,0.5,cdf_upper,contact,1,43.5271477846,0.987654320988,1,111.569757342,crossing,False,0.081001421841
+Threshold 0.70,mod,0.5,cdf_lower,recruitment,0,43.5271477846,0.851851851852,1,84.7610309718,crossing,False,0.0277700711195
+Threshold 0.70,mod,0.5,interval_mle,recruitment,0,43.5271477846,0.984863443128,1,84.7610309718,crossing,False,0.0277700711195
+Threshold 0.70,mod,0.5,cdf_upper,recruitment,0,43.5271477846,0.987654320988,1,84.7610309718,crossing,False,0.0277700711195
+Threshold 0.70,mod,0.5,cdf_lower,equal_priority,0.5,43.5271477846,0.851851851852,1,99.4024405763,crossing,False,0.0488168987287
+Threshold 0.70,mod,0.5,interval_mle,equal_priority,0.5,43.5271477846,0.984863443128,1,102.022944487,crossing,False,0.0542713010361
+Threshold 0.70,mod,0.5,cdf_upper,equal_priority,0.5,43.5271477846,0.987654320988,1,102.074940086,crossing,False,0.0543857464802
+Threshold 0.70,mod,0.5,cdf_lower,recruitment_priority,0.25,43.5271477846,0.851851851852,1,93.1918706565,crossing,False,0.0382934849241
+Threshold 0.70,mod,0.5,interval_mle,recruitment_priority,0.25,43.5271477846,0.984863443128,1,95.0003293048,crossing,False,0.0410206860778
+Threshold 0.70,mod,0.5,cdf_upper,recruitment_priority,0.25,43.5271477846,0.987654320988,1,95.0369453237,crossing,False,0.0410779087999
+Threshold 0.70,mod,0.5,cdf_lower,contact_priority,0.75,43.5271477846,0.851851851852,1,104.233569492,crossing,False,0.0593403125333
+Threshold 0.70,mod,0.5,interval_mle,contact_priority,0.75,43.5271477846,0.984863443128,1,107.292476584,crossing,False,0.0675219159944
+Threshold 0.70,mod,0.5,cdf_upper,contact_priority,0.75,43.5271477846,0.987654320988,1,107.352033305,crossing,False,0.0676935841606
+Threshold 0.70,mod,0.75,cdf_lower,contact,1,35.2907216769,0.851851851852,1,108.171913245,crossing,False,0.0698637263379
+Threshold 0.70,mod,0.75,interval_mle,contact,1,35.2907216769,0.984863443128,1,111.505688222,crossing,False,0.0807725309528
+Threshold 0.70,mod,0.75,cdf_upper,contact,1,35.2907216769,0.987654320988,1,111.569757342,crossing,False,0.081001421841
+Threshold 0.70,mod,0.75,cdf_lower,recruitment,0,35.2907216769,0.851851851852,1,84.7610309718,crossing,False,0.0277700711195
+Threshold 0.70,mod,0.75,interval_mle,recruitment,0,35.2907216769,0.984863443128,1,84.7610309718,crossing,False,0.0277700711195
+Threshold 0.70,mod,0.75,cdf_upper,recruitment,0,35.2907216769,0.987654320988,1,84.7610309718,crossing,False,0.0277700711195
+Threshold 0.70,mod,0.75,cdf_lower,equal_priority,0.5,35.2907216769,0.851851851852,1,99.4024405763,crossing,False,0.0488168987287
+Threshold 0.70,mod,0.75,interval_mle,equal_priority,0.5,35.2907216769,0.984863443128,1,102.022944487,crossing,False,0.0542713010361
+Threshold 0.70,mod,0.75,cdf_upper,equal_priority,0.5,35.2907216769,0.987654320988,1,102.074940086,crossing,False,0.0543857464802
+Threshold 0.70,mod,0.75,cdf_lower,recruitment_priority,0.25,35.2907216769,0.851851851852,1,93.1918706565,crossing,False,0.0382934849241
+Threshold 0.70,mod,0.75,interval_mle,recruitment_priority,0.25,35.2907216769,0.984863443128,1,95.0003293048,crossing,False,0.0410206860778
+Threshold 0.70,mod,0.75,cdf_upper,recruitment_priority,0.25,35.2907216769,0.987654320988,1,95.0369453237,crossing,False,0.0410779087999
+Threshold 0.70,mod,0.75,cdf_lower,contact_priority,0.75,35.2907216769,0.851851851852,1,104.233569492,crossing,False,0.0593403125333
+Threshold 0.70,mod,0.75,interval_mle,contact_priority,0.75,35.2907216769,0.984863443128,1,107.292476584,crossing,False,0.0675219159944
+Threshold 0.70,mod,0.75,cdf_upper,contact_priority,0.75,35.2907216769,0.987654320988,1,107.352033305,crossing,False,0.0676935841606
+Threshold 0.70,mod,1,cdf_lower,contact,1,27.0542955693,0.851851851852,0.95652173913,108.171913245,crossing,False,0.0698637263379
+Threshold 0.70,mod,1,interval_mle,contact,1,27.0542955693,0.984863443128,0.95652173913,111.505688222,crossing,False,0.0807725309528
+Threshold 0.70,mod,1,cdf_upper,contact,1,27.0542955693,0.987654320988,0.95652173913,111.569757342,crossing,False,0.081001421841
+Threshold 0.70,mod,1,cdf_lower,recruitment,0,27.0542955693,0.851851851852,0.95652173913,83.4058787648,crossing,False,0.026562676723
+Threshold 0.70,mod,1,interval_mle,recruitment,0,27.0542955693,0.984863443128,0.95652173913,83.4058787648,crossing,False,0.026562676723
+Threshold 0.70,mod,1,cdf_upper,recruitment,0,27.0542955693,0.987654320988,0.95652173913,83.4058787648,crossing,False,0.026562676723
+Threshold 0.70,mod,1,cdf_lower,equal_priority,0.5,27.0542955693,0.851851851852,0.95652173913,99.085179733,crossing,False,0.0482132015304
+Threshold 0.70,mod,1,interval_mle,equal_priority,0.5,27.0542955693,0.984863443128,0.95652173913,101.754303432,crossing,False,0.0536676038379
+Threshold 0.70,mod,1,cdf_upper,equal_priority,0.5,27.0542955693,0.987654320988,0.95652173913,101.806069309,crossing,False,0.053782049282
+Threshold 0.70,mod,1,cdf_lower,recruitment_priority,0.25,27.0542955693,0.851851851852,0.95652173913,92.5280542464,crossing,False,0.0373879391267
+Threshold 0.70,mod,1,interval_mle,recruitment_priority,0.25,27.0542955693,0.984863443128,0.95652173913,94.4027881678,crossing,False,0.0401151402804
+Threshold 0.70,mod,1,cdf_upper,recruitment_priority,0.25,27.0542955693,0.987654320988,0.95652173913,94.4403390706,crossing,False,0.0401723630025
+Threshold 0.70,mod,1,cdf_lower,contact_priority,0.75,27.0542955693,0.851851851852,0.95652173913,104.112016697,crossing,False,0.0590384639342
+Threshold 0.70,mod,1,interval_mle,contact_priority,0.75,27.0542955693,0.984863443128,0.95652173913,107.1906231,crossing,False,0.0672200673953
+Threshold 0.70,mod,1,cdf_upper,contact_priority,0.75,27.0542955693,0.987654320988,0.95652173913,107.250721024,crossing,False,0.0673917355615
+Threshold 0.70,tv,0,cdf_lower,contact,1,60,1,1,150,right_boundary,False,0.221043314908
+Threshold 0.70,tv,0,interval_mle,contact,1,60,1,1,150,right_boundary,False,0.221043314908
+Threshold 0.70,tv,0,cdf_upper,contact,1,60,1,1,150,right_boundary,False,0.221043314908
+Threshold 0.70,tv,0,cdf_lower,recruitment,0,60,1,1,101.876147297,crossing,False,0.0517262201265
+Threshold 0.70,tv,0,interval_mle,recruitment,0,60,1,1,101.876147297,crossing,False,0.0517262201265
+Threshold 0.70,tv,0,cdf_upper,recruitment,0,60,1,1,101.876147297,crossing,False,0.0517262201265
+Threshold 0.70,tv,0,cdf_lower,equal_priority,0.5,60,1,1,140.091380174,crossing,False,0.136384767517
+Threshold 0.70,tv,0,interval_mle,equal_priority,0.5,60,1,1,140.091380174,crossing,False,0.136384767517
+Threshold 0.70,tv,0,cdf_upper,equal_priority,0.5,60,1,1,140.091380174,crossing,False,0.136384767517
+Threshold 0.70,tv,0,cdf_lower,recruitment_priority,0.25,60,1,1,128.449982119,crossing,False,0.0940554938218
+Threshold 0.70,tv,0,interval_mle,recruitment_priority,0.25,60,1,1,128.449982119,crossing,False,0.0940554938218
+Threshold 0.70,tv,0,cdf_upper,recruitment_priority,0.25,60,1,1,128.449982119,crossing,False,0.0940554938218
+Threshold 0.70,tv,0,cdf_lower,contact_priority,0.75,60,1,1,147.379816079,crossing,False,0.178714041212
+Threshold 0.70,tv,0,interval_mle,contact_priority,0.75,60,1,1,147.379816079,crossing,False,0.178714041212
+Threshold 0.70,tv,0,cdf_upper,contact_priority,0.75,60,1,1,147.379816079,crossing,False,0.178714041212
+Threshold 0.70,tv,0.25,cdf_lower,contact,1,51.7635738923,0.864197530864,1,149.309298542,crossing,False,0.191025086957
+Threshold 0.70,tv,0.25,interval_mle,contact,1,51.7635738923,1,1,150,right_boundary,False,0.221043314908
+Threshold 0.70,tv,0.25,cdf_upper,contact,1,51.7635738923,1,1,150,right_boundary,False,0.221043314908
+Threshold 0.70,tv,0.25,cdf_lower,recruitment,0,51.7635738923,0.864197530864,1,101.876147297,crossing,False,0.0517262201265
+Threshold 0.70,tv,0.25,interval_mle,recruitment,0,51.7635738923,1,1,101.876147297,crossing,False,0.0517262201265
+Threshold 0.70,tv,0.25,cdf_upper,recruitment,0,51.7635738923,1,1,101.876147297,crossing,False,0.0517262201265
+Threshold 0.70,tv,0.25,cdf_lower,equal_priority,0.5,51.7635738923,0.864197530864,1,136.863279934,crossing,False,0.121375653542
+Threshold 0.70,tv,0.25,interval_mle,equal_priority,0.5,51.7635738923,1,1,140.091380174,crossing,False,0.136384767517
+Threshold 0.70,tv,0.25,cdf_upper,equal_priority,0.5,51.7635738923,1,1,140.091380174,crossing,False,0.136384767517
+Threshold 0.70,tv,0.25,cdf_lower,recruitment_priority,0.25,51.7635738923,0.864197530864,1,125.564499927,crossing,False,0.0865509368342
+Threshold 0.70,tv,0.25,interval_mle,recruitment_priority,0.25,51.7635738923,1,1,128.449982119,crossing,False,0.0940554938218
+Threshold 0.70,tv,0.25,cdf_upper,recruitment_priority,0.25,51.7635738923,1,1,128.449982119,crossing,False,0.0940554938218
+Threshold 0.70,tv,0.25,cdf_lower,contact_priority,0.75,51.7635738923,0.864197530864,1,144.040532333,crossing,False,0.15620037025
+Threshold 0.70,tv,0.25,interval_mle,contact_priority,0.75,51.7635738923,1,1,147.379816079,crossing,False,0.178714041212
+Threshold 0.70,tv,0.25,cdf_upper,contact_priority,0.75,51.7635738923,1,1,147.379816079,crossing,False,0.178714041212
+Threshold 0.70,tv,0.5,cdf_lower,contact,1,43.5271477846,0.851851851852,1,148.96508326,crossing,False,0.188296157144
+Threshold 0.70,tv,0.5,interval_mle,contact,1,43.5271477846,0.984863443128,1,150,right_boundary,False,0.2176974802
+Threshold 0.70,tv,0.5,cdf_upper,contact,1,43.5271477846,0.987654320988,1,150,right_boundary,False,0.218314385094
+Threshold 0.70,tv,0.5,cdf_lower,recruitment,0,43.5271477846,0.851851851852,1,101.876147297,crossing,False,0.0517262201265
+Threshold 0.70,tv,0.5,interval_mle,recruitment,0,43.5271477846,0.984863443128,1,101.876147297,crossing,False,0.0517262201265
+Threshold 0.70,tv,0.5,cdf_upper,recruitment,0,43.5271477846,0.987654320988,1,101.876147297,crossing,False,0.0517262201265
+Threshold 0.70,tv,0.5,cdf_lower,equal_priority,0.5,43.5271477846,0.851851851852,1,136.541741761,crossing,False,0.120011188635
+Threshold 0.70,tv,0.5,interval_mle,equal_priority,0.5,43.5271477846,0.984863443128,1,139.758685241,crossing,False,0.134711850163
+Threshold 0.70,tv,0.5,cdf_upper,equal_priority,0.5,43.5271477846,0.987654320988,1,139.820278127,crossing,False,0.13502030261
+Threshold 0.70,tv,0.5,cdf_lower,recruitment_priority,0.25,43.5271477846,0.851851851852,1,125.280294257,crossing,False,0.0858687043807
+Threshold 0.70,tv,0.5,interval_mle,recruitment_priority,0.25,43.5271477846,0.984863443128,1,128.147775084,crossing,False,0.093219035145
+Threshold 0.70,tv,0.5,cdf_upper,recruitment_priority,0.25,43.5271477846,0.987654320988,1,128.203903472,crossing,False,0.0933732613684
+Threshold 0.70,tv,0.5,cdf_lower,contact_priority,0.75,43.5271477846,0.851851851852,1,143.708583503,crossing,False,0.154153672889
+Threshold 0.70,tv,0.5,interval_mle,contact_priority,0.75,43.5271477846,0.984863443128,1,147.032049556,crossing,False,0.176204665182
+Threshold 0.70,tv,0.5,cdf_upper,contact_priority,0.75,43.5271477846,0.987654320988,1,147.09692018,crossing,False,0.176667343852
+Threshold 0.70,tv,0.75,cdf_lower,contact,1,35.2907216769,0.851851851852,1,148.96508326,crossing,False,0.188296157144
+Threshold 0.70,tv,0.75,interval_mle,contact,1,35.2907216769,0.984863443128,1,150,right_boundary,False,0.2176974802
+Threshold 0.70,tv,0.75,cdf_upper,contact,1,35.2907216769,0.987654320988,1,150,right_boundary,False,0.218314385094
+Threshold 0.70,tv,0.75,cdf_lower,recruitment,0,35.2907216769,0.851851851852,1,101.876147297,crossing,False,0.0517262201265
+Threshold 0.70,tv,0.75,interval_mle,recruitment,0,35.2907216769,0.984863443128,1,101.876147297,crossing,False,0.0517262201265
+Threshold 0.70,tv,0.75,cdf_upper,recruitment,0,35.2907216769,0.987654320988,1,101.876147297,crossing,False,0.0517262201265
+Threshold 0.70,tv,0.75,cdf_lower,equal_priority,0.5,35.2907216769,0.851851851852,1,136.541741761,crossing,False,0.120011188635
+Threshold 0.70,tv,0.75,interval_mle,equal_priority,0.5,35.2907216769,0.984863443128,1,139.758685241,crossing,False,0.134711850163
+Threshold 0.70,tv,0.75,cdf_upper,equal_priority,0.5,35.2907216769,0.987654320988,1,139.820278127,crossing,False,0.13502030261
+Threshold 0.70,tv,0.75,cdf_lower,recruitment_priority,0.25,35.2907216769,0.851851851852,1,125.280294257,crossing,False,0.0858687043807
+Threshold 0.70,tv,0.75,interval_mle,recruitment_priority,0.25,35.2907216769,0.984863443128,1,128.147775084,crossing,False,0.093219035145
+Threshold 0.70,tv,0.75,cdf_upper,recruitment_priority,0.25,35.2907216769,0.987654320988,1,128.203903472,crossing,False,0.0933732613684
+Threshold 0.70,tv,0.75,cdf_lower,contact_priority,0.75,35.2907216769,0.851851851852,1,143.708583503,crossing,False,0.154153672889
+Threshold 0.70,tv,0.75,interval_mle,contact_priority,0.75,35.2907216769,0.984863443128,1,147.032049556,crossing,False,0.176204665182
+Threshold 0.70,tv,0.75,cdf_upper,contact_priority,0.75,35.2907216769,0.987654320988,1,147.09692018,crossing,False,0.176667343852
+Threshold 0.70,tv,1,cdf_lower,contact,1,27.0542955693,0.851851851852,0.95652173913,148.96508326,crossing,False,0.188296157144
+Threshold 0.70,tv,1,interval_mle,contact,1,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.2176974802
+Threshold 0.70,tv,1,cdf_upper,contact,1,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.218314385094
+Threshold 0.70,tv,1,cdf_lower,recruitment,0,27.0542955693,0.851851851852,0.95652173913,99.4019770138,crossing,False,0.049477254034
+Threshold 0.70,tv,1,interval_mle,recruitment,0,27.0542955693,0.984863443128,0.95652173913,99.4019770138,crossing,False,0.049477254034
+Threshold 0.70,tv,1,cdf_upper,recruitment,0,27.0542955693,0.987654320988,0.95652173913,99.4019770138,crossing,False,0.049477254034
+Threshold 0.70,tv,1,cdf_lower,equal_priority,0.5,27.0542955693,0.851851851852,0.95652173913,136.314250632,crossing,False,0.118886705589
+Threshold 0.70,tv,1,interval_mle,equal_priority,0.5,27.0542955693,0.984863443128,0.95652173913,139.570375458,crossing,False,0.133587367117
+Threshold 0.70,tv,1,cdf_upper,equal_priority,0.5,27.0542955693,0.987654320988,0.95652173913,139.63289211,crossing,False,0.133895819564
+Threshold 0.70,tv,1,cdf_lower,recruitment_priority,0.25,27.0542955693,0.851851851852,0.95652173913,124.64421118,crossing,False,0.0841819798114
+Threshold 0.70,tv,1,interval_mle,recruitment_priority,0.25,27.0542955693,0.984863443128,0.95652173913,127.605233041,crossing,False,0.0915323105756
+Threshold 0.70,tv,1,cdf_upper,recruitment_priority,0.25,27.0542955693,0.987654320988,0.95652173913,127.662827996,crossing,False,0.091686536799
+Threshold 0.70,tv,1,cdf_lower,contact_priority,0.75,27.0542955693,0.851851851852,0.95652173913,143.633065161,crossing,False,0.153591431366
+Threshold 0.70,tv,1,interval_mle,contact_priority,0.75,27.0542955693,0.984863443128,0.95652173913,146.969087433,crossing,False,0.175642423659
+Threshold 0.70,tv,1,cdf_upper,contact_priority,0.75,27.0542955693,0.987654320988,0.95652173913,147.03333534,crossing,False,0.176105102329
+Fidelity loss 5%,flat,0,cdf_lower,contact,1,60,1,1,150,right_boundary,False,0.274538749761
+Fidelity loss 5%,flat,0,interval_mle,contact,1,60,1,1,150,right_boundary,False,0.274538749761
+Fidelity loss 5%,flat,0,cdf_upper,contact,1,60,1,1,150,right_boundary,False,0.274538749761
+Fidelity loss 5%,flat,0,cdf_lower,recruitment,0,60,1,1,58.5779424902,crossing,False,0.0277099549638
+Fidelity loss 5%,flat,0,interval_mle,recruitment,0,60,1,1,58.5779424902,crossing,False,0.0277099549638
+Fidelity loss 5%,flat,0,cdf_upper,recruitment,0,60,1,1,58.5779424902,crossing,False,0.0277099549638
+Fidelity loss 5%,flat,0,cdf_lower,equal_priority,0.5,60,1,1,150,right_boundary,False,0.151124352363
+Fidelity loss 5%,flat,0,interval_mle,equal_priority,0.5,60,1,1,150,right_boundary,False,0.151124352363
+Fidelity loss 5%,flat,0,cdf_upper,equal_priority,0.5,60,1,1,150,right_boundary,False,0.151124352363
+Fidelity loss 5%,flat,0,cdf_lower,recruitment_priority,0.25,60,1,1,150,right_boundary,False,0.0894171536632
+Fidelity loss 5%,flat,0,interval_mle,recruitment_priority,0.25,60,1,1,150,right_boundary,False,0.0894171536632
+Fidelity loss 5%,flat,0,cdf_upper,recruitment_priority,0.25,60,1,1,150,right_boundary,False,0.0894171536632
+Fidelity loss 5%,flat,0,cdf_lower,contact_priority,0.75,60,1,1,150,right_boundary,False,0.212831551062
+Fidelity loss 5%,flat,0,interval_mle,contact_priority,0.75,60,1,1,150,right_boundary,False,0.212831551062
+Fidelity loss 5%,flat,0,cdf_upper,contact_priority,0.75,60,1,1,150,right_boundary,False,0.212831551062
+Fidelity loss 5%,flat,0.25,cdf_lower,contact,1,51.7635738923,0.864197530864,1,150,right_boundary,False,0.23725570967
+Fidelity loss 5%,flat,0.25,interval_mle,contact,1,51.7635738923,1,1,150,right_boundary,False,0.274538749761
+Fidelity loss 5%,flat,0.25,cdf_upper,contact,1,51.7635738923,1,1,150,right_boundary,False,0.274538749761
+Fidelity loss 5%,flat,0.25,cdf_lower,recruitment,0,51.7635738923,0.864197530864,1,58.5779424902,crossing,False,0.0277099549638
+Fidelity loss 5%,flat,0.25,interval_mle,recruitment,0,51.7635738923,1,1,58.5779424902,crossing,False,0.0277099549638
+Fidelity loss 5%,flat,0.25,cdf_upper,recruitment,0,51.7635738923,1,1,58.5779424902,crossing,False,0.0277099549638
+Fidelity loss 5%,flat,0.25,cdf_lower,equal_priority,0.5,51.7635738923,0.864197530864,1,150,right_boundary,False,0.132482832317
+Fidelity loss 5%,flat,0.25,interval_mle,equal_priority,0.5,51.7635738923,1,1,150,right_boundary,False,0.151124352363
+Fidelity loss 5%,flat,0.25,cdf_upper,equal_priority,0.5,51.7635738923,1,1,150,right_boundary,False,0.151124352363
+Fidelity loss 5%,flat,0.25,cdf_lower,recruitment_priority,0.25,51.7635738923,0.864197530864,1,150,right_boundary,False,0.0800963936404
+Fidelity loss 5%,flat,0.25,interval_mle,recruitment_priority,0.25,51.7635738923,1,1,150,right_boundary,False,0.0894171536632
+Fidelity loss 5%,flat,0.25,cdf_upper,recruitment_priority,0.25,51.7635738923,1,1,150,right_boundary,False,0.0894171536632
+Fidelity loss 5%,flat,0.25,cdf_lower,contact_priority,0.75,51.7635738923,0.864197530864,1,150,right_boundary,False,0.184869270994
+Fidelity loss 5%,flat,0.25,interval_mle,contact_priority,0.75,51.7635738923,1,1,150,right_boundary,False,0.212831551062
+Fidelity loss 5%,flat,0.25,cdf_upper,contact_priority,0.75,51.7635738923,1,1,150,right_boundary,False,0.212831551062
+Fidelity loss 5%,flat,0.5,cdf_lower,contact,1,43.5271477846,0.851851851852,1,150,right_boundary,False,0.233866342389
+Fidelity loss 5%,flat,0.5,interval_mle,contact,1,43.5271477846,0.984863443128,1,150,right_boundary,False,0.270383178362
+Fidelity loss 5%,flat,0.5,cdf_upper,contact,1,43.5271477846,0.987654320988,1,150,right_boundary,False,0.27114938248
+Fidelity loss 5%,flat,0.5,cdf_lower,recruitment,0,43.5271477846,0.851851851852,1,58.5779424902,crossing,False,0.0277099549638
+Fidelity loss 5%,flat,0.5,interval_mle,recruitment,0,43.5271477846,0.984863443128,1,58.5779424902,crossing,False,0.0277099549638
+Fidelity loss 5%,flat,0.5,cdf_upper,recruitment,0,43.5271477846,0.987654320988,1,58.5779424902,crossing,False,0.0277099549638
+Fidelity loss 5%,flat,0.5,cdf_lower,equal_priority,0.5,43.5271477846,0.851851851852,1,150,right_boundary,False,0.130788148677
+Fidelity loss 5%,flat,0.5,interval_mle,equal_priority,0.5,43.5271477846,0.984863443128,1,150,right_boundary,False,0.149046566663
+Fidelity loss 5%,flat,0.5,cdf_upper,equal_priority,0.5,43.5271477846,0.987654320988,1,150,right_boundary,False,0.149429668722
+Fidelity loss 5%,flat,0.5,cdf_lower,recruitment_priority,0.25,43.5271477846,0.851851851852,1,150,right_boundary,False,0.0792490518201
+Fidelity loss 5%,flat,0.5,interval_mle,recruitment_priority,0.25,43.5271477846,0.984863443128,1,150,right_boundary,False,0.0883782608133
+Fidelity loss 5%,flat,0.5,cdf_upper,recruitment_priority,0.25,43.5271477846,0.987654320988,1,150,right_boundary,False,0.0885698118429
+Fidelity loss 5%,flat,0.5,cdf_lower,contact_priority,0.75,43.5271477846,0.851851851852,1,150,right_boundary,False,0.182327245533
+Fidelity loss 5%,flat,0.5,interval_mle,contact_priority,0.75,43.5271477846,0.984863443128,1,150,right_boundary,False,0.209714872512
+Fidelity loss 5%,flat,0.5,cdf_upper,contact_priority,0.75,43.5271477846,0.987654320988,1,150,right_boundary,False,0.210289525601
+Fidelity loss 5%,flat,0.75,cdf_lower,contact,1,35.2907216769,0.851851851852,1,150,right_boundary,False,0.233866342389
+Fidelity loss 5%,flat,0.75,interval_mle,contact,1,35.2907216769,0.984863443128,1,150,right_boundary,False,0.270383178362
+Fidelity loss 5%,flat,0.75,cdf_upper,contact,1,35.2907216769,0.987654320988,1,150,right_boundary,False,0.27114938248
+Fidelity loss 5%,flat,0.75,cdf_lower,recruitment,0,35.2907216769,0.851851851852,1,58.5779424902,crossing,False,0.0277099549638
+Fidelity loss 5%,flat,0.75,interval_mle,recruitment,0,35.2907216769,0.984863443128,1,58.5779424902,crossing,False,0.0277099549638
+Fidelity loss 5%,flat,0.75,cdf_upper,recruitment,0,35.2907216769,0.987654320988,1,58.5779424902,crossing,False,0.0277099549638
+Fidelity loss 5%,flat,0.75,cdf_lower,equal_priority,0.5,35.2907216769,0.851851851852,1,150,right_boundary,False,0.130788148677
+Fidelity loss 5%,flat,0.75,interval_mle,equal_priority,0.5,35.2907216769,0.984863443128,1,150,right_boundary,False,0.149046566663
+Fidelity loss 5%,flat,0.75,cdf_upper,equal_priority,0.5,35.2907216769,0.987654320988,1,150,right_boundary,False,0.149429668722
+Fidelity loss 5%,flat,0.75,cdf_lower,recruitment_priority,0.25,35.2907216769,0.851851851852,1,150,right_boundary,False,0.0792490518201
+Fidelity loss 5%,flat,0.75,interval_mle,recruitment_priority,0.25,35.2907216769,0.984863443128,1,150,right_boundary,False,0.0883782608133
+Fidelity loss 5%,flat,0.75,cdf_upper,recruitment_priority,0.25,35.2907216769,0.987654320988,1,150,right_boundary,False,0.0885698118429
+Fidelity loss 5%,flat,0.75,cdf_lower,contact_priority,0.75,35.2907216769,0.851851851852,1,150,right_boundary,False,0.182327245533
+Fidelity loss 5%,flat,0.75,interval_mle,contact_priority,0.75,35.2907216769,0.984863443128,1,150,right_boundary,False,0.209714872512
+Fidelity loss 5%,flat,0.75,cdf_upper,contact_priority,0.75,35.2907216769,0.987654320988,1,150,right_boundary,False,0.210289525601
+Fidelity loss 5%,flat,1,cdf_lower,contact,1,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.233866342389
+Fidelity loss 5%,flat,1,interval_mle,contact,1,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.270383178362
+Fidelity loss 5%,flat,1,cdf_upper,contact,1,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.27114938248
+Fidelity loss 5%,flat,1,cdf_lower,recruitment,0,27.0542955693,0.851851851852,0.95652173913,55.4300082731,crossing,False,0.0265051743132
+Fidelity loss 5%,flat,1,interval_mle,recruitment,0,27.0542955693,0.984863443128,0.95652173913,55.4300082731,crossing,False,0.0265051743132
+Fidelity loss 5%,flat,1,cdf_upper,recruitment,0,27.0542955693,0.987654320988,0.95652173913,55.4300082731,crossing,False,0.0265051743132
+Fidelity loss 5%,flat,1,cdf_lower,equal_priority,0.5,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.130185758351
+Fidelity loss 5%,flat,1,interval_mle,equal_priority,0.5,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.148444176338
+Fidelity loss 5%,flat,1,cdf_upper,equal_priority,0.5,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.148827278397
+Fidelity loss 5%,flat,1,cdf_lower,recruitment_priority,0.25,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.0783454663322
+Fidelity loss 5%,flat,1,interval_mle,recruitment_priority,0.25,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.0874746753254
+Fidelity loss 5%,flat,1,cdf_upper,recruitment_priority,0.25,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.087666226355
+Fidelity loss 5%,flat,1,cdf_lower,contact_priority,0.75,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.18202605037
+Fidelity loss 5%,flat,1,interval_mle,contact_priority,0.75,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.20941367735
+Fidelity loss 5%,flat,1,cdf_upper,contact_priority,0.75,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.209988330439
+Fidelity loss 5%,mod,0,cdf_lower,contact,1,60,1,1,150,right_boundary,False,0.293344807585
+Fidelity loss 5%,mod,0,interval_mle,contact,1,60,1,1,150,right_boundary,False,0.293344807585
+Fidelity loss 5%,mod,0,cdf_upper,contact,1,60,1,1,150,right_boundary,False,0.293344807585
+Fidelity loss 5%,mod,0,cdf_lower,recruitment,0,60,1,1,150,right_boundary,False,0.0993270925345
+Fidelity loss 5%,mod,0,interval_mle,recruitment,0,60,1,1,150,right_boundary,False,0.0993270925345
+Fidelity loss 5%,mod,0,cdf_upper,recruitment,0,60,1,1,150,right_boundary,False,0.0993270925345
+Fidelity loss 5%,mod,0,cdf_lower,equal_priority,0.5,60,1,1,150,right_boundary,False,0.19633595006
+Fidelity loss 5%,mod,0,interval_mle,equal_priority,0.5,60,1,1,150,right_boundary,False,0.19633595006
+Fidelity loss 5%,mod,0,cdf_upper,equal_priority,0.5,60,1,1,150,right_boundary,False,0.19633595006
+Fidelity loss 5%,mod,0,cdf_lower,recruitment_priority,0.25,60,1,1,150,right_boundary,False,0.147831521297
+Fidelity loss 5%,mod,0,interval_mle,recruitment_priority,0.25,60,1,1,150,right_boundary,False,0.147831521297
+Fidelity loss 5%,mod,0,cdf_upper,recruitment_priority,0.25,60,1,1,150,right_boundary,False,0.147831521297
+Fidelity loss 5%,mod,0,cdf_lower,contact_priority,0.75,60,1,1,150,right_boundary,False,0.244840378822
+Fidelity loss 5%,mod,0,interval_mle,contact_priority,0.75,60,1,1,150,right_boundary,False,0.244840378822
+Fidelity loss 5%,mod,0,cdf_upper,contact_priority,0.75,60,1,1,150,right_boundary,False,0.244840378822
+Fidelity loss 5%,mod,0.25,cdf_lower,contact,1,51.7635738923,0.864197530864,1,150,right_boundary,False,0.253507858407
+Fidelity loss 5%,mod,0.25,interval_mle,contact,1,51.7635738923,1,1,150,right_boundary,False,0.293344807585
+Fidelity loss 5%,mod,0.25,cdf_upper,contact,1,51.7635738923,1,1,150,right_boundary,False,0.293344807585
+Fidelity loss 5%,mod,0.25,cdf_lower,recruitment,0,51.7635738923,0.864197530864,1,150,right_boundary,False,0.0993270925345
+Fidelity loss 5%,mod,0.25,interval_mle,recruitment,0,51.7635738923,1,1,150,right_boundary,False,0.0993270925345
+Fidelity loss 5%,mod,0.25,cdf_upper,recruitment,0,51.7635738923,1,1,150,right_boundary,False,0.0993270925345
+Fidelity loss 5%,mod,0.25,cdf_lower,equal_priority,0.5,51.7635738923,0.864197530864,1,150,right_boundary,False,0.176417475471
+Fidelity loss 5%,mod,0.25,interval_mle,equal_priority,0.5,51.7635738923,1,1,150,right_boundary,False,0.19633595006
+Fidelity loss 5%,mod,0.25,cdf_upper,equal_priority,0.5,51.7635738923,1,1,150,right_boundary,False,0.19633595006
+Fidelity loss 5%,mod,0.25,cdf_lower,recruitment_priority,0.25,51.7635738923,0.864197530864,1,150,right_boundary,False,0.137872284003
+Fidelity loss 5%,mod,0.25,interval_mle,recruitment_priority,0.25,51.7635738923,1,1,150,right_boundary,False,0.147831521297
+Fidelity loss 5%,mod,0.25,cdf_upper,recruitment_priority,0.25,51.7635738923,1,1,150,right_boundary,False,0.147831521297
+Fidelity loss 5%,mod,0.25,cdf_lower,contact_priority,0.75,51.7635738923,0.864197530864,1,150,right_boundary,False,0.214962666939
+Fidelity loss 5%,mod,0.25,interval_mle,contact_priority,0.75,51.7635738923,1,1,150,right_boundary,False,0.244840378822
+Fidelity loss 5%,mod,0.25,cdf_upper,contact_priority,0.75,51.7635738923,1,1,150,right_boundary,False,0.244840378822
+Fidelity loss 5%,mod,0.5,cdf_lower,contact,1,43.5271477846,0.851851851852,1,150,right_boundary,False,0.249886317572
+Fidelity loss 5%,mod,0.5,interval_mle,contact,1,43.5271477846,0.984863443128,1,150,right_boundary,False,0.288904577222
+Fidelity loss 5%,mod,0.5,cdf_upper,contact,1,43.5271477846,0.987654320988,1,150,right_boundary,False,0.289723266751
+Fidelity loss 5%,mod,0.5,cdf_lower,recruitment,0,43.5271477846,0.851851851852,1,150,right_boundary,False,0.0993270925345
+Fidelity loss 5%,mod,0.5,interval_mle,recruitment,0,43.5271477846,0.984863443128,1,150,right_boundary,False,0.0993270925345
+Fidelity loss 5%,mod,0.5,cdf_upper,recruitment,0,43.5271477846,0.987654320988,1,150,right_boundary,False,0.0993270925345
+Fidelity loss 5%,mod,0.5,cdf_lower,equal_priority,0.5,43.5271477846,0.851851851852,1,150,right_boundary,False,0.174606705053
+Fidelity loss 5%,mod,0.5,interval_mle,equal_priority,0.5,43.5271477846,0.984863443128,1,150,right_boundary,False,0.194115834878
+Fidelity loss 5%,mod,0.5,cdf_upper,equal_priority,0.5,43.5271477846,0.987654320988,1,150,right_boundary,False,0.194525179643
+Fidelity loss 5%,mod,0.5,cdf_lower,recruitment_priority,0.25,43.5271477846,0.851851851852,1,150,right_boundary,False,0.136966898794
+Fidelity loss 5%,mod,0.5,interval_mle,recruitment_priority,0.25,43.5271477846,0.984863443128,1,150,right_boundary,False,0.146721463706
+Fidelity loss 5%,mod,0.5,cdf_upper,recruitment_priority,0.25,43.5271477846,0.987654320988,1,150,right_boundary,False,0.146926136089
+Fidelity loss 5%,mod,0.5,cdf_lower,contact_priority,0.75,43.5271477846,0.851851851852,1,150,right_boundary,False,0.212246511313
+Fidelity loss 5%,mod,0.5,interval_mle,contact_priority,0.75,43.5271477846,0.984863443128,1,150,right_boundary,False,0.24151020605
+Fidelity loss 5%,mod,0.5,cdf_upper,contact_priority,0.75,43.5271477846,0.987654320988,1,150,right_boundary,False,0.242124223197
+Fidelity loss 5%,mod,0.75,cdf_lower,contact,1,35.2907216769,0.851851851852,1,150,right_boundary,False,0.249886317572
+Fidelity loss 5%,mod,0.75,interval_mle,contact,1,35.2907216769,0.984863443128,1,150,right_boundary,False,0.288904577222
+Fidelity loss 5%,mod,0.75,cdf_upper,contact,1,35.2907216769,0.987654320988,1,150,right_boundary,False,0.289723266751
+Fidelity loss 5%,mod,0.75,cdf_lower,recruitment,0,35.2907216769,0.851851851852,1,150,right_boundary,False,0.0993270925345
+Fidelity loss 5%,mod,0.75,interval_mle,recruitment,0,35.2907216769,0.984863443128,1,150,right_boundary,False,0.0993270925345
+Fidelity loss 5%,mod,0.75,cdf_upper,recruitment,0,35.2907216769,0.987654320988,1,150,right_boundary,False,0.0993270925345
+Fidelity loss 5%,mod,0.75,cdf_lower,equal_priority,0.5,35.2907216769,0.851851851852,1,150,right_boundary,False,0.174606705053
+Fidelity loss 5%,mod,0.75,interval_mle,equal_priority,0.5,35.2907216769,0.984863443128,1,150,right_boundary,False,0.194115834878
+Fidelity loss 5%,mod,0.75,cdf_upper,equal_priority,0.5,35.2907216769,0.987654320988,1,150,right_boundary,False,0.194525179643
+Fidelity loss 5%,mod,0.75,cdf_lower,recruitment_priority,0.25,35.2907216769,0.851851851852,1,150,right_boundary,False,0.136966898794
+Fidelity loss 5%,mod,0.75,interval_mle,recruitment_priority,0.25,35.2907216769,0.984863443128,1,150,right_boundary,False,0.146721463706
+Fidelity loss 5%,mod,0.75,cdf_upper,recruitment_priority,0.25,35.2907216769,0.987654320988,1,150,right_boundary,False,0.146926136089
+Fidelity loss 5%,mod,0.75,cdf_lower,contact_priority,0.75,35.2907216769,0.851851851852,1,150,right_boundary,False,0.212246511313
+Fidelity loss 5%,mod,0.75,interval_mle,contact_priority,0.75,35.2907216769,0.984863443128,1,150,right_boundary,False,0.24151020605
+Fidelity loss 5%,mod,0.75,cdf_upper,contact_priority,0.75,35.2907216769,0.987654320988,1,150,right_boundary,False,0.242124223197
+Fidelity loss 5%,mod,1,cdf_lower,contact,1,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.249886317572
+Fidelity loss 5%,mod,1,interval_mle,contact,1,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.288904577222
+Fidelity loss 5%,mod,1,cdf_upper,contact,1,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.289723266751
+Fidelity loss 5%,mod,1,cdf_lower,recruitment,0,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.0950085232939
+Fidelity loss 5%,mod,1,interval_mle,recruitment,0,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.0950085232939
+Fidelity loss 5%,mod,1,cdf_upper,recruitment,0,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.0950085232939
+Fidelity loss 5%,mod,1,cdf_lower,equal_priority,0.5,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.172447420433
+Fidelity loss 5%,mod,1,interval_mle,equal_priority,0.5,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.191956550258
+Fidelity loss 5%,mod,1,cdf_upper,equal_priority,0.5,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.192365895022
+Fidelity loss 5%,mod,1,cdf_lower,recruitment_priority,0.25,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.133727971864
+Fidelity loss 5%,mod,1,interval_mle,recruitment_priority,0.25,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.143482536776
+Fidelity loss 5%,mod,1,cdf_upper,recruitment_priority,0.25,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.143687209158
+Fidelity loss 5%,mod,1,cdf_lower,contact_priority,0.75,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.211166869003
+Fidelity loss 5%,mod,1,interval_mle,contact_priority,0.75,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.24043056374
+Fidelity loss 5%,mod,1,cdf_upper,contact_priority,0.75,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.241044580886
+Fidelity loss 5%,tv,0,cdf_lower,contact,1,60,1,1,150,right_boundary,False,0.405890729866
+Fidelity loss 5%,tv,0,interval_mle,contact,1,60,1,1,150,right_boundary,False,0.405890729866
+Fidelity loss 5%,tv,0,cdf_upper,contact,1,60,1,1,150,right_boundary,False,0.405890729866
+Fidelity loss 5%,tv,0,cdf_lower,recruitment,0,60,1,1,150,right_boundary,False,0.0949822583375
+Fidelity loss 5%,tv,0,interval_mle,recruitment,0,60,1,1,150,right_boundary,False,0.0949822583375
+Fidelity loss 5%,tv,0,cdf_upper,recruitment,0,60,1,1,150,right_boundary,False,0.0949822583375
+Fidelity loss 5%,tv,0,cdf_lower,equal_priority,0.5,60,1,1,150,right_boundary,False,0.250436494102
+Fidelity loss 5%,tv,0,interval_mle,equal_priority,0.5,60,1,1,150,right_boundary,False,0.250436494102
+Fidelity loss 5%,tv,0,cdf_upper,equal_priority,0.5,60,1,1,150,right_boundary,False,0.250436494102
+Fidelity loss 5%,tv,0,cdf_lower,recruitment_priority,0.25,60,1,1,150,right_boundary,False,0.17270937622
+Fidelity loss 5%,tv,0,interval_mle,recruitment_priority,0.25,60,1,1,150,right_boundary,False,0.17270937622
+Fidelity loss 5%,tv,0,cdf_upper,recruitment_priority,0.25,60,1,1,150,right_boundary,False,0.17270937622
+Fidelity loss 5%,tv,0,cdf_lower,contact_priority,0.75,60,1,1,150,right_boundary,False,0.328163611984
+Fidelity loss 5%,tv,0,interval_mle,contact_priority,0.75,60,1,1,150,right_boundary,False,0.328163611984
+Fidelity loss 5%,tv,0,cdf_upper,contact_priority,0.75,60,1,1,150,right_boundary,False,0.328163611984
+Fidelity loss 5%,tv,0.25,cdf_lower,contact,1,51.7635738923,0.864197530864,1,150,right_boundary,False,0.350769766551
+Fidelity loss 5%,tv,0.25,interval_mle,contact,1,51.7635738923,1,1,150,right_boundary,False,0.405890729866
+Fidelity loss 5%,tv,0.25,cdf_upper,contact,1,51.7635738923,1,1,150,right_boundary,False,0.405890729866
+Fidelity loss 5%,tv,0.25,cdf_lower,recruitment,0,51.7635738923,0.864197530864,1,150,right_boundary,False,0.0949822583375
+Fidelity loss 5%,tv,0.25,interval_mle,recruitment,0,51.7635738923,1,1,150,right_boundary,False,0.0949822583375
+Fidelity loss 5%,tv,0.25,cdf_upper,recruitment,0,51.7635738923,1,1,150,right_boundary,False,0.0949822583375
+Fidelity loss 5%,tv,0.25,cdf_lower,equal_priority,0.5,51.7635738923,0.864197530864,1,150,right_boundary,False,0.222876012444
+Fidelity loss 5%,tv,0.25,interval_mle,equal_priority,0.5,51.7635738923,1,1,150,right_boundary,False,0.250436494102
+Fidelity loss 5%,tv,0.25,cdf_upper,equal_priority,0.5,51.7635738923,1,1,150,right_boundary,False,0.250436494102
+Fidelity loss 5%,tv,0.25,cdf_lower,recruitment_priority,0.25,51.7635738923,0.864197530864,1,150,right_boundary,False,0.158929135391
+Fidelity loss 5%,tv,0.25,interval_mle,recruitment_priority,0.25,51.7635738923,1,1,150,right_boundary,False,0.17270937622
+Fidelity loss 5%,tv,0.25,cdf_upper,recruitment_priority,0.25,51.7635738923,1,1,150,right_boundary,False,0.17270937622
+Fidelity loss 5%,tv,0.25,cdf_lower,contact_priority,0.75,51.7635738923,0.864197530864,1,150,right_boundary,False,0.286822889497
+Fidelity loss 5%,tv,0.25,interval_mle,contact_priority,0.75,51.7635738923,1,1,150,right_boundary,False,0.328163611984
+Fidelity loss 5%,tv,0.25,cdf_upper,contact_priority,0.75,51.7635738923,1,1,150,right_boundary,False,0.328163611984
+Fidelity loss 5%,tv,0.5,cdf_lower,contact,1,43.5271477846,0.851851851852,1,150,right_boundary,False,0.345758769886
+Fidelity loss 5%,tv,0.5,interval_mle,contact,1,43.5271477846,0.984863443128,1,150,right_boundary,False,0.399746941749
+Fidelity loss 5%,tv,0.5,cdf_upper,contact,1,43.5271477846,0.987654320988,1,150,right_boundary,False,0.400879733201
+Fidelity loss 5%,tv,0.5,cdf_lower,recruitment,0,43.5271477846,0.851851851852,1,150,right_boundary,False,0.0949822583375
+Fidelity loss 5%,tv,0.5,interval_mle,recruitment,0,43.5271477846,0.984863443128,1,150,right_boundary,False,0.0949822583375
+Fidelity loss 5%,tv,0.5,cdf_upper,recruitment,0,43.5271477846,0.987654320988,1,150,right_boundary,False,0.0949822583375
+Fidelity loss 5%,tv,0.5,cdf_lower,equal_priority,0.5,43.5271477846,0.851851851852,1,150,right_boundary,False,0.220370514112
+Fidelity loss 5%,tv,0.5,interval_mle,equal_priority,0.5,43.5271477846,0.984863443128,1,150,right_boundary,False,0.247364600043
+Fidelity loss 5%,tv,0.5,cdf_upper,equal_priority,0.5,43.5271477846,0.987654320988,1,150,right_boundary,False,0.247930995769
+Fidelity loss 5%,tv,0.5,cdf_lower,recruitment_priority,0.25,43.5271477846,0.851851851852,1,150,right_boundary,False,0.157676386225
+Fidelity loss 5%,tv,0.5,interval_mle,recruitment_priority,0.25,43.5271477846,0.984863443128,1,150,right_boundary,False,0.17117342919
+Fidelity loss 5%,tv,0.5,cdf_upper,recruitment_priority,0.25,43.5271477846,0.987654320988,1,150,right_boundary,False,0.171456627053
+Fidelity loss 5%,tv,0.5,cdf_lower,contact_priority,0.75,43.5271477846,0.851851851852,1,150,right_boundary,False,0.283064641999
+Fidelity loss 5%,tv,0.5,interval_mle,contact_priority,0.75,43.5271477846,0.984863443128,1,150,right_boundary,False,0.323555770896
+Fidelity loss 5%,tv,0.5,cdf_upper,contact_priority,0.75,43.5271477846,0.987654320988,1,150,right_boundary,False,0.324405364485
+Fidelity loss 5%,tv,0.75,cdf_lower,contact,1,35.2907216769,0.851851851852,1,150,right_boundary,False,0.345758769886
+Fidelity loss 5%,tv,0.75,interval_mle,contact,1,35.2907216769,0.984863443128,1,150,right_boundary,False,0.399746941749
+Fidelity loss 5%,tv,0.75,cdf_upper,contact,1,35.2907216769,0.987654320988,1,150,right_boundary,False,0.400879733201
+Fidelity loss 5%,tv,0.75,cdf_lower,recruitment,0,35.2907216769,0.851851851852,1,150,right_boundary,False,0.0949822583375
+Fidelity loss 5%,tv,0.75,interval_mle,recruitment,0,35.2907216769,0.984863443128,1,150,right_boundary,False,0.0949822583375
+Fidelity loss 5%,tv,0.75,cdf_upper,recruitment,0,35.2907216769,0.987654320988,1,150,right_boundary,False,0.0949822583375
+Fidelity loss 5%,tv,0.75,cdf_lower,equal_priority,0.5,35.2907216769,0.851851851852,1,150,right_boundary,False,0.220370514112
+Fidelity loss 5%,tv,0.75,interval_mle,equal_priority,0.5,35.2907216769,0.984863443128,1,150,right_boundary,False,0.247364600043
+Fidelity loss 5%,tv,0.75,cdf_upper,equal_priority,0.5,35.2907216769,0.987654320988,1,150,right_boundary,False,0.247930995769
+Fidelity loss 5%,tv,0.75,cdf_lower,recruitment_priority,0.25,35.2907216769,0.851851851852,1,150,right_boundary,False,0.157676386225
+Fidelity loss 5%,tv,0.75,interval_mle,recruitment_priority,0.25,35.2907216769,0.984863443128,1,150,right_boundary,False,0.17117342919
+Fidelity loss 5%,tv,0.75,cdf_upper,recruitment_priority,0.25,35.2907216769,0.987654320988,1,150,right_boundary,False,0.171456627053
+Fidelity loss 5%,tv,0.75,cdf_lower,contact_priority,0.75,35.2907216769,0.851851851852,1,150,right_boundary,False,0.283064641999
+Fidelity loss 5%,tv,0.75,interval_mle,contact_priority,0.75,35.2907216769,0.984863443128,1,150,right_boundary,False,0.323555770896
+Fidelity loss 5%,tv,0.75,cdf_upper,contact_priority,0.75,35.2907216769,0.987654320988,1,150,right_boundary,False,0.324405364485
+Fidelity loss 5%,tv,1,cdf_lower,contact,1,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.345758769886
+Fidelity loss 5%,tv,1,interval_mle,contact,1,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.399746941749
+Fidelity loss 5%,tv,1,cdf_upper,contact,1,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.400879733201
+Fidelity loss 5%,tv,1,cdf_lower,recruitment,0,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.0908525949315
+Fidelity loss 5%,tv,1,interval_mle,recruitment,0,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.0908525949315
+Fidelity loss 5%,tv,1,cdf_upper,recruitment,0,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.0908525949315
+Fidelity loss 5%,tv,1,cdf_lower,equal_priority,0.5,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.218305682409
+Fidelity loss 5%,tv,1,interval_mle,equal_priority,0.5,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.24529976834
+Fidelity loss 5%,tv,1,cdf_upper,equal_priority,0.5,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.245866164066
+Fidelity loss 5%,tv,1,cdf_lower,recruitment_priority,0.25,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.15457913867
+Fidelity loss 5%,tv,1,interval_mle,recruitment_priority,0.25,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.168076181636
+Fidelity loss 5%,tv,1,cdf_upper,recruitment_priority,0.25,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.168359379499
+Fidelity loss 5%,tv,1,cdf_lower,contact_priority,0.75,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.282032226147
+Fidelity loss 5%,tv,1,interval_mle,contact_priority,0.75,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.322523355045
+Fidelity loss 5%,tv,1,cdf_upper,contact_priority,0.75,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.323372948633
+Fidelity loss 10%,flat,0,cdf_lower,contact,1,60,1,1,150,right_boundary,False,0.188402270938
+Fidelity loss 10%,flat,0,interval_mle,contact,1,60,1,1,150,right_boundary,False,0.188402270938
+Fidelity loss 10%,flat,0,cdf_upper,contact,1,60,1,1,150,right_boundary,False,0.188402270938
+Fidelity loss 10%,flat,0,cdf_lower,recruitment,0,60,1,1,52.6847685949,crossing,False,0.0190159620356
+Fidelity loss 10%,flat,0,interval_mle,recruitment,0,60,1,1,52.6847685949,crossing,False,0.0190159620356
+Fidelity loss 10%,flat,0,cdf_upper,recruitment,0,60,1,1,52.6847685949,crossing,False,0.0190159620356
+Fidelity loss 10%,flat,0,cdf_lower,equal_priority,0.5,60,1,1,150,right_boundary,False,0.103709116487
+Fidelity loss 10%,flat,0,interval_mle,equal_priority,0.5,60,1,1,150,right_boundary,False,0.103709116487
+Fidelity loss 10%,flat,0,cdf_upper,equal_priority,0.5,60,1,1,150,right_boundary,False,0.103709116487
+Fidelity loss 10%,flat,0,cdf_lower,recruitment_priority,0.25,60,1,1,150,right_boundary,False,0.0613625392612
+Fidelity loss 10%,flat,0,interval_mle,recruitment_priority,0.25,60,1,1,150,right_boundary,False,0.0613625392612
+Fidelity loss 10%,flat,0,cdf_upper,recruitment_priority,0.25,60,1,1,150,right_boundary,False,0.0613625392612
+Fidelity loss 10%,flat,0,cdf_lower,contact_priority,0.75,60,1,1,150,right_boundary,False,0.146055693712
+Fidelity loss 10%,flat,0,interval_mle,contact_priority,0.75,60,1,1,150,right_boundary,False,0.146055693712
+Fidelity loss 10%,flat,0,cdf_upper,contact_priority,0.75,60,1,1,150,right_boundary,False,0.146055693712
+Fidelity loss 10%,flat,0.25,cdf_lower,contact,1,51.7635738923,0.864197530864,1,150,right_boundary,False,0.162816777354
+Fidelity loss 10%,flat,0.25,interval_mle,contact,1,51.7635738923,1,1,150,right_boundary,False,0.188402270938
+Fidelity loss 10%,flat,0.25,cdf_upper,contact,1,51.7635738923,1,1,150,right_boundary,False,0.188402270938
+Fidelity loss 10%,flat,0.25,cdf_lower,recruitment,0,51.7635738923,0.864197530864,1,52.6847685949,crossing,False,0.0190159620356
+Fidelity loss 10%,flat,0.25,interval_mle,recruitment,0,51.7635738923,1,1,52.6847685949,crossing,False,0.0190159620356
+Fidelity loss 10%,flat,0.25,cdf_upper,recruitment,0,51.7635738923,1,1,52.6847685949,crossing,False,0.0190159620356
+Fidelity loss 10%,flat,0.25,cdf_lower,equal_priority,0.5,51.7635738923,0.864197530864,1,150,right_boundary,False,0.0909163696947
+Fidelity loss 10%,flat,0.25,interval_mle,equal_priority,0.5,51.7635738923,1,1,150,right_boundary,False,0.103709116487
+Fidelity loss 10%,flat,0.25,cdf_upper,equal_priority,0.5,51.7635738923,1,1,150,right_boundary,False,0.103709116487
+Fidelity loss 10%,flat,0.25,cdf_lower,recruitment_priority,0.25,51.7635738923,0.864197530864,1,150,right_boundary,False,0.0549661658651
+Fidelity loss 10%,flat,0.25,interval_mle,recruitment_priority,0.25,51.7635738923,1,1,150,right_boundary,False,0.0613625392612
+Fidelity loss 10%,flat,0.25,cdf_upper,recruitment_priority,0.25,51.7635738923,1,1,150,right_boundary,False,0.0613625392612
+Fidelity loss 10%,flat,0.25,cdf_lower,contact_priority,0.75,51.7635738923,0.864197530864,1,150,right_boundary,False,0.126866573524
+Fidelity loss 10%,flat,0.25,interval_mle,contact_priority,0.75,51.7635738923,1,1,150,right_boundary,False,0.146055693712
+Fidelity loss 10%,flat,0.25,cdf_upper,contact_priority,0.75,51.7635738923,1,1,150,right_boundary,False,0.146055693712
+Fidelity loss 10%,flat,0.5,cdf_lower,contact,1,43.5271477846,0.851851851852,1,150,right_boundary,False,0.160490823392
+Fidelity loss 10%,flat,0.5,interval_mle,contact,1,43.5271477846,0.984863443128,1,150,right_boundary,False,0.185550509249
+Fidelity loss 10%,flat,0.5,cdf_upper,contact,1,43.5271477846,0.987654320988,1,150,right_boundary,False,0.186076316976
+Fidelity loss 10%,flat,0.5,cdf_lower,recruitment,0,43.5271477846,0.851851851852,1,52.6847685949,crossing,False,0.0190159620356
+Fidelity loss 10%,flat,0.5,interval_mle,recruitment,0,43.5271477846,0.984863443128,1,52.6847685949,crossing,False,0.0190159620356
+Fidelity loss 10%,flat,0.5,cdf_upper,recruitment,0,43.5271477846,0.987654320988,1,52.6847685949,crossing,False,0.0190159620356
+Fidelity loss 10%,flat,0.5,cdf_lower,equal_priority,0.5,43.5271477846,0.851851851852,1,150,right_boundary,False,0.0897533927136
+Fidelity loss 10%,flat,0.5,interval_mle,equal_priority,0.5,43.5271477846,0.984863443128,1,150,right_boundary,False,0.102283235642
+Fidelity loss 10%,flat,0.5,cdf_upper,equal_priority,0.5,43.5271477846,0.987654320988,1,150,right_boundary,False,0.102546139506
+Fidelity loss 10%,flat,0.5,cdf_lower,recruitment_priority,0.25,43.5271477846,0.851851851852,1,150,right_boundary,False,0.0543846773746
+Fidelity loss 10%,flat,0.5,interval_mle,recruitment_priority,0.25,43.5271477846,0.984863443128,1,150,right_boundary,False,0.060649598839
+Fidelity loss 10%,flat,0.5,cdf_upper,recruitment_priority,0.25,43.5271477846,0.987654320988,1,150,right_boundary,False,0.0607810507706
+Fidelity loss 10%,flat,0.5,cdf_lower,contact_priority,0.75,43.5271477846,0.851851851852,1,150,right_boundary,False,0.125122108053
+Fidelity loss 10%,flat,0.5,interval_mle,contact_priority,0.75,43.5271477846,0.984863443128,1,150,right_boundary,False,0.143916872446
+Fidelity loss 10%,flat,0.5,cdf_upper,contact_priority,0.75,43.5271477846,0.987654320988,1,150,right_boundary,False,0.144311228241
+Fidelity loss 10%,flat,0.75,cdf_lower,contact,1,35.2907216769,0.851851851852,1,150,right_boundary,False,0.160490823392
+Fidelity loss 10%,flat,0.75,interval_mle,contact,1,35.2907216769,0.984863443128,1,150,right_boundary,False,0.185550509249
+Fidelity loss 10%,flat,0.75,cdf_upper,contact,1,35.2907216769,0.987654320988,1,150,right_boundary,False,0.186076316976
+Fidelity loss 10%,flat,0.75,cdf_lower,recruitment,0,35.2907216769,0.851851851852,1,52.6847685949,crossing,False,0.0190159620356
+Fidelity loss 10%,flat,0.75,interval_mle,recruitment,0,35.2907216769,0.984863443128,1,52.6847685949,crossing,False,0.0190159620356
+Fidelity loss 10%,flat,0.75,cdf_upper,recruitment,0,35.2907216769,0.987654320988,1,52.6847685949,crossing,False,0.0190159620356
+Fidelity loss 10%,flat,0.75,cdf_lower,equal_priority,0.5,35.2907216769,0.851851851852,1,150,right_boundary,False,0.0897533927136
+Fidelity loss 10%,flat,0.75,interval_mle,equal_priority,0.5,35.2907216769,0.984863443128,1,150,right_boundary,False,0.102283235642
+Fidelity loss 10%,flat,0.75,cdf_upper,equal_priority,0.5,35.2907216769,0.987654320988,1,150,right_boundary,False,0.102546139506
+Fidelity loss 10%,flat,0.75,cdf_lower,recruitment_priority,0.25,35.2907216769,0.851851851852,1,150,right_boundary,False,0.0543846773746
+Fidelity loss 10%,flat,0.75,interval_mle,recruitment_priority,0.25,35.2907216769,0.984863443128,1,150,right_boundary,False,0.060649598839
+Fidelity loss 10%,flat,0.75,cdf_upper,recruitment_priority,0.25,35.2907216769,0.987654320988,1,150,right_boundary,False,0.0607810507706
+Fidelity loss 10%,flat,0.75,cdf_lower,contact_priority,0.75,35.2907216769,0.851851851852,1,150,right_boundary,False,0.125122108053
+Fidelity loss 10%,flat,0.75,interval_mle,contact_priority,0.75,35.2907216769,0.984863443128,1,150,right_boundary,False,0.143916872446
+Fidelity loss 10%,flat,0.75,cdf_upper,contact_priority,0.75,35.2907216769,0.987654320988,1,150,right_boundary,False,0.144311228241
+Fidelity loss 10%,flat,1,cdf_lower,contact,1,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.160490823392
+Fidelity loss 10%,flat,1,interval_mle,contact,1,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.185550509249
+Fidelity loss 10%,flat,1,cdf_upper,contact,1,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.186076316976
+Fidelity loss 10%,flat,1,cdf_lower,recruitment,0,27.0542955693,0.851851851852,0.95652173913,50.2883829485,crossing,False,0.0181891810775
+Fidelity loss 10%,flat,1,interval_mle,recruitment,0,27.0542955693,0.984863443128,0.95652173913,50.2883829485,crossing,False,0.0181891810775
+Fidelity loss 10%,flat,1,cdf_upper,recruitment,0,27.0542955693,0.987654320988,0.95652173913,50.2883829485,crossing,False,0.0181891810775
+Fidelity loss 10%,flat,1,cdf_lower,equal_priority,0.5,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.0893400022345
+Fidelity loss 10%,flat,1,interval_mle,equal_priority,0.5,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.101869845163
+Fidelity loss 10%,flat,1,cdf_upper,equal_priority,0.5,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.102132749027
+Fidelity loss 10%,flat,1,cdf_lower,recruitment_priority,0.25,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.053764591656
+Fidelity loss 10%,flat,1,interval_mle,recruitment_priority,0.25,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.0600295131204
+Fidelity loss 10%,flat,1,cdf_upper,recruitment_priority,0.25,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.0601609650521
+Fidelity loss 10%,flat,1,cdf_lower,contact_priority,0.75,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.124915412813
+Fidelity loss 10%,flat,1,interval_mle,contact_priority,0.75,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.143710177206
+Fidelity loss 10%,flat,1,cdf_upper,contact_priority,0.75,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.144104533001
+Fidelity loss 10%,mod,0,cdf_lower,contact,1,60,1,1,150,right_boundary,False,0.27043635247
+Fidelity loss 10%,mod,0,interval_mle,contact,1,60,1,1,150,right_boundary,False,0.27043635247
+Fidelity loss 10%,mod,0,cdf_upper,contact,1,60,1,1,150,right_boundary,False,0.27043635247
+Fidelity loss 10%,mod,0,cdf_lower,recruitment,0,60,1,1,142.225759392,crossing,False,0.0915702474084
+Fidelity loss 10%,mod,0,interval_mle,recruitment,0,60,1,1,142.225759392,crossing,False,0.0915702474084
+Fidelity loss 10%,mod,0,cdf_upper,recruitment,0,60,1,1,142.225759392,crossing,False,0.0915702474084
+Fidelity loss 10%,mod,0,cdf_lower,equal_priority,0.5,60,1,1,150,right_boundary,False,0.181003299939
+Fidelity loss 10%,mod,0,interval_mle,equal_priority,0.5,60,1,1,150,right_boundary,False,0.181003299939
+Fidelity loss 10%,mod,0,cdf_upper,equal_priority,0.5,60,1,1,150,right_boundary,False,0.181003299939
+Fidelity loss 10%,mod,0,cdf_lower,recruitment_priority,0.25,60,1,1,150,right_boundary,False,0.136286773674
+Fidelity loss 10%,mod,0,interval_mle,recruitment_priority,0.25,60,1,1,150,right_boundary,False,0.136286773674
+Fidelity loss 10%,mod,0,cdf_upper,recruitment_priority,0.25,60,1,1,150,right_boundary,False,0.136286773674
+Fidelity loss 10%,mod,0,cdf_lower,contact_priority,0.75,60,1,1,150,right_boundary,False,0.225719826205
+Fidelity loss 10%,mod,0,interval_mle,contact_priority,0.75,60,1,1,150,right_boundary,False,0.225719826205
+Fidelity loss 10%,mod,0,cdf_upper,contact_priority,0.75,60,1,1,150,right_boundary,False,0.225719826205
+Fidelity loss 10%,mod,0.25,cdf_lower,contact,1,51.7635738923,0.864197530864,1,150,right_boundary,False,0.233710428061
+Fidelity loss 10%,mod,0.25,interval_mle,contact,1,51.7635738923,1,1,150,right_boundary,False,0.27043635247
+Fidelity loss 10%,mod,0.25,cdf_upper,contact,1,51.7635738923,1,1,150,right_boundary,False,0.27043635247
+Fidelity loss 10%,mod,0.25,cdf_lower,recruitment,0,51.7635738923,0.864197530864,1,142.225759392,crossing,False,0.0915702474084
+Fidelity loss 10%,mod,0.25,interval_mle,recruitment,0,51.7635738923,1,1,142.225759392,crossing,False,0.0915702474084
+Fidelity loss 10%,mod,0.25,cdf_upper,recruitment,0,51.7635738923,1,1,142.225759392,crossing,False,0.0915702474084
+Fidelity loss 10%,mod,0.25,cdf_lower,equal_priority,0.5,51.7635738923,0.864197530864,1,150,right_boundary,False,0.162640337735
+Fidelity loss 10%,mod,0.25,interval_mle,equal_priority,0.5,51.7635738923,1,1,150,right_boundary,False,0.181003299939
+Fidelity loss 10%,mod,0.25,cdf_upper,equal_priority,0.5,51.7635738923,1,1,150,right_boundary,False,0.181003299939
+Fidelity loss 10%,mod,0.25,cdf_lower,recruitment_priority,0.25,51.7635738923,0.864197530864,1,150,right_boundary,False,0.127105292571
+Fidelity loss 10%,mod,0.25,interval_mle,recruitment_priority,0.25,51.7635738923,1,1,150,right_boundary,False,0.136286773674
+Fidelity loss 10%,mod,0.25,cdf_upper,recruitment_priority,0.25,51.7635738923,1,1,150,right_boundary,False,0.136286773674
+Fidelity loss 10%,mod,0.25,cdf_lower,contact_priority,0.75,51.7635738923,0.864197530864,1,150,right_boundary,False,0.198175382898
+Fidelity loss 10%,mod,0.25,interval_mle,contact_priority,0.75,51.7635738923,1,1,150,right_boundary,False,0.225719826205
+Fidelity loss 10%,mod,0.25,cdf_upper,contact_priority,0.75,51.7635738923,1,1,150,right_boundary,False,0.225719826205
+Fidelity loss 10%,mod,0.5,cdf_lower,contact,1,43.5271477846,0.851851851852,1,150,right_boundary,False,0.23037170766
+Fidelity loss 10%,mod,0.5,interval_mle,contact,1,43.5271477846,0.984863443128,1,150,right_boundary,False,0.266342877241
+Fidelity loss 10%,mod,0.5,cdf_upper,contact,1,43.5271477846,0.987654320988,1,150,right_boundary,False,0.267097632069
+Fidelity loss 10%,mod,0.5,cdf_lower,recruitment,0,43.5271477846,0.851851851852,1,142.225759392,crossing,False,0.0915702474084
+Fidelity loss 10%,mod,0.5,interval_mle,recruitment,0,43.5271477846,0.984863443128,1,142.225759392,crossing,False,0.0915702474084
+Fidelity loss 10%,mod,0.5,cdf_upper,recruitment,0,43.5271477846,0.987654320988,1,142.225759392,crossing,False,0.0915702474084
+Fidelity loss 10%,mod,0.5,cdf_lower,equal_priority,0.5,43.5271477846,0.851851851852,1,150,right_boundary,False,0.160970977534
+Fidelity loss 10%,mod,0.5,interval_mle,equal_priority,0.5,43.5271477846,0.984863443128,1,150,right_boundary,False,0.178956562325
+Fidelity loss 10%,mod,0.5,cdf_upper,equal_priority,0.5,43.5271477846,0.987654320988,1,150,right_boundary,False,0.179333939739
+Fidelity loss 10%,mod,0.5,cdf_lower,recruitment_priority,0.25,43.5271477846,0.851851851852,1,150,right_boundary,False,0.126270612471
+Fidelity loss 10%,mod,0.5,interval_mle,recruitment_priority,0.25,43.5271477846,0.984863443128,1,150,right_boundary,False,0.135263404867
+Fidelity loss 10%,mod,0.5,cdf_upper,recruitment_priority,0.25,43.5271477846,0.987654320988,1,150,right_boundary,False,0.135452093574
+Fidelity loss 10%,mod,0.5,cdf_lower,contact_priority,0.75,43.5271477846,0.851851851852,1,150,right_boundary,False,0.195671342597
+Fidelity loss 10%,mod,0.5,interval_mle,contact_priority,0.75,43.5271477846,0.984863443128,1,150,right_boundary,False,0.222649719783
+Fidelity loss 10%,mod,0.5,cdf_upper,contact_priority,0.75,43.5271477846,0.987654320988,1,150,right_boundary,False,0.223215785904
+Fidelity loss 10%,mod,0.75,cdf_lower,contact,1,35.2907216769,0.851851851852,1,150,right_boundary,False,0.23037170766
+Fidelity loss 10%,mod,0.75,interval_mle,contact,1,35.2907216769,0.984863443128,1,150,right_boundary,False,0.266342877241
+Fidelity loss 10%,mod,0.75,cdf_upper,contact,1,35.2907216769,0.987654320988,1,150,right_boundary,False,0.267097632069
+Fidelity loss 10%,mod,0.75,cdf_lower,recruitment,0,35.2907216769,0.851851851852,1,142.225759392,crossing,False,0.0915702474084
+Fidelity loss 10%,mod,0.75,interval_mle,recruitment,0,35.2907216769,0.984863443128,1,142.225759392,crossing,False,0.0915702474084
+Fidelity loss 10%,mod,0.75,cdf_upper,recruitment,0,35.2907216769,0.987654320988,1,142.225759392,crossing,False,0.0915702474084
+Fidelity loss 10%,mod,0.75,cdf_lower,equal_priority,0.5,35.2907216769,0.851851851852,1,150,right_boundary,False,0.160970977534
+Fidelity loss 10%,mod,0.75,interval_mle,equal_priority,0.5,35.2907216769,0.984863443128,1,150,right_boundary,False,0.178956562325
+Fidelity loss 10%,mod,0.75,cdf_upper,equal_priority,0.5,35.2907216769,0.987654320988,1,150,right_boundary,False,0.179333939739
+Fidelity loss 10%,mod,0.75,cdf_lower,recruitment_priority,0.25,35.2907216769,0.851851851852,1,150,right_boundary,False,0.126270612471
+Fidelity loss 10%,mod,0.75,interval_mle,recruitment_priority,0.25,35.2907216769,0.984863443128,1,150,right_boundary,False,0.135263404867
+Fidelity loss 10%,mod,0.75,cdf_upper,recruitment_priority,0.25,35.2907216769,0.987654320988,1,150,right_boundary,False,0.135452093574
+Fidelity loss 10%,mod,0.75,cdf_lower,contact_priority,0.75,35.2907216769,0.851851851852,1,150,right_boundary,False,0.195671342597
+Fidelity loss 10%,mod,0.75,interval_mle,contact_priority,0.75,35.2907216769,0.984863443128,1,150,right_boundary,False,0.222649719783
+Fidelity loss 10%,mod,0.75,cdf_upper,contact_priority,0.75,35.2907216769,0.987654320988,1,150,right_boundary,False,0.223215785904
+Fidelity loss 10%,mod,1,cdf_lower,contact,1,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.23037170766
+Fidelity loss 10%,mod,1,interval_mle,contact,1,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.266342877241
+Fidelity loss 10%,mod,1,cdf_upper,contact,1,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.267097632069
+Fidelity loss 10%,mod,1,cdf_lower,recruitment,0,27.0542955693,0.851851851852,0.95652173913,139.358933799,crossing,False,0.0875889323037
+Fidelity loss 10%,mod,1,interval_mle,recruitment,0,27.0542955693,0.984863443128,0.95652173913,139.358933799,crossing,False,0.0875889323037
+Fidelity loss 10%,mod,1,cdf_upper,recruitment,0,27.0542955693,0.987654320988,0.95652173913,139.358933799,crossing,False,0.0875889323037
+Fidelity loss 10%,mod,1,cdf_lower,equal_priority,0.5,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.158980319982
+Fidelity loss 10%,mod,1,interval_mle,equal_priority,0.5,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.176965904772
+Fidelity loss 10%,mod,1,cdf_upper,equal_priority,0.5,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.177343282187
+Fidelity loss 10%,mod,1,cdf_lower,recruitment_priority,0.25,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.123284626143
+Fidelity loss 10%,mod,1,interval_mle,recruitment_priority,0.25,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.132277418538
+Fidelity loss 10%,mod,1,cdf_upper,recruitment_priority,0.25,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.132466107245
+Fidelity loss 10%,mod,1,cdf_lower,contact_priority,0.75,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.194676013821
+Fidelity loss 10%,mod,1,interval_mle,contact_priority,0.75,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.221654391007
+Fidelity loss 10%,mod,1,cdf_upper,contact_priority,0.75,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.222220457128
+Fidelity loss 10%,tv,0,cdf_lower,contact,1,60,1,1,150,right_boundary,False,0.392924094232
+Fidelity loss 10%,tv,0,interval_mle,contact,1,60,1,1,150,right_boundary,False,0.392924094232
+Fidelity loss 10%,tv,0,cdf_upper,contact,1,60,1,1,150,right_boundary,False,0.392924094232
+Fidelity loss 10%,tv,0,cdf_lower,recruitment,0,60,1,1,150,right_boundary,False,0.0919479433237
+Fidelity loss 10%,tv,0,interval_mle,recruitment,0,60,1,1,150,right_boundary,False,0.0919479433237
+Fidelity loss 10%,tv,0,cdf_upper,recruitment,0,60,1,1,150,right_boundary,False,0.0919479433237
+Fidelity loss 10%,tv,0,cdf_lower,equal_priority,0.5,60,1,1,150,right_boundary,False,0.242436018778
+Fidelity loss 10%,tv,0,interval_mle,equal_priority,0.5,60,1,1,150,right_boundary,False,0.242436018778
+Fidelity loss 10%,tv,0,cdf_upper,equal_priority,0.5,60,1,1,150,right_boundary,False,0.242436018778
+Fidelity loss 10%,tv,0,cdf_lower,recruitment_priority,0.25,60,1,1,150,right_boundary,False,0.167191981051
+Fidelity loss 10%,tv,0,interval_mle,recruitment_priority,0.25,60,1,1,150,right_boundary,False,0.167191981051
+Fidelity loss 10%,tv,0,cdf_upper,recruitment_priority,0.25,60,1,1,150,right_boundary,False,0.167191981051
+Fidelity loss 10%,tv,0,cdf_lower,contact_priority,0.75,60,1,1,150,right_boundary,False,0.317680056505
+Fidelity loss 10%,tv,0,interval_mle,contact_priority,0.75,60,1,1,150,right_boundary,False,0.317680056505
+Fidelity loss 10%,tv,0,cdf_upper,contact_priority,0.75,60,1,1,150,right_boundary,False,0.317680056505
+Fidelity loss 10%,tv,0.25,cdf_lower,contact,1,51.7635738923,0.864197530864,1,150,right_boundary,False,0.339564032052
+Fidelity loss 10%,tv,0.25,interval_mle,contact,1,51.7635738923,1,1,150,right_boundary,False,0.392924094232
+Fidelity loss 10%,tv,0.25,cdf_upper,contact,1,51.7635738923,1,1,150,right_boundary,False,0.392924094232
+Fidelity loss 10%,tv,0.25,cdf_lower,recruitment,0,51.7635738923,0.864197530864,1,150,right_boundary,False,0.0919479433237
+Fidelity loss 10%,tv,0.25,interval_mle,recruitment,0,51.7635738923,1,1,150,right_boundary,False,0.0919479433237
+Fidelity loss 10%,tv,0.25,cdf_upper,recruitment,0,51.7635738923,1,1,150,right_boundary,False,0.0919479433237
+Fidelity loss 10%,tv,0.25,cdf_lower,equal_priority,0.5,51.7635738923,0.864197530864,1,150,right_boundary,False,0.215755987688
+Fidelity loss 10%,tv,0.25,interval_mle,equal_priority,0.5,51.7635738923,1,1,150,right_boundary,False,0.242436018778
+Fidelity loss 10%,tv,0.25,cdf_upper,equal_priority,0.5,51.7635738923,1,1,150,right_boundary,False,0.242436018778
+Fidelity loss 10%,tv,0.25,cdf_lower,recruitment_priority,0.25,51.7635738923,0.864197530864,1,150,right_boundary,False,0.153851965506
+Fidelity loss 10%,tv,0.25,interval_mle,recruitment_priority,0.25,51.7635738923,1,1,150,right_boundary,False,0.167191981051
+Fidelity loss 10%,tv,0.25,cdf_upper,recruitment_priority,0.25,51.7635738923,1,1,150,right_boundary,False,0.167191981051
+Fidelity loss 10%,tv,0.25,cdf_lower,contact_priority,0.75,51.7635738923,0.864197530864,1,150,right_boundary,False,0.27766000987
+Fidelity loss 10%,tv,0.25,interval_mle,contact_priority,0.75,51.7635738923,1,1,150,right_boundary,False,0.317680056505
+Fidelity loss 10%,tv,0.25,cdf_upper,contact_priority,0.75,51.7635738923,1,1,150,right_boundary,False,0.317680056505
+Fidelity loss 10%,tv,0.5,cdf_lower,contact,1,43.5271477846,0.851851851852,1,150,right_boundary,False,0.334713117308
+Fidelity loss 10%,tv,0.5,interval_mle,contact,1,43.5271477846,0.984863443128,1,150,right_boundary,False,0.386976576333
+Fidelity loss 10%,tv,0.5,cdf_upper,contact,1,43.5271477846,0.987654320988,1,150,right_boundary,False,0.388073179488
+Fidelity loss 10%,tv,0.5,cdf_lower,recruitment,0,43.5271477846,0.851851851852,1,150,right_boundary,False,0.0919479433237
+Fidelity loss 10%,tv,0.5,interval_mle,recruitment,0,43.5271477846,0.984863443128,1,150,right_boundary,False,0.0919479433237
+Fidelity loss 10%,tv,0.5,cdf_upper,recruitment,0,43.5271477846,0.987654320988,1,150,right_boundary,False,0.0919479433237
+Fidelity loss 10%,tv,0.5,cdf_lower,equal_priority,0.5,43.5271477846,0.851851851852,1,150,right_boundary,False,0.213330530316
+Fidelity loss 10%,tv,0.5,interval_mle,equal_priority,0.5,43.5271477846,0.984863443128,1,150,right_boundary,False,0.239462259828
+Fidelity loss 10%,tv,0.5,cdf_upper,equal_priority,0.5,43.5271477846,0.987654320988,1,150,right_boundary,False,0.240010561406
+Fidelity loss 10%,tv,0.5,cdf_lower,recruitment_priority,0.25,43.5271477846,0.851851851852,1,150,right_boundary,False,0.15263923682
+Fidelity loss 10%,tv,0.5,interval_mle,recruitment_priority,0.25,43.5271477846,0.984863443128,1,150,right_boundary,False,0.165705101576
+Fidelity loss 10%,tv,0.5,cdf_upper,recruitment_priority,0.25,43.5271477846,0.987654320988,1,150,right_boundary,False,0.165979252365
+Fidelity loss 10%,tv,0.5,cdf_lower,contact_priority,0.75,43.5271477846,0.851851851852,1,150,right_boundary,False,0.274021823812
+Fidelity loss 10%,tv,0.5,interval_mle,contact_priority,0.75,43.5271477846,0.984863443128,1,150,right_boundary,False,0.313219418081
+Fidelity loss 10%,tv,0.5,cdf_upper,contact_priority,0.75,43.5271477846,0.987654320988,1,150,right_boundary,False,0.314041870447
+Fidelity loss 10%,tv,0.75,cdf_lower,contact,1,35.2907216769,0.851851851852,1,150,right_boundary,False,0.334713117308
+Fidelity loss 10%,tv,0.75,interval_mle,contact,1,35.2907216769,0.984863443128,1,150,right_boundary,False,0.386976576333
+Fidelity loss 10%,tv,0.75,cdf_upper,contact,1,35.2907216769,0.987654320988,1,150,right_boundary,False,0.388073179488
+Fidelity loss 10%,tv,0.75,cdf_lower,recruitment,0,35.2907216769,0.851851851852,1,150,right_boundary,False,0.0919479433237
+Fidelity loss 10%,tv,0.75,interval_mle,recruitment,0,35.2907216769,0.984863443128,1,150,right_boundary,False,0.0919479433237
+Fidelity loss 10%,tv,0.75,cdf_upper,recruitment,0,35.2907216769,0.987654320988,1,150,right_boundary,False,0.0919479433237
+Fidelity loss 10%,tv,0.75,cdf_lower,equal_priority,0.5,35.2907216769,0.851851851852,1,150,right_boundary,False,0.213330530316
+Fidelity loss 10%,tv,0.75,interval_mle,equal_priority,0.5,35.2907216769,0.984863443128,1,150,right_boundary,False,0.239462259828
+Fidelity loss 10%,tv,0.75,cdf_upper,equal_priority,0.5,35.2907216769,0.987654320988,1,150,right_boundary,False,0.240010561406
+Fidelity loss 10%,tv,0.75,cdf_lower,recruitment_priority,0.25,35.2907216769,0.851851851852,1,150,right_boundary,False,0.15263923682
+Fidelity loss 10%,tv,0.75,interval_mle,recruitment_priority,0.25,35.2907216769,0.984863443128,1,150,right_boundary,False,0.165705101576
+Fidelity loss 10%,tv,0.75,cdf_upper,recruitment_priority,0.25,35.2907216769,0.987654320988,1,150,right_boundary,False,0.165979252365
+Fidelity loss 10%,tv,0.75,cdf_lower,contact_priority,0.75,35.2907216769,0.851851851852,1,150,right_boundary,False,0.274021823812
+Fidelity loss 10%,tv,0.75,interval_mle,contact_priority,0.75,35.2907216769,0.984863443128,1,150,right_boundary,False,0.313219418081
+Fidelity loss 10%,tv,0.75,cdf_upper,contact_priority,0.75,35.2907216769,0.987654320988,1,150,right_boundary,False,0.314041870447
+Fidelity loss 10%,tv,1,cdf_lower,contact,1,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.334713117308
+Fidelity loss 10%,tv,1,interval_mle,contact,1,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.386976576333
+Fidelity loss 10%,tv,1,cdf_upper,contact,1,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.388073179488
+Fidelity loss 10%,tv,1,cdf_lower,recruitment,0,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.0879502066574
+Fidelity loss 10%,tv,1,interval_mle,recruitment,0,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.0879502066574
+Fidelity loss 10%,tv,1,cdf_upper,recruitment,0,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.0879502066574
+Fidelity loss 10%,tv,1,cdf_lower,equal_priority,0.5,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.211331661983
+Fidelity loss 10%,tv,1,interval_mle,equal_priority,0.5,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.237463391495
+Fidelity loss 10%,tv,1,cdf_upper,equal_priority,0.5,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.238011693073
+Fidelity loss 10%,tv,1,cdf_lower,recruitment_priority,0.25,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.14964093432
+Fidelity loss 10%,tv,1,interval_mle,recruitment_priority,0.25,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.162706799076
+Fidelity loss 10%,tv,1,cdf_upper,recruitment_priority,0.25,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.162980949865
+Fidelity loss 10%,tv,1,cdf_lower,contact_priority,0.75,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.273022389646
+Fidelity loss 10%,tv,1,interval_mle,contact_priority,0.75,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.312219983914
+Fidelity loss 10%,tv,1,cdf_upper,contact_priority,0.75,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.31304243628
+Fidelity loss 20%,flat,0,cdf_lower,contact,1,60,1,1,150,right_boundary,False,0.0827387654734
+Fidelity loss 20%,flat,0,interval_mle,contact,1,60,1,1,150,right_boundary,False,0.0827387654734
+Fidelity loss 20%,flat,0,cdf_upper,contact,1,60,1,1,150,right_boundary,False,0.0827387654734
+Fidelity loss 20%,flat,0,cdf_lower,recruitment,0,60,1,1,40.994487566,crossing,False,0.00835105232693
+Fidelity loss 20%,flat,0,interval_mle,recruitment,0,60,1,1,40.994487566,crossing,False,0.00835105232693
+Fidelity loss 20%,flat,0,cdf_upper,recruitment,0,60,1,1,40.994487566,crossing,False,0.00835105232693
+Fidelity loss 20%,flat,0,cdf_lower,equal_priority,0.5,60,1,1,89.3883065073,crossing,True,0.0455449089002
+Fidelity loss 20%,flat,0,interval_mle,equal_priority,0.5,60,1,1,89.3883065073,crossing,True,0.0455449089002
+Fidelity loss 20%,flat,0,cdf_upper,equal_priority,0.5,60,1,1,89.3883065073,crossing,True,0.0455449089002
+Fidelity loss 20%,flat,0,cdf_lower,recruitment_priority,0.25,60,1,1,69.4450539645,crossing,False,0.0269479806135
+Fidelity loss 20%,flat,0,interval_mle,recruitment_priority,0.25,60,1,1,69.4450539645,crossing,False,0.0269479806135
+Fidelity loss 20%,flat,0,cdf_upper,recruitment_priority,0.25,60,1,1,69.4450539645,crossing,False,0.0269479806135
+Fidelity loss 20%,flat,0,cdf_lower,contact_priority,0.75,60,1,1,150,right_boundary,False,0.0641418371868
+Fidelity loss 20%,flat,0,interval_mle,contact_priority,0.75,60,1,1,150,right_boundary,False,0.0641418371868
+Fidelity loss 20%,flat,0,cdf_upper,contact_priority,0.75,60,1,1,150,right_boundary,False,0.0641418371868
+Fidelity loss 20%,flat,0.25,cdf_lower,contact,1,51.7635738923,0.864197530864,1,150,right_boundary,False,0.0715026368289
+Fidelity loss 20%,flat,0.25,interval_mle,contact,1,51.7635738923,1,1,150,right_boundary,False,0.0827387654734
+Fidelity loss 20%,flat,0.25,cdf_upper,contact,1,51.7635738923,1,1,150,right_boundary,False,0.0827387654734
+Fidelity loss 20%,flat,0.25,cdf_lower,recruitment,0,51.7635738923,0.864197530864,1,40.994487566,crossing,False,0.00835105232693
+Fidelity loss 20%,flat,0.25,interval_mle,recruitment,0,51.7635738923,1,1,40.994487566,crossing,False,0.00835105232693
+Fidelity loss 20%,flat,0.25,cdf_upper,recruitment,0,51.7635738923,1,1,40.994487566,crossing,False,0.00835105232693
+Fidelity loss 20%,flat,0.25,cdf_lower,equal_priority,0.5,51.7635738923,0.864197530864,1,82.3828287477,crossing,True,0.0399268445779
+Fidelity loss 20%,flat,0.25,interval_mle,equal_priority,0.5,51.7635738923,1,1,89.3883065073,crossing,True,0.0455449089002
+Fidelity loss 20%,flat,0.25,cdf_upper,equal_priority,0.5,51.7635738923,1,1,89.3883065073,crossing,True,0.0455449089002
+Fidelity loss 20%,flat,0.25,cdf_lower,recruitment_priority,0.25,51.7635738923,0.864197530864,1,66.3368449652,crossing,False,0.0241389484524
+Fidelity loss 20%,flat,0.25,interval_mle,recruitment_priority,0.25,51.7635738923,1,1,69.4450539645,crossing,False,0.0269479806135
+Fidelity loss 20%,flat,0.25,cdf_upper,recruitment_priority,0.25,51.7635738923,1,1,69.4450539645,crossing,False,0.0269479806135
+Fidelity loss 20%,flat,0.25,cdf_lower,contact_priority,0.75,51.7635738923,0.864197530864,1,150,right_boundary,False,0.0557147407034
+Fidelity loss 20%,flat,0.25,interval_mle,contact_priority,0.75,51.7635738923,1,1,150,right_boundary,False,0.0641418371868
+Fidelity loss 20%,flat,0.25,cdf_upper,contact_priority,0.75,51.7635738923,1,1,150,right_boundary,False,0.0641418371868
+Fidelity loss 20%,flat,0.5,cdf_lower,contact,1,43.5271477846,0.851851851852,1,150,right_boundary,False,0.0704811705884
+Fidelity loss 20%,flat,0.5,interval_mle,contact,1,43.5271477846,0.984863443128,1,150,right_boundary,False,0.0814863854443
+Fidelity loss 20%,flat,0.5,cdf_upper,contact,1,43.5271477846,0.987654320988,1,150,right_boundary,False,0.081717299233
+Fidelity loss 20%,flat,0.5,cdf_lower,recruitment,0,43.5271477846,0.851851851852,1,40.994487566,crossing,False,0.00835105232693
+Fidelity loss 20%,flat,0.5,interval_mle,recruitment,0,43.5271477846,0.984863443128,1,40.994487566,crossing,False,0.00835105232693
+Fidelity loss 20%,flat,0.5,cdf_upper,recruitment,0,43.5271477846,0.987654320988,1,40.994487566,crossing,False,0.00835105232693
+Fidelity loss 20%,flat,0.5,cdf_lower,equal_priority,0.5,43.5271477846,0.851851851852,1,81.8246020414,crossing,True,0.0394161114577
+Fidelity loss 20%,flat,0.5,interval_mle,equal_priority,0.5,43.5271477846,0.984863443128,1,88.4768964632,crossing,True,0.0449187188856
+Fidelity loss 20%,flat,0.5,cdf_upper,equal_priority,0.5,43.5271477846,0.987654320988,1,88.6403859348,crossing,True,0.04503417578
+Fidelity loss 20%,flat,0.5,cdf_lower,recruitment_priority,0.25,43.5271477846,0.851851851852,1,66.0384654194,crossing,False,0.0238835818923
+Fidelity loss 20%,flat,0.5,interval_mle,recruitment_priority,0.25,43.5271477846,0.984863443128,1,69.106677283,crossing,False,0.0266348856063
+Fidelity loss 20%,flat,0.5,cdf_upper,recruitment_priority,0.25,43.5271477846,0.987654320988,1,69.169590499,crossing,False,0.0266926140534
+Fidelity loss 20%,flat,0.5,cdf_lower,contact_priority,0.75,43.5271477846,0.851851851852,1,150,right_boundary,False,0.0549486410231
+Fidelity loss 20%,flat,0.5,interval_mle,contact_priority,0.75,43.5271477846,0.984863443128,1,150,right_boundary,False,0.0632025521649
+Fidelity loss 20%,flat,0.5,cdf_upper,contact_priority,0.75,43.5271477846,0.987654320988,1,150,right_boundary,False,0.0633757375065
+Fidelity loss 20%,flat,0.75,cdf_lower,contact,1,35.2907216769,0.851851851852,1,150,right_boundary,False,0.0704811705884
+Fidelity loss 20%,flat,0.75,interval_mle,contact,1,35.2907216769,0.984863443128,1,150,right_boundary,False,0.0814863854443
+Fidelity loss 20%,flat,0.75,cdf_upper,contact,1,35.2907216769,0.987654320988,1,150,right_boundary,False,0.081717299233
+Fidelity loss 20%,flat,0.75,cdf_lower,recruitment,0,35.2907216769,0.851851851852,1,40.994487566,crossing,False,0.00835105232693
+Fidelity loss 20%,flat,0.75,interval_mle,recruitment,0,35.2907216769,0.984863443128,1,40.994487566,crossing,False,0.00835105232693
+Fidelity loss 20%,flat,0.75,cdf_upper,recruitment,0,35.2907216769,0.987654320988,1,40.994487566,crossing,False,0.00835105232693
+Fidelity loss 20%,flat,0.75,cdf_lower,equal_priority,0.5,35.2907216769,0.851851851852,1,81.8246020414,crossing,True,0.0394161114577
+Fidelity loss 20%,flat,0.75,interval_mle,equal_priority,0.5,35.2907216769,0.984863443128,1,88.4768964632,crossing,True,0.0449187188856
+Fidelity loss 20%,flat,0.75,cdf_upper,equal_priority,0.5,35.2907216769,0.987654320988,1,88.6403859348,crossing,True,0.04503417578
+Fidelity loss 20%,flat,0.75,cdf_lower,recruitment_priority,0.25,35.2907216769,0.851851851852,1,66.0384654194,crossing,False,0.0238835818923
+Fidelity loss 20%,flat,0.75,interval_mle,recruitment_priority,0.25,35.2907216769,0.984863443128,1,69.106677283,crossing,False,0.0266348856063
+Fidelity loss 20%,flat,0.75,cdf_upper,recruitment_priority,0.25,35.2907216769,0.987654320988,1,69.169590499,crossing,False,0.0266926140534
+Fidelity loss 20%,flat,0.75,cdf_lower,contact_priority,0.75,35.2907216769,0.851851851852,1,150,right_boundary,False,0.0549486410231
+Fidelity loss 20%,flat,0.75,interval_mle,contact_priority,0.75,35.2907216769,0.984863443128,1,150,right_boundary,False,0.0632025521649
+Fidelity loss 20%,flat,0.75,cdf_upper,contact_priority,0.75,35.2907216769,0.987654320988,1,150,right_boundary,False,0.0633757375065
+Fidelity loss 20%,flat,1,cdf_lower,contact,1,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.0704811705884
+Fidelity loss 20%,flat,1,interval_mle,contact,1,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.0814863854443
+Fidelity loss 20%,flat,1,cdf_upper,contact,1,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.081717299233
+Fidelity loss 20%,flat,1,cdf_lower,recruitment,0,27.0542955693,0.851851851852,0.95652173913,39.3653839342,crossing,False,0.00798796309532
+Fidelity loss 20%,flat,1,interval_mle,recruitment,0,27.0542955693,0.984863443128,0.95652173913,39.3653839342,crossing,False,0.00798796309532
+Fidelity loss 20%,flat,1,cdf_upper,recruitment,0,27.0542955693,0.987654320988,0.95652173913,39.3653839342,crossing,False,0.00798796309532
+Fidelity loss 20%,flat,1,cdf_lower,equal_priority,0.5,27.0542955693,0.851851851852,0.95652173913,81.6059650374,crossing,True,0.0392345668419
+Fidelity loss 20%,flat,1,interval_mle,equal_priority,0.5,27.0542955693,0.984863443128,0.95652173913,88.1969606374,crossing,True,0.0447371742698
+Fidelity loss 20%,flat,1,cdf_upper,equal_priority,0.5,27.0542955693,0.987654320988,0.95652173913,88.3621331582,crossing,True,0.0448526311642
+Fidelity loss 20%,flat,1,cdf_lower,recruitment_priority,0.25,27.0542955693,0.851851851852,0.95652173913,65.630445602,crossing,False,0.0236112649686
+Fidelity loss 20%,flat,1,interval_mle,recruitment_priority,0.25,27.0542955693,0.984863443128,0.95652173913,68.7388526325,crossing,False,0.0263625686826
+Fidelity loss 20%,flat,1,cdf_upper,recruitment_priority,0.25,27.0542955693,0.987654320988,0.95652173913,68.8009185133,crossing,False,0.0264202971297
+Fidelity loss 20%,flat,1,cdf_lower,contact_priority,0.75,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.0548578687152
+Fidelity loss 20%,flat,1,interval_mle,contact_priority,0.75,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.063111779857
+Fidelity loss 20%,flat,1,cdf_upper,contact_priority,0.75,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.0632849651986
+Fidelity loss 20%,mod,0,cdf_lower,contact,1,60,1,1,150,right_boundary,False,0.188686216718
+Fidelity loss 20%,mod,0,interval_mle,contact,1,60,1,1,150,right_boundary,False,0.188686216718
+Fidelity loss 20%,mod,0,cdf_upper,contact,1,60,1,1,150,right_boundary,False,0.188686216718
+Fidelity loss 20%,mod,0,cdf_lower,recruitment,0,60,1,1,110.799228556,crossing,False,0.0638895007629
+Fidelity loss 20%,mod,0,interval_mle,recruitment,0,60,1,1,110.799228556,crossing,False,0.0638895007629
+Fidelity loss 20%,mod,0,cdf_upper,recruitment,0,60,1,1,110.799228556,crossing,False,0.0638895007629
+Fidelity loss 20%,mod,0,cdf_lower,equal_priority,0.5,60,1,1,144.23357578,crossing,False,0.126287858741
+Fidelity loss 20%,mod,0,interval_mle,equal_priority,0.5,60,1,1,144.23357578,crossing,False,0.126287858741
+Fidelity loss 20%,mod,0,cdf_upper,equal_priority,0.5,60,1,1,144.23357578,crossing,False,0.126287858741
+Fidelity loss 20%,mod,0,cdf_lower,recruitment_priority,0.25,60,1,1,128.653964466,crossing,False,0.0950886797517
+Fidelity loss 20%,mod,0,interval_mle,recruitment_priority,0.25,60,1,1,128.653964466,crossing,False,0.0950886797517
+Fidelity loss 20%,mod,0,cdf_upper,recruitment_priority,0.25,60,1,1,128.653964466,crossing,False,0.0950886797517
+Fidelity loss 20%,mod,0,cdf_lower,contact_priority,0.75,60,1,1,150,right_boundary,False,0.157487037729
+Fidelity loss 20%,mod,0,interval_mle,contact_priority,0.75,60,1,1,150,right_boundary,False,0.157487037729
+Fidelity loss 20%,mod,0,cdf_upper,contact_priority,0.75,60,1,1,150,right_boundary,False,0.157487037729
+Fidelity loss 20%,mod,0.25,cdf_lower,contact,1,51.7635738923,0.864197530864,1,150,right_boundary,False,0.163062162596
+Fidelity loss 20%,mod,0.25,interval_mle,contact,1,51.7635738923,1,1,150,right_boundary,False,0.188686216718
+Fidelity loss 20%,mod,0.25,cdf_upper,contact,1,51.7635738923,1,1,150,right_boundary,False,0.188686216718
+Fidelity loss 20%,mod,0.25,cdf_lower,recruitment,0,51.7635738923,0.864197530864,1,110.799228556,crossing,False,0.0638895007629
+Fidelity loss 20%,mod,0.25,interval_mle,recruitment,0,51.7635738923,1,1,110.799228556,crossing,False,0.0638895007629
+Fidelity loss 20%,mod,0.25,cdf_upper,recruitment,0,51.7635738923,1,1,110.799228556,crossing,False,0.0638895007629
+Fidelity loss 20%,mod,0.25,cdf_lower,equal_priority,0.5,51.7635738923,0.864197530864,1,138.094698847,crossing,False,0.113475831679
+Fidelity loss 20%,mod,0.25,interval_mle,equal_priority,0.5,51.7635738923,1,1,144.23357578,crossing,False,0.126287858741
+Fidelity loss 20%,mod,0.25,cdf_upper,equal_priority,0.5,51.7635738923,1,1,144.23357578,crossing,False,0.126287858741
+Fidelity loss 20%,mod,0.25,cdf_lower,recruitment_priority,0.25,51.7635738923,0.864197530864,1,125.580983813,crossing,False,0.0886826662212
+Fidelity loss 20%,mod,0.25,interval_mle,recruitment_priority,0.25,51.7635738923,1,1,128.653964466,crossing,False,0.0950886797517
+Fidelity loss 20%,mod,0.25,cdf_upper,recruitment_priority,0.25,51.7635738923,1,1,128.653964466,crossing,False,0.0950886797517
+Fidelity loss 20%,mod,0.25,cdf_lower,contact_priority,0.75,51.7635738923,0.864197530864,1,150,right_boundary,False,0.138268997138
+Fidelity loss 20%,mod,0.25,interval_mle,contact_priority,0.75,51.7635738923,1,1,150,right_boundary,False,0.157487037729
+Fidelity loss 20%,mod,0.25,cdf_upper,contact_priority,0.75,51.7635738923,1,1,150,right_boundary,False,0.157487037729
+Fidelity loss 20%,mod,0.5,cdf_lower,contact,1,43.5271477846,0.851851851852,1,150,right_boundary,False,0.16073270313
+Fidelity loss 20%,mod,0.5,interval_mle,contact,1,43.5271477846,0.984863443128,1,150,right_boundary,False,0.185830157068
+Fidelity loss 20%,mod,0.5,cdf_upper,contact,1,43.5271477846,0.987654320988,1,150,right_boundary,False,0.186356757253
+Fidelity loss 20%,mod,0.5,cdf_lower,recruitment,0,43.5271477846,0.851851851852,1,110.799228556,crossing,False,0.0638895007629
+Fidelity loss 20%,mod,0.5,interval_mle,recruitment,0,43.5271477846,0.984863443128,1,110.799228556,crossing,False,0.0638895007629
+Fidelity loss 20%,mod,0.5,cdf_upper,recruitment,0,43.5271477846,0.987654320988,1,110.799228556,crossing,False,0.0638895007629
+Fidelity loss 20%,mod,0.5,cdf_lower,equal_priority,0.5,43.5271477846,0.851851851852,1,137.560079848,crossing,False,0.112311101947
+Fidelity loss 20%,mod,0.5,interval_mle,equal_priority,0.5,43.5271477846,0.984863443128,1,143.520173892,crossing,False,0.124859828915
+Fidelity loss 20%,mod,0.5,cdf_upper,equal_priority,0.5,43.5271477846,0.987654320988,1,143.650648893,crossing,False,0.125123129008
+Fidelity loss 20%,mod,0.5,cdf_lower,recruitment_priority,0.25,43.5271477846,0.851851851852,1,125.29348656,crossing,False,0.0881003013548
+Fidelity loss 20%,mod,0.5,interval_mle,recruitment_priority,0.25,43.5271477846,0.984863443128,1,128.318003249,crossing,False,0.0943746648392
+Fidelity loss 20%,mod,0.5,cdf_upper,recruitment_priority,0.25,43.5271477846,0.987654320988,1,128.380321431,crossing,False,0.0945063148853
+Fidelity loss 20%,mod,0.5,cdf_lower,contact_priority,0.75,43.5271477846,0.851851851852,1,150,right_boundary,False,0.136521902539
+Fidelity loss 20%,mod,0.5,interval_mle,contact_priority,0.75,43.5271477846,0.984863443128,1,150,right_boundary,False,0.155344992992
+Fidelity loss 20%,mod,0.5,cdf_upper,contact_priority,0.75,43.5271477846,0.987654320988,1,150,right_boundary,False,0.15573994313
+Fidelity loss 20%,mod,0.75,cdf_lower,contact,1,35.2907216769,0.851851851852,1,150,right_boundary,False,0.16073270313
+Fidelity loss 20%,mod,0.75,interval_mle,contact,1,35.2907216769,0.984863443128,1,150,right_boundary,False,0.185830157068
+Fidelity loss 20%,mod,0.75,cdf_upper,contact,1,35.2907216769,0.987654320988,1,150,right_boundary,False,0.186356757253
+Fidelity loss 20%,mod,0.75,cdf_lower,recruitment,0,35.2907216769,0.851851851852,1,110.799228556,crossing,False,0.0638895007629
+Fidelity loss 20%,mod,0.75,interval_mle,recruitment,0,35.2907216769,0.984863443128,1,110.799228556,crossing,False,0.0638895007629
+Fidelity loss 20%,mod,0.75,cdf_upper,recruitment,0,35.2907216769,0.987654320988,1,110.799228556,crossing,False,0.0638895007629
+Fidelity loss 20%,mod,0.75,cdf_lower,equal_priority,0.5,35.2907216769,0.851851851852,1,137.560079848,crossing,False,0.112311101947
+Fidelity loss 20%,mod,0.75,interval_mle,equal_priority,0.5,35.2907216769,0.984863443128,1,143.520173892,crossing,False,0.124859828915
+Fidelity loss 20%,mod,0.75,cdf_upper,equal_priority,0.5,35.2907216769,0.987654320988,1,143.650648893,crossing,False,0.125123129008
+Fidelity loss 20%,mod,0.75,cdf_lower,recruitment_priority,0.25,35.2907216769,0.851851851852,1,125.29348656,crossing,False,0.0881003013548
+Fidelity loss 20%,mod,0.75,interval_mle,recruitment_priority,0.25,35.2907216769,0.984863443128,1,128.318003249,crossing,False,0.0943746648392
+Fidelity loss 20%,mod,0.75,cdf_upper,recruitment_priority,0.25,35.2907216769,0.987654320988,1,128.380321431,crossing,False,0.0945063148853
+Fidelity loss 20%,mod,0.75,cdf_lower,contact_priority,0.75,35.2907216769,0.851851851852,1,150,right_boundary,False,0.136521902539
+Fidelity loss 20%,mod,0.75,interval_mle,contact_priority,0.75,35.2907216769,0.984863443128,1,150,right_boundary,False,0.155344992992
+Fidelity loss 20%,mod,0.75,cdf_upper,contact_priority,0.75,35.2907216769,0.987654320988,1,150,right_boundary,False,0.15573994313
+Fidelity loss 20%,mod,1,cdf_lower,contact,1,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.16073270313
+Fidelity loss 20%,mod,1,interval_mle,contact,1,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.185830157068
+Fidelity loss 20%,mod,1,cdf_upper,contact,1,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.186356757253
+Fidelity loss 20%,mod,1,cdf_lower,recruitment,0,27.0542955693,0.851851851852,0.95652173913,108.961191303,crossing,False,0.0611116963819
+Fidelity loss 20%,mod,1,interval_mle,recruitment,0,27.0542955693,0.984863443128,0.95652173913,108.961191303,crossing,False,0.0611116963819
+Fidelity loss 20%,mod,1,cdf_upper,recruitment,0,27.0542955693,0.987654320988,0.95652173913,108.961191303,crossing,False,0.0611116963819
+Fidelity loss 20%,mod,1,cdf_lower,equal_priority,0.5,27.0542955693,0.851851851852,0.95652173913,137.009991136,crossing,False,0.110922199756
+Fidelity loss 20%,mod,1,interval_mle,equal_priority,0.5,27.0542955693,0.984863443128,0.95652173913,142.943495725,crossing,False,0.123470926725
+Fidelity loss 20%,mod,1,cdf_upper,equal_priority,0.5,27.0542955693,0.987654320988,0.95652173913,143.073667814,crossing,False,0.123734226817
+Fidelity loss 20%,mod,1,cdf_lower,recruitment_priority,0.25,27.0542955693,0.851851851852,0.95652173913,124.364097769,crossing,False,0.086016948069
+Fidelity loss 20%,mod,1,interval_mle,recruitment_priority,0.25,27.0542955693,0.984863443128,0.95652173913,127.444749131,crossing,False,0.0922913115534
+Fidelity loss 20%,mod,1,cdf_upper,recruitment_priority,0.25,27.0542955693,0.987654320988,0.95652173913,127.507807904,crossing,False,0.0924229615996
+Fidelity loss 20%,mod,1,cdf_lower,contact_priority,0.75,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.135827451443
+Fidelity loss 20%,mod,1,interval_mle,contact_priority,0.75,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.154650541896
+Fidelity loss 20%,mod,1,cdf_upper,contact_priority,0.75,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.155045492035
+Fidelity loss 20%,tv,0,cdf_lower,contact,1,60,1,1,150,right_boundary,False,0.328630904307
+Fidelity loss 20%,tv,0,interval_mle,contact,1,60,1,1,150,right_boundary,False,0.328630904307
+Fidelity loss 20%,tv,0,cdf_upper,contact,1,60,1,1,150,right_boundary,False,0.328630904307
+Fidelity loss 20%,tv,0,cdf_lower,recruitment,0,60,1,1,133.417009788,crossing,False,0.0769027305967
+Fidelity loss 20%,tv,0,interval_mle,recruitment,0,60,1,1,133.417009788,crossing,False,0.0769027305967
+Fidelity loss 20%,tv,0,cdf_upper,recruitment,0,60,1,1,133.417009788,crossing,False,0.0769027305967
+Fidelity loss 20%,tv,0,cdf_lower,equal_priority,0.5,60,1,1,150,right_boundary,False,0.202766817452
+Fidelity loss 20%,tv,0,interval_mle,equal_priority,0.5,60,1,1,150,right_boundary,False,0.202766817452
+Fidelity loss 20%,tv,0,cdf_upper,equal_priority,0.5,60,1,1,150,right_boundary,False,0.202766817452
+Fidelity loss 20%,tv,0,cdf_lower,recruitment_priority,0.25,60,1,1,150,right_boundary,False,0.139834774024
+Fidelity loss 20%,tv,0,interval_mle,recruitment_priority,0.25,60,1,1,150,right_boundary,False,0.139834774024
+Fidelity loss 20%,tv,0,cdf_upper,recruitment_priority,0.25,60,1,1,150,right_boundary,False,0.139834774024
+Fidelity loss 20%,tv,0,cdf_lower,contact_priority,0.75,60,1,1,150,right_boundary,False,0.265698860879
+Fidelity loss 20%,tv,0,interval_mle,contact_priority,0.75,60,1,1,150,right_boundary,False,0.265698860879
+Fidelity loss 20%,tv,0,cdf_upper,contact_priority,0.75,60,1,1,150,right_boundary,False,0.265698860879
+Fidelity loss 20%,tv,0.25,cdf_lower,contact,1,51.7635738923,0.864197530864,1,150,right_boundary,False,0.284002016068
+Fidelity loss 20%,tv,0.25,interval_mle,contact,1,51.7635738923,1,1,150,right_boundary,False,0.328630904307
+Fidelity loss 20%,tv,0.25,cdf_upper,contact,1,51.7635738923,1,1,150,right_boundary,False,0.328630904307
+Fidelity loss 20%,tv,0.25,cdf_lower,recruitment,0,51.7635738923,0.864197530864,1,133.417009788,crossing,False,0.0769027305967
+Fidelity loss 20%,tv,0.25,interval_mle,recruitment,0,51.7635738923,1,1,133.417009788,crossing,False,0.0769027305967
+Fidelity loss 20%,tv,0.25,cdf_upper,recruitment,0,51.7635738923,1,1,133.417009788,crossing,False,0.0769027305967
+Fidelity loss 20%,tv,0.25,cdf_lower,equal_priority,0.5,51.7635738923,0.864197530864,1,150,right_boundary,False,0.180452373332
+Fidelity loss 20%,tv,0.25,interval_mle,equal_priority,0.5,51.7635738923,1,1,150,right_boundary,False,0.202766817452
+Fidelity loss 20%,tv,0.25,cdf_upper,equal_priority,0.5,51.7635738923,1,1,150,right_boundary,False,0.202766817452
+Fidelity loss 20%,tv,0.25,cdf_lower,recruitment_priority,0.25,51.7635738923,0.864197530864,1,150,right_boundary,False,0.128677551964
+Fidelity loss 20%,tv,0.25,interval_mle,recruitment_priority,0.25,51.7635738923,1,1,150,right_boundary,False,0.139834774024
+Fidelity loss 20%,tv,0.25,cdf_upper,recruitment_priority,0.25,51.7635738923,1,1,150,right_boundary,False,0.139834774024
+Fidelity loss 20%,tv,0.25,cdf_lower,contact_priority,0.75,51.7635738923,0.864197530864,1,150,right_boundary,False,0.2322271947
+Fidelity loss 20%,tv,0.25,interval_mle,contact_priority,0.75,51.7635738923,1,1,150,right_boundary,False,0.265698860879
+Fidelity loss 20%,tv,0.25,cdf_upper,contact_priority,0.75,51.7635738923,1,1,150,right_boundary,False,0.265698860879
+Fidelity loss 20%,tv,0.5,cdf_lower,contact,1,43.5271477846,0.851851851852,1,150,right_boundary,False,0.27994484441
+Fidelity loss 20%,tv,0.5,interval_mle,contact,1,43.5271477846,0.984863443128,1,150,right_boundary,False,0.323656563934
+Fidelity loss 20%,tv,0.5,cdf_upper,contact,1,43.5271477846,0.987654320988,1,150,right_boundary,False,0.324573732649
+Fidelity loss 20%,tv,0.5,cdf_lower,recruitment,0,43.5271477846,0.851851851852,1,133.417009788,crossing,False,0.0769027305967
+Fidelity loss 20%,tv,0.5,interval_mle,recruitment,0,43.5271477846,0.984863443128,1,133.417009788,crossing,False,0.0769027305967
+Fidelity loss 20%,tv,0.5,cdf_upper,recruitment,0,43.5271477846,0.987654320988,1,133.417009788,crossing,False,0.0769027305967
+Fidelity loss 20%,tv,0.5,cdf_lower,equal_priority,0.5,43.5271477846,0.851851851852,1,150,right_boundary,False,0.178423787503
+Fidelity loss 20%,tv,0.5,interval_mle,equal_priority,0.5,43.5271477846,0.984863443128,1,150,right_boundary,False,0.200279647265
+Fidelity loss 20%,tv,0.5,cdf_upper,equal_priority,0.5,43.5271477846,0.987654320988,1,150,right_boundary,False,0.200738231623
+Fidelity loss 20%,tv,0.5,cdf_lower,recruitment_priority,0.25,43.5271477846,0.851851851852,1,150,right_boundary,False,0.12766325905
+Fidelity loss 20%,tv,0.5,interval_mle,recruitment_priority,0.25,43.5271477846,0.984863443128,1,150,right_boundary,False,0.138591188931
+Fidelity loss 20%,tv,0.5,cdf_upper,recruitment_priority,0.25,43.5271477846,0.987654320988,1,150,right_boundary,False,0.13882048111
+Fidelity loss 20%,tv,0.5,cdf_lower,contact_priority,0.75,43.5271477846,0.851851851852,1,150,right_boundary,False,0.229184315956
+Fidelity loss 20%,tv,0.5,interval_mle,contact_priority,0.75,43.5271477846,0.984863443128,1,150,right_boundary,False,0.2619681056
+Fidelity loss 20%,tv,0.5,cdf_upper,contact_priority,0.75,43.5271477846,0.987654320988,1,150,right_boundary,False,0.262655982136
+Fidelity loss 20%,tv,0.75,cdf_lower,contact,1,35.2907216769,0.851851851852,1,150,right_boundary,False,0.27994484441
+Fidelity loss 20%,tv,0.75,interval_mle,contact,1,35.2907216769,0.984863443128,1,150,right_boundary,False,0.323656563934
+Fidelity loss 20%,tv,0.75,cdf_upper,contact,1,35.2907216769,0.987654320988,1,150,right_boundary,False,0.324573732649
+Fidelity loss 20%,tv,0.75,cdf_lower,recruitment,0,35.2907216769,0.851851851852,1,133.417009788,crossing,False,0.0769027305967
+Fidelity loss 20%,tv,0.75,interval_mle,recruitment,0,35.2907216769,0.984863443128,1,133.417009788,crossing,False,0.0769027305967
+Fidelity loss 20%,tv,0.75,cdf_upper,recruitment,0,35.2907216769,0.987654320988,1,133.417009788,crossing,False,0.0769027305967
+Fidelity loss 20%,tv,0.75,cdf_lower,equal_priority,0.5,35.2907216769,0.851851851852,1,150,right_boundary,False,0.178423787503
+Fidelity loss 20%,tv,0.75,interval_mle,equal_priority,0.5,35.2907216769,0.984863443128,1,150,right_boundary,False,0.200279647265
+Fidelity loss 20%,tv,0.75,cdf_upper,equal_priority,0.5,35.2907216769,0.987654320988,1,150,right_boundary,False,0.200738231623
+Fidelity loss 20%,tv,0.75,cdf_lower,recruitment_priority,0.25,35.2907216769,0.851851851852,1,150,right_boundary,False,0.12766325905
+Fidelity loss 20%,tv,0.75,interval_mle,recruitment_priority,0.25,35.2907216769,0.984863443128,1,150,right_boundary,False,0.138591188931
+Fidelity loss 20%,tv,0.75,cdf_upper,recruitment_priority,0.25,35.2907216769,0.987654320988,1,150,right_boundary,False,0.13882048111
+Fidelity loss 20%,tv,0.75,cdf_lower,contact_priority,0.75,35.2907216769,0.851851851852,1,150,right_boundary,False,0.229184315956
+Fidelity loss 20%,tv,0.75,interval_mle,contact_priority,0.75,35.2907216769,0.984863443128,1,150,right_boundary,False,0.2619681056
+Fidelity loss 20%,tv,0.75,cdf_upper,contact_priority,0.75,35.2907216769,0.987654320988,1,150,right_boundary,False,0.262655982136
+Fidelity loss 20%,tv,1,cdf_lower,contact,1,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.27994484441
+Fidelity loss 20%,tv,1,interval_mle,contact,1,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.323656563934
+Fidelity loss 20%,tv,1,cdf_upper,contact,1,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.324573732649
+Fidelity loss 20%,tv,1,cdf_lower,recruitment,0,27.0542955693,0.851851851852,0.95652173913,130.842924326,crossing,False,0.0735591336142
+Fidelity loss 20%,tv,1,interval_mle,recruitment,0,27.0542955693,0.984863443128,0.95652173913,130.842924326,crossing,False,0.0735591336142
+Fidelity loss 20%,tv,1,cdf_upper,recruitment,0,27.0542955693,0.987654320988,0.95652173913,130.842924326,crossing,False,0.0735591336142
+Fidelity loss 20%,tv,1,cdf_lower,equal_priority,0.5,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.176751989012
+Fidelity loss 20%,tv,1,interval_mle,equal_priority,0.5,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.198607848774
+Fidelity loss 20%,tv,1,cdf_upper,equal_priority,0.5,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.199066433132
+Fidelity loss 20%,tv,1,cdf_lower,recruitment_priority,0.25,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.125155561313
+Fidelity loss 20%,tv,1,interval_mle,recruitment_priority,0.25,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.136083491194
+Fidelity loss 20%,tv,1,cdf_upper,recruitment_priority,0.25,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.136312783373
+Fidelity loss 20%,tv,1,cdf_lower,contact_priority,0.75,27.0542955693,0.851851851852,0.95652173913,150,right_boundary,False,0.228348416711
+Fidelity loss 20%,tv,1,interval_mle,contact_priority,0.75,27.0542955693,0.984863443128,0.95652173913,150,right_boundary,False,0.261132206354
+Fidelity loss 20%,tv,1,cdf_upper,contact_priority,0.75,27.0542955693,0.987654320988,0.95652173913,150,right_boundary,False,0.26182008289
+Combined stress,flat,0,cdf_lower,contact,1,60,1,1,25.6353336978,crossing,False,0.00161567653055
+Combined stress,flat,0,interval_mle,contact,1,60,1,1,25.6353336978,crossing,False,0.00161567653055
+Combined stress,flat,0,cdf_upper,contact,1,60,1,1,25.6353336978,crossing,False,0.00161567653055
+Combined stress,flat,0,cdf_lower,recruitment,0,60,1,1,20,no_segment_at_lower_bound,False,0.000163074698696
+Combined stress,flat,0,interval_mle,recruitment,0,60,1,1,20,no_segment_at_lower_bound,False,0.000163074698696
+Combined stress,flat,0,cdf_upper,recruitment,0,60,1,1,20,no_segment_at_lower_bound,False,0.000163074698696
+Combined stress,flat,0,cdf_lower,equal_priority,0.5,60,1,1,20,no_segment_at_lower_bound,False,0.000889375614624
+Combined stress,flat,0,interval_mle,equal_priority,0.5,60,1,1,20,no_segment_at_lower_bound,False,0.000889375614624
+Combined stress,flat,0,cdf_upper,equal_priority,0.5,60,1,1,20,no_segment_at_lower_bound,False,0.000889375614624
+Combined stress,flat,0,cdf_lower,recruitment_priority,0.25,60,1,1,20,no_segment_at_lower_bound,False,0.00052622515666
+Combined stress,flat,0,interval_mle,recruitment_priority,0.25,60,1,1,20,no_segment_at_lower_bound,False,0.00052622515666
+Combined stress,flat,0,cdf_upper,recruitment_priority,0.25,60,1,1,20,no_segment_at_lower_bound,False,0.00052622515666
+Combined stress,flat,0,cdf_lower,contact_priority,0.75,60,1,1,21.3403582377,crossing,False,0.00125252607259
+Combined stress,flat,0,interval_mle,contact_priority,0.75,60,1,1,21.3403582377,crossing,False,0.00125252607259
+Combined stress,flat,0,cdf_upper,contact_priority,0.75,60,1,1,21.3403582377,crossing,False,0.00125252607259
+Combined stress,flat,0.25,cdf_lower,contact,1,51.7635738923,0.864197530864,1,22.7392449081,crossing,False,0.00139626366838
+Combined stress,flat,0.25,interval_mle,contact,1,51.7635738923,1,1,25.6353336978,crossing,False,0.00161567653055
+Combined stress,flat,0.25,cdf_upper,contact,1,51.7635738923,1,1,25.6353336978,crossing,False,0.00161567653055
+Combined stress,flat,0.25,cdf_lower,recruitment,0,51.7635738923,0.864197530864,1,20,no_segment_at_lower_bound,False,0.000163074698696
+Combined stress,flat,0.25,interval_mle,recruitment,0,51.7635738923,1,1,20,no_segment_at_lower_bound,False,0.000163074698696
+Combined stress,flat,0.25,cdf_upper,recruitment,0,51.7635738923,1,1,20,no_segment_at_lower_bound,False,0.000163074698696
+Combined stress,flat,0.25,cdf_lower,equal_priority,0.5,51.7635738923,0.864197530864,1,20,no_segment_at_lower_bound,False,0.000779669183537
+Combined stress,flat,0.25,interval_mle,equal_priority,0.5,51.7635738923,1,1,20,no_segment_at_lower_bound,False,0.000889375614624
+Combined stress,flat,0.25,cdf_upper,equal_priority,0.5,51.7635738923,1,1,20,no_segment_at_lower_bound,False,0.000889375614624
+Combined stress,flat,0.25,cdf_lower,recruitment_priority,0.25,51.7635738923,0.864197530864,1,20,no_segment_at_lower_bound,False,0.000471371941117
+Combined stress,flat,0.25,interval_mle,recruitment_priority,0.25,51.7635738923,1,1,20,no_segment_at_lower_bound,False,0.00052622515666
+Combined stress,flat,0.25,cdf_upper,recruitment_priority,0.25,51.7635738923,1,1,20,no_segment_at_lower_bound,False,0.00052622515666
+Combined stress,flat,0.25,cdf_lower,contact_priority,0.75,51.7635738923,0.864197530864,1,20,no_segment_at_lower_bound,False,0.00108796642596
+Combined stress,flat,0.25,interval_mle,contact_priority,0.75,51.7635738923,1,1,21.3403582377,crossing,False,0.00125252607259
+Combined stress,flat,0.25,cdf_upper,contact_priority,0.75,51.7635738923,1,1,21.3403582377,crossing,False,0.00125252607259
+Combined stress,flat,0.5,cdf_lower,contact,1,43.5271477846,0.851851851852,1,22.4449361815,crossing,False,0.00137631704454
+Combined stress,flat,0.5,interval_mle,contact,1,43.5271477846,0.984863443128,1,25.340189546,crossing,False,0.00159122075086
+Combined stress,flat,0.5,cdf_upper,contact,1,43.5271477846,0.987654320988,1,25.3952884484,crossing,False,0.00159572990672
+Combined stress,flat,0.5,cdf_lower,recruitment,0,43.5271477846,0.851851851852,1,20,no_segment_at_lower_bound,False,0.000163074698696
+Combined stress,flat,0.5,interval_mle,recruitment,0,43.5271477846,0.984863443128,1,20,no_segment_at_lower_bound,False,0.000163074698696
+Combined stress,flat,0.5,cdf_upper,recruitment,0,43.5271477846,0.987654320988,1,20,no_segment_at_lower_bound,False,0.000163074698696
+Combined stress,flat,0.5,cdf_lower,equal_priority,0.5,43.5271477846,0.851851851852,1,20,no_segment_at_lower_bound,False,0.00076969587162
+Combined stress,flat,0.5,interval_mle,equal_priority,0.5,43.5271477846,0.984863443128,1,20,no_segment_at_lower_bound,False,0.000877147724778
+Combined stress,flat,0.5,cdf_upper,equal_priority,0.5,43.5271477846,0.987654320988,1,20,no_segment_at_lower_bound,False,0.000879402302707
+Combined stress,flat,0.5,cdf_lower,recruitment_priority,0.25,43.5271477846,0.851851851852,1,20,no_segment_at_lower_bound,False,0.000466385285158
+Combined stress,flat,0.5,interval_mle,recruitment_priority,0.25,43.5271477846,0.984863443128,1,20,no_segment_at_lower_bound,False,0.000520111211737
+Combined stress,flat,0.5,cdf_upper,recruitment_priority,0.25,43.5271477846,0.987654320988,1,20,no_segment_at_lower_bound,False,0.000521238500702
+Combined stress,flat,0.5,cdf_lower,contact_priority,0.75,43.5271477846,0.851851851852,1,20,no_segment_at_lower_bound,False,0.00107300645808
+Combined stress,flat,0.5,interval_mle,contact_priority,0.75,43.5271477846,0.984863443128,1,21.047400486,crossing,False,0.00123418423782
+Combined stress,flat,0.5,cdf_upper,contact_priority,0.75,43.5271477846,0.987654320988,1,21.1020238755,crossing,False,0.00123756610471
+Combined stress,flat,0.75,cdf_lower,contact,1,35.2907216769,0.851851851852,1,22.4449361815,crossing,False,0.00137631704454
+Combined stress,flat,0.75,interval_mle,contact,1,35.2907216769,0.984863443128,1,25.340189546,crossing,False,0.00159122075086
+Combined stress,flat,0.75,cdf_upper,contact,1,35.2907216769,0.987654320988,1,25.3952884484,crossing,False,0.00159572990672
+Combined stress,flat,0.75,cdf_lower,recruitment,0,35.2907216769,0.851851851852,1,20,no_segment_at_lower_bound,False,0.000163074698696
+Combined stress,flat,0.75,interval_mle,recruitment,0,35.2907216769,0.984863443128,1,20,no_segment_at_lower_bound,False,0.000163074698696
+Combined stress,flat,0.75,cdf_upper,recruitment,0,35.2907216769,0.987654320988,1,20,no_segment_at_lower_bound,False,0.000163074698696
+Combined stress,flat,0.75,cdf_lower,equal_priority,0.5,35.2907216769,0.851851851852,1,20,no_segment_at_lower_bound,False,0.00076969587162
+Combined stress,flat,0.75,interval_mle,equal_priority,0.5,35.2907216769,0.984863443128,1,20,no_segment_at_lower_bound,False,0.000877147724778
+Combined stress,flat,0.75,cdf_upper,equal_priority,0.5,35.2907216769,0.987654320988,1,20,no_segment_at_lower_bound,False,0.000879402302707
+Combined stress,flat,0.75,cdf_lower,recruitment_priority,0.25,35.2907216769,0.851851851852,1,20,no_segment_at_lower_bound,False,0.000466385285158
+Combined stress,flat,0.75,interval_mle,recruitment_priority,0.25,35.2907216769,0.984863443128,1,20,no_segment_at_lower_bound,False,0.000520111211737
+Combined stress,flat,0.75,cdf_upper,recruitment_priority,0.25,35.2907216769,0.987654320988,1,20,no_segment_at_lower_bound,False,0.000521238500702
+Combined stress,flat,0.75,cdf_lower,contact_priority,0.75,35.2907216769,0.851851851852,1,20,no_segment_at_lower_bound,False,0.00107300645808
+Combined stress,flat,0.75,interval_mle,contact_priority,0.75,35.2907216769,0.984863443128,1,21.047400486,crossing,False,0.00123418423782
+Combined stress,flat,0.75,cdf_upper,contact_priority,0.75,35.2907216769,0.987654320988,1,21.1020238755,crossing,False,0.00123756610471
+Combined stress,flat,1,cdf_lower,contact,1,27.0542955693,0.851851851852,0.95652173913,22.4449361815,crossing,False,0.00137631704454
+Combined stress,flat,1,interval_mle,contact,1,27.0542955693,0.984863443128,0.95652173913,25.340189546,crossing,False,0.00159122075086
+Combined stress,flat,1,cdf_upper,contact,1,27.0542955693,0.987654320988,0.95652173913,25.3952884484,crossing,False,0.00159572990672
+Combined stress,flat,1,cdf_lower,recruitment,0,27.0542955693,0.851851851852,0.95652173913,20,no_segment_at_lower_bound,False,0.000155984494405
+Combined stress,flat,1,interval_mle,recruitment,0,27.0542955693,0.984863443128,0.95652173913,20,no_segment_at_lower_bound,False,0.000155984494405
+Combined stress,flat,1,cdf_upper,recruitment,0,27.0542955693,0.987654320988,0.95652173913,20,no_segment_at_lower_bound,False,0.000155984494405
+Combined stress,flat,1,cdf_lower,equal_priority,0.5,27.0542955693,0.851851851852,0.95652173913,20,no_segment_at_lower_bound,False,0.000766150769475
+Combined stress,flat,1,interval_mle,equal_priority,0.5,27.0542955693,0.984863443128,0.95652173913,20,no_segment_at_lower_bound,False,0.000873602622633
+Combined stress,flat,1,cdf_upper,equal_priority,0.5,27.0542955693,0.987654320988,0.95652173913,20,no_segment_at_lower_bound,False,0.000875857200562
+Combined stress,flat,1,cdf_lower,recruitment_priority,0.25,27.0542955693,0.851851851852,0.95652173913,20,no_segment_at_lower_bound,False,0.00046106763194
+Combined stress,flat,1,interval_mle,recruitment_priority,0.25,27.0542955693,0.984863443128,0.95652173913,20,no_segment_at_lower_bound,False,0.000514793558519
+Combined stress,flat,1,cdf_upper,recruitment_priority,0.25,27.0542955693,0.987654320988,0.95652173913,20,no_segment_at_lower_bound,False,0.000515920847483
+Combined stress,flat,1,cdf_lower,contact_priority,0.75,27.0542955693,0.851851851852,0.95652173913,20,no_segment_at_lower_bound,False,0.00107123390701
+Combined stress,flat,1,interval_mle,contact_priority,0.75,27.0542955693,0.984863443128,0.95652173913,20.9814039532,crossing,False,0.00123241168675
+Combined stress,flat,1,cdf_upper,contact_priority,0.75,27.0542955693,0.987654320988,0.95652173913,21.0359364867,crossing,False,0.00123579355364
+Combined stress,mod,0,cdf_lower,contact,1,60,1,1,44.207473942,crossing,False,0.00808449746055
+Combined stress,mod,0,interval_mle,contact,1,60,1,1,44.207473942,crossing,False,0.00808449746055
+Combined stress,mod,0,cdf_upper,contact,1,60,1,1,44.207473942,crossing,False,0.00808449746055
+Combined stress,mod,0,cdf_lower,recruitment,0,60,1,1,20.8217254329,crossing,False,0.0027374257413
+Combined stress,mod,0,interval_mle,recruitment,0,60,1,1,20.8217254329,crossing,False,0.0027374257413
+Combined stress,mod,0,cdf_upper,recruitment,0,60,1,1,20.8217254329,crossing,False,0.0027374257413
+Combined stress,mod,0,cdf_lower,equal_priority,0.5,60,1,1,32.0390595408,crossing,False,0.00541096160093
+Combined stress,mod,0,interval_mle,equal_priority,0.5,60,1,1,32.0390595408,crossing,False,0.00541096160093
+Combined stress,mod,0,cdf_upper,equal_priority,0.5,60,1,1,32.0390595408,crossing,False,0.00541096160093
+Combined stress,mod,0,cdf_lower,recruitment_priority,0.25,60,1,1,25.9861471139,crossing,False,0.00407419367111
+Combined stress,mod,0,interval_mle,recruitment_priority,0.25,60,1,1,25.9861471139,crossing,False,0.00407419367111
+Combined stress,mod,0,cdf_upper,recruitment_priority,0.25,60,1,1,25.9861471139,crossing,False,0.00407419367111
+Combined stress,mod,0,cdf_lower,contact_priority,0.75,60,1,1,38.3077913216,crossing,False,0.00674772953074
+Combined stress,mod,0,interval_mle,contact_priority,0.75,60,1,1,38.3077913216,crossing,False,0.00674772953074
+Combined stress,mod,0,cdf_upper,contact_priority,0.75,60,1,1,38.3077913216,crossing,False,0.00674772953074
+Combined stress,mod,0.25,cdf_lower,contact,1,51.7635738923,0.864197530864,1,37.4802064008,crossing,False,0.00698660274369
+Combined stress,mod,0.25,interval_mle,contact,1,51.7635738923,1,1,44.207473942,crossing,False,0.00808449746055
+Combined stress,mod,0.25,cdf_upper,contact,1,51.7635738923,1,1,44.207473942,crossing,False,0.00808449746055
+Combined stress,mod,0.25,cdf_lower,recruitment,0,51.7635738923,0.864197530864,1,20.8217254329,crossing,False,0.0027374257413
+Combined stress,mod,0.25,interval_mle,recruitment,0,51.7635738923,1,1,20.8217254329,crossing,False,0.0027374257413
+Combined stress,mod,0.25,cdf_upper,recruitment,0,51.7635738923,1,1,20.8217254329,crossing,False,0.0027374257413
+Combined stress,mod,0.25,cdf_lower,equal_priority,0.5,51.7635738923,0.864197530864,1,28.0674299343,crossing,False,0.00486201424249
+Combined stress,mod,0.25,interval_mle,equal_priority,0.5,51.7635738923,1,1,32.0390595408,crossing,False,0.00541096160093
+Combined stress,mod,0.25,cdf_upper,equal_priority,0.5,51.7635738923,1,1,32.0390595408,crossing,False,0.00541096160093
+Combined stress,mod,0.25,cdf_lower,recruitment_priority,0.25,51.7635738923,0.864197530864,1,24.0629097422,crossing,False,0.0037997199919
+Combined stress,mod,0.25,interval_mle,recruitment_priority,0.25,51.7635738923,1,1,25.9861471139,crossing,False,0.00407419367111
+Combined stress,mod,0.25,cdf_upper,recruitment_priority,0.25,51.7635738923,1,1,25.9861471139,crossing,False,0.00407419367111
+Combined stress,mod,0.25,cdf_lower,contact_priority,0.75,51.7635738923,0.864197530864,1,32.6562353258,crossing,False,0.00592430849309
+Combined stress,mod,0.25,interval_mle,contact_priority,0.75,51.7635738923,1,1,38.3077913216,crossing,False,0.00674772953074
+Combined stress,mod,0.25,cdf_upper,contact_priority,0.75,51.7635738923,1,1,38.3077913216,crossing,False,0.00674772953074
+Combined stress,mod,0.5,cdf_lower,contact,1,43.5271477846,0.851851851852,1,36.7779116197,crossing,False,0.00688679413306
+Combined stress,mod,0.5,interval_mle,contact,1,43.5271477846,0.984863443128,1,43.5359364257,crossing,False,0.00796212600496
+Combined stress,mod,0.5,cdf_upper,contact,1,43.5271477846,0.987654320988,1,43.6610037755,crossing,False,0.00798468884993
+Combined stress,mod,0.5,cdf_lower,recruitment,0,43.5271477846,0.851851851852,1,20.8217254329,crossing,False,0.0027374257413
+Combined stress,mod,0.5,interval_mle,recruitment,0,43.5271477846,0.984863443128,1,20.8217254329,crossing,False,0.0027374257413
+Combined stress,mod,0.5,cdf_upper,recruitment,0,43.5271477846,0.987654320988,1,20.8217254329,crossing,False,0.0027374257413
+Combined stress,mod,0.5,cdf_lower,equal_priority,0.5,43.5271477846,0.851851851852,1,27.6918461694,crossing,False,0.00481210993718
+Combined stress,mod,0.5,interval_mle,equal_priority,0.5,43.5271477846,0.984863443128,1,31.6140485639,crossing,False,0.00534977587313
+Combined stress,mod,0.5,cdf_upper,equal_priority,0.5,43.5271477846,0.987654320988,1,31.6928167953,crossing,False,0.00536105729561
+Combined stress,mod,0.5,cdf_lower,recruitment_priority,0.25,43.5271477846,0.851851851852,1,23.887261339,crossing,False,0.00377476783924
+Combined stress,mod,0.5,interval_mle,recruitment_priority,0.25,43.5271477846,0.984863443128,1,25.7752930939,crossing,False,0.00404360080721
+Combined stress,mod,0.5,cdf_upper,recruitment_priority,0.25,43.5271477846,0.987654320988,1,25.8142857737,crossing,False,0.00404924151846
+Combined stress,mod,0.5,cdf_lower,contact_priority,0.75,43.5271477846,0.851851851852,1,32.0917433317,crossing,False,0.00584945203512
+Combined stress,mod,0.5,interval_mle,contact_priority,0.75,43.5271477846,0.984863443128,1,37.724210743,crossing,False,0.00665595093904
+Combined stress,mod,0.5,cdf_upper,contact_priority,0.75,43.5271477846,0.987654320988,1,37.8323194315,crossing,False,0.00667287307277
+Combined stress,mod,0.75,cdf_lower,contact,1,35.2907216769,0.851851851852,1,36.7779116197,crossing,False,0.00688679413306
+Combined stress,mod,0.75,interval_mle,contact,1,35.2907216769,0.984863443128,1,43.5359364257,crossing,False,0.00796212600496
+Combined stress,mod,0.75,cdf_upper,contact,1,35.2907216769,0.987654320988,1,43.6610037755,crossing,False,0.00798468884993
+Combined stress,mod,0.75,cdf_lower,recruitment,0,35.2907216769,0.851851851852,1,20.8217254329,crossing,False,0.0027374257413
+Combined stress,mod,0.75,interval_mle,recruitment,0,35.2907216769,0.984863443128,1,20.8217254329,crossing,False,0.0027374257413
+Combined stress,mod,0.75,cdf_upper,recruitment,0,35.2907216769,0.987654320988,1,20.8217254329,crossing,False,0.0027374257413
+Combined stress,mod,0.75,cdf_lower,equal_priority,0.5,35.2907216769,0.851851851852,1,27.6918461694,crossing,False,0.00481210993718
+Combined stress,mod,0.75,interval_mle,equal_priority,0.5,35.2907216769,0.984863443128,1,31.6140485639,crossing,False,0.00534977587313
+Combined stress,mod,0.75,cdf_upper,equal_priority,0.5,35.2907216769,0.987654320988,1,31.6928167953,crossing,False,0.00536105729561
+Combined stress,mod,0.75,cdf_lower,recruitment_priority,0.25,35.2907216769,0.851851851852,1,23.887261339,crossing,False,0.00377476783924
+Combined stress,mod,0.75,interval_mle,recruitment_priority,0.25,35.2907216769,0.984863443128,1,25.7752930939,crossing,False,0.00404360080721
+Combined stress,mod,0.75,cdf_upper,recruitment_priority,0.25,35.2907216769,0.987654320988,1,25.8142857737,crossing,False,0.00404924151846
+Combined stress,mod,0.75,cdf_lower,contact_priority,0.75,35.2907216769,0.851851851852,1,32.0917433317,crossing,False,0.00584945203512
+Combined stress,mod,0.75,interval_mle,contact_priority,0.75,35.2907216769,0.984863443128,1,37.724210743,crossing,False,0.00665595093904
+Combined stress,mod,0.75,cdf_upper,contact_priority,0.75,35.2907216769,0.987654320988,1,37.8323194315,crossing,False,0.00667287307277
+Combined stress,mod,1,cdf_lower,contact,1,27.0542955693,0.851851851852,0.95652173913,36.7779116197,crossing,False,0.00688679413306
+Combined stress,mod,1,interval_mle,contact,1,27.0542955693,0.984863443128,0.95652173913,43.5359364257,crossing,False,0.00796212600496
+Combined stress,mod,1,cdf_upper,contact,1,27.0542955693,0.987654320988,0.95652173913,43.6610037755,crossing,False,0.00798468884993
+Combined stress,mod,1,cdf_lower,recruitment,0,27.0542955693,0.851851851852,0.95652173913,20,no_segment_at_lower_bound,False,0.00261840723081
+Combined stress,mod,1,interval_mle,recruitment,0,27.0542955693,0.984863443128,0.95652173913,20,no_segment_at_lower_bound,False,0.00261840723081
+Combined stress,mod,1,cdf_upper,recruitment,0,27.0542955693,0.987654320988,0.95652173913,20,no_segment_at_lower_bound,False,0.00261840723081
+Combined stress,mod,1,cdf_lower,equal_priority,0.5,27.0542955693,0.851851851852,0.95652173913,26.9033407882,crossing,False,0.00475260068194
+Combined stress,mod,1,interval_mle,equal_priority,0.5,27.0542955693,0.984863443128,0.95652173913,30.9190253121,crossing,False,0.00529026661788
+Combined stress,mod,1,cdf_upper,equal_priority,0.5,27.0542955693,0.987654320988,0.95652173913,30.9992725601,crossing,False,0.00530154804037
+Combined stress,mod,1,cdf_lower,recruitment_priority,0.25,27.0542955693,0.851851851852,0.95652173913,22.7282665961,crossing,False,0.00368550395637
+Combined stress,mod,1,interval_mle,recruitment_priority,0.25,27.0542955693,0.984863443128,0.95652173913,24.6603757586,crossing,False,0.00395433692435
+Combined stress,mod,1,cdf_upper,recruitment_priority,0.25,27.0542955693,0.987654320988,0.95652173913,24.7004480527,crossing,False,0.00395997763559
+Combined stress,mod,1,cdf_lower,contact_priority,0.75,27.0542955693,0.851851851852,0.95652173913,31.7207245988,crossing,False,0.0058196974075
+Combined stress,mod,1,interval_mle,contact_priority,0.75,27.0542955693,0.984863443128,0.95652173913,37.4291454425,crossing,False,0.00662619631142
+Combined stress,mod,1,cdf_upper,contact_priority,0.75,27.0542955693,0.987654320988,0.95652173913,37.5389063234,crossing,False,0.00664311844515
+Combined stress,tv,0,cdf_lower,contact,1,60,1,1,20,no_segment_at_lower_bound,False,0.0260822478357
+Combined stress,tv,0,interval_mle,contact,1,60,1,1,20,no_segment_at_lower_bound,False,0.0260822478357
+Combined stress,tv,0,cdf_upper,contact,1,60,1,1,20,no_segment_at_lower_bound,False,0.0260822478357
+Combined stress,tv,0,cdf_lower,recruitment,0,60,1,1,20,no_segment_at_lower_bound,False,0.00610349194912
+Combined stress,tv,0,interval_mle,recruitment,0,60,1,1,20,no_segment_at_lower_bound,False,0.00610349194912
+Combined stress,tv,0,cdf_upper,recruitment,0,60,1,1,20,no_segment_at_lower_bound,False,0.00610349194912
+Combined stress,tv,0,cdf_lower,equal_priority,0.5,60,1,1,20,no_segment_at_lower_bound,False,0.0160928698924
+Combined stress,tv,0,interval_mle,equal_priority,0.5,60,1,1,20,no_segment_at_lower_bound,False,0.0160928698924
+Combined stress,tv,0,cdf_upper,equal_priority,0.5,60,1,1,20,no_segment_at_lower_bound,False,0.0160928698924
+Combined stress,tv,0,cdf_lower,recruitment_priority,0.25,60,1,1,20,no_segment_at_lower_bound,False,0.0110981809208
+Combined stress,tv,0,interval_mle,recruitment_priority,0.25,60,1,1,20,no_segment_at_lower_bound,False,0.0110981809208
+Combined stress,tv,0,cdf_upper,recruitment_priority,0.25,60,1,1,20,no_segment_at_lower_bound,False,0.0110981809208
+Combined stress,tv,0,cdf_lower,contact_priority,0.75,60,1,1,20,no_segment_at_lower_bound,False,0.0210875588641
+Combined stress,tv,0,interval_mle,contact_priority,0.75,60,1,1,20,no_segment_at_lower_bound,False,0.0210875588641
+Combined stress,tv,0,cdf_upper,contact_priority,0.75,60,1,1,20,no_segment_at_lower_bound,False,0.0210875588641
+Combined stress,tv,0.25,cdf_lower,contact,1,51.7635738923,0.864197530864,1,20,no_segment_at_lower_bound,False,0.022540214179
+Combined stress,tv,0.25,interval_mle,contact,1,51.7635738923,1,1,20,no_segment_at_lower_bound,False,0.0260822478357
+Combined stress,tv,0.25,cdf_upper,contact,1,51.7635738923,1,1,20,no_segment_at_lower_bound,False,0.0260822478357
+Combined stress,tv,0.25,cdf_lower,recruitment,0,51.7635738923,0.864197530864,1,20,no_segment_at_lower_bound,False,0.00610349194912
+Combined stress,tv,0.25,interval_mle,recruitment,0,51.7635738923,1,1,20,no_segment_at_lower_bound,False,0.00610349194912
+Combined stress,tv,0.25,cdf_upper,recruitment,0,51.7635738923,1,1,20,no_segment_at_lower_bound,False,0.00610349194912
+Combined stress,tv,0.25,cdf_lower,equal_priority,0.5,51.7635738923,0.864197530864,1,20,no_segment_at_lower_bound,False,0.0143218530641
+Combined stress,tv,0.25,interval_mle,equal_priority,0.5,51.7635738923,1,1,20,no_segment_at_lower_bound,False,0.0160928698924
+Combined stress,tv,0.25,cdf_upper,equal_priority,0.5,51.7635738923,1,1,20,no_segment_at_lower_bound,False,0.0160928698924
+Combined stress,tv,0.25,cdf_lower,recruitment_priority,0.25,51.7635738923,0.864197530864,1,20,no_segment_at_lower_bound,False,0.0102126725066
+Combined stress,tv,0.25,interval_mle,recruitment_priority,0.25,51.7635738923,1,1,20,no_segment_at_lower_bound,False,0.0110981809208
+Combined stress,tv,0.25,cdf_upper,recruitment_priority,0.25,51.7635738923,1,1,20,no_segment_at_lower_bound,False,0.0110981809208
+Combined stress,tv,0.25,cdf_lower,contact_priority,0.75,51.7635738923,0.864197530864,1,20,no_segment_at_lower_bound,False,0.0184310336216
+Combined stress,tv,0.25,interval_mle,contact_priority,0.75,51.7635738923,1,1,20,no_segment_at_lower_bound,False,0.0210875588641
+Combined stress,tv,0.25,cdf_upper,contact_priority,0.75,51.7635738923,1,1,20,no_segment_at_lower_bound,False,0.0210875588641
+Combined stress,tv,0.5,cdf_lower,contact,1,43.5271477846,0.851851851852,1,20,no_segment_at_lower_bound,False,0.0222182111193
+Combined stress,tv,0.5,interval_mle,contact,1,43.5271477846,0.984863443128,1,20,no_segment_at_lower_bound,False,0.025687452408
+Combined stress,tv,0.5,cdf_upper,contact,1,43.5271477846,0.987654320988,1,20,no_segment_at_lower_bound,False,0.025760244776
+Combined stress,tv,0.5,cdf_lower,recruitment,0,43.5271477846,0.851851851852,1,20,no_segment_at_lower_bound,False,0.00610349194912
+Combined stress,tv,0.5,interval_mle,recruitment,0,43.5271477846,0.984863443128,1,20,no_segment_at_lower_bound,False,0.00610349194912
+Combined stress,tv,0.5,cdf_upper,recruitment,0,43.5271477846,0.987654320988,1,20,no_segment_at_lower_bound,False,0.00610349194912
+Combined stress,tv,0.5,cdf_lower,equal_priority,0.5,43.5271477846,0.851851851852,1,20,no_segment_at_lower_bound,False,0.0141608515342
+Combined stress,tv,0.5,interval_mle,equal_priority,0.5,43.5271477846,0.984863443128,1,20,no_segment_at_lower_bound,False,0.0158954721786
+Combined stress,tv,0.5,cdf_upper,equal_priority,0.5,43.5271477846,0.987654320988,1,20,no_segment_at_lower_bound,False,0.0159318683626
+Combined stress,tv,0.5,cdf_lower,recruitment_priority,0.25,43.5271477846,0.851851851852,1,20,no_segment_at_lower_bound,False,0.0101321717417
+Combined stress,tv,0.5,interval_mle,recruitment_priority,0.25,43.5271477846,0.984863443128,1,20,no_segment_at_lower_bound,False,0.0109994820638
+Combined stress,tv,0.5,cdf_upper,recruitment_priority,0.25,43.5271477846,0.987654320988,1,20,no_segment_at_lower_bound,False,0.0110176801558
+Combined stress,tv,0.5,cdf_lower,contact_priority,0.75,43.5271477846,0.851851851852,1,20,no_segment_at_lower_bound,False,0.0181895313268
+Combined stress,tv,0.5,interval_mle,contact_priority,0.75,43.5271477846,0.984863443128,1,20,no_segment_at_lower_bound,False,0.0207914622933
+Combined stress,tv,0.5,cdf_upper,contact_priority,0.75,43.5271477846,0.987654320988,1,20,no_segment_at_lower_bound,False,0.0208460565693
+Combined stress,tv,0.75,cdf_lower,contact,1,35.2907216769,0.851851851852,1,20,no_segment_at_lower_bound,False,0.0222182111193
+Combined stress,tv,0.75,interval_mle,contact,1,35.2907216769,0.984863443128,1,20,no_segment_at_lower_bound,False,0.025687452408
+Combined stress,tv,0.75,cdf_upper,contact,1,35.2907216769,0.987654320988,1,20,no_segment_at_lower_bound,False,0.025760244776
+Combined stress,tv,0.75,cdf_lower,recruitment,0,35.2907216769,0.851851851852,1,20,no_segment_at_lower_bound,False,0.00610349194912
+Combined stress,tv,0.75,interval_mle,recruitment,0,35.2907216769,0.984863443128,1,20,no_segment_at_lower_bound,False,0.00610349194912
+Combined stress,tv,0.75,cdf_upper,recruitment,0,35.2907216769,0.987654320988,1,20,no_segment_at_lower_bound,False,0.00610349194912
+Combined stress,tv,0.75,cdf_lower,equal_priority,0.5,35.2907216769,0.851851851852,1,20,no_segment_at_lower_bound,False,0.0141608515342
+Combined stress,tv,0.75,interval_mle,equal_priority,0.5,35.2907216769,0.984863443128,1,20,no_segment_at_lower_bound,False,0.0158954721786
+Combined stress,tv,0.75,cdf_upper,equal_priority,0.5,35.2907216769,0.987654320988,1,20,no_segment_at_lower_bound,False,0.0159318683626
+Combined stress,tv,0.75,cdf_lower,recruitment_priority,0.25,35.2907216769,0.851851851852,1,20,no_segment_at_lower_bound,False,0.0101321717417
+Combined stress,tv,0.75,interval_mle,recruitment_priority,0.25,35.2907216769,0.984863443128,1,20,no_segment_at_lower_bound,False,0.0109994820638
+Combined stress,tv,0.75,cdf_upper,recruitment_priority,0.25,35.2907216769,0.987654320988,1,20,no_segment_at_lower_bound,False,0.0110176801558
+Combined stress,tv,0.75,cdf_lower,contact_priority,0.75,35.2907216769,0.851851851852,1,20,no_segment_at_lower_bound,False,0.0181895313268
+Combined stress,tv,0.75,interval_mle,contact_priority,0.75,35.2907216769,0.984863443128,1,20,no_segment_at_lower_bound,False,0.0207914622933
+Combined stress,tv,0.75,cdf_upper,contact_priority,0.75,35.2907216769,0.987654320988,1,20,no_segment_at_lower_bound,False,0.0208460565693
+Combined stress,tv,1,cdf_lower,contact,1,27.0542955693,0.851851851852,0.95652173913,20,no_segment_at_lower_bound,False,0.0222182111193
+Combined stress,tv,1,interval_mle,contact,1,27.0542955693,0.984863443128,0.95652173913,20,no_segment_at_lower_bound,False,0.025687452408
+Combined stress,tv,1,cdf_upper,contact,1,27.0542955693,0.987654320988,0.95652173913,20,no_segment_at_lower_bound,False,0.025760244776
+Combined stress,tv,1,cdf_lower,recruitment,0,27.0542955693,0.851851851852,0.95652173913,20,no_segment_at_lower_bound,False,0.00583812273394
+Combined stress,tv,1,interval_mle,recruitment,0,27.0542955693,0.984863443128,0.95652173913,20,no_segment_at_lower_bound,False,0.00583812273394
+Combined stress,tv,1,cdf_upper,recruitment,0,27.0542955693,0.987654320988,0.95652173913,20,no_segment_at_lower_bound,False,0.00583812273394
+Combined stress,tv,1,cdf_lower,equal_priority,0.5,27.0542955693,0.851851851852,0.95652173913,20,no_segment_at_lower_bound,False,0.0140281669266
+Combined stress,tv,1,interval_mle,equal_priority,0.5,27.0542955693,0.984863443128,0.95652173913,20,no_segment_at_lower_bound,False,0.015762787571
+Combined stress,tv,1,cdf_upper,equal_priority,0.5,27.0542955693,0.987654320988,0.95652173913,20,no_segment_at_lower_bound,False,0.015799183755
+Combined stress,tv,1,cdf_lower,recruitment_priority,0.25,27.0542955693,0.851851851852,0.95652173913,20,no_segment_at_lower_bound,False,0.00993314483029
+Combined stress,tv,1,interval_mle,recruitment_priority,0.25,27.0542955693,0.984863443128,0.95652173913,20,no_segment_at_lower_bound,False,0.0108004551525
+Combined stress,tv,1,cdf_upper,recruitment_priority,0.25,27.0542955693,0.987654320988,0.95652173913,20,no_segment_at_lower_bound,False,0.0108186532445
+Combined stress,tv,1,cdf_lower,contact_priority,0.75,27.0542955693,0.851851851852,0.95652173913,20,no_segment_at_lower_bound,False,0.018123189023
+Combined stress,tv,1,interval_mle,contact_priority,0.75,27.0542955693,0.984863443128,0.95652173913,20,no_segment_at_lower_bound,False,0.0207251199895
+Combined stress,tv,1,cdf_upper,contact_priority,0.75,27.0542955693,0.987654320988,0.95652173913,20,no_segment_at_lower_bound,False,0.0207797142655

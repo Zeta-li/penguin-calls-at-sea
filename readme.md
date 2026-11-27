@@ -1,17 +1,20 @@
 # 非洲企鹅海上声学通信 · 2026 APMCM C
 
-`sixcheck` 收录第六版四问的代码、数据和实验结果。要复现实验，从[中文复现指南](v6/README.md)开始。运行环境准备好后，从仓库根目录执行以下两行即可重算四问、核对 43 张结果表。
+`sevencheck` 收录第七版中文版论文、四问的实验代码、逐条预测和结果图。完整复现使用本分支随附的海上录音测量、水库传播数据、海上回放记录及岸上船噪实验数据。[中文版 Word 论文](v7/论文/完整论文_中文版_第七版.docx) · [中文复现指南](v7/README.md)
+
+在 Python 3.13 环境中，从仓库根目录运行以下命令。
 
 ```bash
-python v6/第六版实验/reproduce.py
-python v6/verify_results.py
+python -m pip install -r v6/第四版实验/requirements.txt
+python v7/reproduce.py
+python v7/verify_results.py
 ```
 
-| 问题 | 验证或估计对象 | 查看结果 |
+| 问题 | 可以在结果中核对什么 | 结果入口 |
 | --- | --- | --- |
-| 一 · 三类叫声如何区分 | 六项共有测量的留日分类、跨年泛化和日期内分布差异 | [分类成绩](v6/第六版实验/results/q1v6_classification.csv) |
-| 二 · 声音能传播多远 | 三种表征在留出距离上的预测误差及达标距离 | [留距评分](v6/第六版实验/results/q2v6_scores.csv) · [传播端点](v6/第六版实验/results/q2v6_ranges.csv) |
-| 三 · 海上群体怎样响应 | 完整回放实验对留出后的行为强度和首发时间 | [强度误差](v6/第六版实验/results/q3v6_intensity_scores.csv) · [时延评分](v6/第六版实验/results/q3v6_timing_scores.csv) |
-| 四 · 联系和招募能维持多远 | 指定传播、行为与噪声情景下的功能半径及重抽样区间 | [主模型半径](v6/第六版实验/results/q4v6_primary_specifications.csv) · [端点区间](v6/第六版实验/results/q4v6_primary_paired_intervals.csv) |
+| 一 · 声型分类 | 固定树与判决规则后，谐波和谱形特征怎样改变留日、跨年分类表现 | [分类成绩](v7/results/q1v7_scores.csv) · [同日配对差值](v7/results/q1v7_contrasts.csv) |
+| 二 · 传播距离 | 整个距离留出时，独立曲线与跨声型共享曲线各有多准，哪些距离能夹住阈值交点 | [留距评分](v7/results/q2v7_scores.csv) · [达标距离](v7/results/q2v7_ranges.csv) |
+| 三 · 海上群体反应 | 由同一组发生概率预测首发时间和强度，检查净增鸣叫概率能否与任意鸣叫概率相容 | [留出评分](v7/results/q3_scores.csv) · [概率一致性](v7/results/q3_coherence.csv) |
+| 四 · 噪声与功能距离 | 岸上视频能否预测警戒时间，以及假定部分或全部效应迁移到海上时的联系和招募距离 | [岸上留一视频评分](v7/results/q4v7_shore_scores.csv) · [海上情景半径](v7/results/q4v7_radii.csv) |
 
-四问的方法改动、比较基准和证据限制见[第六版逐问评审回应](v6/第六版实验/评审回应与结果.md)。此前的设计和运行说明可查阅[四问研究方案](research_plan.md)、[第一问自评](review_q1.md)、[原研究入口及命令](https://github.com/Zeta-li/penguin-calls-at-sea/blob/main/readme.md)和[第五版独立分支](https://github.com/Zeta-li/penguin-calls-at-sea/tree/fivecheck)。
+第五版和第六版各有独立分支，可分别复核前期实验。[第五版 fivecheck](https://github.com/Zeta-li/penguin-calls-at-sea/tree/fivecheck) · [第六版 sixcheck](https://github.com/Zeta-li/penguin-calls-at-sea/tree/sixcheck)
